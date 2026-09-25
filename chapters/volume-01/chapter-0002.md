@@ -60,7 +60,7 @@ Abasi put her printout on the bench table and turned it round.
 
 It was a form. It was, as far as he could see, a completely reasonable form: name, business address, whether the officer assigned to the investigation resides at the premises, if so, in what capacity, and for how long.
 
-Elias read it twice. Then he picked up the pen and wrote, in the box marked *resides at premises*, *Yes — second floor, above own premises, shop and flat, eleven years (this site since nineteen)*, and in the box marked *nature of interest*, *None. Tenant at will. No financial interest in the room above.* And then, in the free line at the bottom, because it was true and because he had decided at four in the morning that he was not going to spend the rest of this case being the man who hid the thing that mattered, he wrote: *Assigned to this investigation by proximity, not by application. Discovered the report. I live in the building and I am the nearest Sequence Desk sergeant available at 01:52. Any party may treat this as a conflict and should.*
+Elias read it twice. Then he picked up the pen and wrote, in the box marked *resides at premises*, *Yes — second floor, above own premises, shop and flat, eleven years (on this site since I was twenty-five)*, and in the box marked *nature of interest*, *None. Tenant at will. No financial interest in the room above.* And then, in the free line at the bottom, because it was true and because he had decided at four in the morning that he was not going to spend the rest of this case being the man who hid the thing that mattered, he wrote: *Assigned to this investigation by proximity, not by application. Discovered the report. I live in the building and I am the nearest Sequence Desk sergeant available at 01:52. Any party may treat this as a conflict and should.*
 
 He signed it and pushed it back across the table.
 
@@ -71,6 +71,8 @@ Abasi read it twice, which told him she had expected something smaller.
 "That," said Nadia, "is the first accurate thing anyone has said this morning."
 
 What Abasi wanted next was the physical scene, and she was thorough about it, and Elias had the two officers walk her through it while he listened from the corridor because he had already decided he was not going into that room again.
+
+And it cost him the case, which he only understood later and which he wrote down in his own notebook that night in a single line he did not show anybody. He could have gone back in. The door was where it had been and the sill was exactly where Mara had lifted from it and the residue on it had not finished settling, and there is one thing in this city a man can do that no instrument can do, which is stand in an unstable room for nine seconds and be told the order of it. He thought about that for as long as it took Abasi to photograph the desk and the chair and the mug, and then he went and stood at the top of the stairs instead, because a second reading would have been worth nothing in a file and would have cost him the first one, and because a plate with a policeman's handprint in its history is a plate a competent defence takes out of the case in four months' time and never has to explain.
 
 The physical scene said one thing. The chair was over. The mug was out, and it was not broken, and it had gone a distance of about two metres, which a mug does when a table is struck rather than when a table is knocked. There was a handprint on the desk that was four fingers and no thumb, and it was pressed hard, and it had been dragged. The bed had not been sat on. The window was shut, and its own small latch, which nobody had ever once seen a tenant use, was on.
 
@@ -86,9 +88,9 @@ Mrs. Achterberg was certain she had heard a woman speaking on the top landing so
 
 The Orra depot put the last inbound of the night shift at ten past six, and the previous one at eleven minutes past midnight, and its horn is a two-tone that can be heard for four blocks.
 
-"A woman speaking on the landing at half eleven," said Abasi, writing, "and a horn at twenty past twelve. Those are two hours apart and they are both true and they do not go together."
+"A woman speaking on the landing at half eleven," said Abasi, writing, "and a horn at twenty past twelve. Those are fifty minutes apart and they are both true and they do not go together."
 
-"They don't have to go together," Elias said. "But they do have to both be residue-compatible, and half past eleven is three quarters of an hour after she left for work. Somebody was on that landing at half past eleven, and she was not."
+"They don't have to go together," Elias said. "But they do have to both be residue-compatible, and half past eleven is the better part of an hour after she left for work. Somebody was on that landing at half past eleven, and she was not."
 
 He had the feeling of a hand on a door and no way to open it. He wanted very badly, the way he wanted it on nights when the old file was open on the table in his own apartment, to say the next sentence out loud, because the next sentence was in the file and the file had been the only true thing in his life for twelve years.
 
@@ -140,6 +142,8 @@ It took nine minutes. Mara worked with a small vacuum hood and a glass rod and a
 
 "You may hold the sleeve."
 
+Abasi signed it, and dated it, and did not ask to see the plate.
+
 He looked at the plate. He looked at the plate the way he looked at a car that had been in an accident and had been put back on the road, which was the most dangerous way available to him to look at anything.
 
 He did not reach for it. He put his hands in his pockets instead, which was the first genuinely difficult thing he had done all day, and the difficulty was visible, and Mara saw it and said nothing about it, which was the second genuinely difficult thing she had ever done for him.
@@ -158,7 +162,7 @@ Then, on the third step down from the room, Mara stopped and turned back and loo
 
 "Say what again?"
 
-"You said her working stopped at the threshold. You said it four times this morning, to three different people." She was not looking at Elias. She was looking at the door. "Her working stopped at the threshold. There is something on this side of the threshold."
+"You said her working stopped at the threshold. You have said it four times today and each time you stopped dead, which is what people do when they are about to say the next part." She was not looking at Elias. She was looking at the door. "Her working stopped at the threshold. There is something on this side of the threshold."
 
 Elias felt the old cold in the back of his neck that he had got used to expecting and never got used to.
 

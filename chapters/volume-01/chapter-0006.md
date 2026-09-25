@@ -4,11 +4,11 @@ The residue laboratory at Saint Orra Reach was two rooms behind the hospital's l
 
 She had the plate from the threshold standing in a rack in the middle of the bench under a paper sleeve, and beside it a second rack that was empty, and beside that her own written sheet, which was four lines of figures in pencil because pencil could be corrected and ink could not be argued with later.
 
-"Sit down," she said. "Not on the stool. On the chair by the wall, and put your feet up on the frame, because in about ten minutes you are going to be a man who cannot hold a cup."
+"Sit down," she said. "Not on the stool. On the chair by the wall, and put your feet up on the frame, because in a little over an hour you are going to be a man who cannot hold a cup."
 
 "That bad?"
 
-"That bad." She was already logging. "This is a comparison, not a reading, and I want the distinction in your head before we start, because in about forty minutes you are going to find out what you are when you are not being reasonable."
+"That bad." She was already logging. "This is a comparison, not a reading, and I want the distinction in your head before we start, because in a little over an hour you are going to find out what you are when you are not being reasonable, and I have arranged my evening around that rather than the other way round."
 
 She had the brass clamp on a cloth in the middle of the bench, and it was uglier than it had sounded in a witness's mouth: about the length of a hand, dull from use, a screw at one end and a jaw at the other with a channel cut into the jaw that ran the length of it like a groove in a table.
 
@@ -20,7 +20,7 @@ She had the brass clamp on a cloth in the middle of the bench, and it was uglier
 
 Elias read it.
 
-The transfer form carried Nadia's notes: a bench-book entry copied verbatim, the terms of the loan as Jules had himself written them on the seventeenth, and beneath it a clause in typed form that somebody at the tool registry had attached to the stamp record and that Jules had never bothered to open, because the tool had been in his hand for four years and a person does not read the fine print on his own work.
+The transfer form carried Nadia's notes: a bench-book entry copied verbatim, the terms of the loan as Jules had himself written them on the seventeenth of September, and beneath it a clause in typed form that somebody at the tool registry had attached to the stamp record and that Jules had never bothered to open, because the tool had been in his hand for four years and a person does not read the fine print on his own work.
 
 What brought that clause down onto all three of them was a line near the top of the same page, which re-issued the tool against rehabilitation account 44-9 for the working day it was moved on. All three of them had signed it without reading, because a signature is a thing you give a man who is in a hurry at four in the morning.
 
@@ -52,7 +52,7 @@ The room was very quiet, and the hood made its noise, and Elias understood with 
 
 "Say the rest of it."
 
-"All right. I am the thing the clause is written about. If I am the officer of record, then every number you write this evening is a number with my handprint in it, and every error in it is mine, and no matter how carefully you do this the sample will have a civilian's touch in its history. And the Registry will use that. Not next month. At the hearing. And the thing the Registry has in its hand is a tool with a suspicious six-month history in a district with a dead woman in it, and a custody line with a civilian in it, and that is enough to get every reading you take tonight thrown out and to get this room's standing questioned."
+"All right. I am the thing the clause is written about. If I am the officer of record, then every number you write this evening is a number with my handprint in it, and every error in it is mine, and no matter how carefully you do this the sample will have a civilian's touch in its history. And the Registry will use that. Not next month. At the hearing. And the thing the Registry has in its hand is a tool with a loan history it cannot account for in a district with a dead woman in it, and a custody line with a civilian in it, and that is enough to get every reading you take tonight thrown out and to get this room's standing questioned."
 
 Mara looked at him for a moment and then put her chin in her hand and something in her face changed very slightly, which from Mara was a standing ovation.
 
@@ -66,7 +66,7 @@ Mara looked at him for a moment and then put her chin in her hand and something 
 
 It was the order, not a schedule, and it was a document of the kind that gets written in a great hurry by a person who wants to be fair and does not want to be blamed.
 
-*In the matter of a working at 14 Kettle Rows, top floor: the Sequencing Desk records that residue, a working frame, and an object associated with the account named in the maintenance ticket are likely to be located at a dispensary and treatment premises in the Kettle Rows district. The Registry directs that such stock be treated as ordinary maintenance stock in the event that premises inspection is not completed before the following morning, and instructs that no item be removed from such premises pending inspection.*
+*In the matter of a working at 14 Kettle Rows, top floor: the Sequencing Desk records that residue, a working frame, and an object associated with the rehabilitation account named in this request are likely to be located at a dispensary and treatment premises in the Kettle Rows district. The Registry directs that such stock be treated as ordinary maintenance stock in the event that premises inspection is not completed before the following morning, and instructs that no item be removed from such premises pending inspection.*
 
 "They are giving me permission to look after they have taken the paperwork," Elias said.
 
@@ -80,7 +80,7 @@ He read it twice. It was not a threat. It was worse than a threat; it was a sche
 
 "And nobody can do anything about it, because it is a lawful instruction."
 
-"Underneath the law, no. Above it, quite a lot." Mara did not look up. "Your clinic is not a Concord facility and Concord inspectors do not have that authority over it, and if a Kettle Rows tenant or a patient stood on the steps and said *no*, there is not a warrant in this city that would make them stand aside by Friday. But nobody will stand there, because a clinic on a Wednesday evening has ninety people in it, and every one of them is here because a certificate has already failed them once, and none of them is going to trade a prescription for a fight with the Proof Registry."
+"Underneath the law, no. Above it, quite a lot." Mara did not look up. "That clinic is not a Concord facility and Concord inspectors do not have that authority over it, and if a Kettle Rows tenant or a patient stood on the steps and said *no*, there is not a warrant in this city that would make them stand aside by Friday. But nobody will stand there, because a clinic on a Wednesday evening has ninety people in it, and every one of them is here because a certificate has already failed them once, and none of them is going to trade a prescription for a fight with the Proof Registry."
 
 Elias set the clipboard down.
 
@@ -106,9 +106,9 @@ He read that last sentence twice and it stayed true, and he got up and went and 
 
 ---
 
-Inside, Mara had laid the threshold plate and run the first comparison, and the comparison was good, and the clamp was on the cloth, and the room was ready, and Nadia was not there.
+Through the open door he could see her lay the threshold plate under the hood and run a pass along the length of it, and then come and stand over the clamp on the cloth with the second rack still empty beside it, and he could hear her say one number out loud, and then say the same number again a few minutes later in exactly the same tone, which is what Mara Quill did when a figure had survived the second time. He had been outside the room for the better part of an hour. The room had been ready for most of it.
 
-At 8:52 Mara called him in.
+At ten to nine Mara called him in.
 
 "Gloves on," she said. "Left hand. No, the other glove, the thinner one, and no, you may touch the screw and you may not touch the channel. Say it back."
 
@@ -150,9 +150,9 @@ Then the tile, and a cold hand on his collar, and Mara's voice arriving from a v
 
 His hand was not on the clamp.
 
-His hand was on the clamp, flat, over the channel, with the glove on it, and the glove was not on the clamp any more; the glove was on the bench and the clamp was on the bench and the glove was two inches to the left, and the place where the glove had been on the clamp had gone warm, and warm in a laboratory bench, at eight fifty-three in the evening, meant something had been laid down in a place that had measured as empty ninety seconds before.
+His hand was on the clamp, flat, over the channel, with the glove on it, and the glove was not on the clamp any more; the glove was on the bench and the clamp was on the bench and the glove was two inches to the left, and the place where the glove had been on the clamp had gone warm, and warm in a laboratory bench, at eight minutes to nine in the evening, meant something had been laid down in a place that had measured as empty two minutes earlier.
 
-"You put your hand on it," Mara said. She was not shouting. She was doing something with a cloth and a pen. "Elias. Look at me. You put your hand on the channel of a sample in a working laboratory, unlogged, eleven minutes after I asked you to stand in a corridor, and you did it while my plate was running, and you did it in the four seconds when the plate was over the stamped face and not over the channel."
+"You put your hand on it," Mara said. She was not shouting. She was doing something with a cloth and a pen. "Elias. Look at me. You put your hand on the channel of a sample in a working laboratory, unlogged, an hour after I told you to go and stand in the corridor and keep your hands in your pockets, and you did it two minutes after I dated a note saying that channel was empty, and you did it while my plate was running, and you did it in the four seconds when the plate was over the stamped face and not over the channel."
 
 "It came—"
 
@@ -162,11 +162,15 @@ Elias got himself onto the stool.
 
 The room was very bright and very far away and there was a taste in his mouth like a coin.
 
-"Two hours," Mara said. "You are going to shake for two hours and you are not going to be able to keep anything down, and I am not going to pretend that is the worst of it, because the worst of it is at midnight and it is a courier with a van." She put the cloth over the clamp and left her hand flat on top of it. "You do not touch that again. Not tonight, not this week, and not while I am standing here. It is mine and it is the case's, and you are a man who is permitted to stand in the room."
+"Two hours," Mara said. "You are going to shake for two hours and you are not going to be able to keep anything down, and I am not going to pretend that is the worst of it, because the worst of it is at half past eleven and it is a courier with a van." She put the cloth over the clamp and left her hand flat on top of it. "You do not touch that again. Not tonight, not this week, and not while I am standing here. It is mine and it is the case's, and you are a man who is permitted to stand in the room."
 
-After that, in the small hours, he lost the ability to keep his hands to himself and the ability to keep water down, and his whole body did a thing it would not stop doing, and the thing it kept doing was remembering an order in brass that had a living person's name in it.
+After that he sat on the step outside the linen office with his back against the wall and his hands between his knees for the better part of two hours, because the two hours were the part he had to pay and there was nothing in them to do.
 
-He said it to Mara once, in the corridor, at midnight, with the courier waiting downstairs:
+Twice in that time he got up to go and look at the clamp through the glass, and both times he stopped with his hand on the door frame, and neither time it was a decision. It was the four seconds of the afternoon he could not account for on Monday, and the plain fact that they had come out of his hands. The third time he did not get up at all, because by then he had understood that the part of him that wanted to look was the part that had done it, and that the only way to keep the hands where Mara had put them was to be a person who did not go and look.
+
+He was sick twice into the bin by the fire door and cleaned it with a paper towel out of his own pocket, because there is a small number of paper towels in this world that have been used for something that was not his job.
+
+He said it to Mara once, in the corridor, at half past eleven at night, with a courier waiting downstairs and drinking tea out of a paper cup:
 
 "It didn't finish. It got to the release and the release did not come, and it broke at the same joint it broke at in her room, and that is not a coincidence, that is a *specification*. Whoever cut that channel is cutting to a pattern and the pattern fails at the same place, and the failing is in the pattern and not in her. Which means whoever did this did it wrong, and did it wrong the same way, twice, and I am the only man in this city who knows the shape of the wrong, and I cannot prove one word of it, and it is going to stay that way for a very long time."
 
@@ -174,14 +178,16 @@ He said it to Mara once, in the corridor, at midnight, with the courier waiting 
 
 "Nadia is still upstairs?"
 
-"Since five. She has sent down twice. Both times for a chit, not for a decision." Mara picked up the bag. "Go home. Do not touch the plate either. Do not touch the door of your own building. Sit somewhere with no doors in it and be sick in private, and tomorrow, when somebody asks you what the channel read, you will say that it was too fresh to compare and that I said so. And I will have said so, in writing, at eight fifty-two this evening, before your hand was anywhere near it."
+"Since five. She has sent down twice. Both times for a chit, not for a decision." Mara picked up the bag. "Go home. Do not touch the plate either. Do not touch the door of your own building. Sit somewhere with no doors in it and be sick in private, and tomorrow, when somebody asks you what the channel read, you will say that it was too fresh to compare and that I said so. And I will have said so, in writing, in a note I dated at ten to nine this evening, recording the channel as measuring empty at that hour, two minutes before your hand was anywhere near it, and as unmeasurable from that hour forward."
 
-At the foot of the stairs, in the cold, with a courier drinking tea out of a paper cup and a sealed bag of brass in a box going out to a post code in the outer wards, Elias understood two things.
+The courier came up the stairs at half past eleven with a hand-lettered label on the box, and Jules Ardent came up behind him with a torch, and neither of those two men was anywhere in this building's custody log, and both of them signed the manifest, and Jules Ardent read the clause on it twice on the landing and then signed it anyway and said, out loud, to nobody, "It's a loan. It's a loan, it comes back," in a voice that a tired man uses when he is trying to hold a shape together with his voice.
 
-The first was that Jules Ardent was going to drive that box himself, because he had written a promise in a bench book and he was going to keep it, and that a good man keeping a promise was the most dangerous thing in this case.
+At the foot of the stairs, in the cold, with the courier drinking tea out of a paper cup and a sealed bag of brass in a box going out to a post code in the outer wards, Elias understood two things.
 
-The second was that the printed file on Mara's desk, which he had not been near, which he was not permitted to be near, and which he had photographed from a chair in a corridor like a man in a story about a man like him, had a name in it. Niko Senn had been booked into a rehabilitation clinic on Verge Row through an account that had no patient in it, on a date he was certain he had never attended, for a treatment he did not remember, and a transfer notice on that booking had come out of the printer in that building at six o'clock that evening, initialled at the counter and waiting for a signature that nobody had yet been in a position to refuse.
+The first was that a good man keeping a promise was the most dangerous thing in this case, and that Jules Ardent was going to keep this one whatever it cost him.
 
-Elias stood on the steps of Saint Orra Reach and did not go home, because there was one person awake at eleven forty-five at night in the whole of the Kettle Rows district who was a doctor and not a criminal, and she had ninety people in her building and a four-page instruction in her hands, and it was not going to be her night to hold the stair.
+The second was that the printed file on Mara's desk, which he had not been near, which he was not permitted to be near, and which he had photographed from a chair in a corridor like a man in a story about a man like him, had a name in it. Niko Senn had been booked into a rehabilitation clinic on Verge Row through an account that had no patient in it, for a date that does not appear anywhere in the young man's own account, and a treatment he did not remember, and a transfer notice on that booking had come out of the printer in that building at six o'clock that evening, initialled at the counter and waiting for a signature that nobody had yet been in a position to refuse.
 
-He got in a taxi and paid the driver to take him the long way, so that it was nearly midnight when he arrived, and by then the courier's van with a box of brass in it was out on Marshall Road, turning off towards the ring road and the outer wards, with a heat-sensitive label on the side and a signature on the manifest belonging to a man whose name was not Jules Ardent's.
+Elias stood on the steps of Saint Orra Reach and did not go home, because there was one person awake at twenty to midnight in the whole of the Kettle Rows district who was a doctor and not a criminal, and she had ninety people in her building and a four-page instruction in her hands, and it was not going to be her night to hold the stair.
+
+He got in a taxi and paid the driver to take him the long way, so that it was half past midnight when he arrived, and by then the courier's van with a box of brass in it was out on Marshall Street, turning off towards the ring road and the outer wards, with a heat-sensitive label on the side and a signature on the manifest belonging to a man whose name was not Jules Ardent's.

@@ -1,6 +1,6 @@
 # Chapter 0007 — The Mechanic's Hands
 
-Rafi Ilori had been on the second floor of Saint Orra Reach since Tuesday night, in a family-observation room, being extremely patient with, and he had run out of being helpful about nine hours before he ran out of talking.
+Rafi Ilori had been on the second floor of Saint Orra Reach since Tuesday night, in a family-observation room, being extremely patient with nobody in particular, and he had run out of being helpful about nine hours before he ran out of talking.
 
 By ten to six on Thursday morning he had given Nadia Kest his route, which was the two hundred metres between the fish end and the bread end of the Kettle Rows night market, walked about ninety times between ten at night and four in the morning, nine years of it; and the man on the top-floor landing of 14 Kettle Rows at about ten past twelve, going up, carrying a canvas roll, whistling.
 
@@ -10,7 +10,7 @@ And then, at ten to six, with his hands around a cup of tea he had not asked for
 
 "Description."
 
-"Tall-ish. Not tall. Very neat. The smock is the sort of thing a man wears to a job he has not got." Rafi turned the cup round. "And here's the part I couldn't get out from under all night. He asked me if the twelve o'clock went up Tanager Street or down. And I said down, because the twelve goes down. And he said *right*, and he went up Tanager Street."
+"Tall-ish. Not tall. Very neat. And the shoes were wrong. Clean soles, wrong shoes, the kind a man puts on to be let through a door that would otherwise be shut on him." Rafi turned the cup round. "And here's the part I couldn't get out from under all night. He asked me if the twelve o'clock went up Tanager Street or down. And I said down, because the twelve goes down. And he said *right*, and he went up Tanager Street."
 
 Nadia took it down, and then added in the margin: *witness correcting own earlier account after sleep — treat as two accounts, one corroborated.*
 
@@ -18,13 +18,13 @@ Nadia took it down, and then added in the margin: *witness correcting own earlie
 
 "Because it means he was checking." Rafi looked up. "The bus is the only thing in that building runs on a schedule everybody knows. He wasn't lost, Inspector. He was counting."
 
-Down the corridor a door opened and closed, and in a laboratory four doors away a man was lying face down on a table with a plate in his hands, and Nadia thought about the twelve o'clock going down, and about a man going up.
+Down the corridor a door opened and closed, and four doors away a man who had not slept was being told in a laboratory that he was not to touch anything, and Nadia thought about the twelve o'clock going down, and about a man going up.
 
 ---
 
 Thursday was the day nothing happened, and Nadia had a rule about days like that, which was that they were not really days like that, they were days on which something was being assembled somewhere out of sight of everybody in the building.
 
-She spent it on paper. She read the whole of Elias's file from the top, including the four days of it that were written in a hand that got worse toward the end of the afternoon and included three different accounts of the same four minutes. She read Mara Quill's numbers, which had come in from Saint Orra at nine-fifteen on Wednesday night under a cover note that said, in full, *First comparison, plate versus swab 14, order consistent, direction consistent, and I will not say more in writing than I can defend under cross-examination. M.Q.*
+She spent the middle of it on paper. She read the whole of Elias's file from the top, including the four days of it that were written in a hand that got worse toward the end of the afternoon and included three different accounts of the same four minutes, and the only thing in the whole of it that made her put her pen down was the cover note that had come in from Saint Orra at nine-fifteen the previous night, unsigned except for an initial, which said, in full: *First comparison, plate versus swab 14, run at twenty-six minutes to nine on Wednesday evening, order consistent, direction consistent, and I will not say more in writing than I can defend under cross-examination. M.Q.*
 
 She read the Registry's draft certificate, which she now had in print, because a draft certificate is a public document the moment it exists, and she read it twice and then a third time with a pen.
 
@@ -62,7 +62,7 @@ He picked up the spirit level.
 
 "I don't know a Niko Senn."
 
-"You lent a man a brass clamp on the seventeenth, and a night-bus porter saw somebody go up Tanager Street at ten past twelve on the Monday with a canvas roll, and a witness in a hospital this morning has given me a name and a description, and I have got a detective sergeant who can see the order of a working and who has put his hand on this case, and I am going to have to put him off it. Do you know how that works?"
+"You lent a man a brass clamp on the seventeenth of September, and a night-bus porter saw somebody go up Tanager Street at ten past twelve on the Monday with a canvas roll, and a witness in a hospital this morning has given me a name and a description, and I have got a detective sergeant who can see the order of a working and who has put his hand on this case, and I am going to have to put him off it. Do you know how that works?"
 
 "No."
 
@@ -202,7 +202,7 @@ Elias and Nadia looked at each other across a bench with a dead bus light on it.
 
 "Yes, Inspector."
 
-"Then go home." She held the door for him, and at the last second she said, "Mr Ardent. The repairs. The ones on the ninth, the eleventh, and the twenty-fourth. Were any of them for a frame?"
+"Then go home." She held the door for him, and at the last second she said, "Mr Ardent. The repairs. The ones on the ninth, the eleventh, and the fifteenth. Were any of them for a frame?"
 
 Jules Ardent stopped in the doorway with his hand on the frame.
 
@@ -210,7 +210,7 @@ Jules Ardent stopped in the doorway with his hand on the frame.
 
 "Then who did the second set?"
 
-"I don't know." He said it flatly. "It was going to be collected. It was never collected. It has been sitting in my bench room since the seventeenth, which is why I know it is not the second one in the street."
+"I don't know." He said it flatly. "It was going to be collected. It was never collected. It has been sitting in my bench room since the seventeenth of September, which is why I know it is not the second one in the street."
 
 Elias Venn stood in his own shop and understood that the piece of evidence that had just left his hands in a courier's van on Wednesday night had not gone to a hiding place.
 

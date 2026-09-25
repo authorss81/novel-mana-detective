@@ -12,7 +12,7 @@ The board was titled, in Mara's flat capitals: **NO CONTACT — FIGURES ONLY.**
 
 ---
 
-"Sheet one. My first comparison, Wednesday evening, after nine. Plate against swab fourteen from the left edge of the desk. I wrote these numbers before your hand went anywhere and I have not changed them since, and if anybody asks me to change them I will produce the instrument's own log, which is kept in a different building and which I do not have the key to."
+"Sheet one. My first comparison, Wednesday evening, at twenty-six minutes to nine. Your hand went to my bench at eight minutes to nine. Plate against swab fourteen from the left edge of the desk. I wrote these numbers before you touched anything and I have not changed them since, and if anybody asks me to change them I will produce the instrument's own log, which is kept in a different building and which I do not have the key to."
 
 She turned the sheet so he could read it.
 
@@ -54,7 +54,7 @@ Elias's hands had gone flat on his own knees.
 
 "And the clamp," he said.
 
-"And the clamp," said Mara. "Which is at an address in the outer wards, in a bench room, in a bench I have never seen, being held by a man who drove it there at half eleven on Wednesday night, and of which I have exactly eleven numbers and a note that says the channel measured empty at eight fifty-two on Wednesday evening. Eleven numbers and a note. That is all I have of it. That is all anybody in this city will ever have of it, because I put a hand in it and there is no instrument in the world that can take a hand out."
+"And the clamp," said Mara. "Which is at an address in the outer wards, on a bench, in a bench room I have never seen, where a man drove it at half eleven on Wednesday night and left it there because he had written a promise in a bench book and a promise in a bench book is the only thing about Jules Ardent that anybody can rely on, and of which I have exactly eleven numbers and a note I dated at ten to nine on Wednesday evening, two minutes before your hand was anywhere near it, recording the channel as measuring empty at that hour and as unmeasurable from that hour forward. Eleven numbers and a note. That is all I have of it. That is all anybody in this city will ever have of it, because somebody put a hand in it and there is no instrument in the world that can take a hand out."
 
 "You put a hand in it," Elias said.
 
@@ -64,7 +64,7 @@ She let it sit, and then she went on, and she did not soften anything else eithe
 
 ---
 
-"The numbers disagree with you," she said, "and you are going to have to decide what to do about it, so I am going to give you the disagreement in the order in which it will be asked about at a hearing, which is the order that will do the most damage."
+"I have already given you the one place where my numbers and your account come apart differently, and I want you to notice that it is the only place. What follows is not disagreement. What follows is the list of the four things that will be said about us at a hearing, in the order in which they will be said, which is the order that will do the most damage. I would rather you had it in advance from a woman who likes you than in front of a man who does not."
 
 She put four sheets side by side.
 
@@ -94,7 +94,7 @@ He put his hand flat on the board, on the paper, on the edge of the sheet, and M
 
 He took his hand off the board as though the table had bitten him.
 
-"You gave me that rule yourself, four minutes ago, and you gave it to me." She had not moved from the chair. "There are four sheets on that board and a plate in a locked case in another building, and you have now touched one of the four with a hand that is not a glove, three days after a hand of yours went into a channel I had measured as empty, and I am going to have to write down both of those, because I am the one who will be standing in front of a man who is paid to be unkind about exactly this. Do you understand that this is a document now, and not a mood?"
+"You gave me that rule yourself, four minutes ago, and you gave it to me." She had not moved from the chair. "There are four sheets on that board and a plate in a locked case four feet behind you, and you have now touched one of the four with a hand that is not a glove, three days after a hand of yours went into a channel I had measured as empty, and I am going to have to write down both of those, because I am the one who will be standing in front of a man who is paid to be unkind about exactly this. Do you understand that this is a document now, and not a mood?"
 
 "I understand."
 
@@ -129,7 +129,7 @@ What they produced, in the end, was a document with a title and a number and fou
 **DISAGREEMENT OF THE ASSIGNED DETECTIVE — RECORDED.**
 *Sequence Desk file 441-KR. Kettle Rows matter, 14 Kettle Rows, deceased R.*
 
-*1. The assigned detective has, on three occasions between the 18th and the 19th, perceived an order of working in material residue. This perception is not evidence, is not a certified sequence, and identifies no person, no motive, and no intent. It is set down here so that the file contains it, with its limits attached, instead of in a notebook in a flat in Kettle Rows.*
+*1. The assigned detective has, on three occasions since Monday the seventeenth, perceived an order of working in material residue — twice on the seventeenth, at ten to two in the morning and at about twenty to one in the afternoon, and once on Wednesday the nineteenth at eight minutes to nine in the evening. This perception is not evidence, is not a certified sequence, and identifies no person, no motive, and no intent. It is set down here so that the file contains it, with its limits attached, instead of in a notebook in a flat in Kettle Rows.*
 
 *2. The assigned detective does not accept the classification in the draft certificate at item 3, on the ground that it records a self-directed working with no third-party address, on the ground that the residue measured in this matter contains an act which is not attributable to the deceased and is not attributable to the door, and which the material does not attribute to any person.*
 
@@ -155,7 +155,7 @@ He read it twice. Then he read paragraph four again and did not take it out, bec
 
 "What did you ask for, though."
 
-"I asked you to let me put my four figures off the threshold plate into the file under my own name and without yours. Not the clamp, which is gone and which you destroyed, and not your perception, which is not evidence. Four figures, on my plate, on a Wednesday evening, with my instrument's log in a building I cannot get into." She was gripping the edge of the board. "Elias, that plate is the only thing in this city that says a release-shaped act arrived in a room. If it is never in a file, then in a year a Registry officer will stand up and say that no instrument in Veyra found anything unusual in the room over Tamsin Ro, and he will be able to say it, because it will be true that nobody in an office has written it down."
+"I asked you to let me put my four figures off the threshold plate into the file under my own name and without yours. Not the clamp, which is gone from this room and which you destroyed as evidence in about four seconds, and not your perception, which is not evidence. Four figures, on my plate, on a Wednesday evening, with my instrument's log in a building I cannot get into." She was gripping the edge of the board. "Elias, that plate is the only thing in this city that says a release-shaped act arrived in a room. If it is never in a file, then in a year a Registry officer will stand up and say that no instrument in Veyra found anything unusual in the room over Tamsin Ro, and he will be able to say it, because it will be true that nobody in an office has written it down."
 
 "Then write it down."
 
@@ -241,13 +241,13 @@ Elias was already standing.
 
 There was a pause on the line that Nadia Kest almost never allowed herself.
 
-"I am going to say the next part once," she said. "You are not going into that building on your own. That is not a lecture and it is not a condition, it is a fact about what I have got. I have two officers, a transit liaison, and a Witness, Operations registrar who is going to be extremely unpleasant to me for the rest of the year. Jules Ardent is at Saint Orra with a solicitor until nine and then he is, by his own written undertaking, in his shop with his door open until seven in the morning. I will be at the east service door from nine. You will be at the north corridor with me in a car, and you will get out when I say you get out, and if you touch anything in that building I will put you in the van myself and you can complain to the Chief about it on Monday."
+"I am going to say the next part once," she said. "You are not going into that building on your own. That is not a lecture and it is not a condition, it is a fact about what I have got. I have two officers, a transit liaison, and a Witness, Operations registrar who is going to be extremely unpleasant to me for the rest of the year. And I have done one thing this evening before I telephoned you rather than after, because if you found out on Monday it would be in a room with a magistrate in it and you would not have had the evening to be angry about it. I have varied Mr Ardent's condition. He can come to Kettle Rows, tonight, with me, and he goes nowhere alone and he touches nothing. It is written down. It is in my file, and the reason it is in my file is my name at the bottom of it, and if this goes wrong in that stockroom the sentence a Crown prosecutor reads out is mine and not his." A pause. "He is at Saint Orra now with a solicitor. He came to me at seven and asked whether he could be useful, and I said no, and then I sat in the car for ten minutes and said yes, and he has not asked me why, which I am obliged to notice."
 
 "That is the agreement."
 
 "That is the agreement you agreed to on Thursday afternoon in front of a mechanic," said Nadia. "Do not make me say it again, and do not make me enjoy saying it a second time."
 
-Elias Venn hung up, and put his hand flat on the window ledge for a moment, and looked at the laboratory window, at the river, at the dark coming in over Saint Orra Reach where the last run of the night was coming in over the viaduct and changing pitch, and thought about a stockroom eleven minutes' walk from his own front door, full of glass, with a ward line above the counter and a piece of brass in it that somebody had built to be used and was going to be taken back out before the records were copied.
+Elias Venn hung up, and put his hand flat on the window ledge for a moment, and looked at the laboratory window, at the river, at the dark coming in over Saint Orra Reach where the first of the evening services was coming in over the viaduct and changing pitch, and thought about a stockroom eleven minutes' walk from his own front door, full of glass, with a ward line above the counter and a piece of brass in it that somebody had built to be used and was going to be taken back out before the records were copied.
 
 He had a brass clamp at an address in the outer wards that he would never touch again, and a plate with his name on the sleeve of it, and a reading he could not use, and a hearing on Monday, and a file that said he lived at the scene.
 

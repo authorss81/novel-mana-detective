@@ -54,7 +54,7 @@ Sana Okafor stopped walking.
 
 "Tall-ish. Not tall." She said it without any drama at all, and Elias felt something drop in him like a floor giving. "Very neat."
 
-"Mrs Okafor—"
+"—Doctor—" Elias started.
 
 "I know," she said. "Yes. That is why I have been awake since five and why I have not called you and why I am telling you in a corridor and not on a telephone. Because if I had telephoned you at six this morning you would have come here with four officers and a form, and at ten past seven this morning there are nine people in my waiting room and every one of them is here because some other institution has already decided once today that it knows better than they do about their own bodies." She put her hand flat on the corridor wall. "Choose. And I want to hear you say it, because I have been choosing all night and I would like to know what I have chosen against."
 
@@ -86,7 +86,7 @@ Niko almost laughed. It was a bad laugh. "Is that true? Is there somebody?"
 
 He had not expected to be able to say that and he found that he could, which was new.
 
-"I've got to tell you something," he said. "About what this is costing. On Monday there was a woman from the Concord who wrote down that I live in the building where the woman died, and that is now in the case file, and I heard about it off you and not off her, and it means that when this goes to a hearing, the first thing anybody will say is that the detective could not be trusted because he lived upstairs. And I have not got an answer for that. I have got a piece of paper in which I got there first, which is a smaller thing, and it is the only thing I have got."
+"I've got to tell you something," he said. "About what this is costing. On Monday there was a woman from the Concord who asked me, on a form, in writing, whether I live in the building where the woman died, and I wrote the answer in my own hand and signed it, and that is now in the case file, and I heard about it off you and not off her, and it means that when this goes to a hearing, the first thing anybody will say is that the detective could not be trusted because he lived upstairs. And I have not got an answer for that. I have got a piece of paper in which I got there first, which is a smaller thing, and it is the only thing I have got."
 
 Niko Senn looked at him.
 
@@ -118,7 +118,7 @@ She was not Concord. That was the first thing Elias noticed. She was thirty, she
 
 She did not understand.
 
-"Registry nineteen sixty-five. It's a Witness, Operations Office, Morrow Hill, outbox, four fifty-one on Wednesday." Elias said it before he had decided to say it. "That is the number on the sheet she is going to hand you, and it is the second one on the sheet, and the first one is a certificate number, and the certificate was issued at ten past four on Wednesday afternoon, and the file it was issued from was opened at four forty-nine."
+"Registry nineteen sixty-five. It's a Witness, Operations Office, Morrow Hill, outbox, sixteen fifty-one on Wednesday." Elias said it before he had decided to say it. "That is the number on the sheet she is going to hand you, and it is the second one on the sheet, and the first one is a certificate number, and the certificate was issued at ten past four on Wednesday afternoon out of a file that was opened at twenty past nine on Tuesday morning, which means that file was opened on Tuesday, the working it concerns was thirty-three hours old, and the sequence was stamped onto it on Wednesday afternoon, forty-one minutes before the outbox produced the order it certifies."
 
 He should not have known that. He knew it because Nadia had put a routing list on his desk at seven in the morning with three Registry timestamps on it, and he had read it in the taxi, and the taxi had been slow.
 
@@ -136,7 +136,9 @@ Four acts.
 
 Elias read the box. It took him twice, because the first time he miscounted and had to go back to the top of the form and start again at the printed instruction. A transfer of residence is not a working; it is a piece of paper moving a person's address. And yet the box was there, and it was filled in, and it had four acts where the printed instruction above it described a three-act standard transfer, and the fourth one was the shape of a release.
 
-He did not touch it. He did not lean over it. He stood back and looked at four printed lines on a sheet of paper, on a counter, in a room with nine people in it, and he understood that he was one sentence away from saying the thing that had been sitting behind his teeth since the stairwell on Monday morning, and that if he said it here, in front of a registrar and a doctor and a patient and a waiting room, then he would have said it first, and he would have said it without a measurement, and no tribunal in the world would ever be able to use it.
+He did not touch it. He did not lean over it. He stood back and looked at four printed lines on a sheet of paper, on a counter, in a room with nine people in it, and understood that he was one sentence away from saying the thing that had been sitting behind his teeth since the stairwell on Monday morning, and that if he said it here, in front of a registrar and a doctor and a patient and a waiting room, then he would have said it first, and he would have said it without a measurement, and no tribunal in the world would ever be able to use it.
+
+He made himself stand there a moment longer and notice that this was not Monday. Monday had been the palm of a hand on a frame. This was a printed box on a form, read at arm's length, under a light, with nine people in the room, and the only thing he had brought to it was the ability to count four. If he let the two of those run together inside his own head, in a clinic waiting room at ten in the morning, he would be doing in front of a registrar the exact thing he had spent four years refusing to do, and he would be doing it to a man with a fever of thirty-seven eight.
 
 "Thank you," he said. "I am going to have to ask you to wait."
 
@@ -180,7 +182,7 @@ Elias did not say anything, because there was nothing that would not have been a
 
 "That is nearly right." She looked at the sheet on the counter. "The other half is that I have been the person who was careful, for a very long time, with very little, and I would like somebody to hand me a reason. So: what happens on Thursday?"
 
-"Elias's answer is that Nadia Kest can hold the transfer for seventy-two hours, that a clinical hold holds it until the board, that you can give evidence about the merged record, and that I can put the Registry's own timestamps in front of a tribunal and show that a sequence certificate was issued four hours before the order that carries it."
+"My answer is that Nadia Kest can hold the transfer for seventy-two hours, that a clinical hold holds it until the board, that you can give evidence about the merged record, and that I can put the Registry's own two timestamps in front of a tribunal and show that a sequence was certified on Wednesday afternoon, out of a file opened on Tuesday, for an order that did not come out of their outbox until forty-one minutes later."
 
 "And?"
 

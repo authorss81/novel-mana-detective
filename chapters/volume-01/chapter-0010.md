@@ -1,18 +1,26 @@
 # Chapter 0010 — The Room Behind the Dispensary
 
-They had been in the corridor for an hour and a half.
+Dr Okafor let them in through the yard at half past nine and went back up the stair without a word, and they stood in that corridor for an hour and a half before anything at all happened to anybody, which was worse than something.
 
-Dr Okafor had let them in through the yard at half past nine and gone back up the stair without a word, and Jules Ardent had come out of Elias's car with his own written undertaking folded in his pocket and a folded printout under his arm, and had been in the building ever since, because there was nowhere else for him to be and because he had understood, faster than anyone, that he was not going to be sent home.
-
-For an hour and a half almost nothing happened, which was worse than something.
+Jules Ardent had come out of Elias's car with a folded printout under his arm and a variation order in his breast pocket that he had not been asked to carry and had insisted on carrying anyway, and had been in the building ever since, because there was nowhere else for him to be and because he had understood, faster than anyone, that he was not going to be sent home.
 
 Ahmed came down at ten with a torch and a flask and told them what the night porter's job actually was, which was to sit at a desk and not sleep, and that the dispensary conduit had a tick in it that he had put up with for three weeks. He tapped the wall above the stockroom door with the back of his knuckles and said the tick came and went and that on Wednesday night it had not gone. Nobody had asked him anything. He had assumed nobody would.
+
+Then he said, "There was a sheet of paper on the bench as well," and pointed north along the corridor without pointing at anything in particular, the way a man points at a thing he has decided is not his business. "Came in with him. He put it on the bench and asked for the maintenance book and wrote in it himself, and when I said I would have to ring the doctor he said she knew, and then he left the paper. It was still there this morning. Nobody moved it because nobody comes down here but me and the cleaning." He shrugged. "It is a transfer order. I know because the patient in room two has one on his file and my niece showed me."
+
+They looked at it where it lay, face up on a steel bench at the north end of the corridor, weighted flat with a tin of surgical staples. It was a single page with a signature box and a sequence box and four printed lines in the sequence box, and there was a stamp on it that said issued, and the stamp had a time in it: 16:51, Wednesday.
+
+"That is not the one in the clinic file," Dr Okafor said from the top of the stair. "Mine is in a clear sleeve with my name on it and the name of everyone who has read it, because I write those things down. That one has never been in my hand."
+
+Jules Ardent crouched down beside the bench without touching it and read it for about fifteen seconds, and then stood up and wiped his hands on a rag he had not asked for.
+
+"He brought it with him," Jules said. "Nobody carries a transfer order to a ward line. You carry one to a counter. He brought it here to hold it in the room while he worked, and he left it behind, and that is the single stupidest thing anybody has done in this case and it is the reason we know anything at all."
 
 At half past ten, Mara Quill set a field plate on a folding stool at the end of the corridor and a hood over her knees and began logging the room in ten-minute intervals, because that was what she had done for eleven years and because the alternative was thinking.
 
 At eleven, the counter ward light over the dispensary went out for about half a second and came back.
 
-Elias was the only person in the corridor who noticed, and it was Jules who noticed that he had noticed, and neither of them said anything about it, and at twenty past eleven Jules put his hand flat on the wall and said, "That's not a lamp." At half past eleven he said, "That's three since you got here."
+Elias was the only person in the corridor who noticed, and it was Jules who noticed that he had noticed, and neither of them said anything about it, and at twenty past eleven Jules put his hand flat on the wall and said, "That's not a lamp." He counted two more before half past eleven and then said, "That's three since you got here."
 
 Then at twenty-nine minutes past eleven, from the back seat of a car parked on Marshall Street, Nadia Kest picked up a telephone and asked an out-of-hours magistrate for a warrant, and it took her twelve minutes to get it. The counter ward light went out again at a quarter to twelve and came back longer than the last one had, and Jules said, "And that one was longer," to nobody.
 
@@ -32,7 +40,7 @@ Then at twenty-nine minutes past eleven, from the back seat of a car parked on M
 
 Nadia put the phone down and looked at Elias for one second.
 
-"You have a door and a crowbar and about ninety seconds before whoever is in there works out that a magistrate has been awake," she said. "I am at the east service door and I am not coming round to you, because if I come round to you then there is one officer at the east door and none in the corridor, and I would rather have two. Jules, tell him the route."
+"You have a door and a crowbar and about twelve minutes before a magistrate who is expecting a file at eight o'clock in the morning starts asking what the last four hours were," she said. "I am at the east service door and I am not coming round to you, because if I come round to you then there is one officer at the east door and none in the corridor, and I would rather have two. Jules, tell him the route."
 
 ---
 
@@ -60,6 +68,14 @@ Mara answered that, and she answered it without turning round.
 
 "No," she said. "The line is carrying it, and the line is not the working. The working is in the room and it is being carried on a thing in the room, and if you cut the line you will make the room dark and the working will simply go on sitting there being unfinished. You will not have stopped anything. You will have taken away the wards of a clinic with nine people in it and you will have a working still going in a locked room and a tired doctor in the corridor."
 
+She stood up off the stool. She had the plate on the long handle and she set the face of it flat against the steel of the door, over the jamb, and stood with her eyes shut and her free hand on her own hip and did not say anything for the length of time it takes to count to sixty twice.
+
+"Two," she said afterwards. "There are two breaks in the channel of the thing in that room and I have got both of them through the steel of a door from a corridor, and I am telling you that they are the same defect I measured on Wednesday night in a piece of brass that is currently in a bench room in the outer wards, and the same defect I have had on a plate since Monday morning, and this one is smaller again and it is in better metal than either of the other two. I cannot tell you who cut it. I can tell you that whoever cut it is not improvising, and that he is not the same hands as the last one, and that I would put my plate and my name against it."
+
+She took the plate off the door and set it face down on the stool.
+
+"I have that on the instrument's log and I have said it out loud twice for the recorder, and neither of those things involved a person and neither of them involved you."
+
 "Then I go through the door."
 
 "Then you go through the door," said Mara, "and I would like you to have one thing first, which will take twelve seconds, and which I have never asked you for and am asking you for now in a corridor in a hospital because there is a man in a room upstairs and a document downstairs and I would like to know the order of it before you go through that door."
@@ -70,7 +86,7 @@ The hood noise and the ward noise and the whole long night of noise went away.
 
 It came up out of the floor the way it did, but it did not come the way it had come on Monday, because Monday's had been a room that had finished. This was live. This was a working in the middle of doing something, and it arrived in him as a pressure in the sternum and a wrongness in the left ear and a sense of weight arriving on something that was not meant to hold it.
 
-It bound itself to a piece of paper. Not the building. Not the person. A sheet of A4 he had walked past forty times in an hour and a half, lying face up on a steel bench at the north end of the corridor with a tin of surgical staples on it, twenty feet away — and it bound to the *sheet* — to the printed box, to the four acts, to the words in the box, and Elias understood with a clarity that made him put his hand harder on the door that the transfer order was not a document with a sequence in it. The transfer order was the carrier's own paperwork, and the carrier had been *built into* it, and the whole reason a housekeeping form had four acts in it when a housekeeping form has three was that somebody had made a place for a working to sit inside a piece of institutional paper, and then had put the paper on a bench in a building where a man was sleeping two floors up.
+It bound itself to a piece of paper. Not the building. Not the person. The sheet on the bench at the north end of the corridor, the one the man had brought in with him on Wednesday night and left behind, twenty feet away — and it bound to the *sheet* — to the printed box, to the four acts, to the words in the box, and Elias understood with a clarity that made him put his hand harder on the door that the transfer order was not a document with a sequence in it. The transfer order was the carrier's own paperwork, and the carrier had been *built to receive* it, and the whole reason a housekeeping form had four acts in it when a housekeeping form has three was that somebody had made a place for a working to sit inside a piece of institutional paper, and then had put the paper on a bench in a building where a man was sleeping two floors up.
 
 It reached out from the paper along a line, along a conduit, along a ceiling, and it went looking the way a hand goes looking on a table in the dark — for one thing, and not for the room.
 
@@ -116,23 +132,37 @@ Elias looked at the door.
 
 He did not use the crowbar on the hinge. He used it on the latch plate, which is not the way the manual says, and the door came off the frame at one corner and swung in eight inches and he got his shoulder into the gap.
 
-The stockroom was four metres by three. Shelving down both sides. A steel bench at the end with the dispensary's ward maintenance book open on it, face down, held flat by a tin of surgical staples. Amber light. Cold room on the right, its door open. And a smell of scorched salt, thin, like a chip in a pan that has been left too hot.
+The stockroom was four metres by three. Shelving down both sides. A steel bench at the end with the dispensary's ward maintenance book open on it, face down, kept flat by its own weight and four years of nobody bothering to tidy it. Amber light. Cold room on the right, its door open. And a smell of scorched salt, thin, like a chip in a pan that has been left too hot.
 
-And a person.
+And a man.
 
-They were kneeling at the ceiling by the door head with their back to him, in a smock and a canvas roll at the hip, and they were holding something about eighteen inches long in two hands, and they were doing something to it with an expression of complete, professional calm.
+He was kneeling on a step ladder at the ceiling by the door head with his back to Elias, in a grey work jacket with the sleeves pushed up and a canvas holdall on the floor at his knee, and he had something about eighteen inches long in two hands, and he was turning a screw in the end of it with the expression of a man who has forty minutes of work in front of him and intends to finish it.
 
-"Down," said Elias.
+"Down," said Elias. "Hands. Now."
 
-They did not put up a hand. They did not turn round. They put both hands flat on the tube and *pressed*, and the tube came off the wall in one piece and went across the stockroom floor and hit the shelving on the far side and dropped, and the person went up onto the balls of their feet with something small and bright in their right hand and came through the gap in the door past his shoulder with a speed that was not panic, and was through the stockroom's inner service door and out into the yard before Elias Venn had got his hand on the frame.
+The man did not put up a hand and he did not turn round. He put one knee on the tube where it met the brick and he kept turning the screw, and he said, without any hurry in it at all, "You will want to think about that."
 
-He went after them four strides and stopped, because there is a limit to how far a man goes into a dark yard on his own at twenty to midnight, and he reached the limit in the yard's second step.
+"I have thought about it. You are on a clinic ward circuit with a named patient in the room above you, and there is not one person in this building who knows you are here, and that is not an accident. That is a schedule. Hands off the metal."
 
-They were at the wall. They went over it. Somebody had stacked three paint bins against it on the Wednesday night when they were here, which meant they had thought about it, which meant they had a bolt bag or a plank or a knee.
+"You will want to think about that," the man said again, and it was not a threat, it was advice, given the way a mechanic gives advice to a customer about a car that is about to cost him, and that was the worst part of it, and the screw went another half turn.
 
-He got to the top of the bins and got his head above the wall and saw a phone light going down the other side and a man crossing Marshall Street at a fast walk, unhurried, and then — before the corner — the man turned round, and held up the phone, and took a photograph of Elias Venn standing on paint bins in the dark in front of a paint works with blood on his face, and then went round the corner and was gone.
+Upstairs, on the far side of a floor and a ceiling, a man of twenty-four with a fever of thirty-seven eight lie in a bed under a ward light that had been flickering for the better part of two hours, and the ward light was the only thing in that room holding anything at all in place.
 
-Elias put his hand over his mouth because he had only then noticed.
+Elias put the crowbar down on the floor where he could kick it and picked up the only other thing in reach, which was a length of copper out of the cold room's spill tray, and he got it up under the tube where it came out of the brick, at the first brass saddle clip, and he levered.
+
+It was not a spell. He had no counterturn and he had said so to two people in a corridor an hour earlier. It was a man on a stepladder's worth of joinery work, in the dark, in a small room, putting the copper under a brass clip and pushing until the screws let go and the galvanised came away from the brick, and the man above him on the step fought him for it with one hand and got a knee in the way and would not give up the metal, and the whole nine inches of it came off the wall in one piece into Elias Venn's hands with a noise like a door being taken off its hinges, and it broke in two places — once at the mouth and once two inches back at the second clip — and the working in it stopped.
+
+Elias did not feel anything switch off. That was what he would tell people afterwards, and Nadia made him say it twice into a recorder on Marshall Street. He did not feel it stop. He felt nine inches of warm, filthy conduit suddenly weigh about four pounds, and he put it down on the stockroom floor very fast and very gently, the way you put down something that has just become evidence.
+
+The man on the ladder was already going. He came down it two rungs and across four metres of stockroom and through the inner service door and out into the yard, past Elias's shoulder, with something small and bright in his right hand, at a speed that was not panic. He was through the yard and over the wall before Elias Venn had got both hands off the tube.
+
+Elias went after him four strides and stopped, because there is a limit to how far a man goes into a dark yard on his own at twenty to midnight, and he reached the limit in the yard's second step.
+
+Three paint bins had been stacked against the wall on the Wednesday night, which meant he had thought about it, which meant he had a bolt bag or a plank or a knee.
+
+Elias got to the top of the bins and got his head above the wall and saw a phone light going down the other side and a man crossing Marshall Street without hurrying at all, and then — before the corner — the man turned round, and held up the phone, and took a photograph of Elias Venn standing on paint bins in the dark in front of a paint works with blood on his face, and then went round the corner and was gone.
+
+Elias put his hand over his mouth because he had only then noticed, and then he went back inside and shut the stockroom door on its one working hinge, because that was the correct procedure and he could not think of one single other thing to do.
 
 ---
 
@@ -144,11 +174,11 @@ Inside the mouth of the tube, at the very end, was a channel about four inches l
 
 "Twenty-three fifty-three is now on," said Nadia, from the east service door. "Elias. Talk to me."
 
-"Frame is down. Working's off. One operator over the west wall, gone north, took nothing."
+"Frame is down. Working's off. One operator over the west wall, gone north, carrying a tool and a phone."
 
 "Any injuries?"
 
-"None that I can see. He went through me. He took nothing with him but a caliper and a phone." Elias was on his knees on the floor, and had been on his knees for a while, and the corridor was doing something with its walls. "Nadia, I have lost some time. I don't know how much. I know it because I can't account for the walk out of the yard."
+"I went through the door and he went through me, and I put a length of copper under a brass saddle clip and pulled the thing off the wall with my own hands while he was standing on a ladder telling me I would want to think about it." Elias was on his knees on the floor, and had been on his knees for a while, and the far end of the corridor had gone somewhere he could not put back. "He took nothing with him but a caliper and a phone. Nadia, I have lost some time. I don't know how much. I know it because I can't account for the walk out of the yard."
 
 "How much of the ward?"
 
@@ -156,7 +186,7 @@ Inside the mouth of the tube, at the very end, was a channel about four inches l
 
 "I want it left," said Sana Okafor, from the top of the stair, in a cardigan over her clothes, with her hand on the rail. "I want it off and I want it off now, and I want the counter guarded before either of you comes up here."
 
-Jules came down off the ladder.
+Jules came down off the step.
 
 "The wards are out," he said, to nobody, to himself, to eleven years of being the man who fixes things. "That's the stair. That's the counter. That's two beds on a fever. Nine minutes."
 
@@ -180,7 +210,7 @@ She held the item out. Mara Quill took the two halves of the tube and the foil i
 
 ---
 
-Mara lifted a salt-glass plate on the pavement outside the paint works at twenty to two in the morning, on a folding table she had brought, under the hood, with a witness.
+Mara lifted a salt-glass plate on the pavement outside the paint works at twenty to two in the morning, on a folding table she had brought, under the hood, with Nadia Kest as witness.
 
 Two broken halves, because when the tube came off the wall it broke in two places — one at the mouth and one two inches back, at the second clip — and Mara laid them out in the order they had been in, and beside them she laid the foil.
 
@@ -196,7 +226,7 @@ Mara had been doing this for eleven years and had spent nine of them being caref
 
 She put the plate under the hood, and she ran a pass over the mouth of the channel, and then over the fracture at the second clip, and then she went back and did the first one again because she did not like the first one.
 
-"Twenty-two minutes," she said. "I have measured two breaks in the channel in that metal and they are the same defect. It is the same failure as the plate in the corridor on Monday. Same joint, same point, smaller by a factor I would not have believed at the mouth of it on Wednesday, and this is the same break with a much cleaner hand."
+"Twenty-two minutes," she said. "I have measured two breaks in the channel in that metal and they are the same defect. It is the same failure I measured in the clamp on Wednesday night, and the same failure I have had on a plate since Monday morning, and this one is smaller again, and it is the same break with a much cleaner hand. What I said off that door at a quarter to midnight was the shape of it. This is the measurement of it, and I would not put the first one in front of anybody."
 
 "What does that mean in a sentence," said Nadia, "because I have to write it down and I am tired."
 
@@ -214,7 +244,7 @@ Elias looked at the foil, at the two halves, at the saddle clips, and at the pla
 
 She had. It was on a sheet of paper, and it was four paragraphs, and at the bottom of it she had written a line that was not a measurement.
 
-*No object in this case has been touched by D/Sgt Venn. No figure above is his. If asked to identify a person, a motive, or an intention from this material, decline; there is none in it.*
+*No figure above is D/Sgt Venn's. No object measured in this matter was handled by D/Sgt Venn in its measured state, and the one exception is on the record in my hand and dated Wednesday evening. If asked to identify a person, a motive, or an intention from this material, decline; there is none in it.*
 
 ---
 
@@ -222,7 +252,7 @@ The rain had stopped and Marshall Street was doing the thing it did, where the s
 
 He had lost forty minutes. Nadia had the transit log, which showed her car stopped on Marshall Street from twenty-two fifty-one to twelve o'clock, then moving out to Saint Orra Reach, and then, at twenty to two, back, and he could not account for one second of the middle of that, and he had tried three times, and it had not improved, and he had stopped.
 
-His legs were not working. Both of them, from the hip, in the way that a body's legs go when a person has spent something that was not available. He could feel his own heartbeat in the left side of his jaw, and there was blood dried under his nose, and Mara had given him a pad of cotton wool from her own case and he was holding it to his face in a garden of paint works in Kettle Rows at half past two in the morning, and he was going to be sitting on this kerb for forty minutes whether or not anybody came, because Nadia had said forty minutes and he intended to be the sort of man who could be told a number and keep it.
+His legs were not working. Both of them, from the hip, in the way that a body's legs go when a person has spent something that was not available. He could feel his own heartbeat in the right side of his jaw, and there was blood dried under his nose, and Mara had given him a pad of cotton wool from her own case and he was holding it to his face in a garden of paint works in Kettle Rows at half past two in the morning, and he was going to be sitting on this kerb for forty minutes whether or not anybody came, because Nadia had said forty minutes and he intended to be the sort of man who could be told a number and keep it.
 
 Somebody came.
 
@@ -260,7 +290,7 @@ Elias sat with that for a while.
 
 "Take it, then," said Ahmed. "You've had a bad day."
 
-Elias Venn sat on a kerb in Kettle Rows until nearly three o'clock, and his legs came back at about a quarter to three, and the clinic's wards came up properly at four with a sound from the counter like somebody drawing a breath, and Jules Ardent went in and re-secured a conduit in a dispensary ceiling because the fire officer could not come until Tuesday, and Jules Ardent would not let anybody pay him for it and would not let anybody put his name on it either, and did it in forty minutes with a borrowed ladder.
+Elias Venn sat on a kerb in Kettle Rows until a quarter to three, and his legs came back at about half past two, and the clinic's wards came up properly at four with a sound from the counter like somebody drawing a breath, and Jules Ardent went in and hung a new length of conduit in a dispensary ceiling because the fire officer could not come until Tuesday, using the two brass saddle clips out of the old one, and Jules Ardent would not let anybody pay him for it and would not let anybody put his name on it either, and did it in forty minutes with a borrowed ladder.
 
 At four o'clock Elias got a message from Nadia, sent from a car, four words long.
 
@@ -272,14 +302,20 @@ And then a second one, eleven minutes later, from a number he had never had.
 
 ---
 
-Nobody in that building had checked the access log. It had been four days, and the building was a paint works with a clinic in it and a hundred and forty people through the doors every day, and there had been no line in any book with the words *someone with building access came in on the Wednesday night and built a frame into your ceiling and left it there for two days*, because nobody had looked, and because looking would have meant deciding that something was wrong, and everybody in that building had a hundred things to do that were more obviously wrong.
+Elias went back in at four, when the wards were up and the counter made the sound a room makes when it has just decided to be a room again, and the dispensary's ward maintenance book was still face down on the steel bench in the stockroom where the man had left it, and the tin of surgical staples was still on the corridor bench twenty feet away where it had been holding a sheet of paper down.
 
-The foil stencil is on a salt-glass plate in a case with a name on it, in a laboratory two wards from a hospital, in Dr Quill's custody, and it is staying there.
+The Wednesday entry was in a hand that did not belong to anybody in the building. A name, a Ward Works vest number, his own signature, and beside the signature, in the same hand, a job: *check the line.* Twenty-one ten. No second signature and no counter-signature, because the night porter's rule is that a man with a vest and a book does not need one.
 
-And the crew did not make the frame.
+"He signed it himself," Ahmed said from the stair. "Nobody made him do that and nobody was stood over him while he did it. She was seventy-one and she stood there with her hands folded and let a stranger do it in her building at ten past nine at night because he had a vest and a document and because that is what you do when you are seventy-one and somebody is very certain. I have thought about that for about three hours and I cannot make it be her fault either, and I would like somebody to explain to me which of the two of us is supposed to have stopped it."
 
-That was the thing Elias Venn understood at a quarter to three in the morning, on a kerb, with cotton wool in his pocket and forty minutes of his life that would not come back. The channel was finer than Jules Ardent's. The pair of marks was cleaner than anything Jules Ardent had ever cut. Whoever went over that wall at twenty to midnight on a Friday night had been handed better work than the work everybody had spent four days hunting for, and had been told, in a way that did not need a conversation, exactly where to put it.
+Elias stood in a stockroom belonging to a clinic that owed him nothing, looking at a book he was not permitted to take.
 
-The first network could carry a stolen release on a piece of brass. It could not make that brass, could not seat it, and could not choose a building.
+Nobody in four days had written down a single line containing a person doing this. The one line that existed had been written by a stranger in a stranger's hand at ten past nine on a Wednesday night, while a seventy-one-year-old woman stood with her hands folded and let him, and it had sat in that book for two days and been looked at by a night porter with a torch he did not need. Looking would have meant deciding that something was wrong. Everybody in that building had a hundred things to do that were more obviously wrong.
 
-Somebody was teaching it.
+He asked Ahmed to carry the book out to the corridor and stand it open on the bench next to the sheet, and to photograph the two of them together in one frame, and then to put the book back where he had found it and be very careful about it. Ahmed asked whether he wanted the page number written on the back of the print, and Elias said yes, and then said write the date and the time on it as well, and then said no, don't write mine.
+
+He stood in the corridor for a while after that in the rain coming sideways off the yard, working out that a sheet of paper had been lying in plain sight under a tin of surgical staples for two days, and that every person who had walked past it had thought it was a piece of paper, and that this was the whole of the case so far, in one object, under a weight.
+
+Then he went out and stood on the step in the rain.
+
+He got a biro out of the shop door and wrote one line on the back of his left hand, in the small bad hand he used for things he was afraid of losing: *nine inches of conduit, better tooth, better pair, and somebody knew which ceiling.* Then he looked at it for a while in the rain, and scrubbed it off with his thumb, because a thing you can wipe off is a thing you have not written down yet, and he was not going to be the man who forgot this one.

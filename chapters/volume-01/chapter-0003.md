@@ -2,7 +2,7 @@
 
 The Sequence Desk's temporary evidence room was a converted records store with a vent that had been failing since the previous winter, and Elias had learned to stand at the far end of it with his good ear toward the door.
 
-His left ear had gone quiet in a stairwell in the small hours of Monday and had not come back, and he had spent the whole of Monday not trusting it. The hearing loss underneath that was older and was not going anywhere. He had not stopped sitting on the right side of people.
+His left ear had gone quiet in a stairwell in the small hours of Monday, the first time it had ever done that on him, and it had come back inside an hour and left him with the sense of a room that had moved and stayed moved. The hearing loss underneath that was older and was not going anywhere. He had not stopped sitting on the right side of people.
 
 "Sit down, Venn."
 
@@ -16,7 +16,7 @@ Nadia Kest had a folder open on the table and a form on top of the folder, and t
 
 Elias sat down and read the form. It ran to half a page. It asked when he had acquired his interest in the premises, what his tenancy was, who else had keys, whether he had any financial or familial connection to the deceased, and whether he had had any contact with the deceased outside the ordinary course of his work as a tenant in the building.
 
-He answered all five. On the fourth he wrote *None*. On the fifth he wrote *Twice. I signed her tenancy transfer in 2019 and held a light while her door ward was seated in 2021. Both are recorded on the building's work orders, which are in the file at the Sequence Desk under the address.*
+He answered all five. On the fourth he wrote *None*. On the fifth he wrote *Twice. I signed her tenancy transfer four years ago and held a light while her door ward was seated two years ago. Both are recorded on the building's work orders, which are in the file at the Sequence Desk under the address.*
 
 "That last one," said Nadia, "is going to make your life harder."
 
@@ -42,7 +42,7 @@ The case board had been assembled in the corner by Dace, who had a gift for it a
 
 **Residue.** Swab fourteen, lifted from the left edge of the desk at eleven o'clock, because the desk was the first thing the working touched. Swab fifteen, from the threshold, sealed at the scene and waiting for Saint Orra to tell them whether they are allowed to be useful at all. And a salt-glass plate at Saint Orra Reach, in the name of a forensic mage, with a seam on it that matched neither the victim nor the door.
 
-**Paper.** A tenancy transfer from 2019. A work order for a door ward from 2021. A depot roster with four years of clean attendance. A building ward certificate expiring in March.
+**Paper.** A tenancy transfer from four years ago. A work order for a door ward from two years ago. A depot roster with four years of clean attendance. A building ward certificate expiring in March.
 
 "That's it," said Nadia. "That's the whole case. It's the thinnest I've ever started. On a Wednesday, with a body, that would be a certificate and a press release."
 
@@ -92,7 +92,9 @@ He thought about the four minutes on the stair.
 
 He washed his hands. He signed the bag. He logged his own name, the time, the purpose, and the fact that he was going in clean and had washed twice.
 
-Then he laid his left hand flat on the sealed swab through the plastic, which was the only way a person in a records store could do what he was about to do without opening anything.
+Then Nadia cut the seal with a blade on the camera, read the cut number out loud twice, resealed the bag, wrote the reseal on the corner of the form, and initialled it, and made him watch her do all of it, because a man who is about to put a hand on a sample should at least be able to say afterwards that the container was opened and closed on a record and not by him.
+
+Then he laid his left hand flat on the swab itself, which is the only way a person in a records store can do what he was about to do.
 
 He wanted to explain it to her first. He had been trying to explain it to somebody for eleven years and had never once been able to get past the first four sentences, and he had a sentence ready, and it was this: it is not a vision of people. Nobody appears. Nobody tells him anything. It is closer to walking into a room where someone has just put away the dishes and being able to tell that the plates came before the glasses, and that somebody's hand was already on the tap before the water started, and that the whole kitchen was assembled in one direction and then, at the very end, in another.
 
@@ -130,7 +132,7 @@ He got himself onto the stool. The room was the wrong width and had a wall where
 
 "That is new," he said.
 
-"That is new," said Nadia, "and it comes back, and I am writing the time on it."
+"That is new," said Nadia, "and I do not know whether it comes back, and I am writing the time on it either way."
 
 "Twelve seconds," he said.
 
@@ -147,6 +149,14 @@ She made him a sound that was almost a laugh and did not arrive. She put water i
 "I wrote the sentence before I knew it. Now drink the water."
 
 He drank the water. He was aware, distantly, of the shape of the afternoon he had lost, and of how much of it was shaped like a hole, and of the fact that the reason he had a hole at all was that he had wanted a thing badly enough to do it while a police officer watched on camera and a seal number was on the bag, which was as close to proper as he had ever managed, and which had still cost him three hours.
+
+Then he took out his phone and did the thing he had never once done in eleven years, which was to let somebody else's record stand in for his own.
+
+A phone keeps a call log, and a call log does not care in the slightest that its owner has been lying on a floor. It said he had called the Orra depot at nine minutes to twelve and had spoken for four minutes about a rota, and had dialled the Saint Orra Reach switchboard at six minutes past twelve and hung up without speaking. It said nothing else at all until four minutes to four, when he dialled Otto Vahl's number and let it ring, and then again at twenty past four, and had got through on neither. Between a quarter past twelve and ten past three there was nothing at all, and there never would be anything at all again, and the nothing was three hours wide.
+
+"That is a thing about me that I would like in the file," he said. "Not as feeling. As a gap with a width in it."
+
+Nadia wrote it down, and then she wrote the three hours down again separately, because that was the procedure she had taught him in his first week and it was the reason he trusted her more than anybody else in the building.
 
 "The desk is the anchor," he said. "Not the door. That is what I got wrong at two o'clock this morning and I want it in the file, because I told Abasi the wrong thing and she is going to act on the wrong thing. It binds to the desk and it goes to the door second, and her own working fires at the same time as the turn, and there is a second trace already under hers when it fires."
 

@@ -26,7 +26,7 @@ Elias put the cold cup on the step behind him. "Which one."
 
 "The top one. The room at the end of the landing. It's been open since I came down." She looked at him. "She's on shift. She's been on shift since eleven. If somebody's in that room, they didn't use the front stair."
 
-It was the correct thought. It was also, he understood a half-second later, the thought a person reaches for before looking at anything. He had been the nearest Sequence Desk sergeant for six years because he was never the furthest. He lived on this site, in this building, under this stair, and had done since he was nineteen and repairing radiators for a man who took cash.
+It was the correct thought. It was also, he understood a half-second later, the thought a person reaches for before looking at anything. He had been the nearest Sequence Desk sergeant for six years because he was never the furthest. He lived on this site, in this building, under this stair, and had done for eleven years, since he was twenty-five and repairing radiators for a man who took cash in the shop that is now his.
 
 "I'll go up," he said. "Don't come with me. If it is somebody in there, the stair is a bad place to be."
 
@@ -160,7 +160,7 @@ That was the thing about Nadia Kest. Thirty-nine years old, eleven years in the 
 
 "No. The old woman on the fourth floor saw the door open and told me. Dace is fine." He paused. "The frame is the only thing I've been near and I put my hand on it before I thought about it, and I'd have done the same thing in any other building in this city, and if I had, there'd be a second set of my prints on it and the residue would be gone."
 
-Nadia drank her coffee. "Mara's twenty minutes out. She'll take a plate. Until then nobody touches that frame, including the four of you."
+Nadia drank her coffee. "Mara is on her way, and she will not lift a threshold in the dark any more than you would, so it can wait for the light. Until then nobody touches that frame, including the four of you."
 
 Down at the corner, past the police car and the two cones someone had put out on the wet road, a man had stopped to watch.
 
@@ -168,8 +168,8 @@ He was not doing anything. He did not approach, and he did not take out a phone 
 
 Elias watched him go and did not follow, and understood, with a clarity that arrived far too late to be useful, that a man who stands in the rain counting the windows of a building is a man who has been given a reason to know which window matters.
 
-Four minutes of his life were gone and would not come back. Somebody had paid for a plate in a laboratory in Saint Orra Reach, and the plate was going to cost him the one thing he had left that nobody could question.
+Four minutes of his life were gone and would not come back. Somewhere across the river a woman was being woken and told that there was a door in Kettle Rows that had said something no instrument in the department could hear, and by seven o'clock she would have a name for whatever it was that had said it, and the name would not be his.
 
 The frame was going to be read, in front of him, by a woman who did not believe a word he said, and it was going to say something he could not say, and he was going to have to stand there and be an ordinary man who lived upstairs.
 
-It was almost three. Somewhere downriver a night bus came in on the last run of the shift, and Elias heard it change pitch the way he had heard it every night for six years, and for once he could not tell whether that was a thing he knew or a thing the room had put in his head.
+It was almost three. Down on Marshall Street a bus pulled away from a stop with its interior light on and its air doors still hissing, which meant somebody had hailed it and had then thought better of it, and the noise of it went up the side of the building and reached his landing, and for once he could not tell whether that was a thing he knew about this street or a thing the room had put in his head.

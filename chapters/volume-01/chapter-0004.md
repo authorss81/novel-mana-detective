@@ -34,11 +34,11 @@ He worked nights. Coin laundry, four nights, on Verge Row, a ten-minute walk fro
 
 "Since she moved. Four years." He turned the paper bag over in his hands. "Her door does the thing. You put your hand on and it knows you. And when you're on the list it goes quicker, and when you're not on the list you have to wait, and there's a board."
 
-"And last Monday, you were on the list."
+"And last night, you were on the list."
 
-"Last Monday, I was on the list. Third from the top. I got there at about ten to one."
+"Last night, I was on the list. Third from the top. I got there at about ten to one."
 
-Elias kept his hands flat on the table, well away from the other man's, and made himself say the next thing in the order in which it should be said rather than the order in which he wanted to hear it.
+Elias kept his hands where he could see them, well away from the other man's, and made himself say the next thing in the order in which it should be said rather than the order in which he wanted to hear it.
 
 "Take me through the landing. From the stair."
 
@@ -92,7 +92,7 @@ Elias looked at Mara.
 
 He stopped. He was shaking, which he seemed to have discovered only now, and he put his hands flat on the table in exactly the way a man in a smock had taught him three weeks ago, and then took them off again as though the table had bitten him.
 
-Elias felt the floor tilt under a floor that had not moved at all.
+For about four seconds Elias could not remember whether he had asked his last question or was about to ask it, which was not a thing that had ever happened to him before, and which he decided, on the spot and without much evidence, to be the effect of the room and not of himself.
 
 He said, very carefully, "Niko, I need you to understand that this is not the same as what happened to you. Rehearsing an order does not hurt anybody. It cannot. It is not a thing that can break a mug or put a woman on the floor. It changes what you expect, and that is all."
 
@@ -126,7 +126,7 @@ Niko looked at him.
 
 "You live there?"
 
-"Eleven years. Two floors down. I signed her tenancy transfer in 2019."
+"Eleven years. Two floors down. I signed her tenancy transfer for her, four years back."
 
 "It was a waiting list," Niko said, "and you were on it. Yes."
 

@@ -60,7 +60,17 @@ He photographed the page. Six entries for Jules Ardent, all in one hand-block, a
 
 ---
 
-Shop one was nine Pell Street, a first-floor room over a dry cleaner, and it belonged to Jules Ardent, who was twenty-nine and was out.
+The other two were smaller and faster, and both of them were shops in the sense that the word usually means.
+
+The first was a two-bench tool works off Cutter Street that sharpened ward tools and cut jaws, and the woman who ran it had the ledger open on the bench before he had finished asking, because a man who photographs a page in a public register has usually been sent by somebody. The second was an engraver's on Ash Street who did the stamping for the ward trade and kept his own copy of everything he cut, because thirty years ago he had cut a man's initials into a door plate and the man had not been who he said he was.
+
+Between the depot and those two counters, and without anybody being asked for a single thing they were not obliged to give, the run of six had a paper shape. Six clamps. One maker. Two stamped numbers in the district copies and four in the maker's own, which is a discrepancy that means something and neither of them could say what. One of the six gone out of the district on a card with a clinic's name on it, four days ago, signed for by a man who was not Jules Ardent. And a bench book in Kettle Rows in a stranger's careful hand that said a man, a date, and eighty credits.
+
+Elias stood in the cold outside the engraver's with a phone full of photographs that a good lawyer could get three different men convicted on, and understood that he was holding the only thing he had ever held that could not be argued with by anybody at all: three shops' worth of paper, in three different hands, in three different buildings, all saying the same thing about a number.
+
+---
+
+Shop three was nine Pell Street, a first-floor room over a dry cleaner, and it belonged to Jules Ardent, who was twenty-nine and was out.
 
 The door was not locked. It was a workshop door: locked against theft, not against honesty. Elias did not go in and read the bench book. That had been the old him, and the old him would have gone in and would have been right about the contents, and the new him stood on a landing and waited forty minutes in the cold for a man to come home, and then asked him for the book.
 
@@ -84,7 +94,7 @@ Elias did not touch it. He read it standing up, from the doorway, and he photogr
 
 Jules pointed.
 
-"Fourteenth," he said. "That's the one. Second-hand transit, bench run of six. And then the seventeenth, and there it is. 4417 out, to a fella called Rennick, on a card from a clinic."
+"The fourteenth," he said. "That's the one. Second-hand transit, bench run of six. And then the seventeenth of September, and there it is. 4417 out, to a fella called Rennick, on a card from a clinic."
 
 "What clinic?"
 
@@ -100,7 +110,7 @@ Jules pointed.
 
 Elias looked at the photograph on the phone in his own hand, and felt something cold and clean move through him, and had to be careful for a moment not to let it show, because what it was — what it actually was — was the feeling of a case coming apart into pieces he could hold.
 
-Two of six clamps in the district, documented. One missing. A stamped number. A false clinic card. A bench book that said *this is what I did* in a stranger's careful hand.
+Two of six clamps in the district, documented. One missing, and missing in a direction that had to be somebody's decision. A stamped number. A false clinic card. A bench book that said *this is what I did* in a stranger's careful hand.
 
 He had been twelve steps in front of Jules Ardent for nine hours, and now he was going to be twenty, and there was nothing in that sentence that was about ward mechanics.
 
@@ -146,17 +156,17 @@ He stopped under the awning of the closed market and let a bus go past, and then
 
 ---
 
-The third ledger was the one that mattered, and he got it legally and slowly at nine that night. Licensed clinical premises keep a filing copy on site for inspection, and there is a counter, and a bell, and a visitor book, and he had to walk past the address twice before he was sure of it, and then he had to stand at a counter in a corridor and ask a receptionist to bring him the current year's intake filing copy out of the back, in front of her, and explain what he wanted it for, and hear her explain that she was required to write down the name of anybody who asked.
+The last ledger was the one that mattered, and he got it legally and slowly at nine that night. Licensed clinical premises keep a filing copy on site for inspection, and there is a counter, and a bell, and a visitor book, and he had to walk past the address twice before he was sure of it, and then he had to stand at a counter in a corridor and ask a receptionist to bring him the current year's intake filing copy out of the back, in front of her, and explain what he wanted it for, and hear her explain that she was required to write down the name of anybody who asked.
 
 A rehabilitation clinic on Verge Row. Licensed, current, and — this was the part that made him stand in the doorway for a while with his coat in his hand — its intake book ran from the start of the year and had ninety-one names in it, and every one of the ninety-one had a card number, and every one of the ninety-one had a treatment on the schedule.
 
 There was no account on its pages. There was no patient who matched a name on the card that Jules Ardent had photographed and posted to a police sergeant in a doorway, and there was no entry anywhere in the book for a card that the name on it could be photographed from.
 
-The book ran, column by column, name, card, treatment, signature. Ninety-one rows. In the eleventh row, the name was a spelling of a different name that the Registry's own index would have caught in 2019, and in the fortieth row the treatment column said *follow-up* for a patient whose first attendance was not in the book, and in the eighty-eighth row the signature was a printed signature.
+The book ran, column by column, name, card, treatment, signature. Ninety-one rows. In the eleventh row, the name was a spelling of a different name that the Registry's own index would have caught in a heartbeat, and in the fortieth row the treatment column said *follow-up* for a patient whose first attendance was not in the book, and in the eighty-eighth row the signature was a printed signature.
 
 And there was no room at that address for a person who had been made to practise opening a door.
 
-He photographed the page in the corridor, standing up, with the bell within reach of the receptionist's hand and no pretence at all that he was doing anything else. Then he wrote his own name and the time in the visitor book, in her ink, with her pen, because she asked him to and because he has spent nine months in a building of his own where nobody wrote anything down. He noticed the shape of his own signature going onto a stranger's page and had the distinct sensation of a man who has just put a future prosecutor's index finger on a piece of paper.
+He photographed the page in the corridor, standing up, with the bell within reach of the receptionist's hand and no pretence at all that he was doing anything else. Then he wrote his own name and the time in the visitor book, in her ink, with her pen, because she asked him to and because he has spent eleven years in a building of his own where nobody wrote anything down. He noticed the shape of his own signature going onto a stranger's page and had the distinct sensation of a man who has just put a future prosecutor's index finger on a piece of paper.
 
 Then he stood in the wet outside on Verge Row for a while and let the fact settle, which was this: if that book was the record, then the record had been in a corridor on Verge Row all along, in a drawer a woman had to unlock, and the only reason nobody had ever read it was that nobody had ever asked.
 
