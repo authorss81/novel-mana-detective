@@ -1,33 +1,18 @@
 # Novel Specification
 
-Title: [Novel title]
-
-Repository slug: [novel-slug]
-
-Genre: [Genre]
-
-Male lead: [Name, age, occupation, want, need, flaw]
-
-Length target: [500–1000+ chapters]
-
-Current phase: bootstrap
+Title: The Mana Detective
+Repository slug: novel-mana-detective
+Genre: urban fantasy mystery / procedural
+Male lead: A detective who can read the sequence of a spell after a crime
+Length target: 650 chapters
+Relationship policy: One slow-burn relationship or no romance, decided in the bible phase.
+Power rule: Growth must be earned through practice, cost, failure, relationships, and changed decisions. The lead must not become instantly overpowered unless the approved genre premise requires it.
 
 ## Premise
-
-[One-sentence premise]
+A modern detective investigates magical crimes while seeing how spells were performed but not why they were performed.
 
 ## Ending
+He decides whether perfect legal proof matters more than exposing the system that controls evidence.
 
-[Planned final conflict, final choice, relationship resolution, and world outcome]
-
-## Relationship policy
-
-[One slow-burn relationship or no romance]
-
-## System language
-
-[Readable fictional system rules, limits, and costs]
-
-## Current canon
-
-No chapters have been generated yet.
+## Status
+Scaffold pushed. No novel prose has been generated yet. The bootstrap phase must create the bible, series outline, ending outline, and first batch cards.
