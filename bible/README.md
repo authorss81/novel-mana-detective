@@ -9,4 +9,8 @@ The bootstrap canon is divided into focused files so later volume and batch work
 - `themes.md` — recurring moral questions, motifs, emotional range, and the planned thematic answer.
 - `terminology.md` — glossary, names, capitalization, and usage guardrails.
 
-The author-facing series route is in `../outline/series.md`; the final volume's fixed destination is in `../outline/ending.md`. The first-volume plan is in `../outline/volume-01.md`, with detailed cards in `../outline/batches/volume-01-batch-0001.md`. No chapter prose is part of the bootstrap.
+The author-facing series route is in `../outline/series.md`; the final volume's fixed destination is in `../outline/ending.md`. The first-volume plan is in `../outline/volume-01.md`, which carries the five-arc batch map, and detailed cards in `../outline/batches/volume-01-batch-0001.md`. No chapter prose is part of the bootstrap.
+
+## Author-only knowledge
+
+These files are written for the author, not the reader. Facts listed here as hidden must not appear in narration, dialogue, or a chapter card before the volume named in `../state/continuity.md` under **Revelation lock**. In particular, Hollis Ward's role as a participant in the first correction and his use as a living anchor are established in **Volume 09**, not in the final volume.

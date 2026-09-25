@@ -47,7 +47,7 @@ His ability came to him young and was first treated as a symptom after exposure 
 
 Mara and Elias begin with friction. She will not let him touch a trace with an unrecorded hand, and he sees her caution as obstruction. Their trust grows when he follows her ground rules, when she risks a clinical relationship to protect a witness, and when he admits that his reading is incomplete. The romance remains slow: shared meals after long shifts, a coat left in the wrong office, a private argument about consent, and the decision to continue working together before either calls it love.
 
-Her brother **Iven Quill** disappeared after an unlicensed memory clinic six years before the opening. He is found alive in Volume 06, held in a living anchor disconnected from the Quiet Grid, but years of his memory cannot be recovered. Mara's relationship with him after the discovery must be different from the relationship she remembers; that painful, unglamorous reunion is not a final lesson for her to learn and then put away.
+Her brother **Iven Quill** disappeared after an unlicensed memory clinic six years before the opening. He is found alive in Volume 06, held in a living anchor disconnected from the Quiet Grid, but years of his memory cannot be recovered. Mara's relationship with him after the discovery must be different from the relationship she remembers; that painful, unglamorous reunion is not a final lesson for her to learn and then put away. In Volume 12 she faces the choice of reconnecting him to the central witness network for the final working and leaves him disconnected, which keeps him out of the Return and costs her his trust. He is never removed from his anchor and never exposed to the central working.
 
 ## Nadia Kest
 
@@ -71,20 +71,20 @@ Nadia remains in Veyra and becomes a reform-minded police official. She does not
 ## Jules Ardent
 
 **Age:** 29 at the opening.  
-**Role:** ward mechanic, former copywork courier, and later a builder of the public witness network.  
+**Role:** ward mechanic who once carried other practitioners' work through The Cut for cash — a courier in a trade he did not understand — and later a builder of the public witness network.  
 **Want:** repair the physical grid without giving the Quiet Hands another private hold on it.  
 **Fear:** that every practical compromise makes ordinary people more disposable.  
 **Strength:** understands anchors, wards, service tunnels, and the way a frame can be made to lie. He cannot read sequences, so he repeatedly keeps Elias from treating a physical explanation as a mystical answer.  
-**Arc:** begins as a suspect and reluctant informant, earns trust by returning the borrowed tools, admitting his unregistered repairs, and taking responsibility for his part in the network, and ends as a public infrastructure custodian rather than a clandestine hero.
+**Arc:** begins as a suspect and reluctant informant, earns trust by returning the borrowed tools, recording the unregistered repairs he performed under a false clinic account, and taking responsibility for what he carried without asking what it was for, and ends as a public infrastructure custodian rather than a clandestine hero. He is never cleared by innocence: Volume 01 charges him with carrying other people's work, and the workshop's measurements clear him of building it.
 
 ## Hollis Ward
 
 **Age:** Late fifties at the opening; twenty at the Blackline Event.  
-**Role:** Elias's first mentor, a forensic mage who documented the fourth act and later became a living anchor in the proof weave.  
-**Timeline:** He was twenty and a junior ward assistant during the Blackline Event, helped implement the emergency correction, mentored Elias during the first years of the Sequence Desk, and disappeared eleven years before the opening after objecting to the way the correction was concealed. He has spent that missing period kept alive as a living anchor.  
+**Role:** Elias's first mentor, a forensic mage who documented the fourth act in old ward records. The author knows he later became a living anchor inside the proof weave; Elias does not, and neither may a reader-facing paragraph say so before Volume 09.  
+**Timeline (what Elias can support with documents):** Hollis was twenty and a junior ward assistant during the Blackline Event, mentored Elias during the first years of the Sequence Desk, and disappeared eleven years before the opening without warning. That is the whole public record. What he did in the years after the event, and where he has been since he vanished, are established in **Volume 09** and must not be stated as fact in Elias's point of view before then.  
 **Want:** prevent another Blackline cascade.  
-**Flaw:** he decided alone which truth was too dangerous for the public and hid the cost from Elias.  
-**Mystery role:** the apparent mentor who abandoned Elias is both a protector and a participant in the concealment. He is not a secret final villain. The final volume reveals that he was kept alive as a stable witness inside the First Correction's central anchor, and that he helped build the first correction after the event. Elias first recognizes his initials in an old ward roster because Hollis used the same notation in handwritten maintenance notes; the roster proves involvement, not authorship.
+**Flaw:** he decided alone which truth was too dangerous for the public and hid the cost from Elias. This is author knowledge and is established in the reader's presence in **Volume 09**.  
+**Mystery role:** the apparent mentor who abandoned Elias is both a protector and a participant in the concealment, a fact Elias cannot hold until Volume 09. He is not a secret final villain. **Volume 09** reveals both hidden facts: that he was kept alive as a stable witness inside the First Correction's central anchor, and that he helped build the first correction after the event. Elias first recognizes his initials in an old ward roster because Hollis used the same notation in handwritten maintenance notes; the roster proves involvement, not authorship. Do not state either fact in narration, dialogue, or a chapter card before Volume 09.
 
 ## Iven Quill
 
