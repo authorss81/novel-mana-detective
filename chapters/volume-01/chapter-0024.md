@@ -88,7 +88,7 @@ Crowther looked at his folder and then at Niko Senn.
 
 And Niko Senn put his hands flat on the table in front of him, on purpose, the way a man does it when he has been taught to do it, and Elias Venn put his own hands flat on his knees and then took them off again, and said nothing.
 
-"I work nights," said Niko Senn. "I do four nights and I'm on the bus at ten past one and I was on the landing at about that time on the sixteenth of September because I go up to hers about three times a week and we were a queue for four years, and I was never anything to her, and I went up that night the same as I've gone up a hundred times.
+"I work nights," said Niko Senn. "I do four nights and I'm on the bus at ten past one and I was on the landing at about that time on the sixteenth of September because I go up to hers about three times a week and we were a queue for four years, and I was never anything to her, and I went up that night the same as I've gone up a hundred times."
 
 "And I put my hand on the frame and the door did the thing it does, and it opened, and she said something to me — she said something, and I couldn't tell you what, and I'm not going to pretend to you that I can — and then the mug went over. It went across the room and it didn't break. And then the door did the click it does. And then I was in the room."
 
