@@ -1,10 +1,10 @@
 # Chapter 0021 — The Flag on the Board
 
-The board had three columns on it and on Monday morning at a quarter to eight there was a burglary in it.
+The board had three columns on it, and on Monday morning at a quarter to eight there was a burglary in it.
 
-Physical, Residue, Paper, in marker, in the sequence desk's own hand, in eleven years of nobody ever wiping it properly, and under Physical somebody had written *Holloway St, keys taken from door, no force* and under Residue *—* and under Paper *insurance claim 8841, claimant Sable* — and then had run an eraser down the whole of it, hard, four times, the way you do a thing you have been told to do, and the ink had gone grey and smeary rather than gone, so that the first two letters of *deceased R* were still legible under Holloway Street like something under ice.
+Physical, Residue, Paper, in marker, in the sequence desk's own hand, in eleven years of nobody ever wiping it properly, and under Physical somebody had written *Holloway St, keys taken from door, no force* and under Residue *—* and under Paper *insurance claim 8841, claimant Sable* — and then had run an eraser down the whole of it, hard, four times, and the ink had gone grey and smeary rather than gone, so that the first two letters of *deceased R* were still legible under Holloway Street like something under ice.
 
-Elias Venn stood in front of it with his coat still on and a coffee in his hand that he had made at six and had not drunk, and he read what was left of his own handwriting, which was: a *d*, an *e*, and the top half of a *c*.
+Elias Venn stood in front of it with his coat still on and a coffee he had made at six and not drunk, and read what was left of his own handwriting, which was: a *d*, an *e*, and the top half of a *c*.
 
 He had written a case on that board for ten days. Two hundred and six separate things had gone onto it, most of them in his own small bad hand, and the sum of it was that a woman had died in a room two floors above his own flat and the working that killed her had been carried into that room on a piece of metal, and the three columns had held all of it, and now the three columns held a keys theft and a claim against a man called Sable who was not Orin Sable, and the eraser had been the good kind, the kind from the stationery cupboard, and not the sleeve of a sleeve.
 
@@ -12,15 +12,13 @@ He had written a case on that board for ten days. Two hundred and six separate t
 
 "I have."
 
-"It went up at ten past seven. Priya did it, and she has apologised, and she is not to be told that it is all right." Nadia had her coat over her arm and a folder under it and the look of a woman who had been in a building since seven. "The flag went up at eleven yesterday, which is earlier than I said it would and I want that noted, and the Registry's index office rang me at half past twelve to ask whether the assigned detective had any connection with a certified record in the Tribunal archive, and I said the question had been put to the Deputy Chief's office and that I was not the office that answers it, and the woman on the telephone said *of course* and put the phone down in a way that meant she was writing."
+"It went up at ten past seven. Priya did it, and she has apologised, and she is not to be told that it is all right." Nadia had her coat over her arm and a folder under it and the look of a woman who had been in a building since seven. "The flag went up at eleven on Sunday night, which is earlier than I said it would and I want that noted, and the Registry's index office rang me at half past twelve to ask whether the assigned detective had any connection with a certified record in the Tribunal archive, and I said the question had been put to the Deputy Chief's office and that I was not the office that answers it, and the woman on the telephone said *of course* and put the phone down in a way that meant she was writing."
 
 "What is it now, then. Factually."
 
-"Factually you are the assigned detective on 441-KR until somebody in writing says otherwise, and you are a man who has applied for a certified record in another matter, and every report anybody writes about 441-KR from this morning carries a motive that is not in the case." She put the folder down on the desk under the board, which is a thing she had never once done in ten days. "And practically, Elias, you have four days."
+"Factually you are the assigned detective on 441-KR until somebody in writing says otherwise, and you are a man who has applied for a certified record in another matter, and every report anybody writes about 441-KR from this morning carries a motive that is not in the case." She put the folder under the board, which is a thing she had never once done in ten days. "And practically, Elias, you have four days and four hours."
 
-"Three and a half."
-
-"Three and a half," she agreed. "You asked for it to be served after the board. That is the deal and I got it and I would do it again. Serve it, and you are off. Do not serve it, and you are on a connected matter and there is a form for that too, and it is worse, because the form says *the applicant is aware that the record may be material to the conduct of the assigned detective*."
+"Four days and four hours," she agreed. "You asked for it to be served after the board. That is the deal and I got it and I would do it again. Serve it, and you are off. Do not serve it, and you are on a connected matter and there is a form for that too, and it is worse, because the form says *the applicant is aware that the record may be material to the conduct of the assigned detective*."
 
 "Which of those did you tell the Deputy Chief's office."
 
@@ -30,7 +28,7 @@ Elias Venn looked at the board for a while longer and then put his coffee on the
 
 "Is it the board or the file," he said.
 
-"Both, and in that order, and neither of them is anybody's fault." Nadia Kest said it flatly, which was the whole of what she had been doing for ten days. "The file you can be reattached to. The board is a piece of laminate with three columns on it, and it was the only thing in this building that made you say where you were going before you went, and there is now a burglary on it, and there is a form for that too, and the form is called a duty record and it is a good idea and I have been arguing for it for six years and would like to be able to recommend it at eight in the morning instead of at two in the afternoon."
+"Both, and in that order, and neither of them is anybody's fault." Nadia Kest said it flatly, which was the whole of what she had been doing for ten days. "The file you can be reattached to. The board is a piece of laminate with three columns on it, and it was the only thing in this building that made you say where you were going before you went, and there is now a burglary on it, and there is a form for that too, called a duty record, which is a good idea, and I have argued for it for six years, and I would like to be able to recommend it at eight in the morning instead of at two in the afternoon."
 
 Then she said, "Go and find your witness," and went out, and he stood under the board for another minute, and the coffee went cold on the desk, and he left it there, which was a thing he would have done differently a fortnight ago.
 
@@ -46,7 +44,7 @@ Elias Venn stood on the step of number six, Alderney Row, at twenty past ten on 
 
 "What did the man on Sunday look like," he said.
 
-"Neat." Wen Senn said the word the way Dr Okafor had said it about the maintenance man in a Ward Works vest, and he heard it, and it was the same word. "Glass on the counter and everything in its place. Suit for a Monday. He asked whether my nephew was in, and I said he was out, and he said he would wait, and he did wait, about twenty minutes, and my nephew came in at about nine and he went out with him for a cigarette and came back in with a piece of paper and went upstairs."
+"Neat." Wen Senn said the word the way Dr Okafor had said it about the maintenance man in a Ward Works vest, and he heard it, and it was the same word. "Glass on the counter and everything in its place. Suit for a Monday. He asked whether my nephew was in, and I said he was out, and he waited about twenty minutes, and my nephew came in at about nine and went out with him for a cigarette and came back in with a piece of paper and went upstairs."
 
 "Where is your nephew."
 
@@ -80,13 +78,13 @@ Niko Senn put his mug down.
 
 "He said the police had stopped." Niko Senn looked up. "That's the word he used. *Stopped*. He said the officer who lives upstairs has been stood down from the case and the case is being looked after, and there's a service at the Council for people who've seen something and can't hold on to the order of it, and it costs nothing, and you don't have to give anybody your name to start with." He laughed once. "That's a good one, isn't it. Three weeks of that and then a man on my step telling me the Council will hold it for me."
 
-Elias Venn did not move and did not speak for a moment, and what went through him was not a thought about the case. It was the plain physical fact that Nadia had told him on Saturday morning at about half past two, in a car, that somebody in his own building would know by Tuesday, and that a man had come to a door in the outer wards on Sunday night at about nine o'clock and said it out loud, four hours ago, forty-eight hours early, and had not been wrong.
+Elias Venn did not move and did not speak for a moment, and what went through him was not a thought about the case. It was the plain physical fact that Nadia had told him in a car on Sunday afternoon at about half past two, in a car park, that somebody in his own building would know by Tuesday, and that a man had come to a door in the outer wards thirteen hours ago, on Sunday night at about nine o'clock, and had said it out loud, and had been forty-eight hours early, and had not been wrong.
 
 "Niko. Listen to me carefully and answer the question and don't worry about the answer." He leaned in, which he knew was a habit, and then did not. "He said *stopped*. Are you certain he said stopped?"
 
 "He said stopped. He said it twice." Niko Senn frowned. "Why?"
 
-"Because a flag went up in a building on Morrow Hill at eleven o'clock yesterday morning, and it is written in a system that about forty people in this city can read, and none of those forty are me." He put his hands flat on the table, and then noticed himself doing it, and took them off again, and there was a small unpleasant silence in which neither of them said anything about a man in a smock. "He also said he was from the Council."
+"Because a flag went up in a building on Morrow Hill at eleven o'clock last night, and it is written in a system that about forty people in this city can read, and none of those forty are me." He put his hands flat on the table, and then noticed himself doing it, and took them off again, and there was a small unpleasant silence in which neither of them said anything about a man in a smock. "He also said he was from the Council."
 
 "He said Witness Services. That's what the leaflet says." Niko Senn pushed the leaflet across the table. "I was going to give you that and you were talking. Here. It's nothing, it's a public thing, they leave them everywhere. Half the people in this city couldn't tell you what the Witness Service is."
 
@@ -108,7 +106,7 @@ Elias Venn read the box three times and had to put his hand on the table.
 
 "Have you been in there."
 
-"Twice." He said it without any weight, which was the worst way to say a thing. "Friday, and Tuesday. They're at the back past the certificate office and there's a rack by the counter with about forty of them on it and a woman with a clipboard who gave me one of these and said I didn't have to give my name to start with, and she was right, she wasn't lying, she was completely right, I didn't have to give my name to start with, and then at the end of it there was a form and I did give my name."
+"Twice." He said it without any weight, which was the worst way to say a thing. "Friday, and Saturday. They're at the back past the certificate office and there's a rack by the counter with about forty of them on it and a woman with a clipboard who gave me one of these and said I didn't have to give my name to start with, and she was right, she wasn't lying, she was completely right, I didn't have to give my name to start with, and then at the end of it there was a form and I did give my name."
 
 "Niko—"
 
@@ -122,7 +120,7 @@ He stopped. He had his hands flat on the table again and he had put them there o
 
 "Why not."
 
-"Because whatever you tell me in the next four minutes will be true, and I will believe you, and I have got a piece of paper in this case that I wrote myself in about four minutes on Friday the twenty-first because a woman in a laboratory told me that a man who has one private certainty is going to be taken apart by the first competent defence in this city." Elias Venn put the leaflet down flat on the table between them. "And because there is one version of Thursday morning in which you walk into a room at ten o'clock with an account you have had for a fortnight, and one version in which you walk in with an account a fortnight old, and I have no way on this earth to know which of those is the one you are actually carrying, and neither do you. That's not me being careful. That's the shape of the thing."
+"Because whatever you tell me in the next four minutes will be true, and I will believe you, and I have got a piece of paper in this case that I wrote myself in about four minutes on Friday the twenty-first because a woman in a laboratory told me that a man who has one private certainty is going to be taken apart by the first competent defence in this city." Elias Venn put the leaflet down flat on the table between them. "And because there is one version of Thursday morning in which you walk into a room at ten o'clock with the account you have carried since the seventeenth, and one version in which you walk in with something else instead, and there are more ways for an account to become something else in fourteen days than there are people who would ever admit to it, and I cannot see one of them from here, and neither can you, and that is not suspicion. That is the shape of the position anybody is in."
 
 Niko Senn looked at the leaflet for a while.
 
@@ -148,7 +146,7 @@ Elias Venn did not move, and did not help him, and did not say a single word, an
 
 "I was saying you don't get to do that." Niko Senn's voice was slightly unsteady and he steadied it. "You came in here and you made me put my cardigan on it and you're not taking it. So take it. It's a leaflet. Half the street's got one."
 
-He left it. Elias Venn folded it once and put it in the inside pocket of his coat, and it was the only piece of paper he took out of number six, Alderney Row, on Monday the first of October, 2029, and Wen Senn put his cup in the sink and watched him do it and said nothing, which was the correct professional conduct of a woman who had a launderette and no telephone and had been visited by four men in a fortnight.
+He left it. Elias Venn folded it once and put it in the inside pocket of his coat, and it was the only piece of paper he took out of number six, Alderney Row, on the first of October, and Wen Senn put her cup in the sink and watched him do it and said nothing, which was the correct conduct of a woman with a launderette, no telephone, and four men through her door in a fortnight.
 
 ---
 

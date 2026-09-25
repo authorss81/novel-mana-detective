@@ -2,7 +2,7 @@
 
 The forms counter at Morrow Hill sells three things to anybody who asks, and on Tuesday morning the second of them was on a low table by the radiator with a wire rack on it and a card in a card holder above it, and the card said **Publications — 3 credits. No receipt required under 40.**
 
-Elias Venn had been in the building twice in six years and both times had gone upstairs. He had bought the concordance of sequence-box codes on the Saturday before last, for four credits, in a plastic sleeve, and had read it on a bench by a radiator. He was now standing in the same corridor at ten past nine in the morning with a leaflet in his inside pocket and three credits in his hand, and the person who had sold him the concordance was on the till.
+Elias Venn had been in the building three times in six years and two of those he had gone upstairs. He had bought the concordance of sequence-box codes on the Saturday before this one, for four credits, in a plastic sleeve, and had read it on a bench by a radiator, and he had gone back to the same radiator this morning because there is nothing else in Concord Hall to sit on. He was now standing in the same corridor at ten past nine in the morning with a leaflet in his inside pocket and three credits in his hand, and the person who had sold him the concordance was on the till.
 
 "The blue ones," she said. "Take the blue ones, they're the current printing, and if anybody's told you there's an older one with something different in it, they're confusing the practice notes, and the practice notes are not public and if you ask for them I'll have to ask you to leave."
 
@@ -10,9 +10,9 @@ Elias Venn had been in the building twice in six years and both times had gone u
 
 That stopped her for about a second and a half, which is a long time at a counter.
 
-"That one's in the blue rack," she said. "Part One, Part Two, Part Three. Part Three's the one people come in for." She reached down and put a book on the counter, and it was about the size of a telephone directory and about four times as thick, and it had a Concord crest on the front and a spine that said **WITNESS TRAINING COMPENDIUM, PART THREE: SEQUENCE SUPPORT AND RECALL** in gold, and a printed slip in the front saying *Fourth printing, revised 2026.*
+"That one's in the blue rack," she said. "Part One, Part Two, Part Three. Part Three's the one people come in for." She reached down and put a book on the counter, and it was about the size of a telephone directory and about four times as thick, and it had a Concord crest on the front and a spine that said **WITNESS TRAINING COMPENDIUM, PART THREE: SEQUENCE SUPPORT AND RECALL** in gold, and a printed slip in the front saying *Third printing, revised 2026.*
 
-"Third credit," she said. "And the modules inside it are numbered and the page numbers run per module, so if somebody quotes you a page, ask them which module, because half the mistakes I see in this building come from a page number without one."
+"Three credits," she said. "And the modules inside it are numbered and the page numbers run per module, so if somebody quotes you a page, ask them which module, because half the mistakes I see in this building come from a page number without one."
 
 Elias Venn carried it to a bench by the radiator, because that is where he had read the last one and because his left side was gone and the noise in that corridor was not going to help him, and he sat down and opened it at the contents page and found that there were eleven modules and that Module 4 was called *Grounding and Anchor* and was nineteen pages long.
 
@@ -26,21 +26,27 @@ Elias Venn read that sentence four times and then put his thumb under it and rea
 
 Page eleven set out the exercise. It was called *the anchor exercise* and the manual was extremely careful about the word it did not use, and the reason it was careful was that the manual had been revised four times.
 
-*The practitioner places a physical object with which the person has had recent contact on the table between them, and asks the person to hold it. The practitioner then names a sequence — an event, a movement, a sound — and asks the person to place it in order. The practitioner does not supply the order. Where the person cannot supply an order, the practitioner records that the person cannot supply an order, and the record stands. **A supplied order is not an account and may not be recorded as one.***
+*The practitioner seats the person at a table with both hands flat upon it. The practitioner then names a sound — a tap, struck on the table — and the person is taught to wait for it, to breathe out on it, and to say the name. The practitioner does not supply the order. The person supplies the order, from the account, and supplies it in the practitioner's form. Where the person cannot supply an order, the practitioner records that the person cannot supply an order, and the record stands. **A supplied order is not an account and may not be recorded as one.***
 
 That sentence was in a box, and under the box, in the same printing, was a second box.
 
-*Where a person has been exposed to a working, the anchor exercise may be conducted with the exposure as the anchor. The exposure is then the thing the person holds, and the order asked for is the order the person perceived. Care must be taken to distinguish the order perceived from the order expected, and the manual does not describe a method of distinguishing them, because no such method is established.*
+*The session is conducted in a room the practitioner has prepared. Where a session is conducted in other premises, the practitioner records the premises, the date and the reason, and states whether the person travelled to the room or the room was brought to the person. The commonest stated reason is that the person cannot travel.*
 
-Elias Venn sat on a bench in a corridor on the ground floor of Concord Hall for about four minutes and did not turn a page, and what he was aware of was that the reading had taken him somewhere he had not intended to go, and that he was going to have to sit with it, and that nobody in this building was going to help him do that because the sentence about no established method was not a warning. It was a note about a research position. It was the ninth page of a book that anybody could buy for three credits.
+Elias Venn read the second box twice and then sat on a bench in a corridor on the ground floor of Concord Hall for about four minutes without turning a page.
 
-He found, on a bench by a radiator, in the third printing of a public curriculum, four lines that were printed on a sheet of paper in a young man's aunt's front room in the outer wards.
+He had spent a fortnight learning that what a person did and where a person did it are not the same size. He had a man in a smock and a brass tool and a room he had never seen, and he had nothing whatever about the room, because the room had not once come up in anything that anybody had said to him. And here, on page eleven of a book that anybody could buy for three credits, was a form of words for the room, and a rule that where the room was not the practitioner's own, somebody had to write down where it was and why, in a book, in columns.
+
+He turned the page and finished the module and then came back and read the second box again, and the reason he came back to it was that he did not yet know what it was for, and a sentence whose use he cannot see at eleven in the morning is a sentence he may want at four in the afternoon, and he has been wrong about that judgement twice in nine days.
+
+He found, on that same bench, in the third printing of a public curriculum, four lines that were printed on a sheet of paper in a young man's aunt's front room in the outer wards.
 
 *Hold the order you actually perceived. If you cannot hold it, say so. An uncertain account recorded as uncertain is worth more than a complete one you cannot stand behind. Do not be helped into an order you did not see.*
 
 Do not be helped into an order you did not see.
 
-He wrote the whole box out in the small bad hand in the back of his own notebook with the module and the page and the printing against it, and he wrote the date on it, and he put the book in the wire rack on the table by the radiator because it was public property and he had paid for it and it belonged on that table, and then he went and found out where the office was.
+He had read a leaflet about the Witness Service on a bench in a shopping street on Thursday the twenty-seventh of September, for eighty minutes, outside a room he was not allowed into, and that one had been four years out of date and had told him a frightened man could be helped into an order he had not seen. Four days ago he had stood on a step in the outer wards and been handed a current one.
+
+He wrote both boxes out in the small bad hand in the back of his own notebook, with the module and the page and the printing against each, and he wrote the date on it, and he put the book in the wire rack on the table by the radiator because it was public property and he had paid for it and it belonged on that table, and then he went and found out where the office was.
 
 ---
 
@@ -72,7 +78,7 @@ She went away down the corridor. She was gone about four minutes. He stood at th
 
 She came back with a folder and did not open it on the counter.
 
-"Eleventh of September," she said. "He came in on his own on the eleventh. He came back on the twenty-fourth and the twenty-ninth, both booked, both two hours, and he's booked again for Thursday morning at half past eleven, which I have had to move because of a board in your district, and I don't know why a board moves my appointments but it does."
+"Eleventh of September," she said. "He came in on his own on the eleventh. He came back on the twenty-fourth and the twenty-ninth, both booked, both two hours, and he's booked again for Thursday morning at half past eleven, which I have had to move off Thursday the fourth, because there is a board in your district at ten o'clock that morning and he is a party to it, and he is not the only person in this city whose Thursday got moved for that, and I do not know why a board moves my appointments but it does."
 
 "How was he referred?"
 
@@ -104,7 +110,7 @@ She thought about it for a moment, and it was a real question and not a tactic, 
 
 "Why countable?"
 
-"Because if it isn't countable, nobody can be told." She put the folder away under the counter. "And that's the whole job, sir. That's the entire job. Telling people who sent them here."
+"Because if it isn't countable, nobody can be told." She put the folder away under the counter. "And that's the whole job on this counter, sir. The entire job. I do not hold a certificate and I have never held one, and the woman who does is called Kaye and she is two doors down and she will see him at eleven, and I am the counter, and the counter is the half of this office that knows everything and is allowed to say nothing."
 
 Elias Venn stood in that corridor for another minute, and what he thought about, and could not have said aloud if he had been asked, was that there was a card in the pocket of a man of twenty-four in the outer wards with a number on it, and a man in a smock who had taken forty credits four times for a hand flat on a table, and a file in a cabinet behind this counter with a name at the top of it and a number beside it, and that if the number on the card and the number in the file were the same number then a great deal of what had happened in a room in Kettle Rows had a *source* in it, in a way that had nothing to do with a plate or a seal or a Ward Works vest.
 
@@ -133,9 +139,9 @@ He wrote the paragraph out in the back of the notebook with the practice note nu
 
 *Practice note W-7. Withdrawal does not impugn either account.*
 *A card refers to a service. A referral is countable. Somebody is told who sent a person here.*
-*Nobody in the Concord is hiding this. That is what the twelve pages and the leaflet and the free rack and the four pounds at the counter are for.*
+*Nobody in the Concord is hiding this. That is what the nineteen pages and the leaflet and the free rack and the three credits at the counter are for.*
 
-Then he went out past the certificate office and up the stairs and out into the daylight on Morrow Hill at a quarter to eleven in the morning, and stood on the step, and took the leaflet out of his coat and read the box on it one more time.
+Then he went out past the certificate office and up the stairs and out into the daylight on Morrow Hill at about a quarter to twelve, and stood on the step, and took the leaflet out of his coat and read the box on it one more time.
 
 *Do not be helped into an order you did not see.*
 
