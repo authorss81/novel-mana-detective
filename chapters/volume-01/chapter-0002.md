@@ -180,6 +180,6 @@ She got out a lens that was not a lens, and she crouched, and she took perhaps t
 
 She went. Abasi went up the stairs with two Ward Works officers to take the rest of the room properly. And Elias Venn stood in the wet street outside his own building in a district where three thousand people had noticed a cordon and eleven thousand had not, with four minutes of his own life missing and a signed piece of paper in a police pocket stating that he lived here, and the discovery sitting in a hard case on a bench that was not his.
 
-The threshold had two orders in it. One of them belonged to a night-bus dispatcher who had made her own tea at six that morning in her own way, and had fed a cat on Thursdays, and had gone to work on time for four years.
+The threshold had two orders in it. One of them belonged to a night-bus dispatcher who had fed a cat on Thursdays, and had boiled her kettle dry on the sill on her way out, and had gone to work on time for four years.
 
 The other one had no owner that he could find, and it had been put there by somebody who had wanted the room to say something else.

@@ -6,7 +6,7 @@ That was all it was, at first. A small brass-cased light on a bracket at knee he
 
 Tonight it was late by four.
 
-He stood at the bottom of his own stairs with his coat over his arm and his key still in the lock of the shop behind him, and he watched the light come up while the kitchen clock in the room above his own apartment said fifty-two minutes past one. It did not flicker. It did not surge. It simply arrived late, the way a man arrives to a shift he has already decided not to bother with.
+He stood at the bottom of his own stairs with his coat over his arm and his key still in the lock of the shop behind him, and he watched the light come up on the landing while the shop clock, three feet from his shoulder, said fifty-two minutes past one. It did not flicker. It did not surge. It simply arrived late, the way a man arrives to a shift he has already decided not to bother with.
 
 The coffee had gone cold in his hand some time ago. He had been carrying it up three flights with the intention of drinking it, which was the sort of thing he did instead of eating.
 
@@ -78,7 +78,7 @@ The order was still there, and it had not faded the way his fear had.
 
 *Begin inside. Bind to the desk. Address the door. Turn it. And then, after, a second thing closes itself — a thing with no owner, no weight, no reason in it, sitting exactly where a door working's release should be.*
 
-He had seen that shape before. He had a name for it in a drawer in his own apartment, and the name was not his, and the file it was written in had a length of red thread knotted around it because he could not make himself unknot it or throw it away.
+He had seen that shape before. He had a name for it in a red box in his own apartment, and the name was not his, and there was a length of red thread knotted round the box because he had never managed to make himself unknot it or throw it away.
 
 He did not open it. He was on the fourth floor of his own building, and it was nearly two in the morning, and the woman who slept in that room had been on shift since eleven and was not due back until six.
 

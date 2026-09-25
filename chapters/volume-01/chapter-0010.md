@@ -132,7 +132,7 @@ Elias looked at the door.
 
 He did not use the crowbar on the hinge. He used it on the latch plate, which is not the way the manual says, and the door came off the frame at one corner and swung in eight inches and he got his shoulder into the gap.
 
-The stockroom was four metres by three. Shelving down both sides. A steel bench at the end with the dispensary's ward maintenance book open on it, face down, kept flat by its own weight and four years of nobody bothering to tidy it. Amber light. Cold room on the right, its door open. And a smell of scorched salt, thin, like a chip in a pan that has been left too hot.
+The stockroom was four metres by three. Shelving down both sides. A steel bench at the end with the dispensary's ward maintenance book lying open on it, kept flat by its own weight and four years of nobody bothering to tidy it. Amber light. Cold room on the right, its door open. And a smell of scorched salt, thin, like a chip in a pan that has been left too hot.
 
 And a man.
 
@@ -146,7 +146,7 @@ The man did not put up a hand and he did not turn round. He put one knee on the 
 
 "You will want to think about that," the man said again, and it was not a threat, it was advice, given the way a mechanic gives advice to a customer about a car that is about to cost him, and that was the worst part of it, and the screw went another half turn.
 
-Upstairs, on the far side of a floor and a ceiling, a man of twenty-four with a fever of thirty-seven eight lie in a bed under a ward light that had been flickering for the better part of two hours, and the ward light was the only thing in that room holding anything at all in place.
+Upstairs, on the far side of a floor and a ceiling, a man of twenty-four with a fever of thirty-seven eight lies in a bed under a ward light that had been flickering for the better part of two hours, and the ward light was the only thing in that room holding anything at all in place.
 
 Elias put the crowbar down on the floor where he could kick it and picked up the only other thing in reach, which was a length of copper out of the cold room's spill tray, and he got it up under the tube where it came out of the brick, at the first brass saddle clip, and he levered.
 
@@ -290,7 +290,7 @@ Elias sat with that for a while.
 
 "Take it, then," said Ahmed. "You've had a bad day."
 
-Elias Venn sat on a kerb in Kettle Rows until a quarter to three, and his legs came back at about half past two, and the clinic's wards came up properly at four with a sound from the counter like somebody drawing a breath, and Jules Ardent went in and hung a new length of conduit in a dispensary ceiling because the fire officer could not come until Tuesday, using the two brass saddle clips out of the old one, and Jules Ardent would not let anybody pay him for it and would not let anybody put his name on it either, and did it in forty minutes with a borrowed ladder.
+Elias Venn sat on a kerb in Kettle Rows until a quarter to three, and his legs came back at about half past two, and the clinic's wards came back on their own at about ten past midnight, nine minutes after Jules cut the isolator, with a sound from the counter like somebody drawing a breath — all of them except the dispensary's, because the dispensary end of that line was hanging off a wall that no longer had a conduit on it and would keep on hanging there until somebody could put one up. At four o'clock Jules Ardent went in and hung a new length of conduit in a dispensary ceiling because the fire officer could not come until Tuesday, using the two brass saddle clips out of the old one, and the dispensary ward came up properly behind him, and Jules Ardent would not let anybody pay him for it and would not let anybody put his name on it either, and did it in forty minutes with a borrowed ladder.
 
 At four o'clock Elias got a message from Nadia, sent from a car, four words long.
 
@@ -302,7 +302,7 @@ And then a second one, eleven minutes later, from a number he had never had.
 
 ---
 
-Elias went back in at four, when the wards were up and the counter made the sound a room makes when it has just decided to be a room again, and the dispensary's ward maintenance book was still face down on the steel bench in the stockroom where the man had left it, and the tin of surgical staples was still on the corridor bench twenty feet away where it had been holding a sheet of paper down.
+Elias went back in at four, when the wards were up and the counter made the sound a room makes when it has just decided to be a room again, and the dispensary's ward maintenance book was still lying open on the steel bench in the stockroom where the man had left it, open at a Wednesday, and the tin of surgical staples was still on the corridor bench twenty feet away where it had been holding a sheet of paper down.
 
 The Wednesday entry was in a hand that did not belong to anybody in the building. A name, a Ward Works vest number, his own signature, and beside the signature, in the same hand, a job: *check the line.* Twenty-one ten. No second signature and no counter-signature, because the night porter's rule is that a man with a vest and a book does not need one.
 
@@ -312,7 +312,7 @@ Elias stood in a stockroom belonging to a clinic that owed him nothing, looking 
 
 Nobody in four days had written down a single line containing a person doing this. The one line that existed had been written by a stranger in a stranger's hand at ten past nine on a Wednesday night, while a seventy-one-year-old woman stood with her hands folded and let him, and it had sat in that book for two days and been looked at by a night porter with a torch he did not need. Looking would have meant deciding that something was wrong. Everybody in that building had a hundred things to do that were more obviously wrong.
 
-He asked Ahmed to carry the book out to the corridor and stand it open on the bench next to the sheet, and to photograph the two of them together in one frame, and then to put the book back where he had found it and be very careful about it. Ahmed asked whether he wanted the page number written on the back of the print, and Elias said yes, and then said write the date and the time on it as well, and then said no, don't write mine.
+He did not take the book out, and he did not take the sheet out, and he did not put a hand on either of them. He stood in the stockroom doorway with the door held back on its one working hinge and framed the shot so that the open book on the bench and, twenty feet away through the door, the tin of surgical staples and the corner of the sheet of paper under it, came into one exposure. The date and the time were already on the phone that took it. Ahmed asked whether he wanted the page number written on the back of the print, and Elias said yes, and then said write the date and the time on it as well, and then said no, don't write mine. Ahmed said that was the first useful thing anybody had asked him to do all night, and then went back down the corridor with his torch, because that was the end of his night and Elias was not going to be the man who made it longer.
 
 He stood in the corridor for a while after that in the rain coming sideways off the yard, working out that a sheet of paper had been lying in plain sight under a tin of surgical staples for two days, and that every person who had walked past it had thought it was a piece of paper, and that this was the whole of the case so far, in one object, under a weight.
 

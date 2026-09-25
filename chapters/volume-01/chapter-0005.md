@@ -48,7 +48,7 @@ Elias had a case number. He wrote it on his form and showed it to her.
 
 "Then you'll need the seal on it as well, and the seal's upstairs, and the man upstairs doesn't like being sent for things by people he's met once." She opened a drawer. "Page three hundred and eleven. Photograph it. Don't lean on the glass."
 
-He photographed the page. Six entries for Jules Ardent, all in one hand-block, all stamped at Bramwell & Sons of Ash Street for the marking: JA-4412, JA-4413, JA-4414, JA-4415, JA-4416, JA-4417. *Portable ward clamp, c/w channel jaw, bench run of six, 4408 to 4417.* Beside 4417, in the same block: *to J. Ardent, 4408,* and then, later, in a different ink and a different, less careful hand: *4417 issued 4417 — J.A. bench.*
+He photographed the page. Six entries for Jules Ardent, all in one hand-block, all stamped at Bramwell & Sons of Ash Street for the marking: JA-4412, JA-4413, JA-4414, JA-4415, JA-4416, JA-4417. *Portable ward clamp, c/w channel jaw, bench run of six, 4412 to 4417.* Beside 4417, in the same block: *to J. Ardent, 4412,* and then, later, in a different ink and a different, less careful hand: *4417 issued 4417 — J.A. bench.*
 
 "Issued," Elias said.
 

@@ -86,7 +86,7 @@ Niko almost laughed. It was a bad laugh. "Is that true? Is there somebody?"
 
 He had not expected to be able to say that and he found that he could, which was new.
 
-"I've got to tell you something," he said. "About what this is costing. On Monday there was a woman from the Concord who asked me, on a form, in writing, whether I live in the building where the woman died, and I wrote the answer in my own hand and signed it, and that is now in the case file, and I heard about it off you and not off her, and it means that when this goes to a hearing, the first thing anybody will say is that the detective could not be trusted because he lived upstairs. And I have not got an answer for that. I have got a piece of paper in which I got there first, which is a smaller thing, and it is the only thing I have got."
+"I've got to tell you something," Elias said. "About what this is costing. On Monday a woman from the Concord put a form in front of me and asked me, in writing, whether I live in the building where the woman died, and I wrote the answer in my own hand and signed it before she went into the room. That is in the file now, and it is the only thing in it in my own hand, and it means that when this goes to a hearing the first thing anybody will say is that the detective could not be trusted because he lived upstairs. I have not got an answer for that. I have got a piece of paper in which I got there first, which is a smaller thing, and it is the only thing I have got."
 
 Niko Senn looked at him.
 

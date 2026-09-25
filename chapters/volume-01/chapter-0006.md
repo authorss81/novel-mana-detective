@@ -80,7 +80,11 @@ He read it twice. It was not a threat. It was worse than a threat; it was a sche
 
 "And nobody can do anything about it, because it is a lawful instruction."
 
-"Underneath the law, no. Above it, quite a lot." Mara did not look up. "That clinic is not a Concord facility and Concord inspectors do not have that authority over it, and if a Kettle Rows tenant or a patient stood on the steps and said *no*, there is not a warrant in this city that would make them stand aside by Friday. But nobody will stand there, because a clinic on a Wednesday evening has ninety people in it, and every one of them is here because a certificate has already failed them once, and none of them is going to trade a prescription for a fight with the Proof Registry."
+"Underneath the law, no. Above it, quite a lot." Mara did not look up. "That clinic is not a Concord facility and Concord inspectors do not have that authority over it, and if a Kettle Rows tenant or a patient stood on the steps and said *no*, there is not a warrant in this city that would make them stand aside by Friday. But nobody will stand there, because a clinic on a Wednesday evening is busy in a way that has nothing to do with the weather, and every single person in it is there because a certificate has already failed them once, and not one of them is going to trade a prescription for a fight with the Proof Registry."
+
+She wrote for a moment, and still did not look up when she started again.
+
+"And I will tell you the number Dr Okafor gives, because you will want it and you should have it from me and not from a van window. She will say a hundred. She will say it in that voice she has. There are not a hundred people on that site. That clinic has twenty-two chairs in its waiting room and nine of them are usually full, and two beds upstairs, and on a Wednesday evening it is not going to be bursting. But *a hundred* is the number that stops a van turning into that yard, so I am not going to spend this week talking her out of it."
 
 Elias set the clipboard down.
 
@@ -188,6 +192,6 @@ The first was that a good man keeping a promise was the most dangerous thing in 
 
 The second was that the printed file on Mara's desk, which he had not been near, which he was not permitted to be near, and which he had photographed from a chair in a corridor like a man in a story about a man like him, had a name in it. Niko Senn had been booked into a rehabilitation clinic on Verge Row through an account that had no patient in it, for a date that does not appear anywhere in the young man's own account, and a treatment he did not remember, and a transfer notice on that booking had come out of the printer in that building at six o'clock that evening, initialled at the counter and waiting for a signature that nobody had yet been in a position to refuse.
 
-Elias stood on the steps of Saint Orra Reach and did not go home, because there was one person awake at twenty to midnight in the whole of the Kettle Rows district who was a doctor and not a criminal, and she had ninety people in her building and a four-page instruction in her hands, and it was not going to be her night to hold the stair.
+Elias stood on the steps of Saint Orra Reach and did not go home, because there was one person awake at twenty to midnight in the whole of the Kettle Rows district who was a doctor and not a criminal, and she had a night porter on his own at the bottom of her stairs and a four-page instruction in her hands, and it was not going to be her night to hold the stair.
 
 He got in a taxi and paid the driver to take him the long way, so that it was half past midnight when he arrived, and by then the courier's van with a box of brass in it was out on Marshall Street, turning off towards the ring road and the outer wards, with a heat-sensitive label on the side and a signature on the manifest belonging to a man whose name was not Jules Ardent's.
