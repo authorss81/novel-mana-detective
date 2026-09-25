@@ -280,6 +280,21 @@ Canon recorded here as it was established in prose. No power rule changes.
 - **Lindqvist & Roake, solicitors**, and **Ivo Lindqvist**, partner, nineteen years, no file in this building. Filed the application to strike Schedule 1 on 5 October 2029 for rehabilitation account 44-9, whose registered agent is a legal person with a return clause. **Not named in Arc C as the person behind anything.**
 - **Marguerite Osei's note** — a municipal form from the Tanager Street works depot, three numbered items, a reason given, and the third item: *I am not refusing a formal request. I am refusing a person. Those are not the same and I would be obliged if the difference was recorded.* **It is a frightened person's document and it is correct, and he does not reply to it.**
 
+## Terms and places added while drafting (Volume 01, batch 0004)
+
+Canon recorded here as it was established in prose. No power rule changes. **Aegis Mutual is named in prose for the first time in this batch, in the workshop daybook (Ch 38), as a document and not as a scene.**
+
+- **Aegis Mutual — first naming.** In workshop daybook, Bay 6, page 14, dated 3 October 2029, bench hand: *12 ch. seat per drg, a/c Aegis Mutual, continuity schedule Kettle/Halloway, 216 cr.* A risk office whose published premiums price off reported faults; a Lantern Compact member; the largest insurer in Veyra. In this batch a customer/payer/book-holder only — not the hand that made anything, not the reason any ward went dark, not the network's author. Why it holds a certificate for a treatment no patient remembers receiving is sharpened, not answered (volume close, Ch 50).
+- **Fenwick & Marsh, draughtsmen, 12 Cutter Street** — drawing office. Counter clerk **Imogen Draper**, eight years. Draughtsman **Tomas Beck** (T.B.), checked F.M. Register: bound foolscap ledger behind the counter, entries by reference/sheet/issue/drawn initials/date. Opens on a case number or a maker's written authority; read/photographed in place; says who/when, not why.
+- **DRG HW-CS-03, Sheet 1 of 2** — Issue A 24 Sep 2029 (*depth to be confirmed*), Issue B 30 Sep (*DEPTH: Fig. 3, Q*), drawn T.B. 26 Sep. Material callout *galvanised channel section, 300 mm stock; foil 0.4, 90 x 140*. Seat note *per description relied on* — a referral to another document, not a dimension.
+- **Bay 6, Low Cut, off Cutwater Passage, The Cut** — two-room workshop. Keeper **Felix Harrow**, 58, lets bays monthly cash, keeps rent book himself. Bench, vice, fixture, swarf, stock, kettle, lamp, Yale door. Located, left standing; nothing seized/sealed/cleared/catalogued.
+- **Worklist WL-44/09-07, 2 Oct 2029** — 12 channels, seat per DRG HW-CS-03 Issue B, 18 credits each, delivery carrier bag on shoulder. Stays on nail in Bay 6.
+- **Workshop daybook, p.14, 3 Oct 2029** — stays on bench in Bay 6; p.14 photographed in place into 441-KR. See Aegis line above.
+- **Emmett Caul, 52, works scheduler, Municipal Works Contracts Office, Tanager Street** — protected intermediary who commissioned 12 ward continuity units (order 28 Sep). Job/standing/reason on page; not villain, not Orin, not maker.
+- **Kester Vane, 34, and Donal Pryce, 41** — bench workers, Bay 6. Charged with assembling unregistered working frames. One sincere (Vane), one paid (Pryce); not identical.
+- **Cutter Street Factors** — trade supplier; Venn Repairs account (20 years) withdrawn 23 Oct 2029, cash henceforth.
+- **Departmental censure, Sequence Desk, 23 Oct 2029** — third-breach consequence (object/date/consent/witness noted), file closed against him. Not a formal reprimand (Arc E).
+
 ## Capitalization and style
 
 - Capitalize **Veyra**, **Mara Quill**, **Civic Concord**, **Quiet Hands**, **Proof Tribunal**, **Quiet Grid**, **Veyran Vault**, **Proof Registry**, **Lantern Compact**, **Ninefold Assembly**, **Aegis Mutual**, **Sequence Sight**, **Witness Service**, **Witness Rooms**, and **Witness Compact**.

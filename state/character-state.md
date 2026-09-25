@@ -1,6 +1,36 @@
 # Character State
 
-**Updated after Volume 01, batch 0003 (Chapters 21–30).** For the writer's handoff only. The authoritative descriptions live in `bible/characters.md`; this file records where each person physically and emotionally is at the end of Chapter 30, and what they now know that they did not know at the start of the batch.
+**Updated after Volume 01, batch 0004 (Chapters 31–40).** Authoritative descriptions in `bible/characters.md`; this file records where each person is at end of Chapter 40.
+
+## Elias Venn (Ch40)
+
+- Not on 441-KR (Rennick holds it, with register + daybook photographs in it). **Departmental censure 23 Oct** (third breach, Bay 6, consent + witness noted), **file closed against him** (not formal reprimand). **Cutter Street Factors account (20 years) withdrawn 23 Oct**, cash henceforth; rent paid to the first; shop kept by mending kettles.
+- Body: one workshop reading 22 Oct 14:10–14:16, cost **14:10–18:40 place-loss** (cannot re-find twice-taken route, Jules leads out by handrail), honoured to minute, *reported by the officer*. No nosebleed, ear permanent. Sleeps badly, eats standing, writes everything down.
+- Knows: register opens on case number/maker authority; DRG HW-CS-03 A/B arithmetic; Bay 6 method as ordinary work; Caul commissioned as scheduler; daybook names Aegis as customer; charges + clearance wording; his trade standing gone. Cannot interrupt/read living/tell fold/delivered; holds to it.
+- Wants: to keep mending, to hold paper carefully, to not make anyone into a route. Niko Senn's date/card stay Niko's.
+
+## Mara Quill (Ch40)
+
+- Figures used as dimension (Fig. 3, Q) and as clearance (workshop finer than JA-4417); 20 Oct confirmatory log filed with two witnesses. Consent/breach practice held; measurement (plate vs surface) kept separate from reading; read properly by two people at once in her building. Formal joint protocol still V03–04, not written; not lovers.
+- Holds both plates (stencil unmoved, padlock on), logs, breach notes. Wants a record nobody can own.
+
+## Nadia Kest (Ch40)
+
+- Carried paper to Rennick as recorded favour (paper not message, minuted, counted); not on case; review stands; *not the last thing*. Witnessed cost reporting as *reported by the officer*. Wants to be argued with, disclosure to named person.
+
+## Jules Ardent (Ch40)
+
+- **Charged with carrying other people's work (two runs), cleared of building the frame** on measurement — first thing anyone gave him. Maker's enquiry stays open on die block; practice notice lifted; bench room shut. Knows drawing exists (reference only), told before clearance as promised. Says physical explanation ≠ mystical answer. Holds charge + clearance + bench book.
+
+## Niko Senn (Ch40)
+
+- Asked about 16 Sep as person (Kettle Rows landing, slip, unordered click, thing not finished with his name on it); card in pocket, name Hardaker said aloud, appointment 18 Oct his decision. In none of the charge sheets. Holds date + card; came 24 Oct to say it still not finished. Never bed/young man/patient.
+
+## Others (Ch40)
+
+- Sana Okafor: board held, looked at touched by nobody. Bettina Haile: announced nothing, no second hearing. Rennick: officer, three things, photographs in file. Harrow/Vane/Pryce: keeper + workers (sincere/paid distinct); Vane/Pryce charged. Caul: intermediary on paper, job/reason, not villain. Orin: once on paper (licence class), not caught/faced/commissioner. Hardaker: answered truly (Halloway 16 Sep), not operator/Orin, not charged. Wen Senn: cakes, launderette. Osei: named absence, unanswered, unchanged. Otto/cat/Reisz/Achterberg/Ahmed: shop kept, rent, board book.
+
+Prior batch detail retained below for reference.
 
 ## Elias Venn
 

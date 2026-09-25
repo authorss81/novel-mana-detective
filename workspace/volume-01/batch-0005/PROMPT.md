@@ -1,0 +1,56 @@
+# Volume 01, Batch 0005 — Arc E, "The Missing Fourth Act" (Chapters 41–50)
+
+Read `AGENTS.md`, `NOVEL_SPEC.md`, `outline/ending.md`, `outline/series.md`, `outline/volume-01.md`, `outline/batches/volume-01-batch-0004.md`, the forty written chapters in `chapters/volume-01/`, `state/batch-0004-summary.md`, `state/chapter-summaries.md`, `state/character-state.md`, `state/continuity.md`, `state/open-threads.md`, and the `bible/` files. Batch 0004 is the long-term memory for immediate voice; the state files are the long-term memory for plot. **The Chapters 41–50 context budget allows the previous 40 chapters; read 1–40, not only 31–40.**
+
+**Step one, before any prose:** derive the ten chapter cards for Chapters 41–50 from the Arc E commitments below and write them to `outline/batches/volume-01-batch-0005.md` in the standard card format (Chapter, POV, Location/time, Immediate goal, Resistance, Information revealed, Action or decision, Emotional change, Power or resource change, Continuity fact to preserve, Ending type, Next-chapter pull). Then write the chapters against those cards.
+
+---
+
+## What this arc is
+
+Arc E — **"The Missing Fourth Act," Chapters 41–50, batch 0005 (final batch of Volume 01).**
+
+- **Arc promise:** stop a live working in a crowded clinic and survive the certificate.
+- **Arc-level beats, per `outline/volume-01.md` and escalation beats 10–11 (reserved for this batch, never delivered earlier):** Orin Sable attempts to complete a copied sequence in a clinic full of patients through a frame connected to a patient's personal object; Elias follows the causal order, identifies the fabricated release as the fourth act, and with Mara's warning + Jules's physical anchor + ordinary police procedure breaks the physical carrier (he cannot interrupt a working directly); Mara shaken; part of the workshop destroyed in the aftermath; **Orin escapes with a source anchor**; Nadia secures the clinic and arrests the two local operators; the workshop in The Cut is **dismantled and its stolen source objects catalogued**; the official certificate records a complete self-directed working and **omits the contradicting witness** (public wording milder: *contained accident involving an unregistered ward tool*); Elias is **formally reprimanded** for the unlogged touch and loses unrestricted access to first-scene samples but keeps a private documented copy of the physical discrepancy; Mara's draft becomes the informal protocol both work under (formal joint protocol stays V03–04); Jules returns borrowed tools, admits unregistered repairs; the city treats the case as solved while the original release and the contradicting witness stay outside the certified record.
+- **Volume close (Chapter 50 only):** Elias outside the closed clinic with the salt-glass plate holding two overlapping residue orders; city has issued a single clean certificate; he wraps the plate in red thread but does not tie the knot; the missing release waits between the two accounts. **No batch before this one may reproduce or promise this image.**
+- **Volume 02 question (asked at the volume close in Chapter 50, not earlier):** who is teaching Orin Sable to move a working through a living patient, and why does Aegis Mutual possess a certificate for a treatment no patient remembers receiving?
+
+## Starting condition, inherited from batch 0004 without re-breaking anything
+
+Calendar fixed **Monday 17 September to Wednesday 24 October 2029** (19 Sep Wed; 15 Mon … 24 Wed, all checked). **This batch opens on or after Thursday 25 October 2029.** Check every weekday before it goes on page/card/state.
+
+What is on the page at Chapter 41: Elias censured (23 Oct, third breach) with file closed against him (not formal reprimand); Factors trade account (20 years) withdrawn, cash henceforth; 441-KR with Rennick holding register + daybook p.14 photographs; Bay 6 located left standing with originals in place (worklist on nail, daybook on bench); Vane/Pryce charged with assembling, Jules charged with carrying + cleared of building on Mara's figures; nobody charged Elias or Orin; daybook line *a/c Aegis Mutual* photographed, original in bay; Niko Senn with date + card, 18 Oct appointment his decision; plates in Mara's name (stencil unmoved, no proof-weave entry); maker's pair three; clamp outer wards; book unseized; two transfer orders in places; four sheets one copy on board (photograph ≠ copy with Rennick); Osei note unanswered; Hardaker answered (Halloway 16 Sep ≠ Kettle Rows).
+
+## Power rules
+
+First Margin unchanged. No counterturn. No new stage. Volume ends where it starts. Readings scarce, each new separately paid cost (Arc A four, Arc B none, Arc C one for order-of-day, Arc D one for 14:10–18:40 place-loss). **Arc E may take one** — the crowded-clinic live-order hold, paid with duration logged + honoured, not nosebleed (spent V01), not ear (permanent), not order-of-day, not place-loss again. Reading is contact/entry, not counting, not plate-against-door (Mara's facility stays separate). He still cannot tell fold from genuine turn, cannot separate delivered from performed, cannot interrupt a working — he breaks the carrier physically with help. Never read a living person. No further object contact beyond the one reading except the copper-tool precedent shape (physical breaking, not examination). At most one restrained panel, only if a rule changes a decision.
+
+## Object/custody — do not drift
+
+Plates in Mara's name; stencil one location (second plate) and moves only by documented painful decision with her consent + reasons. Saddle clips on dispensary conduit. Maker's pair stays three — no fourth stamped object. Bay 6 originals stay until dismantling, which is an Arc E chain-of-custody operation on the page (seize, log, catalogue stolen source objects). Maintenance book moves only with Sana's agreement as a scene. Transfer orders stay two documents. Niko card stays in his pocket unless he decides otherwise with reason. Every new document one location; photograph in place until seizure chain starts; if two objects in one frame move the camera.
+
+## Relationships
+
+Elias/Mara: practical undeclared intimacy only; informal protocol adopted, formal joint protocol stays V03–04, never lovers here. Elias/Jules: reluctant technical ally the network can still reach; Jules returns tools, admits part. Elias/Nadia: Nadia keeps correction cell from escaping; professional, not romantic. Elias/Sana: clinic stakeholder, consent rules. Elias/Haile: Registry produces certificate; adversarial dependence hardens. Osei: may appear once on paper or as named absence; arc may not fix. Orin: escapes with source anchor; not caught/faced. Niko Senn: person with date, named wherever present/intended/discussed.
+
+## Required world reveals
+
+Crowded-clinic working as action testing choice (not monochrome fight); dismantling as procedure (seal, log, catalogue); certificate vs public line saying different things; reprimand vs censure kept distinct; source anchor leaving Veyra (not recovered); repaired ward flicker holding.
+
+## Out of scope — do not deliver or foreshadow as active
+
+Iona Saye, Quiet Hands by name, nine institutional anchors, Safety Charter, Ward Reauthorization Review as dated event, Hollis whereabouts after disappearance, 4(c) authorship (who fills/why/machine), anything beyond Volume 01 power ceiling. Do not ask the Volume 02 question before Chapter 50. Do not reproduce the red-thread image before Chapter 50.
+
+## Findings from batch 0004 carried forward (do not regress)
+
+Name Niko Senn everywhere relevant; object leaving shown leaving; document one location; photograph in place (move camera not objects); numbers add up (references/sheets/issues/worklists/accounts/dates); one number per fact (Sana's hundred stays character choice); duration-costs honoured to minute; dialogue in own mouth; no knowing without way of knowing (reading gives order + anchor, not furniture); say less about what is coming (antagonist explains nothing; Aegis stays a ledger line + the Ch50 question); vary closing moves (no neat-line habit, no chapter summary as ending); no thesis aloud (ledger/title block/register/callout/seat argue); list is not a scene (open on person/object/disagreement); dates checked not inherited (batch 0004 corrected "Wednesday 23 Oct" → Tue 23/Wed 24; keep checking); scene must not state what same-chapter document disclaims (register says who/when not why); institutional beats on page once as documents; recitations given one line of what-for in a voice.
+
+## Pacing
+
+Ten chapters with promise/escalation/turn/payoff; rotate pressure (no >2 consecutive same kind); at least one recovery beat (sleep/medication/money/standing); at least one chapter as conversation between two disagreeing-for-valid-reasons people. **Chapter length 2,900–4,000 words.** Batch 0004 ran short (~1,100–2,600, mean ~1,840); Arc E must return to band. If a scene needs room, give it a second chapter with different pressure.
+
+Batch 0004's closing move (do not repeat): Chapter 40 closed on a man sleeping above a shop with books that did not balance, a bay below the city with bench + book, wards flickering once and holding. Chapter 41 must not open by counting the shop again.
+
+## After the chapters
+
+Update `state/batch-0005-summary.md`, `state/chapter-summaries.md`, `state/character-state.md`, `state/continuity.md`, `state/open-threads.md`, `state/current.md`. Keep summaries compact for next volume. Record every new canon fact/proper noun/cost/object state. Record volume-close image + Volume 02 question asked (Ch50) in continuity. Then inspect `outline/volume-01.md`: volume complete, so create **exactly one** volume-close prompt (no batch 0006, no audit, nothing else) per controller conventions.
