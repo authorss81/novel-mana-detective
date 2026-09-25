@@ -13,7 +13,7 @@
 | **Iven Quill.** Mara's brother, missing six years, lost to an unlicensed memory clinic. | open | Found alive but not restored, Volume 06; Mara's choice about reconnecting him, Volume 12 |
 | **The missing technique.** The first network can carry a stolen release template. It cannot yet insert a correction independently. | open | Volume 02 question, extended through Volumes 7–8 |
 | **Aegis Mutual's certificate.** An insurer holds a certificate for a treatment no patient remembers receiving. | open | Volume 02 lead, Volume 04 tribunal |
-| **The pattern of who is taught.** Someone supplies frames, measurements, and rehearsals; the stockroom frame is a finer, better-made copy, so these are produced in series. | open | Arc A raises it; Orin Sable is named in Arc B; the intermediary and the Aegis Mutual ledger surface in Arc D |
+| **The pattern of who is taught.** Someone supplies frames, measurements, and rehearsals; the stockroom frame is a finer, better-made copy with a second, finer seam, so these are produced in graded series. The foil template the crew was sent to remove survives in Mara's laboratory and links the first two frames to one workshop. | open | Arc A raises it; Orin Sable is named in Arc B; the intermediary and the Aegis Mutual ledger surface in Arc D |
 | **Elias's unreadable gift.** The Margin is unregistered, and the network learns in Chapter 10 that he can read a working. | open | Every stage from Fracture to Unclosed Window; the Margin is lost permanently in Volume 13 |
 
 ## Relationship pressure carried into Chapter 1

@@ -10,7 +10,7 @@ Elias Venn is a 36-year-old detective sergeant in the Veyra Civic Police Sequenc
 
 The Quiet Grid is stable enough for ordinary city life but has begun intermittent failures. The Civic Concord wants dangerous cases closed quickly. The Sequence Desk has authority to certify, not power to compel every witness to submit to a living trace.
 
-**The building:** Tamsin Ro's rented room is two floors above Elias's own apartment, in the same Kettle Rows building whose ground floor is his repair shop. He is not attached to the case by choice — he is the nearest Sequence Desk sergeant and he lives on the site. The conflict of interest is permanent pressure rather than a single plot problem: the Concord inspector raises it, Nadia records it, and the building's owner has a licensed ward certificate that a dangerous-working finding would put at risk. Everyone around the case has a reason to want a boring answer.
+**The building:** Tamsin Ro's rented room is two floors above Elias's own apartment, in the same Kettle Rows building whose ground floor is his repair shop. Elias is not attached to the case by choice — he is the nearest Sequence Desk sergeant and he lives on the site. The conflict of interest is permanent pressure rather than a single plot problem: the Concord inspector raises it, Nadia records it, and the building's owner has a licensed ward certificate that a dangerous-working finding would put at risk. Everyone around the case has a reason to want a boring answer.
 
 ## Starting relationships
 
@@ -28,9 +28,9 @@ The Quiet Grid is stable enough for ordinary city life but has begun intermitten
 The volume ends at the stage it starts with. **First Margin** becomes reliable enough to follow a working that is happening now, and never becomes a weapon Elias can swing.
 
 - The readings grow longer and more precise: from a few seconds of order in a dead threshold to holding a live order steady long enough for another person to act on it.
-- What improves is duration and comparison, not reach. He learns to recognize the same act recurring in separate objects. He still cannot separate a fold from a genuine turn, cannot tell copywork from an original, and cannot interrupt anything; the diagnosis of *copy* stays with Mara's instruments and the seam.
+- What improves is duration and comparison, not reach. He learns to compare the same act across separate objects, which in Volume 01 means reading another person's numbers and a document against each other rather than touching the objects. He still cannot separate a fold from a genuine turn, cannot tell copywork from an original, and cannot interrupt anything; the diagnosis of *copy* stays with Mara's instruments and the seam.
 - He never learns a counterturn. The Fracture stage, the first attempt at interruption, belongs to Volume 02 and needs a partner who can warn him plus a physical anchor.
-- The cost curve rises without becoming special. Dizziness and lost minutes in Arc A become balance loss, phantom pain, and a reading that damages the sample it was meant to protect. By Arc E he cannot stand unaided after a sustained reading and loses time he can only reconstruct from transit logs and other people's accounts.
+- The cost curve rises by changing what is taken, and **Arc A already spends it expensively, so no later arc may bill it twice:** the Chapter 6 reading destroys the batch's best measurement, and the Chapter 10 live working leaves him unable to stand unaided with forty minutes he can account for only from a transit log. What the later arcs take is not his body. Arc B takes his access: an insurance finding and a ward budget cut a district's protection on a conclusion he can see coming and cannot yet prove, and he watches it happen to people he has no standing to protect. Arc C takes the people who were willing to argue with a record, because a published disagreement makes them targets, and one of them stops speaking to him. Arc D takes his standing in his own trade: a censure, a file closed against him, and the repair-shop accounts he has used for twenty years withdrawn from him. Arc E's crowded-clinic working is the last rung, and what it costs is not a symptom at all: a clean certificate goes out describing a night he knows to be false, and the people he was protecting are inside it.
 - The volume's real gain is procedural, not magical: he learns that a labelled disagreement is stronger evidence than an unlogged certainty, and that a refusal can be a documented act rather than a personal one.
 
 ## Relationship change across the volume
@@ -61,7 +61,7 @@ The volume ends at the stage it starts with. **First Margin** becomes reliable e
 
 The volume is a fifty-chapter procedural with a five-arc spine, so the mix tilts toward investigation and aftermath rather than combat. Approximate targets across the volume:
 
-- 30% investigation and discovery, including interviews, scene work, and record tracing
+- 25–30% investigation and discovery, including interviews, scene work, and record tracing — thirteen to fifteen chapters of the fifty
 - 15% action and survival, one concentrated sequence per arc and the Arc E working
 - 15% character and relationship work, carried by consent, custody, and who is treated as a person
 - 10% training and controlled experimentation, always in Mara's lab and always with a cost
@@ -70,13 +70,15 @@ The volume is a fifty-chapter procedural with a five-arc spine, so the mix tilts
 
 Two rules for the mix. No arc may resolve itself by a fight, and no arc may end without a recovery beat that shows who pays in sleep, money, medication, or standing.
 
+**Arc A is the planned exception.** It spends six of its ten chapters on investigation and discovery, which leaves seven to nine of that budget across the remaining forty, so the two investigation-led arcs, B and D, run nearer two or three chapters each and the other three lean on political, relationship, and recovery pressure instead. Do not pad an arc with extra scene work to reach a number: the percentages check that no arc has gone monochrome, they are not a quota.
+
 ## Arc and batch map
 
 The volume runs **five arcs of ten chapters**, one per batch. Every arc closes its own local promise. The volume-level answer — the certificate, the omitted witness, the dismantled workshop, the escaped source anchor — belongs to Arc E only. A batch that delivers an Arc E beat early has spent the volume.
 
 | Arc | Chapters | Batch | Arc promise | Arc-level beat |
 |---|---:|---|---|---|
-| A — The Missing Release | 1–10 | 0001 | Identify how Tamsin Ro died and break the frame that copied her working | The frame is broken and its graded stamps and seam are preserved as a measurement; the operator escapes; Elias refuses the first certificate and the case stays open |
+| A — The Missing Release | 1–10 | 0001 | Identify how Tamsin Ro died and break the frame that copied her working | The frame is broken and its graded stamps and a second, finer seam are preserved on a separate salt-glass plate; the operator escapes; Elias refuses the first certificate and the case stays open |
 | B — The Ward Under the Clinic | 11–20 | 0002 | Find who supplies the frames and how the templates travel | Orin Sable is named as a supplier of frames; the network is shown using real ward failures as cover |
 | C — The Witness Who Was Rehearsed | 21–30 | 0003 | Learn why a witness's order can be wrong without lying | Elias's own certainty is turned into evidence against him; the Concord's witness training is implicated |
 | D — The Frame Workshop | 31–40 | 0004 | Find where the frames are built and understand the method | The workshop is located but not dismantled; the first documented link to Aegis Mutual |
@@ -89,7 +91,7 @@ Each beat is assigned to an arc. Beats marked **volume** may not be delivered by
 1. **The first copied victim (Arc A, Chs 1–2):** a Kettle Rows resident dies in a room two floors above Elias's own, whose door and personal working appear to show a self-directed attack. Elias sees an order that does not match the room.
 2. **The survivor and the frame (Arc A, Chs 3–4):** a surviving witness remembers a different order. Mara identifies a physical seam, while Jules Ardent is suspected because his ward tools are missing.
 3. **The carrier, not the source (Arc A, Chs 5–6):** the tool taken from Jules's workshop turns out to be a carrier that can hold a stolen release template, never the source object itself. Elias contaminates the sample with an unlogged touch and loses the first useful measurement.
-4. **The clinic route (Arc A, Chs 7–10):** the carrier's paper trail leads through a community clinic and a legal rehabilitation clinic. The source object itself is still unidentified, because nobody has reached the network yet. Sana's patients need protection before the Concord can secure the site, and the frame crew returns to the dispensary stockroom at night.
+4. **The clinic route (Arc A, Chs 7–10):** the carrier's paper trail leads to a licensed rehabilitation clinic on Verge Row whose intake records name no patient who was ever treated. The patient booked into that account is moved out of its reach into the Kettle Rows clinic, the one address the account cannot serve. The source object itself is still unidentified, because nobody has reached the network yet. Sana's patients need protection before the Concord can secure the site, and the frame crew returns to the dispensary stockroom at night.
 5. **The certification order (Arc A opens it, Chs 9–10; Arc B carries it, Chs 11–14):** the Proof Registry orders the Sequence Desk to certify a clean account before a public hearing. Elias refuses the first draft outright; the Registry escalates to a hearing he has to attend, and the certificate's text is written before the evidence is finished.
 6. **The copied pattern (Arc B, Chs 15–18):** separate victims begin carrying the same fabricated release, and the network is shown supplying frames to operators who do not share its motives. The pattern suggests a trained network rather than one frightened criminal.
 7. **The old case echo (Arc B, Chs 19–20):** the fourth act resembles the unknotted gap in the Morrow Street record, but Elias cannot yet connect it to Teodor Rusk without copying evidence.
