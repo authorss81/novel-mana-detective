@@ -36,7 +36,7 @@ He worked nights. Coin laundry, four nights, on Verge Row, a ten-minute walk fro
 
 "And last Monday, you were on the list."
 
-"Last Monday, I was on the list. Third from the top. I got there at twelve minutes past midnight."
+"Last Monday, I was on the list. Third from the top. I got there at about ten to one."
 
 Elias kept his hands flat on the table, well away from the other man's, and made himself say the next thing in the order in which it should be said rather than the order in which he wanted to hear it.
 

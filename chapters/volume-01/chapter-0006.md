@@ -20,7 +20,9 @@ She had the brass clamp on a cloth in the middle of the bench, and it was uglier
 
 Elias read it.
 
-The transfer form carried Nadia's notes: a bench-book entry copied verbatim, the terms of the loan as Jules had himself written them on the seventeenth of last month, and beneath it a clause in typed form that somebody at the tool registry had attached to the stamp record and that Jules had never bothered to open, because the tool had been in his hand for four years and a person does not read the fine print on his own work.
+The transfer form carried Nadia's notes: a bench-book entry copied verbatim, the terms of the loan as Jules had himself written them on the seventeenth, and beneath it a clause in typed form that somebody at the tool registry had attached to the stamp record and that Jules had never bothered to open, because the tool had been in his hand for four years and a person does not read the fine print on his own work.
+
+What brought that clause down onto all three of them was a line near the top of the same page, which re-issued the tool against rehabilitation account 44-9 for the working day it was moved on. All three of them had signed it without reading, because a signature is a thing you give a man who is in a hurry at four in the morning.
 
 *Tool issued against rehabilitation account 44-9 is returnable to the issuing account at the close of the working day of issue. On default, the tool reverts to the account and the account holder may enter the premises of any party in temporary custody of it.*
 

@@ -1,6 +1,6 @@
 # Batch 0001 Summary — Volume 01, Arc A "The Missing Release" (Chapters 1–10)
 
-**Status:** complete. Ten chapters written. Word count 37,600, which is roughly a quarter above the outline's soft 24,000–30,000 guide; the overshoot is not padding — Chapters 6, 7, 8, 9 and 10 are each a single complete scene with a deadline, a mistake, or a payoff, and none was split or compressed to hit a number. No duplicate paragraphs and no duplicate sentences across the batch.
+**Status:** complete. Ten chapters written. Word count 37,600, which is roughly a quarter above the outline's soft 24,000–30,000 guide; the overshoot is not padding — Chapters 6, 7, 8, 9 and 10 are each a single complete scene with a deadline, a mistake, or a payoff, and none was split or compressed to hit a number. No duplicate paragraphs and no duplicate sentences across the batch. **Revised once on review** (findings in `logs/phase-002-batch-plan.review.log`): the week's calendar, the Chapter 10 clock, the two transfer orders, the plate custody, the Chapter 9 act count, the Chapter 6 reversion clause and the residency wording were all corrected. No plot beat, scene, ending or character change was altered.
 
 ## The case in one paragraph
 
@@ -21,16 +21,20 @@ A night-bus dispatcher named **Tamsin Ro** is found dead in a rented room two fl
 | 9 | The template is identified on paper; the certificate is refused | Standing only — nothing physical is taken |
 | 10 | A second frame is broken at its physical binding; the operator escapes with a measurement, and the frame stays in the room | Reading 4: his legs, forty minutes, the volume's only nosebleed |
 
+*The batch runs Monday 17 to Saturday 22 September, and the 19th is a Wednesday. The full day-by-day spine is in `state/continuity.md`.*
+
 *Chapter 10 now opens on ninety minutes of a corridor doing almost nothing — a night porter tapping a wall, an instrument logging a sealed room, and a counter ward light going out four times, the fourth one longer — before the telephone warrant, so the working has an on-page trigger rather than arriving as a fait accompli.*
 
 ## The four-reading contract, as executed
 
 Exactly four readings, once each, four different costs, no fifth contact-based recognition anywhere in the batch.
 
-1. **Chapter 1** — hand on the door jamb, unplanned, 00:52 Monday. Cost: four minutes gone (clock and phone disagree) and no balance; he has to sit on the step, and his left ear goes quiet and stays quiet, which is new and which he does not trust.
+1. **Chapter 1** — hand on the door jamb, unplanned, 01:52 on Monday 17 September. Cost: four minutes gone (clock and phone disagree) and no balance; he has to sit on the step, and his left ear goes quiet and stays quiet, which is new and which he does not trust.
 2. **Chapter 3** — left hand on sealed swab 14 through plastic, logged, timed, witnessed on camera. Cost: the left side of his head goes entirely, not muffled, so he cannot locate a sound in the room at all, plus three hours of the afternoon he rebuilds from a phone log and Nadia's notes. First Margin panel appears here.
 3. **Chapter 6** — ungloved, unlogged hand into the channel of Jules's clamp on Mara's bench, at 20:53 Wednesday, while a plate is running. Cost: two hours of shaking, nothing stays down, and permanent loss of the right to touch the clamp.
-4. **Chapter 10** — palm flat on the steel stockroom door, under load, 22:36 Friday. Cost: both legs, forty minutes he can only account for from a transit log, and a nosebleed. The second and final panel of the batch.
+4. **Chapter 10** — palm flat on the steel stockroom door, under load, 23:42 on Friday 21 September. Cost: both legs, forty minutes he can only account for from a transit log, and a nosebleed. The second and final panel of the batch.
+
+**The clock, as rebuilt on review.** One line, and it holds: in at 21:30; Ahmed down at 22:00; Mara logging at 22:30; the counter ward light out at 23:00, 23:20, 23:30 and 23:45; the telephone warrant applied for at 23:29 and authorised at **23:41**; the reading and the entry immediately after; the operator over the wall about **23:50**; Nadia's item log stamped 23:54; the item into Mara's case once; the salt-glass plate lifted on the pavement at **01:40 on Saturday 22 September**; Elias on the kerb 02:20 to 02:45; the wards back at 04:00; the Registry's reissue for 06:00 Monday; the photograph message at 04:11.
 
 Panels: **one in Chapter 3** and **one in Chapter 10**. None in any other chapter. No nosebleed in any chapter but Chapter 10.
 
@@ -39,7 +43,9 @@ Panels: **one in Chapter 3** and **one in Chapter 10**. None in any other chapte
 - **Threshold plate** (Ch 2) — lifted by Mara Quill from sill, jamb and door leaf in front of Elias and Inspector Wren Abasi, sleeved and initialled in her own name, carrying the coarse seam. Elias signs the **sleeve** in Chapter 9 and never touches the glass. It is the batch's only independent measurement. It is not a certificate and does not enter the proof weave.
 - **The clamp JA-4417** (Ch 5–6) — documented, not seized. Nadia Kest records the transfer and writes "transferred, not seized," which is what makes Elias's handling legal at all. Contaminated permanently in Chapter 6. The loan clause reverts it to rehabilitation account 44-9 at midnight; **Jules Ardent drives it back to Verge Row himself at 23:30 Wednesday to keep a promise he wrote in his own bench book.** Only Mara's eleven figures survive it. It is out of the story and cannot be touched again in Volume 01.
 - **Stockroom carrier** (Ch 10) — nine inches of galvanised conduit, a fabricated channel, two broken halves, a bonded foil stencil, two brass saddle clips. Elias never holds it before the working starts. A **third, cleanest** maker's pair: open square over filled square, cut as an acceptance pair, graded first cut / second cut / third cut. The clamp is the first cut, Jules's uncollected second set is the second, and this is the third — cut by somebody who had the drawing, the channel and the practice.
-- **The foil template** (Ch 10) — a stencil, not a working, with no charge of its own, bonded inside the channel so that it cannot be removed without destroying the channel. It survives the break, the operator leaves with a **measurement** of it rather than the object, and it goes onto a second salt-glass plate lifted on a folding table on Marshall Street at 01:40 Friday under Mara's own name, with Nadia as witness.
+- **The foil template** (Ch 10) — a stencil, not a working, with no charge of its own, bonded inside the channel so that it cannot be removed without destroying the channel. It survives the break, the operator leaves with a **measurement** of it rather than the object, and it goes onto a second salt-glass plate lifted on a folding table on the pavement outside the paint works at 01:40 on Saturday 22 September under Mara's own name, with Nadia as witness.
+
+**The two transfer orders, and why they are not one document.** The registrar's order of Friday morning is sleeved into the clinic's file with a copy on the waiting-room board. The crew brought a second sheet of the same form and left it face up on a steel bench at the north end of the clinic corridor, twenty feet from the stockroom door, and it anchored the working. It never moved and it is not in any file. One document, one location each — the stockroom bench holds the dispensary's ward maintenance book, not a transfer order.
 
 Two plates, two claims, neither a certificate. Nothing in this batch is certified.
 
@@ -76,8 +82,8 @@ Two plates, two claims, neither a certificate. Nothing in this batch is certifie
 
 ## What the next batch inherits, in order
 
-1. **The case is open.** Hearing on the 14th. Elias refused to countersign at 16:41 Friday and recorded a formal **Disagreement of the Assigned Detective** with four numbered items, including the admission that his own perception has an ordinary explanation he cannot exclude. The Registry will proceed on its own attestation, which is weaker and still a document.
-2. **Niko Senn** is at the Kettle Rows Community Clinic with a febrile illness and a rash, a clinical hold until Thursday, a transfer order reissued for 06:00 Monday, and a review board to face. He is not a witness to the room. He is a man they tried to use as a door.
+1. **The case is open.** **Hearing on Monday 24 September.** Elias refused to countersign at 16:41 on Friday 21 September and recorded a formal **Disagreement of the Assigned Detective** with four numbered items, including the admission that his own perception has an ordinary explanation he cannot exclude. The Registry will proceed on its own attestation, which is weaker and still a document — and it has already issued a certificate document at 16:10 on Wednesday 19 September, from a file opened at 16:49, before anyone measured the residue.
+2. **Niko Senn** is at the Kettle Rows Community Clinic with a febrile illness and a rash, a clinical hold until the review board, a transfer order reissued for 06:00 Monday, and a hearing on Monday the 24th to face. He is not a witness to the room. He is a man they tried to use as a door.
 3. **Two plates in Mara's name.** The Chapter 2 threshold plate with the coarse seam; the Chapter 10 plate with the graded third pair, a second finer seam, both halves and the abandoned foil stencil. The stencil is the only physical object linking the first two frames to one production method, and it is in a police-adjacent laboratory, not a locked evidence room.
 4. **The clamp is gone** to an address in the outer wards, and only eleven figures survive it. Chapter 9 ran on paper; Chapter 10 had nothing to check against and the case still works, but there is no object left in Veyra that Elias is permitted to hold.
 5. **Nadia's condition is live.** Elias does not work alone, in any form, and the board in the office is where he says where he is going.

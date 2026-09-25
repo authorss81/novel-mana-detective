@@ -2,7 +2,7 @@
 
 The Sequence Desk's temporary evidence room was a converted records store with a vent that had been failing since the previous winter, and Elias had learned to stand at the far end of it with his good ear toward the door.
 
-His left ear had gone quiet in a stairwell on Monday night and had not come back, and he had spent a day and a night not trusting it. The hearing loss underneath that was older and was not going anywhere. He had not stopped sitting on the right side of people.
+His left ear had gone quiet in a stairwell in the small hours of Monday and had not come back, and he had spent the whole of Monday not trusting it. The hearing loss underneath that was older and was not going anywhere. He had not stopped sitting on the right side of people.
 
 "Sit down, Venn."
 
@@ -30,7 +30,7 @@ He signed it. She read it, initialled the corner, and put the original in the fo
 
 "I am not going to fight it."
 
-"You fought it at four this morning on a stranger's landing."
+"You fought it at two this morning on a stranger's landing."
 
 "That was not fighting. That was a woman on a stair at two o'clock in the morning and a door that was open when it should not have been."
 
@@ -44,11 +44,11 @@ The case board had been assembled in the corner by Dace, who had a gift for it a
 
 **Paper.** A tenancy transfer from 2019. A work order for a door ward from 2021. A depot roster with four years of clean attendance. A building ward certificate expiring in March.
 
-"That's it," said Nadia. "That's the whole case. It's the thinnest I've ever started. On a Thursday, with a body, that would be a certificate and a press release."
+"That's it," said Nadia. "That's the whole case. It's the thinnest I've ever started. On a Wednesday, with a body, that would be a certificate and a press release."
 
-"It is Thursday."
+"It is Monday."
 
-"It is Wednesday, and by tomorrow it will be Thursday, and that is not a joke, Venn, that is the Registry's timetable talking to me through a schedule." She capped her pen. "Two things go on that board before you go near it, and they are both mine."
+"It is Monday, and Wednesday is on their schedule, and that is not a joke, Venn, that is the Registry's timetable talking to me through a schedule." She capped her pen. "Two things go on that board before you go near it, and they are both mine."
 
 "Go on."
 
@@ -154,7 +154,7 @@ He drank the water. He was aware, distantly, of the shape of the afternoon he ha
 
 "Because hers is the small one," Elias said. "Ours is four acts and it stops at the threshold. Theirs has a longer way round. The two of them are not in a queue. They are laid on the desk at the same time and the second one is the longer one and it takes longer to finish, so it completes later. From the door, I read the end. From the desk, I read the beginning. Both are true. That is why I could not get hold of it in the corridor."
 
-Nadia wrote it down, all of it, in her own flat hand, and read it back to him, and then made a second copy because that was what a case file needed and not a memory.
+Nadia took it down in her own flat hand, all of it, and read it back to him, and then made a second copy because that was what a case file needed and not a memory.
 
 "And the address," she said. "You said it narrowed like a hand looking for one person."
 

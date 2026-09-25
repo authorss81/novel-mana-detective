@@ -92,7 +92,7 @@ Niko Senn looked at him.
 
 "And what happens if I go on that bus?"
 
-"Then I have a case with a witness who is alive, and I have to build the rest of it out of four minutes of my own memory and a piece of brass that a man drove back to the people who stole it out of a promise he made in a notebook." He said it flatly, because flat was the only way to say it. "You are not a piece of my case. I want that on the record in front of you because in about nine days somebody with a good reason is going to tell you that you are."
+"Then I have a case with a witness who is alive, and I have to build the rest of it out of four minutes of my own memory and a piece of brass that a man drove back to the people who stole it out of a promise he made in a notebook." He said it flatly, because flat was the only way to say it. "You are not a piece of my case. I want that on the record in front of you because in about three days somebody with a good reason is going to tell you that you are."
 
 "Are you going to stop it?"
 
@@ -106,7 +106,7 @@ She wrote a clinical hold. She wrote it in a way that took her forty minutes and
 
 The part that did the work was the last sentence, which was: *This clinic has no record of a completed course of treatment for this patient, and declines to certify one on another party's behalf.*
 
-That sentence put the document inside the medical question instead of the police question, and a clinical hold under a continuing-treatment schedule is not a police instrument at all. It is a form a doctor fills in, and the account can challenge it, and the account can appeal it, and the account cannot get past it before a review board sits, which was a Thursday.
+That sentence put the document inside the medical question instead of the police question, and a clinical hold under a continuing-treatment schedule is not a police instrument at all. It is a form a doctor fills in, and the account can challenge it, and the account can appeal it, and the account cannot get past it before a review board sits, which is a Thursday.
 
 They filed it at ten past ten.
 
@@ -170,7 +170,7 @@ Then she turned round to him.
 
 "Yes."
 
-"Then here is the thing I want to say to you, and I want you to hear it in this room rather than in a corridor later." She came closer. "There is a boy in room two who is twenty-four years old and has been frightened into a shape by somebody, and everything in you right now is telling you to get hold of him and keep him. And I understand that, because I have wanted to do exactly the same thing to a great many people for twenty-six years. But if you keep him, then in nine months he is a case you have kept. And a case you have kept is a boy who does not exist outside a building in Kettle Rows where the policeman who lives upstairs is the one who saved him."
+"Then here is the thing I want to say to you, and I want you to hear it in this room rather than in a corridor later." She came closer. "There is a boy in room two who is twenty-four years old and has been frightened into a shape by somebody, and everything in you right now is telling you to get hold of him and keep him. And I understand that, because I have wanted to do exactly the same thing to a great many people for twenty-two years. But if you keep him, then in nine months he is a case you have kept. And a case you have kept is a boy who does not exist outside a building in Kettle Rows where the policeman who lives upstairs is the one who saved him."
 
 Elias did not say anything, because there was nothing that would not have been a lie.
 
@@ -212,7 +212,7 @@ His phone rang at four minutes past twelve.
 
 It was Nadia, and she was in a car.
 
-"Two things," she said. "One: the C-ear has come back as a full draft with a hearing date on the fourteenth, and they want a countersignature from the assigned detective by six this evening, and the Registry's own legal officer has flagged the schedule as 'at risk' because the assigned officer is resident at the scene. Which is a piece of administrative cruelty so refined that I have to assume somebody enjoyed writing it."
+"Two things," she said. "One: the C-ear has come back as a full draft with a hearing date on Monday the twenty-fourth, and they want a countersignature from the assigned detective by six this evening, and the Registry's own legal officer has flagged the schedule as 'at risk' because the assigned officer is resident at the scene. Which is a piece of administrative cruelty so refined that I have to assume somebody enjoyed writing it."
 
 "And two?"
 

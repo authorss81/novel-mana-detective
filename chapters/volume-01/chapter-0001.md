@@ -24,7 +24,7 @@ He looked up. Mrs. Achterberg was on the fourth floor in a dressing gown with he
 
 Elias put the cold cup on the step behind him. "Which one."
 
-"The top one. The room over yours. It's been open since I came down." She looked at him. "She's on shift. She's been on shift since eleven. If somebody's in that room, they didn't use the front stair."
+"The top one. The room at the end of the landing. It's been open since I came down." She looked at him. "She's on shift. She's been on shift since eleven. If somebody's in that room, they didn't use the front stair."
 
 It was the correct thought. It was also, he understood a half-second later, the thought a person reaches for before looking at anything. He had been the nearest Sequence Desk sergeant for six years because he was never the furthest. He lived on this site, in this building, under this stair, and had done since he was nineteen and repairing radiators for a man who took cash.
 
@@ -146,7 +146,7 @@ That was the thing about Nadia Kest. Thirty-nine years old, eleven years in the 
 
 "That's twice this month."
 
-"It's the second time I've lost time. The other time I lost a molar." He turned his head slightly to give her his good side without meaning to. It is a habit and she has never once let him get away with it. "There's a room upstairs. I can see the order of a working in it. And the order has a thing in it that shouldn't be there."
+"It's the second time I've lost time. The other time I lost a molar." He turned his head slightly to give her his good side without meaning to. It was a habit and she had never once let him get away with it. "There's a room upstairs. I can see the order of a working in it. And the order has a thing in it that shouldn't be there."
 
 "A second release."
 

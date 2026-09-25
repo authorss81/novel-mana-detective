@@ -16,7 +16,7 @@ The board was titled, in Mara's flat capitals: **NO CONTACT — FIGURES ONLY.**
 
 She turned the sheet so he could read it.
 
-"Three acts in the residue on the desk, and the residue is continuous, and the continuity is the woman's. Her door working, seated in a drilled and filled frame, bound to a desk, addressed at a person, turned, and released. Four acts, all of them her own, all of them ordinary, all of them laid down by a licensed working that cost ninety credits and eleven minutes to seat. There is a fifth thing on the same plate and I want a word about it before I give you the numbers."
+"Four acts in the residue, and the residue is continuous, and the continuity is the woman's. Her door working, seated in a drilled and filled frame, addressed at a person, turned, and released at the threshold. Four acts, all of them her own, all of them ordinary, all of them laid down by a licensed working that cost ninety credits and eleven minutes to seat. There is a fifth thing on the same plate and I want a word about it before I give you the numbers."
 
 "Go on."
 
@@ -88,9 +88,21 @@ Mara stopped.
 
 "The Morrow Street file." He was looking at the transfer order's four acts and not at her. "I wrote a line into that file when I was twenty-four and I have not been able to unknot it since, and the line is *no release was recorded at the threshold*, and I have read that line about nine thousand times, and I read it as a statement about a working that never finished. That a man's working came apart before it could close and a ward went and twenty-three people died, and eleven months later a maintenance fitter called Teodor Rusk was certified as the last responsible act, and his daughter was nine at the time, and he is dead, and I have never once been able to make that sentence sit down."
 
-He put his hand flat on the board, on the paper, on the edge of the sheet, and did not move it.
+He put his hand flat on the board, on the paper, on the edge of the sheet, and Mara Quill's voice came across the room in a tone that had no volume in it at all.
 
-"There is a release in that room," he said. "There is one on the plate. And it is the fourth thing, and it is not hers, and it has no settling curve, and it arrived on something. And the phrase in my file is not describing a working that failed to release. It is describing a working that was *released by somebody else*."
+"Off it. Now. And do not tell me that you did not mean to."
+
+He took his hand off the board as though the table had bitten him.
+
+"You gave me that rule yourself, four minutes ago, and you gave it to me." She had not moved from the chair. "There are four sheets on that board and a plate in a locked case in another building, and you have now touched one of the four with a hand that is not a glove, three days after a hand of yours went into a channel I had measured as empty, and I am going to have to write down both of those, because I am the one who will be standing in front of a man who is paid to be unkind about exactly this. Do you understand that this is a document now, and not a mood?"
+
+"I understand."
+
+"Say the rest of it," said Mara. "It is still true. I am not going to pretend it is not."
+
+He put his hands in his pockets, which was a thing he did when he wanted them to be somewhere he could account for.
+
+"There is a release in that room. There is one on the plate. And it is the fourth thing, and it is not hers, and it has no settling curve, and it arrived on something. And the phrase in my file is not describing a working that failed to release. It is describing a working that was *released by somebody else*."
 
 "Careful," said Mara.
 
@@ -117,7 +129,7 @@ What they produced, in the end, was a document with a title and a number and fou
 **DISAGREEMENT OF THE ASSIGNED DETECTIVE — RECORDED.**
 *Sequence Desk file 441-KR. Kettle Rows matter, 14 Kettle Rows, deceased R.*
 
-*1. The assigned detective has, on three occasions between the 12th and the 19th, perceived an order of working in material residue. This perception is not evidence, is not a certified sequence, and identifies no person, no motive, and no intent. It is set down here so that the file contains it, with its limits attached, instead of in a notebook in a flat in Kettle Rows.*
+*1. The assigned detective has, on three occasions between the 18th and the 19th, perceived an order of working in material residue. This perception is not evidence, is not a certified sequence, and identifies no person, no motive, and no intent. It is set down here so that the file contains it, with its limits attached, instead of in a notebook in a flat in Kettle Rows.*
 
 *2. The assigned detective does not accept the classification in the draft certificate at item 3, on the ground that it records a self-directed working with no third-party address, on the ground that the residue measured in this matter contains an act which is not attributable to the deceased and is not attributable to the door, and which the material does not attribute to any person.*
 
@@ -189,7 +201,7 @@ There was a pause of about two seconds, which was the first thing Bettina Haile 
 
 "It is on the information sheet already?"
 
-"It is on the sheet dated the fifteenth."
+"It is on the sheet dated the nineteenth."
 
 "Yes, well, the sheet has a long lead time." Another pause. "It is drafted by our information office. It is a *draft*, Sergeant. It is a summary in ordinary language for residents, and it is not a finding, and I am sure you can see that *contained* is doing a great deal of ordinary-language work in it."
 
@@ -199,7 +211,7 @@ There was a pause of about two seconds, which was the first thing Bettina Haile 
 
 "I hear it very clearly," said Elias. "I am asking which document you intend to correct."
 
-"You have refused," said Bettina Haile, "at four forty-one this afternoon, and nobody in this Registry argued with you about it. There was no meeting. There was a schedule conflict. If anybody tells you otherwise they are embroidering." She sounded almost tired. "What I can tell you is the consequence, and then I am going to let you go home. The hearing is on the fourteenth. Without a countersigned preliminary certificate, the Registry will proceed on its own attestation, and a Registry attestation, on this record, is weaker in every respect. It is also, I am told, sufficient."
+"You have refused," said Bettina Haile, "at four forty-one this afternoon, and nobody in this Registry argued with you about it. There was no meeting. There was a schedule conflict. If anybody tells you otherwise they are embroidering." She sounded almost tired. "What I can tell you is the consequence, and then I am going to let you go home. The hearing is on Monday the twenty-fourth. Without a countersigned preliminary certificate, the Registry will proceed on its own attestation, and a Registry attestation, on this record, is weaker in every respect. It is also, I am told, sufficient."
 
 "I have not put him into the record because he is not a witness to the room. He is a man they tried to use as a door."
 
@@ -217,15 +229,15 @@ She hung up, and Elias sat in a laboratory in Saint Orra Reach and found that he
 
 It was Nadia, at ten past seven, and she was in a car again.
 
-"The document request for the hearing pack went out at six this afternoon from Morrow Hill to four addresses," she said. "One of them is the Kettle Rows Community Clinic and the request is for the dispensary's stock records, the ward maintenance book, and any items logged against the account's card. It is signed off and it is due to be *answered* on Monday morning, which means somebody has to physically walk into that building on Monday morning with a clipboard."
+"The document request for the hearing pack went out at six this afternoon from Morrow Hill to four addresses," she said. "One of them is the Kettle Rows Community Clinic and the request is for the dispensary's stock records, the ward maintenance book, and any items logged against the account's card. It is signed off and it is due to be *answered* tomorrow morning, which means somebody has to physically walk into that building tomorrow morning with a clipboard."
 
 Elias was already standing.
 
-"Monday morning," he said. "They need it Monday morning, which means the carrier they left in that stockroom on Wednesday is on a piece of paper that is about to be copied, and whoever put it there knows that, because whoever put it there is the person who wrote the request."
+"Tomorrow morning," he said. "They need it tomorrow morning, which means the carrier they left in that stockroom on Wednesday is on a piece of paper that is about to be copied, and whoever put it there knows that, because whoever put it there is the person who wrote the request."
 
 "Elias—"
 
-"Which means they cannot come on Monday, because the clinic has a night porter and a doctor who does not sleep and a witness protocol that I have personally promised to uphold, and the Registry's own timetable has just told them the exact night they have to be in that stockroom instead."
+"Which means they cannot come tomorrow morning, because the clinic has a night porter and a doctor who does not sleep and a witness protocol that I have personally promised to uphold, and the Registry's own timetable has just told them the exact night they have to be in that stockroom instead."
 
 There was a pause on the line that Nadia Kest almost never allowed herself.
 
@@ -237,6 +249,6 @@ There was a pause on the line that Nadia Kest almost never allowed herself.
 
 Elias Venn hung up, and put his hand flat on the window ledge for a moment, and looked at the laboratory window, at the river, at the dark coming in over Saint Orra Reach where the last run of the night was coming in over the viaduct and changing pitch, and thought about a stockroom eleven minutes' walk from his own front door, full of glass, with a ward line above the counter and a piece of brass in it that somebody had built to be used and was going to be taken back out before the records were copied.
 
-He had a brass clamp at an address in the outer wards that he would never touch again, and a plate with his name on the sleeve of it, and a reading he could not use, and a hearing in nine days, and a file that said he lived at the scene.
+He had a brass clamp at an address in the outer wards that he would never touch again, and a plate with his name on the sleeve of it, and a reading he could not use, and a hearing on Monday, and a file that said he lived at the scene.
 
 It was going to be a long night, and he was going to be in it with three other people, and the first thing he had to do before any of it was walk into a paint works and tell a doctor what time he would be at her door.

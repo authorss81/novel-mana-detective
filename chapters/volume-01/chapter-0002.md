@@ -12,7 +12,7 @@ He listened for the stair. It stayed quiet.
 
 At seven, Otto Vahl came up from the ground floor with the cat under his arm, and then stopped so abruptly on the fourth landing that he put his shoulder into the wall.
 
-"She said Thursday," he said. "She said if her shift ran over I'd feed it Thursday. It's Wednesday."
+"She said Thursday," he said. "She said if her shift ran over I'd feed it Thursday. It's Monday."
 
 "I know," Elias said.
 
@@ -60,7 +60,7 @@ Abasi put her printout on the bench table and turned it round.
 
 It was a form. It was, as far as he could see, a completely reasonable form: name, business address, whether the officer assigned to the investigation resides at the premises, if so, in what capacity, and for how long.
 
-Elias read it twice. Then he picked up the pen and wrote, in the box marked *resides at premises*, *Yes — second floor, above own premises, shop and flat, eleven years*, and in the box marked *nature of interest*, *None. Tenant at will. No financial interest in the room above.* And then, in the free line at the bottom, because it was true and because he had decided at four in the morning that he was not going to spend the rest of this case being the man who hid the thing that mattered, he wrote: *Assigned to this investigation by proximity, not by application. Discovered the report. I live in the building and I am the nearest Sequence Desk sergeant available at 01:50. Any party may treat this as a conflict and should.*
+Elias read it twice. Then he picked up the pen and wrote, in the box marked *resides at premises*, *Yes — second floor, above own premises, shop and flat, eleven years (this site since nineteen)*, and in the box marked *nature of interest*, *None. Tenant at will. No financial interest in the room above.* And then, in the free line at the bottom, because it was true and because he had decided at four in the morning that he was not going to spend the rest of this case being the man who hid the thing that mattered, he wrote: *Assigned to this investigation by proximity, not by application. Discovered the report. I live in the building and I am the nearest Sequence Desk sergeant available at 01:52. Any party may treat this as a conflict and should.*
 
 He signed it and pushed it back across the table.
 
@@ -88,7 +88,7 @@ The Orra depot put the last inbound of the night shift at ten past six, and the 
 
 "A woman speaking on the landing at half eleven," said Abasi, writing, "and a horn at twenty past twelve. Those are two hours apart and they are both true and they do not go together."
 
-"They don't have to go together," Elias said. "But they do have to both be residue-compatible, and half past eleven is an hour and three quarters after she left for work. Somebody was on that landing at half past eleven, and she was not."
+"They don't have to go together," Elias said. "But they do have to both be residue-compatible, and half past eleven is three quarters of an hour after she left for work. Somebody was on that landing at half past eleven, and she was not."
 
 He had the feeling of a hand on a door and no way to open it. He wanted very badly, the way he wanted it on nights when the old file was open on the table in his own apartment, to say the next sentence out loud, because the next sentence was in the file and the file had been the only true thing in his life for twelve years.
 

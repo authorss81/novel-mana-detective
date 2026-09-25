@@ -12,13 +12,13 @@ At half past ten, Mara Quill set a field plate on a folding stool at the end of 
 
 At eleven, the counter ward light over the dispensary went out for about half a second and came back.
 
-Elias was the only person in the corridor who noticed, and it was Jules who noticed that he had noticed, and neither of them said anything about it, and at twenty past eleven Jules put his hand flat on the wall and said, "That's not a lamp." At half past eleven he said, "That's four since you got here." At a quarter to twelve he said, "And that one was longer."
+Elias was the only person in the corridor who noticed, and it was Jules who noticed that he had noticed, and neither of them said anything about it, and at twenty past eleven Jules put his hand flat on the wall and said, "That's not a lamp." At half past eleven he said, "That's three since you got here."
 
-Then at twenty-nine minutes past eleven, from the back seat of a car parked on Marshall Street, Nadia Kest picked up a telephone and asked an out-of-hours magistrate for a warrant, and it took her eleven minutes to get it.
+Then at twenty-nine minutes past eleven, from the back seat of a car parked on Marshall Street, Nadia Kest picked up a telephone and asked an out-of-hours magistrate for a warrant, and it took her twelve minutes to get it. The counter ward light went out again at a quarter to twelve and came back longer than the last one had, and Jules said, "And that one was longer," to nobody.
 
 "Magistrate's out-of-hours line," she said into the phone, and then, for thirty seconds, said almost nothing. Elias stood in a corridor with his hands at his sides and listened to a woman's voice he could not hear at all, and watched Nadia's face, and watched her mouth go flat in a way that meant a man in a wig was saying no, and then watched it change in a way that meant a man in a wig had been reminded that a person was in the building.
 
-"Twenty-two forty-one," Nadia said, and gave a name, and gave the address, and said, "Detective Inspector Kest, Veyra Civic Police, Serious Crimes Unit, at the request of Detective Sergeant Venn. Community clinic dispensary stockroom, a space of about four metres by three, steel door, no windows, contents of a lawful nature, being used this evening to hold a device I believe to be conducting a working against a named patient in the room directly above it, which is Niko Senn, twenty-four, admitted on the nineteenth and under a clinical hold until Thursday. I have not entered. I have not opened the door. I have two officers at the east service door and I have a mechanical advantage available and I would like to be able to use it without spending the rest of the night explaining to a court that I did not."
+"Twenty-three forty-one," Nadia said, and gave a name, and gave the address, and said, "Detective Inspector Kest, Veyra Civic Police, Serious Crimes Unit, at the request of Detective Sergeant Venn. Community clinic dispensary stockroom, a space of about four metres by three, steel door, no windows, contents of a lawful nature, being used this evening to hold a device I believe to be conducting a working against a named patient in the room directly above it, which is Niko Senn, twenty-four, admitted on the nineteenth and under a clinical hold until Thursday. I have not entered. I have not opened the door. I have two officers at the east service door and I have a mechanical advantage available and I would like to be able to use it without spending the rest of the night explaining to a court that I did not."
 
 "Yes," said the magistrate. "Go in. Go in now, Inspector, and I will paper it in the morning."
 
@@ -70,9 +70,9 @@ The hood noise and the ward noise and the whole long night of noise went away.
 
 It came up out of the floor the way it did, but it did not come the way it had come on Monday, because Monday's had been a room that had finished. This was live. This was a working in the middle of doing something, and it arrived in him as a pressure in the sternum and a wrongness in the left ear and a sense of weight arriving on something that was not meant to hold it.
 
-It bound itself to a piece of paper. Not the building. Not the person. A sheet of A4 on a steel bench, and it bound to the *sheet* — to the printed box, to the four acts, to the words in the box, and Elias understood with a clarity that made him put his hand harder on the door that the transfer order was not a document with a sequence in it. The transfer order was the carrier's own paperwork, and the carrier had been *built into* it, and the whole reason a housekeeping form had four acts in it when a housekeeping form has three was that somebody had made a place for a working to sit inside a piece of institutional paper, and then had put the paper on a bench in a clinic where a man was sleeping two floors up.
+It bound itself to a piece of paper. Not the building. Not the person. A sheet of A4 he had walked past forty times in an hour and a half, lying face up on a steel bench at the north end of the corridor with a tin of surgical staples on it, twenty feet away — and it bound to the *sheet* — to the printed box, to the four acts, to the words in the box, and Elias understood with a clarity that made him put his hand harder on the door that the transfer order was not a document with a sequence in it. The transfer order was the carrier's own paperwork, and the carrier had been *built into* it, and the whole reason a housekeeping form had four acts in it when a housekeeping form has three was that somebody had made a place for a working to sit inside a piece of institutional paper, and then had put the paper on a bench in a building where a man was sleeping two floors up.
 
-It reached out from the paper along a line, along a conduit, along a ceiling, and it narrowed the way a hand narrows when it is looking for one person.
+It reached out from the paper along a line, along a conduit, along a ceiling, and it went looking the way a hand goes looking on a table in the dark — for one thing, and not for the room.
 
 It found him.
 
@@ -94,13 +94,17 @@ Mara was writing with her eyes shut.
 
 Jules Ardent had not been following the sequence, and was not going to, and did not need to. He had his string out and his pencil and he was looking at the corridor ceiling, and he said, "The channel. You said a channel."
 
-"Lower right of the door head," Elias said. "The mouth of it. The end of the conduit where it comes into the room — the working is in the end of the conduit, four foot off the floor, on the brick, inside."
+"Lower right of the door head," Elias said. "The mouth of it. The end of the conduit where it comes into the room — the working is in the end of the conduit, up at the door head, on the brick, inside."
 
 Jules put his thumb on the printout, and then on the wall beside the door, and then he said, "That is not the conduit," and then, before Elias could ask, "No. Wait. Yes. That is the conduit. That is where it comes in. If it is seated in the end of the conduit then the whole thing is the conduit, and the conduit is a length of galvanised tube fixed with two saddle clips, and the clips are the only two things in this city holding it to the brick."
 
 "And the binding?"
 
-"The clips," said Jules. "If you cut the clips the tube comes away from the wall, and whatever is in the end of it goes with the tube, and the tube is earthed through the wall and the ward line is not. Those are two different things and only one of them is a working." He was already writing. "Two clips, brass saddles, at either end of a nine-inch length. Take the tube off the wall and the channel has nothing to be a channel in. The paper on the bench is on the other end of the whole thing, in the corridor, on a bench, twenty feet away, on a steel bench in the corridor. If the tube comes off the wall, the run is broken. The anchor stays where it is. The run stops. Whatever is in the tube is just a piece of metal with a groove in it."
+"The clips," said Jules. "If you cut the clips the tube comes away from the wall, and whatever is in the end of it goes with the tube, and the tube is earthed through the wall and the ward line is not. Those are two different things and only one of them is a working."
+
+"And the paper?"
+
+"The paper is on the other end of the whole thing, in the corridor, on the bench, twenty feet away, and it has not moved since we got here." He was already writing. "Two clips, brass saddles, at either end of a nine-inch length. Take the tube off the wall and the channel has nothing to be a channel in. If the tube comes off the wall, the run is broken. The anchor stays where it is. The run stops. Whatever is in the tube is just a piece of metal with a groove in it."
 
 Elias looked at the door.
 
@@ -112,7 +116,7 @@ Elias looked at the door.
 
 He did not use the crowbar on the hinge. He used it on the latch plate, which is not the way the manual says, and the door came off the frame at one corner and swung in eight inches and he got his shoulder into the gap.
 
-The stockroom was four metres by three. Shelving down both sides. A steel bench at the end with a transfer order on it, face up, weighted with a tin of surgical staples. Amber light. Cold room on the right, its door open. And a smell of scorched salt, thin, like a chip in a pan that has been left too hot.
+The stockroom was four metres by three. Shelving down both sides. A steel bench at the end with the dispensary's ward maintenance book open on it, face down, held flat by a tin of surgical staples. Amber light. Cold room on the right, its door open. And a smell of scorched salt, thin, like a chip in a pan that has been left too hot.
 
 And a person.
 
@@ -122,7 +126,7 @@ They were kneeling at the ceiling by the door head with their back to him, in a 
 
 They did not put up a hand. They did not turn round. They put both hands flat on the tube and *pressed*, and the tube came off the wall in one piece and went across the stockroom floor and hit the shelving on the far side and dropped, and the person went up onto the balls of their feet with something small and bright in their right hand and came through the gap in the door past his shoulder with a speed that was not panic, and was through the stockroom's inner service door and out into the yard before Elias Venn had got his hand on the frame.
 
-He went after them four strides and stopped, because there is a limit to how far a man goes into a dark yard on his own at ten to eleven at night, and he reached the limit in the yard's second step.
+He went after them four strides and stopped, because there is a limit to how far a man goes into a dark yard on his own at twenty to midnight, and he reached the limit in the yard's second step.
 
 They were at the wall. They went over it. Somebody had stacked three paint bins against it on the Wednesday night when they were here, which meant they had thought about it, which meant they had a bolt bag or a plank or a knee.
 
@@ -138,7 +142,7 @@ There was no light, no sound, no smell, no weight. There had been a working in t
 
 Inside the mouth of the tube, at the very end, was a channel about four inches long, and inside the channel was a piece of thin metal foil, bent, cut, and pressed to the inside of the channel so that it could not be removed without destroying the channel and the foil together.
 
-"Twenty-two forty-one is now on," said Nadia, from the east service door. "Elias. Talk to me."
+"Twenty-three fifty-three is now on," said Nadia, from the east service door. "Elias. Talk to me."
 
 "Frame is down. Working's off. One operator over the west wall, gone north, took nothing."
 
@@ -164,19 +168,19 @@ Nadia Kest did the work in the car.
 
 She did it on the bonnet of an unmarked car on Marshall Street with the hazards on and the door open, because it was raining again and because she had decided that the case file would contain the truth in the order in which the truth had actually happened and not in the order in which somebody would prefer it.
 
-"Item," she said, reading from her own screen into her own phone, which was the correct procedure and which she did with the recorder running and her badge held up to the light where the camera could see it. "Twenty-two forty-seven, Marshall Street, Kettle Rows. Item recovered: one unregistered ward object, approximately nine inches of galvanised conduit with a fabricated channel at one end, a bonded foil element, two brass saddle clips and fixing screws, removed from the north-east brick of a clinic dispensary stockroom during the course of a working I could observe and could not stop. Cause: undetermined. I did not observe a cessation. I observed a device leave a wall, and then I observed the clinic's ward failure, and then I observed nine minutes of no ward protection, and the two are in that order and I am not going to be pressed into saying the device caused the failure or that the failure stopped the device."
+"Item," she said, reading from her own screen into her own phone, which was the correct procedure and which she did with the recorder running and her badge held up to the light where the camera could see it. "Twenty-three fifty-four, Marshall Street, Kettle Rows. Item recovered: one unregistered ward object, approximately nine inches of galvanised conduit with a fabricated channel at one end, a bonded foil element, two brass saddle clips and fixing screws, removed from the north-east brick of a clinic dispensary stockroom during the course of a working I could observe and could not stop. Cause: undetermined. I did not observe a cessation. I observed a device leave a wall, and then I observed the clinic's ward failure, and then I observed nine minutes of no ward protection, and the two are in that order and I am not going to be pressed into saying the device caused the failure or that the failure stopped the device."
 
 "And the man who went over the wall?" said the second officer.
 
-"Unidentified. Unidentified and unarmed as far as I saw, and carrying no dangerous article as far as I saw, and I am recording that as carefully as I am recording the rest of it." She looked up. "Item transferred, not seized, to Doctor Mara Quill, residue laboratory, Saint Orra Reach, for independent preservation, in the presence of the undersigned and Detective Sergeant Venn. It is transferred because it is not mine, it is a clinic's stockroom, and it is not mine because a clinic's stockroom is not police property; and if any person in this city wants to argue that, the magistrate that authorised the entry at twenty-two forty-one this evening is available to them at eight in the morning."
+"Unidentified. Unidentified and unarmed as far as I saw, and carrying no dangerous article as far as I saw, and I am recording that as carefully as I am recording the rest of it." She looked up. "Item transferred, not seized, to Doctor Mara Quill, residue laboratory, Saint Orra Reach, for independent preservation, in the presence of the undersigned and Detective Sergeant Venn. It is transferred because it is not mine, it is a clinic's stockroom, and it is not mine because a clinic's stockroom is not police property; and if any person in this city wants to argue that, the magistrate that authorised the entry at twenty-three forty-one this evening is available to them at eight in the morning."
 
-She held the plate out. Mara Quill took it in a gloved hand and put it in a hard case and closed the case and wrote on the case.
+She held the item out. Mara Quill took the two halves of the tube and the foil in a gloved hand, put them in a hard case, closed the case, and wrote on the case.
 
 "And the entry," said Nadia, not looking up, "was a warrant that I applied for by telephone and that I intend to explain in person to a magistrate who is going to be extremely angry, and which I would apply for again, and I want that on the record in my own words, because in about four years somebody is going to be angry at me about this and I would like the file to say what I actually thought at the time."
 
 ---
 
-The plate was lifted on the pavement at twenty to two in the morning, on a folding table Mara had brought in the case, under the hood, with a witness.
+Mara lifted a salt-glass plate on the pavement outside the paint works at twenty to two in the morning, on a folding table she had brought, under the hood, with a witness.
 
 Two broken halves, because when the tube came off the wall it broke in two places — one at the mouth and one two inches back, at the second clip — and Mara laid them out in the order they had been in, and beside them she laid the foil.
 
@@ -216,7 +220,7 @@ She had. It was on a sheet of paper, and it was four paragraphs, and at the bott
 
 The rain had stopped and Marshall Street was doing the thing it did, where the sodium lamps came back on one at a time. Elias sat down on the kerb outside the paint works at twenty past two and stayed there.
 
-He had lost forty minutes. Nadia had the transit log, which showed her car stopped on Marshall Street from twenty-two fifty-one to twenty-three thirty-one, then moving out to Saint Orra Reach, and then, at twenty to two, back, and he could not account for one second of the middle of that, and he had tried three times, and it had not improved, and he had stopped.
+He had lost forty minutes. Nadia had the transit log, which showed her car stopped on Marshall Street from twenty-two fifty-one to twelve o'clock, then moving out to Saint Orra Reach, and then, at twenty to two, back, and he could not account for one second of the middle of that, and he had tried three times, and it had not improved, and he had stopped.
 
 His legs were not working. Both of them, from the hip, in the way that a body's legs go when a person has spent something that was not available. He could feel his own heartbeat in the left side of his jaw, and there was blood dried under his nose, and Mara had given him a pad of cotton wool from her own case and he was holding it to his face in a garden of paint works in Kettle Rows at half past two in the morning, and he was going to be sitting on this kerb for forty minutes whether or not anybody came, because Nadia had said forty minutes and he intended to be the sort of man who could be told a number and keep it.
 
@@ -240,7 +244,7 @@ The second one was the woman with the baby, who came out with the baby and a bla
 
 "Don't be sorry, be something else." She shifted the baby. "Be something else about it."
 
-She went in at twenty past two.
+She went in at half past two.
 
 The third one was the night porter, a man of fifty-odd called Ahmed, who had been on the desk since ten and who came out with a torch he did not need, because the street had lamps, and sat down on the kerb next to Elias with his legs straight out in front of him.
 
@@ -248,7 +252,7 @@ The third one was the night porter, a man of fifty-odd called Ahmed, who had bee
 
 "There was a door."
 
-"There was a door and then there was a man on our bins." He shone the torch at nothing. "He was very calm. That's what I keep coming back to. He was on the bins and he was going over the wall and he was *calm*, and I've been thinking about that for three hours, because the man who came into my building at ten o'clock and put his hand on the maintenance book and did whatever he did to my dispensary was also calm, and calm is the thing that frightens me. Angry I can do. Calm is a man who has done this before and has time."
+"There was a door and then there was a man on our bins." He shone the torch at nothing. "He was very calm. That's what I keep coming back to. He was on the bins and he was going over the wall and he was *calm*, and I've been thinking about that for three hours, because the man who came into my building at ten past nine and put his hand on the maintenance book and did whatever he did to my dispensary was also calm, and calm is the thing that frightens me. Angry I can do. Calm is a man who has done this before and has time."
 
 Elias sat with that for a while.
 
@@ -268,13 +272,13 @@ And then a second one, eleven minutes later, from a number he had never had.
 
 ---
 
-Nobody in that building had checked the access log. It had been four days, and the building was a paint works with a clinic in it and a hundred and forty people through the doors every day, and there had been no line in any book with the words *someone with building access came in on the Wednesday night and built a frame into your ceiling and left it there for five days*, because nobody had looked, and because looking would have meant deciding that something was wrong, and everybody in that building had a hundred things to do that were more obviously wrong.
+Nobody in that building had checked the access log. It had been four days, and the building was a paint works with a clinic in it and a hundred and forty people through the doors every day, and there had been no line in any book with the words *someone with building access came in on the Wednesday night and built a frame into your ceiling and left it there for two days*, because nobody had looked, and because looking would have meant deciding that something was wrong, and everybody in that building had a hundred things to do that were more obviously wrong.
 
 The foil stencil is on a salt-glass plate in a case with a name on it, in a laboratory two wards from a hospital, in Dr Quill's custody, and it is staying there.
 
 And the crew did not make the frame.
 
-That was the thing Elias Venn understood at a quarter to three in the morning, on a kerb, with cotton wool in his pocket and forty minutes of his life that would not come back. The channel was finer than Jules Ardent's. The pair of marks was cleaner than anything Jules Ardent had ever cut. Whoever went over that wall at ten to eleven on a Friday night had been handed better work than the work everybody had spent four days hunting for, and had been told, in a way that did not need a conversation, exactly where to put it.
+That was the thing Elias Venn understood at a quarter to three in the morning, on a kerb, with cotton wool in his pocket and forty minutes of his life that would not come back. The channel was finer than Jules Ardent's. The pair of marks was cleaner than anything Jules Ardent had ever cut. Whoever went over that wall at twenty to midnight on a Friday night had been handed better work than the work everybody had spent four days hunting for, and had been told, in a way that did not need a conversation, exactly where to put it.
 
 The first network could carry a stolen release on a piece of brass. It could not make that brass, could not seat it, and could not choose a building.
 

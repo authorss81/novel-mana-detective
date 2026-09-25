@@ -84,7 +84,7 @@ Elias did not touch it. He read it standing up, from the doorway, and he photogr
 
 Jules pointed.
 
-"Fourteenth," he said. "That's the one. Second-hand transit, bench run of six. And then the seventeenth of last month, and there it is. 4417 out, to a fella called Rennick, on a card from a clinic."
+"Fourteenth," he said. "That's the one. Second-hand transit, bench run of six. And then the seventeenth, and there it is. 4417 out, to a fella called Rennick, on a card from a clinic."
 
 "What clinic?"
 
@@ -156,7 +156,7 @@ The book ran, column by column, name, card, treatment, signature. Ninety-one row
 
 And there was no room at that address for a person who had been made to practise opening a door.
 
-He photographed the page in the corridor, standing up, with the bell within reach of the receptionist's hand and no pretence at all that he was doing anything else. Then he wrote his own name and the time in the visitor book, in her ink, with her pen, because she asked him to and because he has spent nine days in a building of his own where nobody wrote anything down. He noticed the shape of his own signature going onto a stranger's page and had the distinct sensation of a man who has just put a future prosecutor's index finger on a piece of paper.
+He photographed the page in the corridor, standing up, with the bell within reach of the receptionist's hand and no pretence at all that he was doing anything else. Then he wrote his own name and the time in the visitor book, in her ink, with her pen, because she asked him to and because he has spent nine months in a building of his own where nobody wrote anything down. He noticed the shape of his own signature going onto a stranger's page and had the distinct sensation of a man who has just put a future prosecutor's index finger on a piece of paper.
 
 Then he stood in the wet outside on Verge Row for a while and let the fact settle, which was this: if that book was the record, then the record had been in a corridor on Verge Row all along, in a drawer a woman had to unlock, and the only reason nobody had ever read it was that nobody had ever asked.
 

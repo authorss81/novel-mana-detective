@@ -12,7 +12,7 @@ And then, at ten to six, with his hands around a cup of tea he had not asked for
 
 "Tall-ish. Not tall. Very neat. The smock is the sort of thing a man wears to a job he has not got." Rafi turned the cup round. "And here's the part I couldn't get out from under all night. He asked me if the twelve o'clock went up Tanager Street or down. And I said down, because the twelve goes down. And he said *right*, and he went up Tanager Street."
 
-Nadia wrote that down, and then wrote in the margin: *witness correcting own earlier account after sleep — treat as two accounts, one corroborated.*
+Nadia took it down, and then added in the margin: *witness correcting own earlier account after sleep — treat as two accounts, one corroborated.*
 
 "Why does that bother you?" she said.
 
@@ -104,7 +104,7 @@ Jules Ardent put the chalk down and wiped his hands for a long time, on a rag, t
 
 "It reached the records in about ninety minutes," Jules said. "Which is the thing none of you have understood. Nobody has to walk into that building. They just merge the patient's file with the account's file, and the account's file has its own address on it, and then the document says the patient was under the care of the account at an address the account controls. And the clinic's name is on it as a *referral*, and the referral makes it legal on its face, and nobody at that address ever has to agree to anything." He looked at her. "They did it to somebody else first. There is a man on that account's books who has been coming to Verge Row for a year and who does not know he has been on a treatment course."
 
-Nadia wrote that down and read it back to him, and made him confirm it, and dated it, and initialed it, and then did the thing she had come to do.
+Nadia put that down in her own hand and read it back to him, and made him confirm it, and dated it, and initialled it, and then did the thing she had come to do.
 
 "Stand up," she said.
 
@@ -116,13 +116,13 @@ Elias came out from behind the bench with a dead night-bus depot light in his ha
 
 "Sit down, both of you," she said. "I am going to do three things and then I am going to be at the hospital until nine."
 
-She did the first thing. She had a canvas roll on the bench, and she unrolled it, and there were eleven tools in it in a piece of oilcloth: a scribe, a pair of nippers, three drivers, a stone, a small file, a pair of tongs, an old hacksaw, and a fourth clamp — JA-4416, from the run.
+She did the first thing. She had a canvas roll on the bench, and she unrolled it, and there were ten tools in it in a piece of oilcloth: a scribe, a pair of nippers, three drivers, a stone, a small file, a pair of tongs, an old hacksaw, and a fifth clamp — JA-4416, from the run.
 
 "These came out of a lock-up on Chalk Street that was entered on the eighteenth of September with a warrant obtained by a detective who has since retired to Cornwall," she said. "He carried other people's tools for six years. He kept a list. He has brought me the list."
 
 Jules Ardent put both hands flat on the bench.
 
-"I did the repairs," he said. "I did the repairs on the ninth of September, and on the eleventh, and on the twenty-fourth, on a false clinic account, at a flat above a shuttered laundrette in Chalk Street, and I did not ask what the workings were for, and I told myself that a repair is a repair and a ward doesn't care who owns the room it is in. That is the sentence. That is exactly the sentence I used on myself for six years. Record it."
+"I did the repairs," he said. "I did the repairs on the ninth of September, and on the eleventh, and on the fifteenth, on a false clinic account, at a flat above a shuttered laundrette in Chalk Street, and I did not ask what the workings were for, and I told myself that a repair is a repair and a ward doesn't care who owns the room it is in. That is the sentence. That is exactly the sentence I used on myself for six years. Record it."
 
 Nadia recorded it, word for word.
 
@@ -206,11 +206,11 @@ Elias and Nadia looked at each other across a bench with a dead bus light on it.
 
 Jules Ardent stopped in the doorway with his hand on the frame.
 
-"Not a frame," he said. "A pattern. Somebody brought me a pattern in a sealed envelope and paid me to cut a first set from it, and it was a design for a device that holds a sequence in a channel, and it came with a stamp device and a drawing of the stamp, and the stamp was a pair — two marks, one open square over one filled square, cut as a pair so a maker can tell a first cut from a fourth. And the drawing said *deprecated practice, retained for existing frames only*." He shifted the roll under his arm. "I cut two sets. The second one I never picked up. And the first one is the clamp you sent to a laboratory in a bag, and I did not know then and I know now that there were more, because you told me what was in it, and it was not what I made."
+"Not a frame," he said. "A pattern. Somebody brought me a pattern in a sealed envelope and paid me to cut a first set from it, and it was a design for a device that holds a sequence in a channel, and it came with a stamp device and a drawing of the stamp, and the stamp was a pair — two marks, one open square over one filled square, cut as a pair so a maker can tell a first cut from a third. And the drawing said *deprecated practice, retained for existing frames only*." He shifted the roll under his arm. "I cut two sets. The second one I never picked up. And the first one is the clamp you sent to a laboratory in a bag, and I did not know then and I know now that there were more, because you told me what was in it, and it was not what I made."
 
 "Then who did the second set?"
 
-"I don't know." He said it flatly. "It was going to be collected. It was never collected. It has been sitting in my bench room since the seventeenth of last month, which is why I know it is not the second one in the street."
+"I don't know." He said it flatly. "It was going to be collected. It was never collected. It has been sitting in my bench room since the seventeenth, which is why I know it is not the second one in the street."
 
 Elias Venn stood in his own shop and understood that the piece of evidence that had just left his hands in a courier's van on Wednesday night had not gone to a hiding place.
 
