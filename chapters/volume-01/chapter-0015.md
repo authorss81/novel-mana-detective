@@ -138,7 +138,7 @@ The telephone rang at four in the afternoon.
 
 It was Nadia, and she was not in a car.
 
-"Elias, the Registry's information office has issued a draft line for the Halloway Street death. Not published. Drafted, circulated internally at about two o'clock this afternoon, ten hours after the body was found and three hours after Mara took a plate out of the room."
+"Elias, the Registry's information office has issued a draft line for the Halloway Street death. Not published. Drafted, circulated internally at about two o'clock this afternoon, ten hours after the body was found and two hours and a half after Mara took a plate out of the room."
 
 "What does it say?"
 

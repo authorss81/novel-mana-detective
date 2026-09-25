@@ -2,7 +2,7 @@
 
 He woke at twenty to seven on Saturday morning in a chair beside his own bed, with the shop's day book open on his knees, and the first thing he did was try to account for the previous day and the first thing he found was that he could not account for the previous day at all, only the parts of it other people had put in writing.
 
-Saturday the twenty-second of September. Yesterday was the twenty-first and yesterday was a Friday and yesterday he had read a sheet of paper at a counter without touching it and had refused a countersignature at twenty to five and had cut a latch plate and put nine inches of galvanised steel in both his hands and had lost forty minutes somewhere between a yard on Marshall Street and a car.
+Saturday the twenty-second of September. Yesterday was the twenty-first and yesterday was a Friday and yesterday he had read a sheet of paper at a counter without touching it and had refused a countersignature at a minute to five and had cut a latch plate and put nine inches of galvanised steel in both his hands and had lost forty minutes somewhere between a yard on Marshall Street and a car.
 
 The day book said the date. The shop clock three feet from his shoulder said seven minutes to seven. Both of those were the kind of record that cannot be argued with, and neither of them told him anything about his own Friday.
 

@@ -86,6 +86,10 @@ The clerk said, "You are, Registrar-Counsel. It is a schedule, not a finding."
 
 "He is recorded," said Bettina Haile. "He is recorded in a clinical hold filed by a physician on Marshall Street, in a form with her name on it, in a system this Registry does not control and cannot overwrite. Doctor Okafor is in this building's lobby at this moment because I asked her to come, and she has that hold in a file, and it is a better record than mine because it is hers."
 
+"Then it goes in as I have given it, Ms Okpara," she said, to the woman with the notebook. "In my words."
+
+"Words, Registrar-Counsel," said Ms Verity Okpara, and wrote, and did not look up.
+
 Elias looked at the table for a moment.
 
 "That is correct," he said.
@@ -128,7 +132,7 @@ Bettina Haile came through the lobby door with the ring binder under her arm and
 
 "Doctor. Your production is in and I want to thank you for it, and I want you to know that the box was full." She said it to Okafor and not to Elias. "Forty-one months is an unusual thing to hand over and it has saved this office about a fortnight."
 
-"It was not a favour to the office," said Sana Okafor. "It was forty-one months of my clinic's own faults on a public wall, and your assessor read it on Friday afternoon off a noticeboard at four feet and she did not have to ask me for any of it."
+"It was not a favour to the office," said Sana Okafor. "It was forty-one months of my clinic's own faults on a public wall, and your assessor read it yesterday afternoon off a noticeboard at four feet and she did not have to ask me for any of it."
 
 "Yes," said Bettina Haile. "That is what the schedule exists for. It is very rarely used in that direction and I intend to say so in my report, which nobody will read." She turned round to Elias. "Sergeant, one thing before you go, and then I will leave you alone. A schedule is appealable. That is what a schedule is. I have attached your four items to my attestation this morning and I would like you to understand that in about four months somebody with an interest in the Registry's position will be able to apply to have Schedule One struck out, on the ground that it is an unverified lay statement from an officer with a declared conflict, and I have not thought yet about who would do that, and I have not thought about it because it is not my job until somebody does it."
 

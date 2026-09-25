@@ -52,7 +52,7 @@ And when Lyle asked, in a completely reasonable voice, how the channel came to m
 
 Lyle read it.
 
-*19 Sept, 21:50. The channel of the above measured EMPTY at this hour. Plate running on the stamped face. D/Sgt Venn in the room. I am looking at a number. I am not looking at the door, the corridor, the sample, or the officer. At 20:52 a hand of the officer's went into the channel, ungloved as to the channel, which I had told him not to do, and which he had been told not to do by me, at the window, at nineteen forty-one. Everything I have measured from that channel from 20:52 onward describes a surface with a man in it. I was the person looking at the number. I have written this at 21:03, twenty minutes after, from memory, because I did not write it at the time, and I want it on the record that I did not write it at the time. — M.Q.*
+*19 Sept, 20:50. The channel of the above measured EMPTY at this hour. Plate running on the stamped face. D/Sgt Venn in the room. I am looking at a number. I am not looking at the door, the corridor, the sample, or the officer. At 20:52 a hand of the officer's went into the channel, ungloved as to the channel, which I had told him not to do, and which he had been told not to do by me, at the window, at nineteen forty-one. Everything I have measured from that channel from 20:52 onward describes a surface with a man in it. I was the person looking at the number. I have written this at 21:03, thirteen minutes after, from memory, because I did not write it at the time, and I want it on the record that I did not write it at the time. — M.Q.*
 
 "That," said Lyle, "is the most damaging document in this file and it is in your handwriting."
 
@@ -144,7 +144,7 @@ Then she said the other thing, which she had been carrying up the stairs and dow
 
 And then she said the other thing, and she said it in the flat voice she used for figures.
 
-"My brother is called Iven Quill. He went into a clinic that was not licensed on the fourteenth of October, six years and eleven days ago, and he has not come out, and nobody in this city has a single document about him because he was not a patient in any system, he was a customer of a room. I have not said his name out loud in this building in three years, and I have said it to you on a bench in a shopping street, and there is no lead attached to it and I would like that on the record by somebody. Witness."
+"My brother is called Iven Quill. He went into a clinic that was not licensed on the fourteenth of October, six years and seventeen days ago, and he has not come out, and nobody in this city has a single document about him because he was not a patient in any system, he was a customer of a room. I have not said his name out loud in this building in three years, and I have said it to you on a bench in a shopping street, and there is no lead attached to it and I would like that on the record by somebody. Witness."
 
 Elias did not ask her a single question about it. It took him about four seconds of wanting to and then he understood that she had handed it to him the way she handed over a measurement: as a thing that is hers, given without a condition, to a person who will not immediately try to work on it.
 

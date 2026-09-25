@@ -215,7 +215,7 @@ The post-Blackline working pattern that supplied the first fabricated release an
 | Mavis Brannigan | second victim, cold room, Halloway Street | MAY-vis; 57, night-market stallholder |
 | Kirsten Brannigan | her daughter; bought a ward continuity unit | KEER-sten; 29; the document is hers and it stays in her drawer |
 | D. Mears / W-4471 | the name and Ward Works vest number in the clinic maintenance book's Wednesday entry | both genuine; the signature is a stranger's, and all three being true resolves nothing |
-| Ms Verity Okpara | clinical observer at the Monday 24 September preliminary attestation | ver-EE-tay ok-PAH-rah; writes down what she is told and does not intervene |
+| Ms Verity Okpara | clinical observer at the Monday 24 September preliminary attestation | ver-EE-tay ok-PAH-rah; writes down what she is told and does not intervene. Speaks once, in Chapter 14, to require the ground of a refusal to be minuted in the words as given and not as a summary. **Not to be confused with Marguerite Osei**, and the two must never share a scene or a page |
 
 ## Terms and places added while drafting (Volume 01, batch 0001)
 

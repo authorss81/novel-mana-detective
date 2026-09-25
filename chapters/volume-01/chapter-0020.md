@@ -12,7 +12,7 @@ They sat in the car on Marshall Street for about four minutes with the engine of
 
 "You should not have done it on your own," Elias said.
 
-"I have not done it on my own. I have done it on my own and I have told you about it, which is the other half, and I am fifty per cent into a fortnight of being extremely pleased with myself about the second half and I would like to get on with it."
+"I have not done it on my own. I have done it on my own and I have told you about it, which is the other half, and I am fifty per cent into a fortnight of being extremely pleased with myself about the second half."
 
 "Read me the four hundred words."
 
@@ -36,7 +36,7 @@ The form was a standard application for access to a certified record. It was one
 
 "And if I leave field eleven blank?"
 
-"It comes back to you. Unattended. And a request that comes back to you is a request that has been read by whoever returned it." She put her finger on it. "There is no version of this form on which you can ask for the Morrow Street report without the Kettle Rows file arriving at Morrow Hill in the same envelope, or within a day of it. That is the whole of it. That is what four hundred words and a Saturday morning bought you, and it took you four days to spend it, and I am sorry about that and I am not going to pretend I could have held it for you."
+"It comes back to you. Unattended. And a request that comes back to you is a request that has been read by whoever returned it." She put her finger on it. "There is no version of this form on which you can ask for the Morrow Street report without the Kettle Rows file arriving at Morrow Hill in the same envelope, or within a day of it. That is the whole of it. That is what four hundred words and a Saturday morning bought you, and it took you eight days to spend it, and I am sorry about that and I am not going to pretend I could have held it for you."
 
 Elias Venn read field eleven nine or ten times.
 
@@ -48,7 +48,7 @@ He wrote it in the small bad hand, and it took a long time, and it went over mos
 
 He read it back, and Nadia read it over his shoulder twice, and then she said, "That last sentence is going to make somebody very angry."
 
-"It is going to make somebody very angry, and it is going to make them angry at the right person, and it is going to do that in about nine days instead of about four years, and I have spent twelve years waiting for a document and I am not going to wait another four years for a version of it that somebody could have built without me." He signed the first field and dated it. "Send it to the Deputy Chief's office by hand. Not by the tray. By hand, and logged, with the time on it."
+"It is going to make them angry at the right person, and it is going to do that in about nine days instead of about four years, and I have spent twelve years waiting for a document and I am not going to wait another four years for a version of it that somebody could have built without me." He signed the first field and dated it. "Send it to the Deputy Chief's office by hand. Not by the tray. By hand, and logged, with the time on it."
 
 "Lodged Sunday," said Nadia, "which means it is in the building at about five o'clock, and it is in the Deputy Chief's building at about eight, and it is read on Monday morning by an assistant who has been an assistant for eleven years, and the flag goes up on the file at about eleven."
 
@@ -60,11 +60,23 @@ There was no hearing tomorrow. There had not been a hearing tomorrow for six day
 
 "No," said Elias Venn. "I want it served after the board has sat."
 
-Nadia Kest looked up.
+Nadia Kest did not answer that. She turned a sheet of paper round on the desk, pushed it across the space between them without a word, and went back to her tray.
 
-"The board was adjourned on Thursday," she said.
+It was a board minute on one sheet with a stamp in the corner, and four lines on it.
 
-"I know it was adjourned. It was adjourned because the clinical respondent's production was served on the twenty-seventh at four o'clock in the afternoon for a board that sat at ten that morning, and the production was ninety-odd pages of a dispensary's own maintenance book, and the board is now listed for Thursday the fourth of October." He put the pen down. "Dr Okafor published that book on Sunday the twenty-third so that nobody could take one page out of it, and the whole of the Concord's answer to that was to put the whole of it in a file and adjourn the thing she wanted. That is the correct response to the correct act and I want it noted somewhere that I think so, and that I am still waiting for Thursday the fourth."
+*Adjourned. Further time required for the clinical respondent's production, served 16:00 on 27 September.*
+
+*Re-listed: Thursday 4 October, 10:00, same room.*
+
+The rest of it was names and a signature, and one sentence in brackets: *the Board notes that the production was received after the sitting had been convened.*
+
+"She served it at four o'clock," Elias said. "For a board that sat at ten that morning."
+
+"And she has put that sentence in brackets," said Nadia, "in her own minute, on a document anybody in this city can walk in and read, and Doctor Okafor has to live in the town where it can be read. That is the whole of Thursday and it took four lines."
+
+"Was it the right thing to do?"
+
+"It was the correct answer," said Nadia, "which is not the same, and I have been sitting with the difference since Friday afternoon, and I am not going to say it out loud to anybody, because the woman it is about has slept four hours a night for the first time since Tuesday."
 
 "Then the application goes out and the flag goes up and you walk into a clinic on Thursday the fourth as a member of the public."
 
@@ -94,17 +106,37 @@ He was dressed. He had a plastic bag with a clean shirt in it and his rash had f
 
 "The board is Thursday the fourth of October at ten. It's a review board, it sits in public, and the clinical hold is what keeps you where you are until it sits, and Doctor Okafor filed it on the twenty-first and it has been upheld twice since, once on Monday when a courier turned up at six with a signature and once on Thursday when it was adjourned to the fourth."
 
-"They adjourned it?"
+"Twice," said Niko Senn. "And neither time was about me."
 
-"It was adjourned because the clinic's own production was served late in the afternoon for a board that sat in the morning," said Elias. "And the production is ninety-odd pages of the clinic's maintenance book, which Dr Okafor put on the wall of her waiting room on Sunday the twenty-third so that nobody could take one page out of it. And the Concord's answer to that was to put the whole of it in a file and adjourn the thing she wanted. That is the correct answer to what she did, and she still did it, and I would like you to remember that, because you are the only other person in this case who has ever chosen a record over a result."
+"No. The second one was ninety-odd pages and a file," said Elias. "And Doctor Okafor served the lot at four o'clock on Friday afternoon and then let them adjourn her. She is the only other person in this case who has ever chosen a record over a result, and she is going to choose it again on Thursday, in that room, out loud. Hold on to that, because you are going to be sitting in it."
 
-Niko Senn sat with that for a second.
+"You have chosen it too."
 
-"Say the other thing again slowly," he said. "The one about Monday." And Elias said it again slowly, twice — that the account had marked him discharged at six o'clock on Monday morning, that the file closed, that nobody was coming for him, and that nobody in the city now knew where he was either — and watched a young man of twenty-four go through about nine days of fear in about ninety seconds, in a corridor, with a plastic bag on his knees.
+"I have," said Elias. "That is the difference between us and I do not know yet that it is a small one."
+
+"You have not asked me what happened to the account."
+
+"No," said Elias. "You were going to."
+
+"I worked it out on Tuesday." He said it with no weight in it at all, which was worse. "The bed was wanted on Sunday and nobody has come and said one word to me since, and the woman on the counter has been extremely kind about not saying anything, and there is only one way to put those two things together. So I am not a patient anywhere. Is that right."
+
+"That is right."
+
+"And the file is shut."
+
+"The file is shut and you are not in it. That is the good half, and I am not going to stand here and pretend it is the whole half."
+
+"Then what is the other half."
+
+"That from Friday the twenty-first to this minute there is a hole with your name nowhere in it in the whole city, and in about nine days, when somebody goes looking for you, there will be nothing to send a letter to." He had the notebook out and did not write on the page. "Your aunt's is the only address I have got for you. Tell somebody you trust where you are going to be."
+
+Niko Senn looked up at the clock over the door.
+
+"Ten past," he said. "That is my taxi, and half past six is my bus, and I have been sitting on this radiator since about eleven telling myself the bus was an option."
 
 Then Niko Senn put his hand in his pocket and took out a card.
 
-It was a small printed card, the thickness of a playing card gone soft, and it had been in a pocket or a wallet for three weeks and it had a bent corner and a thumbprint on the corner, and it had a name on it that was not a name Elias recognised, and a card number, and no Concord registration mark, and no address on it at all.
+It was a small printed card gone soft at the edges, with a bent corner and a thumbprint on it, and a name on it that was not a name Elias recognised, and a card number, and no Concord registration mark, and no address at all.
 
 "There," said Niko Senn. "I've had that since the Wednesday before she died. He wrote his own name on it, in the room, while I was lying on the floor, and he gave it to me when I left, and I put it in my wallet and I have carried it about for three weeks and I told you in a hospital on the seventeenth of September that I could have photographed it and I didn't, and I did not, and I want you to have it now before I do something stupid with it at a bus stop."
 
@@ -120,7 +152,7 @@ Niko Senn's hand stayed where it was.
 
 "It's my card. I've had it three weeks."
 
-"It is your card, and I am not going to take it, and if I take it then in about four months there is a piece of plastic in a police store in this city that a man in a wig has ordered produced, and it has my fingerprints on it, and a faint of mine on the front, and it was in your wallet, and the defence will say your fingerprints are on it and the officer's are on it, and they will be right, and you will spend a year being a man who cannot explain a card." He put his hands in his pockets, which was what he did when he wanted them to be somewhere he could account for. "And there is a second thing and I am telling you both. If I touch it, it stops being yours. It becomes an exhibit. And then you are not a man who happened to have a card, you are a man who gave a card to the police, and those two men are treated completely differently by every office in this city, and the second one has a file, and the second one is on a list, and the second one gets a letter."
+"It is your card, and I am not going to take it, and if I take it then in about four months there is a piece of plastic in a police store in this city that a man in a wig has ordered produced, and it has my fingerprints on it, and a faint of mine on the front, and it was in your wallet, and the defence will say the officer's prints are on it and they will be right, and you will spend a year being a man who cannot explain a card." He put his hands in his pockets, which was what he did when he wanted them to be somewhere he could account for. "And there is a second thing and I am telling you both. If I touch it, it stops being yours. It becomes an exhibit. And then you are not a man who happened to have a card, you are a man who gave a card to the police, and those two men are treated completely differently by every office in this city, and the second one has a file, and the second one is on a list, and the second one gets a letter."
 
 "So it's just mine."
 
@@ -134,11 +166,11 @@ Niko Senn put the card back in his pocket, and did it slowly, and put his hand f
 
 "You don't have to. I can just tell you. It isn't long and it isn't hard."
 
-"No," said Elias. "Don't. And I want to tell you why, because I have thought about it and the reason is not noble. The day I have a name, I have an expectation. And the day I have an expectation is the day I start building a file around it instead of building a case around the thing in front of me, and I have done that to about four people in six days, and one of them was a mechanic and one of them is a woman who works in a building with a plate in a hard case, and I have apologised to both of them, and I am not going to do it to you on a Sunday afternoon in a corridor." He put his hand out, flat, palm up, and then took it back. "You keep it. If you ever do want to give it to somebody, give it to a person and not to an office. I am a person. Today is not the day."
+"No," said Elias. "Don't. And I want to tell you why, and the reason is not noble. The day I have a name, I have an expectation, and the day I have an expectation is the day I start building a file around it instead of a case around the thing in front of me. I have done that to about four people in six days. One was a mechanic and one is a woman with a plate in a hard case, and I have apologised to both of them, and I am not going to do it to you in a corridor on a Sunday." He put his hand out, flat, palm up, and then took it back. "Keep it. If you ever do want to give it to somebody, give it to a person and not to an office. I am a person. Today is not the day."
 
 "Coroner came and went," he said.
 
-"I know. I read it. There is no dangerous-working finding, because there has not been a hearing about one, and there is not going to be one, because on Monday morning the Registry issued its own attestation saying the working was self-directed and that no third party need be looked at, and I did not sign that either, and the one piece of paper I got out of the room was a schedule with my own name at the bottom of it admitting that I cannot rule out the ordinary explanation for what I saw."
+"I know. I read it." Elias Venn turned the notebook over on his knee. "No dangerous-working finding, because there has never been a hearing about one. Monday morning the Registry issued its own attestation saying the working was self-directed and that no third party need be looked at. I did not sign that either, and the only paper I got out of that room was a schedule with my own name at the bottom of it saying that I cannot rule out the ordinary explanation for what I saw."
 
 "So nobody's coming," said Niko Senn. "For a working. Right?"
 

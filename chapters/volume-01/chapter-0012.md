@@ -62,7 +62,7 @@ Slade wrote for a while.
 
 "It is also an honest one, which in my experience is the only kind worth writing down." He put the pen down. "Now your favour."
 
-"Paragraph four says it is to be read with any application subsequently made. I am going to make an application on Monday morning, in daylight, on notice, for a warrant to a different address — the private premises on Carrow Lane — and I am going to make it because of a thing I found on a piece of paper on Wednesday and have not been able to put down since, and which is not connected to your midnight in any way that I can prove, and which I am not going to tell you about at eight o'clock on a Saturday morning."
+"Paragraph four says it is to be read with any application subsequently made. I am going to make an application on Monday morning, in daylight, on notice, for a warrant to a different address — a private premises, and I am not going to name it to you — and I am going to make it because of a thing I found on a piece of paper on Friday and have not been able to put down since, and which is not connected to your midnight in any way that I can prove, and which I am not going to describe at eight o'clock on a Saturday morning."
 
 "You have just told me you have a thing you cannot put down and asked me for nothing in exchange."
 

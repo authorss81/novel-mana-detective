@@ -82,7 +82,7 @@ They were letters.
 
 "Somebody else has asked."
 
-"Wednesday," said Marguerite Okpara. "A woman from the municipal contracts office, on a phone, very polite, asking for the distribution of attendance codes by post code. I said it was not something I could do and she said she understood perfectly and would raise it with the works manager, and then she said, *and can you confirm the mapping is unchanged since the April revision*." She shut the box. "I said I could not confirm that, and she said thank you, and she rang off, and I have thought about it every day since, and I do not know why I have thought about it every day since."
+"Wednesday," said Marguerite Osei. "A woman from the municipal contracts office, on a phone, very polite, asking for the distribution of attendance codes by post code. I said it was not something I could do and she said she understood perfectly and would raise it with the works manager, and then she said, *and can you confirm the mapping is unchanged since the April revision*." She shut the box. "I said I could not confirm that, and she said thank you, and she rang off, and I have thought about it every day since, and I do not know why I have thought about it every day since."
 
 ---
 
