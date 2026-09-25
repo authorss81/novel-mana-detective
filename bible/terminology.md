@@ -206,6 +206,16 @@ The post-Blackline working pattern that supplied the first fabricated release an
 | Ahmed | night porter, Kettle Rows Community Clinic | one syllable; timed the nine minutes on his watch |
 | Halvard Reisz | owner of the Kettle Rows building holding the 14 Kettle Rows rooms | HALL-vard; his ward certificate expires in March and a dangerous-working finding ends it |
 | Mrs. Achterberg | top-floor tenant, 14 Kettle Rows | AKH-ter-berg; brought a chair down at four in the morning |
+| Magistrate Hadwin Slade | out-of-hours magistrate, Vine Street, who granted the Friday telephone warrant | HADD-win; scrupulous and not kind about it; **no relation to Halden Ro** |
+| Roy Prentice | Witness Operations Registrar, Proof Registry | ROY; reasonable, and the man who asks for the stencil |
+| Priyanka Lyle | Concord Clinical Standards assessor | pri-YANK-ah; preliminary practice reviews are **not** disciplinary |
+| Desmond Bramwell | Bramwell & Sons of Ash Street, stamping and die-cutting | DEZ-mond; keeps his own copy of everything he cuts, which is the whole of his usefulness |
+| Marguerite Osei | ward fault log, Tanager Street works depot | mar-gee-REET oh-SAY; municipal, not Concord, and not afraid of her counter |
+| Orin Sable | named in Chapter 18: **supplier of frames** | OR-in; licensed class *supply*, restricted from carrying out any dangerous working; not the maker of the stockroom carrier |
+| Mavis Brannigan | second victim, cold room, Halloway Street | MAY-vis; 57, night-market stallholder |
+| Kirsten Brannigan | her daughter; bought a ward continuity unit | KEER-sten; 29; the document is hers and it stays in her drawer |
+| D. Mears / W-4471 | the name and Ward Works vest number in the clinic maintenance book's Wednesday entry | both genuine; the signature is a stranger's, and all three being true resolves nothing |
+| Ms Verity Okpara | clinical observer at the Monday 24 September preliminary attestation | ver-EE-tay ok-PAH-rah; writes down what she is told and does not intervene |
 
 ## Terms and places added while drafting (Volume 01, batch 0001)
 
@@ -220,10 +230,26 @@ Canon recorded here as it was established in prose. No power rule changes.
 - **Bramwell & Sons**, Ash Street — the stamping firm that put maker's marks on licensed ward tools.
 - **Saint Orra Reach residue laboratory** — Mara Quill's two rooms behind the hospital's linen office. Four instruments, two older than the department beside them. A salt-glass plate is not admissible unless it is on a Concord register, and hers is not.
 
+## Terms and places added while drafting (Volume 01, batch 0002)
+
+Canon recorded here as it was established in prose. No power rule changes.
+
+- **SEQ 4(c)** — the **public shelf number** for the sequence-box category *an act of release entered after a turn where the working contains none of its own*. Found in the footer of **Form R-2 (rev. 4)**. The printed concordance adds: *field is completed on the standard form in every case in which a working has a turn and no release of its own; entry does not assert that a release was performed; entry asserts that the record is to be treated as though a release was performed, for the purposes of this record only.* **Nobody in the manuscript may know who fills a 4(c) box, why the box exists, or that a machine once filled one in on its own.** Volume 01 ends with that question open.
+- **SEQ 4(d)** — *a sequence with no recorded release, closed at the discretion of the certifying office.* Withdrawn from standard forms in 2011, retained for indexing of pre-2011 records only. This is the sentence in the Morrow Street report.
+- **The concordance of sequence-box codes** — a bound book, four credits, sold at the Morrow Hill forms counter because a form's code has to be in a printer's catalogue and is therefore not privileged. Its preface fixes that categories have not been renumbered since the 2006 consolidation, so a category number in an old form and the same number in a new one are the same category in the same words.
+- **Form R-2 (rev. 4)** — a transfer-of-residence form whose printed instruction above the sequence box describes a **three**-act standard transfer and whose box has been filled in with **four**. A **certifying office** completes a 4(c) entry, and every issued certificate carries the name of the office that issued it.
+- **The ward fault log** — a plastic box on a counter at the **Tanager Street works depot**, municipal, holding a slip for every fault reported in a ward-protected block. Slips are closed as *resolved* by an **attendance code**, and there are four codes and no names; the approved-contractor list is in an office. **A failure marked resolved on the day it was reported, by a contractor nobody can name, is the arc's cover mechanism.**
+- **Ward continuity office** — a risk office, not an insurer in law, that prices off **reported faults** and publishes schedules of premises. There are eleven in Veyra. Schedules have a *covered* book and a **premises that are not covered** book, and rehabilitation account 44-9 is in the second. **The firms are named on the schedules and are not used in prose. Aegis Mutual is not named in Volume 01.**
+- **Halloway Street** — four streets back from the Kettle Rows market. **Carrow Lane** — a print's, over which Orin Sable's registered premises sit. **Vine Street** — the out-of-hours magistrate's rooms. **Halloran Supply** — the trading name on the August invoices; a legal person, and the register of trading names is behind a counter.
+- **A maker's acceptance pair** — the open square over a filled square, cut as a pair. A **die** cut from that profile is a stamping that can be sold to any maker, which is why a die shop's ledger is not public and why a seized die and an unregistered plate can only be compared in one room in the city.
+- **A preliminary sequence attestation** — a Registry instrument that records a sequence against a standard and goes into the world whether or not the assigned detective signs it. **It is not a dangerous-working finding and it closes nothing.** Schedules attached to it are appealable.
+- **A labelled disagreement** — the volume's real instrument: a document in which an officer records what he perceives, what he cannot say, and what he cannot rule out. Stronger evidence than an unlogged certainty, and the only thing Elias has that survives a hearing.
+- **A note is not a request** — a distinction with teeth. A note has no form, no case number and no route; a request has all three, and a request for a connected record carries a disclosure field that cannot be left blank. Field eleven of the standard application for access to a certified record is headed *other matters to which the applicant is or has been connected, in which the record is or may be relevant*.
+
 ## Capitalization and style
 
 - Capitalize **Veyra**, **Mara Quill**, **Civic Concord**, **Quiet Hands**, **Proof Tribunal**, **Quiet Grid**, **Veyran Vault**, **Proof Registry**, **Lantern Compact**, **Ninefold Assembly**, **Aegis Mutual**, **Sequence Sight**, **Witness Service**, **Witness Rooms**, and **Witness Compact**.
-- Use lowercase for **working**, **sequence**, **anchor**, **address**, **turn**, **release**, **residue**, **inner trace**, **copywork**, and **false rehearsal** unless beginning a sentence or naming a formal certificate.
+- Use lowercase for **working**, **sequence**, **anchor**, **address**, **turn**, **release**, **residue**, **inner trace**, **copywork**, **false rehearsal**, **discharge**, and **resolved** unless beginning a sentence or naming a formal certificate.
 - Use “spell” in ordinary dialogue and “working” in professional or legal contexts. Do not make the distinction a class joke.
 - Use “sequence reading” for Elias's skill and “certified sequence” for an official record. Never call a raw reading a certificate.
 - Do not use “mana points,” “mana bars,” “skill trees,” “XP,” “cooldowns,” “level up,” “critical hit,” “quest,” or “NPC.” The world may use those as foreign modern gaming words only if a character has a specific reason to use them.
