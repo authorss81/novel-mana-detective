@@ -48,6 +48,8 @@ An optional act that hides, redirects, or compresses part of a working. A fold c
 
 A person or a carefully prepared record used to stabilize and certify a working. A witness is not automatically a source of truth. The Civic Concord's official witness training is the target of much of the central mystery.
 
+A **witness-binding** is the Concord's technique for stabilizing a witness's account: it aligns the person's inner trace to the residue so the account can be certified. It is genuine, widely used, and does not lie about what happened. What it does is **take the account out of the witness's own hands** — the witness can no longer revise it, and cannot testify to having revised it either. Whether that is permanent is not established in the text, and practitioners will not say, because asking is how you find out that they already have. It is offered as a kindness and accepted as a service, and it is dangerous to use on any witness whose order may have been given to them rather than lived by them. The formal proof-weave witness act is defined in `bible/power-system.md`; the batch 0001 note on duration and reversibility is a drafting addition and is recorded here so later chapters do not contradict it.
+
 ### Return
 
 An optional consequence that travels back along a working's connection. A returned consequence travels to the nearest connected anchor that can contain it; if no anchor can contain it, the nearest living body—or the practitioner—absorbs the consequence. A counterturn can force this consequence into an uncommitted state.
@@ -194,6 +196,29 @@ The post-Blackline working pattern that supplied the first fabricated release an
 | Tamsin Ro | first copywork victim, night-bus dispatcher | TAM-sin; dead in Volume 01 |
 | Niko Senn | intended target and witness in the first copywork case | NEE-koh; not a trained magical practitioner |
 | Iona Saye | former Concord director and Quiet Hands leader | eye-OH-nah; central human antagonist |
+| Wren Abasi | Civic Concord Ward Works inspector, Kettle Rows matter | no romance, no corruption; thorough and good at her job |
+| Bettina Haile | Registrar-Counsel of the Proof Registry | BET-ee-nah; helpful, reasonable, and the institutional problem |
+| Rafi Ilori | Kettle Rows night-market porter, ordinary witness | RAH-fee; nine years on the same two hundred metres; not Jules Ardent |
+| Otto Vahl | ground-floor tenant, radio repairs, Tamsin Ro's neighbour | OTT-oh; has the cat now |
+| Priya Sandoval | constable, Kettle Rows station, first on scene | see-PRY-ah |
+| Marek Dace | constable, Kettle Rows station, first on scene | MAH-rek |
+| Bess Yonkin | Kettle Rows Tool Registry clerk, nineteen years | bess YON-kin; gives ledgers, refuses dies |
+| Ahmed | night porter, Kettle Rows Community Clinic | one syllable; timed the nine minutes on his watch |
+| Halvard Reisz | owner of the Kettle Rows building holding the 14 Kettle Rows rooms | HALL-vard; his ward certificate expires in March and a dangerous-working finding ends it |
+| Mrs. Achterberg | top-floor tenant, 14 Kettle Rows | AKH-ter-berg; brought a chair down at four in the morning |
+
+## Terms and places added while drafting (Volume 01, batch 0001)
+
+Canon recorded here as it was established in prose. No power rule changes.
+
+- **14 Kettle Rows** — the four-storey Kettle Rows building whose ground floor is Elias's repair shop. Elias's apartment is the second floor; Tamsin Ro rented the top room, and Otto Vahl has the ground floor. Owner: Halvard Reisz. Ward certificate on the shared circuits expires in March. Use *top floor* for the scene room and *second floor* for Elias.
+- **Rehabilitation account 44-9** — an account on Verge Row that is a legal person, with a card, a premises address, and a clause returning any tool issued against it at the close of the working day of issue. It books patients only at its own address. When it needs to reach somebody else it **merges records** rather than moving through a door, and the merge makes the document legal on its face.
+- **The delivered act** — a residue with the timing and load profile of a release and **no settling curve**, meaning it was made somewhere else, carried on a solid object, and seated into a slot already the right shape. It is the physical signature of copywork. What it arrived on — tool, card, coin, token, bead — is not determinable at First Margin.
+- **The maker's pair** — a maker's convention for grading a production run: an open square over a filled square, cut as a pair so a maker can number his own sets, first cut through fourth, and the cut is the grade. Volume 01 has exactly three pairs: the **first** cut on clamp JA-4417, the **second** on an uncollected set in Jules Ardent's bench room, the **third** and cleanest on the stockroom carrier.
+- **A seated slot** — a drilled, filled and re-drilled frame or channel that is already the right shape to receive a release. Assembled once by a licensed working and thereafter capable of being filled again.
+- **Kettle Rows Community Clinic** — Sana Okafor's clinic, a former paint works on Marshall Street with a yard and a dispensary stockroom. It is a stakeholder with a public board in its waiting room, not a location to be searched.
+- **Bramwell & Sons**, Ash Street — the stamping firm that put maker's marks on licensed ward tools.
+- **Saint Orra Reach residue laboratory** — Mara Quill's two rooms behind the hospital's linen office. Four instruments, two older than the department beside them. A salt-glass plate is not admissible unless it is on a Concord register, and hers is not.
 
 ## Capitalization and style
 

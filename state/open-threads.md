@@ -1,28 +1,36 @@
 # Open Threads
 
-**Seeded from the bootstrap bible, 2026-09-25.** Threads are promises the manuscript has made. Each one names its planned pay point so a batch cannot accidentally close it early.
+**Seeded from the bootstrap bible, 2026-09-25.** Threads are promises the manuscript has made. Each one names its planned pay point so a batch cannot accidentally close it early. Statuses were updated after batch 0001.
 
-## Active from Chapter 1
+## Active as of Chapter 10
 
-| Thread | Status | Planned pay point |
+| Thread | Status after Ch 10 | Planned pay point |
 |---|---|---|
-| **Morrow Street / Teodor Rusk.** Elias's inactive file: a ward collapse that killed twenty-three and was certified as one maintenance worker's working. The red thread around the file stays tied. | open | Volume 13 public finding; the Central Release question resolves at Volume 13 |
-| **The copied release.** Every copywork case carries the same fabricated release where the victim's own working has none. | open | Origin in Volumes 9–10; the final architecture in Volumes 12–13 |
-| **Niko Senn.** Intended target, rehearsed witness, patient at risk. False rehearsal cannot injure anyone by itself, so someone else had to do the harm. | open | Arc C, Chapter 25: he turns out to be telling a true, trained order. Volume 03's midpoint is a different beat — institutional consent procedure, not one rehearsed man |
-| **Hollis Ward's disappearance.** Eleven years without warning, no body, no closure. Elias still wears the mentor's habits. | open | Volume 09, and only Volume 09, may state where he was kept and what he helped build |
-| **Iven Quill.** Mara's brother, missing six years, lost to an unlicensed memory clinic. | open | Found alive but not restored, Volume 06; Mara's choice about reconnecting him, Volume 12 |
-| **The missing technique.** The first network can carry a stolen release template. It cannot yet insert a correction independently. | open | Volume 02 question, extended through Volumes 7–8 |
+| **Morrow Street / Teodor Rusk.** Elias's inactive file: a ward collapse that killed twenty-three and was certified as one maintenance worker's working. The red thread around the file stays knotted, and in Chapter 9 he refuses to open it. He has just discovered that the phrase in his own file is a **box on a Concord form**, not a private opinion. | open, and now a live clue | Volume 13 public finding; the Central Release question resolves at Volume 13 |
+| **The copied release.** Every case carries a fabricated release where the victim's own working has none. It is release-shaped with **no settling curve**, so it was made elsewhere and delivered on a solid object. What it arrived on is unknown. | open | Origin in Volumes 9–10; the final architecture in Volumes 12–13 |
+| **The fourth act as a form category.** *An act of release entered after a turn where the working contains none of its own.* Elias has seen the same four-act shape in a room, in brass, and in a printed box on a transfer order, and cannot yet say who fills the box in or why it exists. | open, planted Ch 9 | Volume 09–10 origin; the correction's purpose in Volumes 12–13 |
+| **The graded series.** Three maker's pairs: first cut on the clamp, second cut uncollected in Jules's bench room, third and cleanest on the stockroom carrier. Somebody supplied the third, told the crew where to put it, and has never appeared in any access log. | open | Arc A raised it; **Orin Sable is named in Arc B**; the intermediary and the Aegis Mutual ledger surface in Arc D |
+| **The foil stencil.** The only physical object in the batch that links the first two frames to one production method, now on Mara's second salt-glass plate in a police-adjacent laboratory rather than a locked evidence room. The crew can come back for it. | open | Arc B pressure; destroyed, moved or published in a later arc |
+| **Jules's uncollected second set.** Sitting in his bench room since the seventeenth, never collected, made from a sealed envelope with a stamp-pair drawing marked *deprecated practice, retained for existing frames only*. Whoever sent the envelope knows his address. | open, new in Ch 7 | Arc B or D; used as leverage or as an alibi |
+| **Niko Senn.** Intended target, rehearsed witness, patient at risk. Carries a false order he learned in a paid grounding course, has a febrile illness and a rash, is held at the Kettle Rows Community Clinic by a clinical hold, and has a transfer order reissued for 06:00 Monday. | open | Arc C, Chapter 25: he turns out to be telling a true, trained order. Volume 03's midpoint is a different beat — institutional consent procedure, not one rehearsed man |
+| **The man in the smock.** Forty credits, a card, a cardigan, a room above a tax office off the Verge Row side, and a brass tool he put in a bag at the end. He is not the stockroom operator. | open, new in Ch 4 | Arc B; the rehearsal network's entry point |
+| **The Council of the clinic's operator's client.** The maintenance man who came at 21:10 on the Wednesday night in a Ward Works vest, signed a maintenance book, and was tall-ish and very neat — the same description Rafi Ilori gives. | open, new in Ch 8 | Arc B |
+| **Hollis Ward's disappearance.** Eleven years without warning, no body, no closure. Named once in Chapter 3 as the man who told Elias the faculty was a sensitivity and not a destiny. | open | Volume 09, and only Volume 09, may state where he was kept and what he helped build |
+| **Iven Quill.** Mara's brother, missing six years, lost to an unlicensed memory clinic. Named in the manuscript only as a fact Mara carries; she has not said his name aloud in this batch. | open | Found alive but not restored, Volume 06; Mara's choice about reconnecting him, Volume 12 |
+| **The missing technique.** The first network can carry a stolen release template. It cannot make the brass, cannot seat the frame, and cannot choose a building. | open | Volume 02 question, extended through Volumes 7–8 |
 | **Aegis Mutual's certificate.** An insurer holds a certificate for a treatment no patient remembers receiving. | open | Volume 02 lead, Volume 04 tribunal |
-| **The pattern of who is taught.** Someone supplies frames, measurements, and rehearsals; the stockroom frame is a finer, better-made copy with a second, finer seam, so these are produced in graded series. The foil template the crew was sent to remove survives in Mara's laboratory and links the first two frames to one workshop. | open | Arc A raises it; Orin Sable is named in Arc B; the intermediary and the Aegis Mutual ledger surface in Arc D |
-| **Elias's unreadable gift.** The Margin is unregistered, and the network learns in Chapter 10 that he can read a working. | open | Every stage from Fracture to Unclosed Window; the Margin is lost permanently in Volume 13 |
+| **Elias's unreadable gift.** The Margin is unregistered, the network learned in Chapter 10 that he can read a working, and a man on a wall photographed him to prove it. | open | Every stage from Fracture to Unclosed Window; the Margin is lost permanently in Volume 13 |
+| **Elias's formal standing.** A refused countersignature, a recorded disagreement that says in writing that his own perception has an ordinary explanation he cannot exclude, and a Deputy Chief's routing slip asking Nadia for a summary of the Morrow Street position by close of Friday that she has not yet shown him. | open | Reprimand, closed file, withdrawn shop accounts — Arc D |
+| **Nadia's eight o'clock appointment.** She applied for a telephone warrant at 22:41 Friday and has undertaken to explain it in person to an out-of-hours magistrate, who is annoyed. | open, new in Ch 10 | Arc B, as a small institutional cost with a named person attached |
 
-## Relationship pressure carried into Chapter 1
+## Relationship pressure carried into Chapter 11
 
-- Elias and Nadia: partners who disagree about whether a raw reading justifies an emergency action.
-- Elias and Mara: no agreed consent, chain of custody, or standard for what his ability counts as.
-- Sana's clinic: will not trust Elias with a living trace.
-- Jules Ardent: suspect, not ally.
+- **Elias and Mara:** a working practice neither of them has named. She has refused, in writing, to let him be on her figures. He has not yet asked her anything that is not about the case.
+- **Elias and Nadia:** the "no working alone" condition is live and the board in the office is where he says where he is going. She is holding one piece of information he does not have.
+- **Elias and Jules:** apology accepted, not trust. Jules drove the evidence back to the people who stole it. He is not cleared of anything, and nobody has been charged.
+- **Elias and Sana:** she told him the difference between protecting a person and possessing a story, and he heard it. She is a stakeholder with a hold and a board, not a witness he can call.
+- **Elias and the Civic Concord:** adversarial dependence hardened. The Registry will now proceed on its own attestation over his refusal, and the city has an information sheet dated the fifteenth that already says *contained accident involving an unregistered ward tool*.
 
 ## Not yet opened
 
-Do not foreshadow these as active threads before their volume: the Quiet Hands by name (Volume 9), the nine institutional anchors (Volumes 7–8), the First Correction as a pattern (Volume 12), the Safety Charter (Volume 10), the Ward Reauthorization Review as a dated event (Volume 12).
+Do not foreshadow these as active threads before their volume: the Quiet Hands by name (Volume 9), Iona Saye (Volumes 9–10), the nine institutional anchors (Volumes 7–8), the First Correction as a pattern (Volume 12), the Safety Charter (Volume 10), the Ward Reauthorization Review as a dated event (Volume 12), Aegis Mutual as a named actor (Volume 2).
