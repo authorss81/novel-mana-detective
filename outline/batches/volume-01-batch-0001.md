@@ -36,11 +36,76 @@ Do not promise a rescued victim or an identified source object at the midpoint. 
 
 **Chapter 10.** A copywork crew returns to the Kettle Rows clinic at night to remove a second carrier — one built for the clinic's own ward-light circuit and attached to Niko's transfer order — along with its template, before the dispensary's records can be copied. The clamp from Chapter 5 is contaminated and in Mara's lab at Saint Orra Reach, so this frame is something Elias has never held. It starts a small working on the ward circuit. Elias has no counterturn and no safe reading, so he uses ordinary police procedure, Jules's knowledge of the physical route, and Mara's measurement to identify where the carrier is bound. The working stops when the carrier is physically broken, not because Elias defeats a practitioner. No patient is harmed, the operator escapes, the network learns that Elias can read a working, and the Registry's certification order now stands against a file with no admissible answer. What the crew takes is a measurement, not a tool, which is the first sign that the frames are being made in series by someone with better materials than Jules.
 
+## Batch ladder
+
+Five steps, and then the aftermath that closes the batch. Each step ends with a changed situation, and none of them is a cut away in the middle of an action.
+
+| Step | Chapters | Beat | What changes |
+|---|---|---|---|
+| Beginning | 1–2 | A dead night-bus dispatcher two floors above Elias's own door, and a threshold whose residue disagrees with its lock | The death becomes a working rather than a burglary, and Elias's residency is written into the file instead of dodged |
+| Escalation | 3–4 | The faculty described honestly, then the surviving witness whose remembered order does not fit the room | Elias can see an omission and cannot yet call it a copy; Niko Senn becomes a person with a frightened account rather than a lead |
+| Midpoint | 5 | The borrowed clamp traced through three shops to a legal rehabilitation clinic with no patient in its records | A small victory and a serious doubt: the tool everyone wanted to arrest a man over cannot be the thing that killed Tamsin Ro |
+| Escalation, second | 6–8 | The unlogged touch that ruins the sample, a suspect who confesses instead of fleeing, and a clinic that will not be raided | Elias loses the batch's best measurement, gains an accountable ally in Jules, delays Niko's transfer, and gives up control of the search |
+| Climax | 9–10 | A drafted certificate whose wording was chosen first, then a live working in the dispensary stockroom | Elias refuses a signature, breaks a carrier he has no power to interrupt, and learns the frames are graded and better made than anything Jules can produce |
+| Aftermath | 10, closing pages | Forty minutes on a curb while three residents, one at a time, describe the ward light going out | The clinic is standing, the case is open, and the network now knows what Elias can do and has started planning around it |
+
+## Batch aftermath
+
+The state batch 0002 inherits, in the order it will find it:
+
+- **The case.** Open. A broken second carrier, the seam and the graded stamp marks preserved on salt-glass in Mara Quill's name, a threshold plate lifted in Chapter 2, and a draft certificate Elias refused to countersign. Nothing is certified, no witness has lost standing, and no dangerous-working finding exists.
+- **The dead and the living.** Tamsin Ro is dead and publicly named as the first victim. Niko Senn is at the Kettle Rows clinic, alive, frightened, and scheduled for a transfer that has been delayed but not cancelled. Sana's patients have been treated by people who chose them, not by an inspector.
+- **Accountability, so far.** Jules Ardent has confessed on the record to unregistered repairs under a false clinic account and has returned the borrowed tools. Nobody has been charged with the death. The crew is anonymous, the frame-maker is unnamed, and the legal rehabilitation account still has a name and an address.
+- **The new pressure.** The Proof Registry's certification order now stands against a file with no admissible answer, and a witness named in that draft has been left out of it.
+- **The larger question.** The frames are graded. Somebody supplied a better-made carrier, told the crew where to put it, and never entered the building's access log. The first network can carry a stolen release template but cannot yet insert a correction of its own. Someone is teaching it, and the teaching is the Volume 02 question.
+- **Elias personally.** No counterturn. No certificate. A documented conflict of interest, a clamp he may no longer touch, four readings whose costs are not yet fully paid, and a private document that no official file will hold.
+
 ## Naming and location decisions
 
 - **Tamsin Ro** is the first victim. **Niko Senn** is the intended target, the witness, and the patient at risk; name him whenever he is present, intended, or discussed — Chapters 4, 6, 7, 8, 9, and 10 — and never replace him with an unnamed "patient."
 - **Orin Sable is not named in this batch.** The crew in the stockroom is anonymous, a set of hands and a borrowed clinic account. The question the batch ends on is *who is teaching the network*; naming the first frame-maker is Arc B's reward.
 - The first crime scene is in Elias's own building, two floors above his apartment. Do not relocate it to a neutral witness site.
+- **Niko Senn's location chain:** a Saint Orra Reach interview room (Chapter 4) → a referral clinic named on the rehabilitation account, where he is booked for the treatment he does not remember (Chapters 6–7) → moved by Jules into the Kettle Rows Community Clinic, the one address the account cannot reach (Chapter 7) → transfer delayed and then reissued under the same certificate (Chapters 8–10). He is never in police custody, never in Elias's building, and never asked to consent to a living-trace reading.
+
+## Object and sample continuity
+
+Getting these four objects confused will damage the case logic, so their custody is fixed.
+
+- **The threshold plate (Chapter 2).** Mara lifts the room's threshold residue onto a salt-glass plate in front of Elias and the inspector and initials the corner. The seam — a discontinuity belonging neither to Tamsin nor to the door — is found on this plate in Chapter 3. It is the batch's first independent measurement and it exists before the police file does.
+- **The clamp (Chapters 5–6).** Documented, not seized. Nadia records the transfer and the tool goes to Mara's laboratory rather than an evidence locker, which is the only reason Elias is allowed to handle it at all. His unlogged touch in Chapter 6 contaminates it; from that point the clamp belongs to Mara and the case, not to Elias, and he cannot touch it again in this volume.
+- **The stockroom carrier (Chapter 10).** A different object from the clamp: a finer tooth pattern, a cleaner third stamp, cut from measurements rather than from a tool. Elias never holds it before the working starts. Its broken halves, the seam measurement, and the graded stamp marks go onto a second salt-glass plate under Mara's name, and the crew leaves carrying measurements rather than the frame.
+- **Two plates, two claims.** The Chapter 2 plate supports what happened in the room. The Chapter 10 plate supports what was made and how well. Neither is a certificate, neither enters the proof weave in this batch, and Elias's name on either one does not make it admissible.
+
+## Chapter distribution
+
+The batch rotates pressure types so that scene work, cost, and consequence do not arrive back to back, and so that the two quietest chapters (4 and 8) sit on either side of the batch's worst mistake.
+
+| Chapters | Primary pressure |
+|---|---|
+| 1–2 | investigation and scene work, with institutional suspicion |
+| 3 | discovery and controlled practice, paid for physically |
+| 4 | relationship work and consent, no action |
+| 5 | investigation and ordinary police procedure without authority |
+| 6 | consequence, recovery, and a cost that cannot be repaired |
+| 7 | investigation from Nadia's position, character and confession |
+| 8 | social and political pressure around a clinic that will not be raided |
+| 9 | discovery and a decision that costs standing |
+| 10 | action under load, then aftermath on a curb |
+
+## Opening promise coverage
+
+The first ten chapters of the series must establish all of the following. Where each promise is delivered:
+
+1. **Ordinary life and work** — Chapters 1 and 5: a night shift, a repair shop, a room over a shop, three shops' transfer ledgers, and a man who cannot get a warrant.
+2. **A concrete immediate problem** — Chapter 1: a neighbour is dead and the door's own account of itself is wrong.
+3. **The central genre promise** — Chapter 2: a detective can see the order of a working and cannot see why anyone performed it.
+4. **One meaningful rule** — Chapter 3: the Margin gives order and omission, never motive, and a reading costs minutes of a life.
+5. **One relationship with friction** — Chapter 4, with Mara, over consent and the words a frightened witness is allowed to use.
+6. **A first small victory** — Chapter 5: the clamp is traced, its nature is established, and the operator's route is documented.
+7. **A first cost or failure** — Chapter 6: an unlogged touch destroys the batch's best measurement and Elias's standing with the only person who can measure anything.
+8. **A larger promise** — Chapter 8: a legal account exists for a treatment no patient remembers, and a network is moving a working through a living person.
+9. **A clue to the central mystery** — Chapter 9: the fabricated release is the same act that is missing from the Morrow Street record.
+10. **A reason to continue past this arc** — Chapter 10: the frames are graded, better made, and someone supplied this one.
 
 ## Required character changes
 
@@ -86,7 +151,7 @@ The batch ends with an open file, a frightened patient who is safe for now, and 
 - Why does the copied release carry the same fabricated fourth act as the Morrow Street report?
 - Who rehearsed Niko Senn, and what did the person who did it call the rehearsal at the time?
 - Why was the draft certificate written as a self-directed working before the residue was measured?
-- Can Mara's instruments measure the seam without touching a living patient?
+- Can Mara's instruments show a seam in a person's own working without touching that person, and what would asking cost her?
 - Who is paying for the legal rehabilitation clinic that has no patient in its intake records?
 
 ## Chapter Cards

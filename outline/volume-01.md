@@ -23,6 +23,24 @@ The Quiet Grid is stable enough for ordinary city life but has begun intermitten
 
 **First Margin:** Elias can perceive the order of a fresh magical working after physical contact or entry into a residue scene. He cannot read motive, identity, intent, or the future; he cannot safely read a living person; he cannot interrupt a working. A reading causes dizziness, nausea, and lost minutes. He has no public name for the faculty and no reliable way to prove it in court.
 
+## Power change across the volume
+
+The volume ends at the stage it starts with. **First Margin** becomes reliable enough to follow a working that is happening now, and never becomes a weapon Elias can swing.
+
+- The readings grow longer and more precise: from a few seconds of order in a dead threshold to holding a live order steady long enough for another person to act on it.
+- What improves is duration and comparison, not reach. He learns to recognize the same act recurring in separate objects. He still cannot separate a fold from a genuine turn, cannot tell copywork from an original, and cannot interrupt anything; the diagnosis of *copy* stays with Mara's instruments and the seam.
+- He never learns a counterturn. The Fracture stage, the first attempt at interruption, belongs to Volume 02 and needs a partner who can warn him plus a physical anchor.
+- The cost curve rises without becoming special. Dizziness and lost minutes in Arc A become balance loss, phantom pain, and a reading that damages the sample it was meant to protect. By Arc E he cannot stand unaided after a sustained reading and loses time he can only reconstruct from transit logs and other people's accounts.
+- The volume's real gain is procedural, not magical: he learns that a labelled disagreement is stronger evidence than an unlogged certainty, and that a refusal can be a documented act rather than a personal one.
+
+## Relationship change across the volume
+
+- **Elias and Mara:** from guarded professional friction to a working consent practice that both of them keep informally. She sets the boundary in Arc A, he breaks it once and pays for it, and by the close of Arc A he is asking her to publish a measurement under her own name. The formal joint protocol remains a Volume 03–04 goal; nothing romantic is declared, and intimacy never grants magical access.
+- **Elias and Nadia:** Nadia keeps him on the case on the condition that he stops working alone. Her trust survives Arc C only because he accepts a correction in public instead of defending a private reading.
+- **Elias and Jules:** suspect to accountable technical ally. Jules never clears by innocence; he is charged with carrying other people's work and cleared of building the frame, and he remains a reluctant ally the network can still reach.
+- **Elias and Sana:** she treats him as a risk to be managed, then as the officer who stayed outside her treatment rooms. The clinic is a stakeholder in the case, not a location to be searched.
+- **Elias and the Civic Concord:** adversarial dependence hardens. The institution he resents gives him a reprimand in the same volume that it certifies a version of the case he knows is false.
+
 ## Major locations
 
 - **Kettle Rows:** apartment rooms, the repair shop below Elias's home, community clinic, night market, and the first witness sites. The first crime scene is inside Elias's own building, two floors above his door.
@@ -38,6 +56,19 @@ The Quiet Grid is stable enough for ordinary city life but has begun intermitten
 - **Kettle Rows Community Clinic:** Sana Okafor and the mutual-aid network providing care outside the official system.
 - **Orin Sable's copywork network:** unlicensed clinicians and frame-makers who steal working traces and hide a safe-looking sequence inside crimes.
 - **Lantern Compact interests:** insurers and landlords who benefit from a narrow definition of magical harm.
+
+## Chapter distribution
+
+The volume is a fifty-chapter procedural with a five-arc spine, so the mix tilts toward investigation and aftermath rather than combat. Approximate targets across the volume:
+
+- 30% investigation and discovery, including interviews, scene work, and record tracing
+- 15% action and survival, one concentrated sequence per arc and the Arc E working
+- 15% character and relationship work, carried by consent, custody, and who is treated as a person
+- 10% training and controlled experimentation, always in Mara's lab and always with a cost
+- 15% political and social pressure: certificates, hearings, insurance, ward budgets, clinic access
+- 15% recovery, aftermath, and practical repair: funerals, forms, custody hearings, curbs, and clinic tea
+
+Two rules for the mix. No arc may resolve itself by a fight, and no arc may end without a recovery beat that shows who pays in sleep, money, medication, or standing.
 
 ## Arc and batch map
 
