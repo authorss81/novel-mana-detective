@@ -28,9 +28,9 @@ He closed the toaster, tested it, and put it on the shelf for collection. Then h
 
 *DRG HW-CS-03, Sheet 1 of 2, Issue B. Issued 30 Sep 2029.*
 
-Under that, because a man who writes a reference without writing what it is for will forget why he wrote it, he added: *Drawing office reference. Register behind a counter. Needs a case number.*
+Under that, because a reference without a reason on it is a reference a man cannot use at nine in the morning with a queue behind him, he added: *Drawing office reference. Register behind a counter. Needs a case number.*
 
-And under that, because the batch-0003 review had taught him to write the thing he was not going to do: *Niko Senn is not a route to a counter. Do not borrow a standing.*
+And under that, because a man forgets why he wrote a rule long before he forgets the rule: *Niko Senn is not a route to a counter. Do not borrow a standing.*
 
 He put the stamped copy back in the folio. He did not take it out of the shop.
 
@@ -42,7 +42,7 @@ Otto Vahl came through from the front with a chassis in both hands and set it on
 
 Otto grunted. He had repaired radios in the back of that shop for eleven years, through three owners of the building and two recessions in the parts trade, and he knew what a Factors book meant. The drawer under the till held the carbon slips in date order, the statements filed behind with a bulldog clip, the handwriting changing twice where the Factors had changed clerks. Twenty years of fuse wire, elements, flex, plugs, solder. Nothing that had ever needed a licence class.
 
-"He will be back Thursday with a schedule," said Otto. "The assessor. Wants the slips."
+"He will be back in the morning with a schedule," said Otto. "The assessor. Wants the slips."
 
 "Then he brings the schedule to me first," said Elias. "Drawer sticks until then."
 
@@ -50,7 +50,7 @@ Otto grunted. He had repaired radios in the back of that shop for eleven years, 
 
 Elias worked the morning bench. A toaster, a wash boiler, two irons. The work was ordinary and it steadied him in a way the file never had. At half past twelve he ate bread and cheese standing at the back bench with the notebook open beside him, and wrote nothing, because there was nothing new to write. The reference line sat on the page in his small bad hand with the date under it, and the line about Niko Senn under that, and the two together were the whole of his standing: a thread he could see and a man he would not use to pull it.
 
-At two he walked to Marshall Street for solder and stood for a while outside the clinic, looking at the waiting-room windows without going in. The board was in there with ninety-odd copied pages on the left and the registrar's transfer order on the right and four sheets of his own in the middle, flat under four drawing pins. Ahmed had rung last night to say two men had looked at it twice and touched nothing. He did not go in to look at it himself. A member of the public with no file does not stand in front of his own paper in a clinic corridor in the middle of the afternoon.
+At two he walked to Marshall Street for solder and stood for a while outside the clinic, looking at the waiting-room windows without going in. The board was in there with ninety-odd copied pages on the left and the registrar's transfer order on the right and four sheets of his own in the middle, flat under four drawing pins. On Friday Ahmed had telephoned the shop to say a man had stood at the board for twenty minutes reading the copied pages, and had then written, on the back of his own hand, the one thing he wanted off that wall. He had not taken it. Ahmed had written that down too, and said that eleven people had now stood in front of that board and not one of them had been asked to sign anything. He did not go in to look at it himself. A man with no file does not stand in front of his own paper in a clinic corridor in the middle of the afternoon.
 
 He bought the solder, walked back by way of Tanager Street without stopping at the depot, and was at the bench by three. The depot appeared in his notebook that afternoon only as a line he drew a box round: *M.O. — will not write. Named absence.*
 
@@ -114,9 +114,9 @@ Elias stood. Jules walked him to the door and stood in the doorway with the noti
 
 "It is not yours until somebody measures it," said Elias. "And nobody has measured it yet."
 
-He walked back to Kettle Rows in the dark with the notebook in his inside pocket and the stamped copy still in the folio in the back room where he had left it. Otto Vahl was at the front bench with a chassis open, and the cat had moved from the blanket to the warm spot by the urn.
+He walked back to Kettle Rows with the notebook in his inside pocket and the stamped copy still in the folio in the back room where he had left it. Otto Vahl was at the front bench with a chassis open, and the cat had moved from the blanket to the warm spot by the urn.
 
-"Assessor again Thursday," said Otto without looking up. "He wants the Factors slips. I told him the drawer sticks."
+"Assessor again in the morning," said Otto without looking up. "He wants the Factors slips. I told him the drawer sticks."
 
 "It sticks," said Elias, and went through to the back room and stood for a while looking at the carrier bag on the bench under the window.
 
@@ -126,7 +126,7 @@ Then he wrote the time, 18:20, and put the notebook on the shelf above the bench
 
 The shop telephone rang at half past seven. It was Priya Sandoval from the Kettle Rows station, to say a woman had been at the counter asking whether the four sheets on the clinic board were a police notice, and the desk had told her correctly that they were not, they were a member of the public's paper on a third party's wall. Elias thanked her, wrote *board asked about at station, told correctly, 15 Oct 19:30* in the notebook, and put the pen down.
 
-He ate soup standing up, washed the pot, and sat for a while with the receipt stub in his wallet in his hand. The stub said *received as a document, not evidence, not a note on any matter, no file*, and on the back in Nadia Kest's hand where it recorded the single copy on the clinic wall. A photograph off that wall sat in Paul Rennick's pocket, and both of them said it was a photograph and not a copy. The arithmetic of paper in this case was the only thing that had never lied to him.
+He ate soup standing up, washed the pot, and sat for a while with the receipt stub in his wallet in his hand. The stub said *received as a document, not evidence, not a note on any matter, no file*, and on the back in Nadia Kest's hand where it recorded the single copy on the clinic wall. A photograph off that wall sat in Paul Rennick's pocket, and both of them said it was a photograph and not a copy. Paper had never once lied to him. It only sat there being what it was, and let him be the one who read it.
 
 At half past nine the telephone rang. It was the clinic, and it was not Dr Okafor. It was the night porter, Ahmed, to say that the waiting-room board had been looked at twice that day by two different men, neither of whom had touched anything, and that he had written both times in the book.
 

@@ -16,7 +16,7 @@ Nadia Kest came out of the Sequence Desk at half past nine on Wednesday morning 
 
 She looked at him for a long moment, then jerked her head toward the far corner where the vans parked and nobody ate lunch.
 
-"Four minutes," she said. "Because I have a board at ten."
+"Four minutes," she said. "Because I have a briefing at ten."
 
 He walked with her to the corner. The rain had stopped and the tarmac shone.
 
@@ -86,13 +86,13 @@ At the shop the telephone was ringing. It was Mara Quill, to say that the labora
 
 He wrote *Mara Sat 20 Oct, 10:00, stamped copy stays in pocket* in the notebook, with the time, 12:10, and put the pen down.
 
-He walked back to the car park wall and stood there a while after she had gone in, with the tarmac drying under his feet. The favour sat in her file on top, where it could be taken out without opening anything. It would be minuted in her own book with the time on it. Somebody would count it one day. That was the price, and he had agreed to it before he asked.
+The favour was on top of her file, where it could be taken out without opening anything, and by tomorrow it would be minuted in her own book with the time on it, and in a year's time somebody would count it. He had known all three of those things when he wrote the paper, and knowing them had not stopped him writing it, and that was the part he was going to have to live with.
 
 The afternoon went to the shop because the shop was the only place that would have him without a form. He mended two kettles, refused a ward cooker again with the same words, and at three took the bus to Saint Orra Reach with a parcel of elements for the hospital workshop, because the hospital paid cash and cash paid the rent. The bus smelled of rain and disinfectant. He sat on the right-hand side so his good ear faced the aisle, the way he had sat since September, and watched the city go past without reading any of it.
 
 Mara Quill's laboratory stood two rooms behind the linen office with its door shut and its log inside. He did not go to it. He left the parcel at the workshop hatch, signed, and came back by way of the market, buying bread and soup and cat food with money from the till book, writing each item down because a man whose trade account is being looked at writes everything down.
 
-The bell rang at five. It was the assessor's clerk, come to say the assessor was satisfied with the morning and would not attend Thursday after all unless the position changed. Elias said he understood, and the clerk went away, and Otto took the wedge out of the drawer with a screwdriver and put it in his pocket without a word.
+The bell rang at five. It was the assessor's clerk, come to say the assessor was satisfied with the morning and would not attend again unless the position changed. Elias said he understood, and the clerk went away, and Otto took the wedge out of the drawer with a screwdriver and put it in his pocket without a word.
 
 He sat in the back room for a while with his hands flat on the bench, the way a man in a smock had taught a boy to, and then took them off again. The carrier bag stood under the window. The cat slept on the radio bench in the front. The drawer with twenty years of carbon slips opened clean when he tried it, because Otto had unwedged it.
 

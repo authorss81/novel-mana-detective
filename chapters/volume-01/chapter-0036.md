@@ -1,16 +1,16 @@
 # Chapter 0036 — Two People At Once
 
-The residue laboratory at Saint Orra Reach kept Saturday hours for instruments, not for people. Mara Quill opened the inner door at ten o'clock with her sleeves already turned back and her log on the bench, and looked at the two men on the step the way she looked at samples: completely, without favour.
+The residue laboratory at Saint Orra Reach kept Saturday hours for instruments, not for people. Mara Quill opened the inner door at ten o'clock with her sleeves already turned back and her log on the bench, and looked at the two men on the step as she looked at samples: completely, without favour.
 
 "Stamped copy stays in your pocket until I tell you," she said to Elias. "Bench book on the bench, Mr Ardent, and your hands where I can see them."
 
 Jules Ardent laid his bench book on the end of the bench with a pencil squared beside it. He had come from Pell Street with the notice still on his door and his die block still in a building he could not enter, and he stood in a laboratory he had never stood in with the careful stillness of a man who knows he is the least qualified person in the room and intends to make up for it by being exact.
 
-Elias stood back with his hands visible. The stamped copy of CS-3 sat in his inside pocket where it had sat all week. The Chapter 10 plate sat in its hard case on the shelf behind Mara with the padlock off and the new sleeve on, log 1147, her consent and his breach on the same sheet. Neither plate would enter any proof weave. The stencil would not move. Those were the conditions of the room, and they were written on the wall in her hand above the bench: *No register. No certificate. Measurement only.*
+Elias stood back with his hands visible. The stamped copy of CS-3 sat in his inside pocket where it had sat all week. The plate with the stencil on it sat in its hard case on the shelf behind Mara with the padlock off and the new sleeve on, log 1147, her consent and his breach on the same sheet; the threshold plate stood on the same shelf in its own sleeve, coarse seam, Elias's signature on the corner from September. Neither plate would enter any proof weave. The stencil would not move. Those were the conditions of the room, and they were written on the wall in her hand above the bench: *No register. No certificate. Measurement only.*
 
-"I am going to say what this morning is for, in a voice, not a summary," said Mara. "This laboratory exists so a number can be taken without anybody owning it. A plate held against a surface gives a figure. A figure goes in my log under my number. That is my facility. It is not a reading, and the two are kept separate. If either of you confuses them, I will stop."
+"I am going to say what this morning is for, out loud, before any of it happens," said Mara. "This laboratory exists so a number can be taken without anybody owning it. A plate held against a surface gives a figure. A figure goes in my log under my number. That is my facility. It is not a reading, and the two are kept separate. If either of you confuses them, I will stop."
 
-She took the Chapter 10 plate out of its case herself, with the tweezers, the way she had on the ninth, and laid a glass over it. Then she nodded at Elias.
+She took the stencil plate out of its case herself, with the tweezers, as she had on the ninth, and laid a glass over it. Then she nodded at Elias.
 
 "Reference."
 
@@ -22,13 +22,13 @@ Mara wrote nothing. Jules wrote the reference in his bench book in his own hand 
 
 "Issue A," said Mara. "From the register."
 
-"Issue A, twenty-fourth of September, depth to be confirmed," said Elias. "Drawn T.B. twenty-sixth, checked F.M. Register says who and when, not why."
+"Issued the twenty-fourth, drawn T.B. the twenty-second, depth to be confirmed," said Elias. "Register says who and when, not why."
 
-Jules looked up. "Then somebody got a number between the twenty-fourth and the thirtieth. Six days. Fig. 3, Q, certified on the twenty-seventh, in a drawer I cannot open, and on the thirtieth it is on a drawing."
+Jules looked up. "Then somebody got a number between the twenty-fourth and the thirtieth. Six days. Fig. 3, Q certified on the twenty-seventh in a drawer nobody can open. T.B. has it in his hand on the twenty-eighth, in ink, on a sheet. The office puts it out on the thirtieth. A number does not cross a city in six days by itself."
 
 "That is the arithmetic," said Mara. "We are not saying why. A drawing office's register says who drew a sheet. We are here to find out whether the hand that drew it could have cut what came off the stockroom wall."
 
-She laid the stamped copy's channel section over the glass above the plate and slid it until the outlines agreed, the way she had on the ninth with Nadia Kest writing the times. The width agreed. The wall agreed. The lip — the one thing she had said she could not have told from memory — agreed.
+She laid the stamped copy's channel section over the glass above the plate and slid it until the outlines agreed, as she had on the ninth with Nadia Kest writing the times. The width agreed. The wall agreed. The lip — the one thing she had said she could not have told from memory — agreed.
 
 "They agree," she said. "Width, wall, lip. Whoever drew it knew there was a lip."
 
@@ -38,7 +38,7 @@ Jules leaned in with his hands behind his back, the way a mechanic looks at anot
 
 "Seat has no dimension," he said at last. "Note in the seat, not a number. That is a referral, not a measurement. The drawing does not say how deep. It says go and find out." He straightened. "And I can tell you one thing more, because it is metal and not sequence. The profile is finer than anything I ever cut."
 
-Elias felt the sentence land the way a charge lands: quietly, on paper, before anybody is ready.
+Elias felt the sentence land on paper, quietly, the way a charge lands, before anybody in the room is ready for it.
 
 "Say it exactly," said Mara.
 
@@ -50,15 +50,15 @@ He put the pencil down. "Eleven figures survive my clamp. This seat is inside fo
 
 Mara nodded once. Then she did her facility.
 
-She worked the way she had worked on the nineteenth of September at twenty thirty-four, when the first comparison went into pencil, and on the ninth of October at thirteen eleven, when the figure went into log 1147 with Nadia Kest writing the times. No hurry. No display. The instruments came out of their case in order — glass, caliper, lamp — and went back in order. She cleaned the glass twice. She checked the lamp against the wall. She asked Jules to hold the stamped copy at the corner, with both hands visible, while she sighted along the seat's length for the thickening where the draughtsman had changed pens. He held it without touching the seat line, breathing shallowly, the way a man holds another man's child.
+She worked as she had worked on the nineteenth of September at twenty thirty-four, when the first comparison went into pencil, and on the ninth of October at thirteen eleven, when the figure went into log 1147 with Nadia Kest writing the times. No hurry. No display. The instruments came out of their case in order — glass, caliper, lamp — and went back in order. She cleaned the glass twice. She checked the lamp against the wall. She asked Jules to hold the stamped copy at the corner, with both hands visible, while she sighted along the seat's length for the thickening where the draughtsman had changed pens. He held it without touching the seat line, breathing shallowly, the way a man holds another man's child.
 
 "There," she said. "Third of the way along. Radius narrows. Thickening fortieth of a millimetre, inside of curve. Pen line, not tool."
 
-Jules looked, nodded, and wrote it in his bench book with the time: *thickening confirms pen change, 20 Oct 10:52.* Then Mara took her own salt-glass plate — the threshold plate, coarse seam, sleeve signed by Elias in September — and held it against the stamped copy's channel outline, not against any door, not against any person, and took a measurement from the glass with her instruments, reading the figure off into her log under her number with the time, 11:14, in front of two witnesses. Elias watched her hands and understood, the way he had understood on the ninth, that competence in this room was hers and not his. She did not hurry. She did not explain. She measured, wrote, and closed the log.
+Jules looked, nodded, and wrote it in his bench book with the time: *thickening confirms pen change, 20 Oct 10:52.* Then Mara took her own salt-glass plate — the threshold plate, coarse seam, sleeve signed by Elias in September — and held it against the stamped copy's channel outline, not against any door, not against any person, and took a measurement from the glass with her instruments, reading the figure off into her log under her number with the time, 11:14, in front of two witnesses. Elias watched her hands and understood, as he had understood on the ninth, that competence in this room was hers and not his. She did not hurry. She did not explain. She measured, wrote, and closed the log.
 
 "Two figures," she said. "One from the ninth, 2.604, in log 1147. One from this morning, confirmatory, in my log under my number. Both mine. Both measurement, not reading." She looked at Elias. "Your four sheets are a list of documents and a list gets answered with paper. This —" she tapped the log with two fingers where the witness could see — "this is the thing that cannot be answered with paper. A seat cut to a picture with a pen line in it, at a depth that is my number, finer than anything the man beside you ever made."
 
-Jules stood very still. The clearance was on the page now, in his own bench book, in her log, in front of two people, and it was the first thing anybody in this volume had given him. He did not thank them. He picked up the pencil, squared it, and put it down again.
+Jules stood very still. The clearance was on the page now, in his own bench book, in her log, in front of two people, and it was the first thing anybody had given him since August. He did not thank them. He picked up the pencil, squared it, and put it down again.
 
 "A physical explanation is not a mystical answer," he said, quietly. "Somebody drew it. Somebody cut it. I carried things through the Cut for money and I did not ask what they were for. That is my part. It is not the drawing and it is not the cutting."
 
@@ -68,7 +68,7 @@ Elias wrote nothing. That was the agreement: her figures, his bench book, his no
 
 Niko Senn's name came up once, because it had to. Jules asked whether the order in the metal could be separated from the order a young man of twenty-four now held, and Mara said no, and Elias said no, and the three of them left it there: no instrument and no person can tell a perceived order from an expected one, and the manual says so in print on page four of Module 7.
 
-At half past twelve Mara put both plates back — the threshold plate to its shelf, the Chapter 10 plate to its hard case with the padlock through — and wrote the session times in her log with both witnesses initialling the margin. Jules closed his bench book. Elias put his notebook away unopened.
+At half past twelve Mara put both plates back — the threshold plate to its shelf, the stencil plate to its hard case with the padlock through — and wrote the session times in her log with both witnesses initialling the margin. Jules closed his bench book. Elias put his notebook away unopened.
 
 "Next step is a look, not a touch," said Mara. "I lead any entry. No hands on anything. Photograph in place or nothing."
 
@@ -88,4 +88,4 @@ The street was full of Saturday — shoppers, children, a busker with a guitar c
 
 Jules nodded, went in, and shut the door with the notice ticking against it. Elias walked home through the market with the notebook closed in his pocket, bought soup and bread, and logged the morning in the notebook with the times — *Mara measures, Jules compares, I write nothing, 20 Oct 10:00–12:30* — and slept for an hour with the window open, because Saturday was the first day the case had felt like work shared instead of work hoarded.
 
-In the evening Mara telephoned the shop, to say the confirmatory figure was filed and the log closed, and that she had written to Rennick with the two numbers and no conclusion. Elias thanked her, wrote *Mara filed, 20 Oct 18:10* in the notebook, and stood for a while in the back room looking at the shelf where the folio, the notebook, the censure notice and the Factors statements now lived in a row. The least useful person in the room had been allowed to stay in it. That was Saturday's whole teaching, and it was enough.
+In the evening Mara telephoned the shop, to say the confirmatory figure was filed and the log closed, and that she had written to Rennick with the two numbers and no conclusion. Elias thanked her, wrote *Mara filed, 20 Oct 18:10* in the notebook, and stood for a while in the back room looking at the shelf where the folio, the notebook, the notice about the breach and the Factors statements now lived in a row. A fortnight earlier he had believed the useful thing about himself was the thing he could see. It turned out to be the thing he could be trusted to carry without turning it into a performance, and there was a woman in Saint Orra Reach who had known that before he did and had let him find out by letting him stand in a room with his hands visible and nothing to do.

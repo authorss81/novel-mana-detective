@@ -2,27 +2,25 @@
 
 The shop telephone rang at seven on Tuesday morning and Elias Venn answered it in the back room with the notebook already open, because a man with no file learns to sleep with a pen.
 
-It was Ahmed from the clinic, to say the board had been looked at once more at half past six by a man who stood eleven feet away with his hands in his pockets and did not touch anything, and that the ninety-odd copied pages were curling at the corners with the heating. Elias thanked him, wrote *board looked at, 16 Oct 06:30, touched nothing* under yesterday's lines, and put the kettle on.
+It was Ahmed from the clinic, to say the board had been looked at once more at half past six by a man who stood eleven feet away with his hands in his pockets and did not touch anything, and that the ninety-odd copied pages were curling at the corners because the clinic keeps the heating off in the mornings and had told the caretaker three times. Elias thanked him, wrote *board looked at, 16 Oct 06:30, touched nothing* under yesterday's lines, and put the kettle on.
 
 Otto Vahl came through at eight with the radio bench's lamp in his hand and the cat following him like an apprentice.
 
-"Assessor Thursday," said Otto. "Drawer still sticks."
+"Assessor in the morning," said Otto. "Drawer still sticks."
 
 "It sticks," said Elias. They had agreed on this the way men agree on a thing that is both true and useful. The drawer did stick, because Otto had wedged a sliver of wood into the runner on Sunday night after the assessor's clerk had gone. Twenty years of carbon slips sat in it — fuse wire, elements, flex — and none of them would help a man looking for channel section, but the fact of being looked at would cost a morning and a morning was a thing the shop could not spare.
 
-He worked the bench till half past nine, closed a kettle, logged it, and took the stamped copy of CS-3 out of the folio long enough to check the reference line once more against the notebook. He did not take the whole bundle. The carrier bag stayed on the bench under the window where it had been since Monday night, with the cat forbidden from it by an agreement the cat observed when watched.
+He worked the bench till half past nine, closed a kettle, logged it, and took the stamped copy of CS-3 out of the folio long enough to check the reference line once more against the notebook. He did not take the whole bundle. The carrier bag stayed on the bench under the window where it had been since before the telephone in this shop started ringing, with the cat forbidden from it by an agreement the cat observed when it was being watched.
 
 Niko Senn's name sat on the page from yesterday with the line under it. Elias read it twice before he left, the way he read the prohibition sentence before any laboratory, and then he locked the back room, told Otto he would be back by dinner, and walked to Cutter Street in rain that came and went.
 
 Fenwick & Marsh kept their counter on the ground floor of 12 Cutter Street, in a room with a high window and a draught that moved the carbon slips on the spike. The board on the wall said *Draughtsmen. Estimates. Records kept.* Under it, in a smaller hand, *Registers not open to general inspection.*
 
-Elias Venn stood in the queue at ten o'clock on Tuesday morning with the stamped copy of CS-3 in his inside pocket and the miscellaneous receipt stub in his wallet, and watched the woman at the counter deal with a builder who wanted a stair drawing from 2024 and did not have the job number.
+Elias Venn stood in the queue at ten o'clock on Tuesday morning with the stamped copy of CS-3 in his inside pocket and the miscellaneous receipt stub in his wallet, three people ahead of him and a builder asking for a stair drawing from 2024 with no job number to ask under.
 
-She found it in four minutes. She was good at the book.
+The builder paid and took the copy. Elias had watched the whole of it because there was nothing else to watch, and because a counter is a place where competence shows. She did not hurry, did not sigh, did not make the queue feel like a queue. She turned pages with a bone folder so the paper would not tear, wrote the number on a slip in pencil, and filed the slip before she handed the copy over. Eight years at a counter teaches a person that the book outlives everybody who asks for it.
 
 When his turn came he laid nothing on the counter. He had learned at Bramwell's and at the trading-names counter and at the forms counter that a man who puts paper down has started an argument about the paper.
-
-The builder ahead of him had wanted a stair drawing from 2024 without a job number, and Imogen Draper had found it in four minutes by asking him three questions: street, month, and who paid. The builder paid, took the copy, and went out lighter than he came in. Elias watched the whole of it because there was nothing else to watch, and because a counter is a place where competence shows. She did not hurry, did not sigh, did not make the queue feel like a queue. She turned pages with a bone folder so the paper would not tear, wrote the number on a slip in pencil, and filed the slip before she handed the copy over. Eight years at a counter teaches a person that the book outlives everybody who asks for it.
 
 "Good morning," he said. "I am a member of the public with a stamped copy of a produced drawing. I would like an entry in your register read in place."
 
@@ -58,7 +56,9 @@ He closed the notebook. The queue behind him shifted.
 
 "Thank you," said Elias. "That is the map."
 
-He put the stamped copy back in his pocket without it having touched the counter. He had been in the room twenty minutes.
+She had found the builder's drawing in four minutes, and the builder had gone out lighter than he had come in, and Elias had stood in that queue for twenty minutes learning the only thing a queue can teach anybody: that a person who is good at a counter says the same three sentences to every stranger in the queue, and not one of them is a different sentence.
+
+Elias put the stamped copy back in his pocket without it having touched the counter. He had been in the room twenty minutes.
 
 Outside on Cutter Street he stood for a while with his back to a shuttered chandler's and wrote three more lines under the morning's entry.
 
@@ -78,7 +78,7 @@ He walked back to Kettle Rows by way of Fallow Street, past the tax office with 
 
 In the shop Otto Vahl had the Factors drawer open with a screwdriver in it.
 
-"It sticks," said Otto. "I told the assessor it sticks. He said he will come back Thursday with a schedule."
+"It sticks," said Otto. "I told the assessor it sticks. He said he will come back in the morning with a schedule."
 
 Elias looked at the drawer. The carbon book was in it, the statements filed behind with a bulldog clip, twenty years of monthly slips in a hand that had changed twice when the Factors changed clerks.
 
