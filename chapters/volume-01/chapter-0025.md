@@ -71,7 +71,7 @@ Elias Venn felt the room go very quiet and very cold, in the way it had gone col
 
 "When you say the room was hers. On which day."
 
-"The landing. Fourteenth Kettle Rows, the fourth floor, the last flight." Niko Senn said it without any hesitation at all. "She walked me up the actual stair. Twice. Once on the Friday and once on the Saturday, and she did it in about eleven minutes both times, and she stood where I was standing on the sixteenth and she said *this is where you were*, and she was right, and I've thought about her saying *this is where you were* more than I've thought about anything in three weeks."
+"The landing. Fourteenth Kettle Rows, the fourth floor, the last flight." Niko Senn said it without any hesitation at all. "She walked me up the actual stair. Twice. Once on the Monday and once on the Saturday, and she did it in about eleven minutes both times, and she stood where I was standing on the sixteenth and she said *this is where you were*, and she was right, and I've thought about her saying *this is where you were* more than I've thought about anything in three weeks."
 
 Elias Venn did not write it down. His hands were on the table and he was aware of them being on the table, and he was aware of what a man in a smock had taught a boy to do with his hands, and he took them off and put them in his lap.
 

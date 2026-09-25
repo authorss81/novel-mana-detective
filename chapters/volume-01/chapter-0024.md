@@ -50,7 +50,7 @@ Martin Crowther said yes he was, and he said it as a man who had a difficulty an
 
 The first two items took nineteen minutes and were about a treatment schedule and a dispensing record and were dealt with correctly and at speed, and then the chair came to the third item and the room changed.
 
-"The matter of the person named here as N. Senn," said Ada Lund. "There is a clinical hold filed on the twenty-first, a discharge entered by the registered agent on the twenty-fourth, and the person before the board. Doctor Okafor, is the hold still live in your view?"
+"The matter of the person named here as N. Senn," said Ada Lund. "There is a clinical hold filed on the twenty-first, a discharge entered by the registered agent on the twenty-fourth, and a person before the board. Doctor Okafor, is the hold still live in your view?"
 
 "It is."
 
@@ -68,7 +68,7 @@ Somebody in the gallery made a sound. Elias Venn did not find out afterwards who
 
 "Three," said the chair. "The board records that rehabilitation account 44-9 entered a discharge against the above on the twenty-fourth of September, that a clinical hold was filed on the twenty-first and had not been discharged, and that the person concerned has attended no reviewable appointment since the twenty-first. The hold is **upheld**. It remains in force until an examination by a second clinician has been carried out and recorded, and the account is not to receive the person into its care before that examination has taken place. A copy of this minute is to be supplied to the registered agent of the account at its address on Verge Row, and to the clinical respondent, and to the person."
 
-"Three," said the chair, "is the item I want on the record, because it is the only one anybody in this room will read in a year, and it is the one I am least comfortable about, and I am going to say why I am going to do it anyway. Doctor Okafor has made a hold. The account has discharged a person in defiance of it. Both of those are true and only one of them is in a system. A minute that names a hold and a discharge and the fact that they happened in that order is a document that can be read by any office that has a reason to read it, and I would rather it existed than not, and I would rather it was minutes and not letters."
+"Item three," said the chair, "is the item I want on the record, because it is the only one anybody in this room will read in a year, and it is the one I am least comfortable about, and I am going to say why I am going to do it anyway. Doctor Okafor has made a hold. The account has discharged a person in defiance of it. Both of those are true and only one of them is in a system. A minute that names a hold and a discharge and the fact that they happened in that order is a document that can be read by any office that has a reason to read it, and I would rather it existed than not, and I would rather it was minutes and not letters."
 
 Nobody said anything, and the young woman wrote, and it was gone.
 

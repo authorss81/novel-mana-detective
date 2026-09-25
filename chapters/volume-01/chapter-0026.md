@@ -104,7 +104,7 @@ And at half past one on that same Saturday afternoon, four floors and one street
 
 And item eight of it, in his own hand, said that there was a certificate in a clinic's file on a public board twenty feet away, and that he had read the box on that document four times, and that he had never read the issuing-office line.
 
-He had never read the issuing-office line. It had been in a plastic sleeve on a wall on Marshall Street. He had been twenty feet from it. It said **Witness Services (Sequence Support)**. It had cost him four minutes and it had taken him four days to get round to, and there was a man in the outer wards who had been told to hold an order that had been typed out of a telephone call Elias Venn had made in a corridor eight days before, in the same hour, in the same city, by somebody who had never heard of him.
+He had never read the issuing-office line. It had been in a plastic sleeve on a wall on Marshall Street. He had been twenty feet from it. It said **Witness Services (Sequence Support)**. It had cost him four minutes and it had taken him four days to get round to, and there was a man in the outer wards who had been told to hold an order that had been typed out of a telephone call Elias Venn had made in a corridor eight days before, fifty-two minutes later in the day and in the same city, by somebody who had never heard of him.
 
 He put the two sheets down on the desk in a neat stack because he could not think what else to do with his hands, and he did not say anything about it, and he was not going to say anything about it, because saying it out loud would have been a tenth item and there were only nine.
 

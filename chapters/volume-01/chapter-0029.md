@@ -27,7 +27,7 @@ The conditions were on the bench in her handwriting, four lines long, on a piece
 
 Nadia Kest came in at one o'clock with her coat off, looked at the two of them and said, "Right."
 
-"I am here as a witness and not as an inspector, and I would like that written down. The condition that you do not work alone is still in 441-KR. It was made in front of Jules Ardent on the twentieth of September and it does not carry my name, because I was the inspector who permitted it. I checked it at twenty to eight and did not look again." She put her handbag down. "And I am going to be unpleasant about the next half hour, because you filed a prohibition with your own name on it on the twenty-ninth of September and then came here on Monday with a drawing in a carrier bag, and if I say nothing, in a year somebody says I watched."
+"I am here as a witness and not as an inspector, and I would like that written down. The condition that you do not work alone is still in 441-KR. It was made in front of Jules Ardent on the twentieth of September and it does not carry my name, because I was the inspector who permitted it. I checked it at twenty to eight and did not look again." She put her handbag down. "And I am going to be unpleasant about the next half hour, because you filed a prohibition on the twenty-ninth of September and then sent me your drawing by a man from your own counter and never came through the door, and if I say nothing, in a year somebody says I watched."
 
 "I know. Say the prohibition out loud. The sentence, not the item number."
 
@@ -93,11 +93,11 @@ Nobody said anything.
 
 She stopped and picked the pencil up and did not use it.
 
-"So I am going to say the one thing I have been not saying since Saturday, and then you will do whatever you are going to do, and I will not have an opinion about it. But I have read your four sheets, on Sunday, in the back of your shop with a cat on the bench. And I want to say one thing about them and then I want to sit down."
+"So I am going to say the one thing I have been not saying since Sunday, and then you will do whatever you are going to do, and I will not have an opinion about it. But I have read your four sheets, on Sunday, in the back of your shop with a cat on the bench. And I want to say one thing about them and then I want to sit down."
 
 "Go on."
 
-"Your four sheets are a list of documents." She said it without any weight, which was the only way she ever said a thing that mattered. "A list of documents gets answered with a document. Any office in this city can produce a document in answer to a list of documents, and they will do it in a fortnight, and every one of the documents will be true, and the whole of the answer will weigh nothing. You have written the most careful thing I have ever read and it has no teeth in it, and I have been trying to work out since Saturday whether that is because it is careful or because it is frightened, and I have decided it is because you have not got the one thing in it that cannot be answered with paper."
+"Your four sheets are a list of documents." She said it without any weight, which was the only way she ever said a thing that mattered. "A list of documents gets answered with a document. Any office in this city can produce a document in answer to a list of documents, and they will do it in a fortnight, and every one of the documents will be true, and the whole of the answer will weigh nothing. You have written the most careful thing I have ever read and it has no teeth in it, and I have been trying to work out since Sunday whether that is because it is careful or because it is frightened, and I have decided it is because you have not got the one thing in it that cannot be answered with paper."
 
 "What is that."
 

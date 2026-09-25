@@ -6,7 +6,7 @@ Physical, Residue, Paper, in marker, in the sequence desk's own hand, in eleven 
 
 Elias Venn stood in front of it with his coat still on and a coffee he had made at six and not drunk, and read what was left of his own handwriting, which was: a *d*, an *e*, and the top half of a *c*.
 
-He had written a case on that board for ten days. Two hundred and six separate things had gone onto it, most of them in his own small bad hand, and the sum of it was that a woman had died in a room two floors above his own flat and the working that killed her had been carried into that room on a piece of metal, and the three columns had held all of it, and now the three columns held a keys theft and a claim against a man called Sable who was not Orin Sable, and the eraser had been the good kind, the kind from the stationery cupboard, and not the sleeve of a sleeve.
+He had written a case on that board for ten days. Two hundred and six separate things had gone onto it, most of them in his own small bad hand, and the sum of it was that a woman had died in a room two floors above his own flat and the working that killed her had been carried into that room on a piece of metal, and the three columns had held all of it, and now the three columns held a keys theft and a claim against a different Sable, not the one in the September ledger, and the eraser had been the good kind, the kind from the stationery cupboard, and not the sleeve of a sleeve.
 
 "You've seen it," said Nadia Kest.
 
@@ -106,7 +106,7 @@ Elias Venn read the box three times and had to put his hand on the table.
 
 "Have you been in there."
 
-"Twice." He said it without any weight, which was the worst way to say a thing. "Friday, and Saturday. They're at the back past the certificate office and there's a rack by the counter with about forty of them on it and a woman with a clipboard who gave me one of these and said I didn't have to give my name to start with, and she was right, she wasn't lying, she was completely right, I didn't have to give my name to start with, and then at the end of it there was a form and I did give my name."
+"Twice." He said it without any weight, which was the worst way to say a thing. "Monday, and Saturday. They're at the back past the certificate office and there's a rack by the counter with about forty of them on it and a woman with a clipboard who gave me one of these and said I didn't have to give my name to start with, and she was right, she wasn't lying, she was completely right, I didn't have to give my name to start with, and then at the end of it there was a form and I did give my name."
 
 "Niko—"
 

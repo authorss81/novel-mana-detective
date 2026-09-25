@@ -74,7 +74,7 @@ and underneath, in a box of its own, in the same way a key is written into a dra
 
 He sat in a tea room off Fallow Street with a coffee he had not drunk and looked at a woman's figure for about a minute and a half without moving.
 
-Mara Quill had certified four figures on the threshold plate on the twenty-seventh of September at about two o'clock in the afternoon, in a room on the second floor of a building on a shopping street, in her own name, in pencil, with every log number. She had put them in a certified office. She had handed them over. She had refused, on the minute, word for word, to certify that the act was copied, and to certify a motive, and to put any of it on a register.
+Mara Quill had certified four figures on the threshold plate on the twenty-seventh of September at about two o'clock in the afternoon, in a room on the second floor at the back of Concord Hall, in her own name, in pencil, with every log number. She had put them in a certified office. She had handed them over. She had refused, on the minute, word for word, to certify that the act was copied, and to certify a motive, and to put any of it on a register.
 
 A certified copy of those four figures is now in a drawer in Concord Hall that Mara Quill cannot open.
 

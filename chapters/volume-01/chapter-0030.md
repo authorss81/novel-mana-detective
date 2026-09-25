@@ -56,7 +56,7 @@ Then she wrote the date under his name at the foot of the first sheet, in the sm
 
 ---
 
-There were nine people in the waiting room at half past eight on Wednesday the tenth of October, and one of them was Jules Ardent, sitting in the fourth chair from the door with his coat on his knees and the folded notice from his own door in his hand, and who had come because there is a notice on his door and nowhere to be on a Wednesday morning, and because a man had telephoned him on Sunday afternoon to say there would be a document on a public wall in this district with his name in it, and had not asked him to come, and had not expected him to.
+There were nine people in the waiting room at half past eight on Wednesday the tenth of October, and one of them was Jules Ardent, sitting in the fourth chair from the door with his coat on his knees and the folded notice from his own door in his hand, and who had come because there is a notice on his door and nowhere to be on a Wednesday morning, and because a man had telephoned him on Sunday afternoon to say there would be a document on a public wall in this district, with no names on it at all, and had not asked him to come, and had not expected him to.
 
 Sana Okafor read the names out loud.
 
@@ -80,7 +80,7 @@ And he read them, in the order they were written, which was: a certificate and t
 
 And then the last thing, which he had added in his own hand on Sunday night at about half past ten and had not told anybody about, which was not in the four sheets at all, and which he said to nine people in a waiting room, standing up, with nothing in his hands:
 
-"And there is one more thing and it is not a document, and I am the only person in this city who can say it, and I am saying it because Mara Quill told me on Monday that a list of documents can be answered with a document and this one cannot."
+"And there is one more thing and it is not a document, and I am the only person in this city who can say it, and I am saying it because Mara Quill told me on Tuesday that a list of documents can be answered with a document and this one cannot."
 
 He said it slowly, twice, because nine people were listening and because it was about a pen.
 
@@ -127,19 +127,19 @@ He took a pen out and wrote four lines on the back of his left hand in the small
 
 ---
 
-Nadia Kest came in at half past eleven and did not come to the waiting room. She stood with him in the corridor by the fire notice — the miscellaneous receipt from Sunday night, the stub, not the counterfoil — and read it, and took a pen out and turned it over and wrote on the back of it in her own hand: *Same four sheets, one copy only, pinned to the waiting-room board of the Kettle Rows Community Clinic at 08:14, 10 October 2029, at the request of the member of the public, and the board is that of a third party. No copy has been made. — D/I Kest.*
+Nadia Kest came in at half past eleven and did not come to the waiting room. She stood with him in the corridor by the fire notice — the miscellaneous receipt from Sunday night, the stub, not the counterfoil — and read it, and took a pen out and turned it over and wrote on the back of it in her own hand: *Same four sheets, one copy, and no other copy has been made, pinned to the waiting-room board of the Kettle Rows Community Clinic at 08:14, 10 October 2029, at the request of the member of the public, and the board is that of a third party. — D/I Kest.*
 
 "I am not filing it and you are not asking me to. I am recording where the paper is, because in about a year somebody is going to ask how many copies exist, and the honest answer is that the four sheets are one document and they are on that wall, and a wall is a public room, and a public room is not a custody chain. If somebody photographs a thing off a wall, that is a photograph and not a copy of the paper, and the difference is going to matter to somebody in about four years and not to me."
 
 ---
 
-He went down to the Sequence Desk at about half past two in the afternoon, which was a mistake, because he has no file and no reason to be in the building, and the car park was the reason he had come, and Paul Rennick was coming out of the door with his coat over his arm and a photocopy of the four sheets in his hand.
+He went down to the Sequence Desk at about half past two in the afternoon, which was a mistake, because he has no file and no reason to be in the building, and the car park was the reason he had come, and Paul Rennick was coming out of the door with his coat over his arm and a photograph of the four sheets in his hand.
 
-"I have read it twice," said Rennick. "There is a photocopy of it in my pocket. It was made at the counter of that clinic at about eleven this morning by a woman at the desk who did not ask me for a form, and it is a photograph of four sheets off a wall and not a copy of the four sheets, and I am not going to pretend to anybody that it is not in my pocket. I am not the officer on it and I am not going to pretend to be, and I am going to say the only thing I am entitled to say, which is three things, and then I am going to open 441-KR."
+"I have read it twice," said Rennick. "There is a photograph of it in my pocket. It was made at the counter of that clinic at about eleven this morning by a woman at the desk who did not ask me for a form, and it is a photograph of four sheets off a wall and not a copy of the four sheets, and I am not going to pretend to anybody that it is in my pocket. I am not the officer on it and I am not going to pretend to be, and I am going to say the only thing I am entitled to say, which is three things, and then I am going to open 441-KR."
 
 "Go on."
 
-"Anybody may publish. There is no law against it, no form for it, and no office in this city that can stop a member of the public from putting four sheets of paper on a wall. That is not a loophole, that is the arrangement, and I have said so in a classroom for six years and I have never had to say it to a man whose name is in a bundle I am holding." He squared the copy up. "Second: it changes nothing about who holds the file. You are not on 441-KR. I am. That happened on Friday morning at forty to twelve, it did not happen because of this, and it is not going to be undone by it, and if you were hoping four sheets on a wall would put you back on a case, it will not, and I would rather you heard that from me on a Wednesday afternoon than from a clerk in a fortnight."
+"Anybody may publish. There is no law against it, no form for it, and no office in this city that can stop a member of the public from putting four sheets of paper on a wall. That is not a loophole, that is the arrangement, and I have said so in a classroom for six years and I have never had to say it to a man whose name is in a bundle I am holding." He squared the photograph up. "Second: it changes nothing about who holds the file. You are not on 441-KR. I am. That happened on Friday morning at forty to twelve, it did not happen because of this, and it is not going to be undone by it, and if you were hoping four sheets on a wall would put you back on a case, it will not, and I would rather you heard that from me on a Wednesday afternoon than from a clerk in a fortnight."
 
 "That is fair."
 

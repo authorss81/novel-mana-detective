@@ -18,7 +18,7 @@ He had a plastic bag with a clean shirt in it, because he had stopped owning mor
 
 "Which thing."
 
-"Any of them." Elias took his notebook out and did not open it. "And I'm going to start by telling you that I'm not going to try and talk you out of tomorrow. You'll go."
+"Any of them." Elias took his notebook out and did not open it. "And I'm going to start by telling you that the woman at that counter has taken your Thursday morning off. You have a board at ten that day and you are a party to it, and she was not going to do that twice for the same man, and she told me on Tuesday in a corridor when I had not asked her for it." He put the notebook away. "She has put you back in on the eighteenth, same time of day, and it took her four minutes to do it and she did not have to. And I'm not going to try and talk you out of the eighteenth. You'll go."
 
 Niko Senn wrung the bucket out into the sink and looked at him.
 
@@ -28,11 +28,11 @@ Niko Senn wrung the bucket out into the sink and looked at him.
 
 "And I'm going anyway."
 
-"You're going anyway." Elias Venn stood with his hands in his pockets, which was the thing he did with them when he wanted them somewhere he could account for. "Then here's what I'd say about it, and it's the same thing I said and not a different thing because you asked me to. Whatever you get handed in that room tomorrow, you bring out in your own hand. You don't sign anything you haven't read standing up. You don't take anything home. And if anybody in there asks you what order you saw things in, you say *I don't know* and you let that be the end of it, because an uncertain account recorded as uncertain is worth more than a complete one you can't stand behind."
+"You're going anyway." Elias Venn stood with his hands in his pockets, which was the thing he did with them when he wanted them somewhere he could account for. "Then here's what I'd say about it, and it's the same thing I said and not a different thing because you asked me to. Whatever you get handed in that room, you bring out in your own hand. You don't sign anything you haven't read standing up. You don't take anything home. And if anybody in there asks you what order you saw things in, you say *I don't know* and you let that be the end of it, because an uncertain account recorded as uncertain is worth more than a complete one you can't stand behind."
 
 "That was on the leaflet."
 
-"That was on the leaflet, and the leaflet is in the back of this book, and I did not take it off you because a leaflet is a public thing and you gave it to me." He turned the notebook so the back cover faced up, where a single sheet of hospital paper was folded in half and worn soft. "I've got it. It'll keep."
+"That was on the leaflet, and the leaflet is in the inside pocket of this coat, and I did not take it off you because a leaflet is a public thing and you gave it to me." He turned the notebook so the back cover faced up, where a single sheet of hospital paper was folded in half and worn soft, and on Tuesday morning at a rack on the ground floor of Concord Hall he had copied the four lines out of the box onto it in his own small bad hand and dated them underneath. "So it's in the coat and it's in here, and mine is the one with a date on it, and that is not vanity. In about a year one of the two is going to be the thing somebody has to look at."
 
 Niko Senn looked at the folded edge of it for a second and nodded, and then he dried his hands on the front of his jeans, which is what everybody in that launderette had done since it opened.
 
