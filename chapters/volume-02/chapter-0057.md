@@ -6,7 +6,7 @@ The district was a business park that had been a goods yard once. There were eig
 
 He walked past it at ten past ten and went on to the end of the road and back, and then went in, because the rule had a limit and he had reached it.
 
-The woman at the desk was about thirty-five and she was very good. She said the office was a claims administration office, that it was not a clinic and could not discuss anything with a member of the public, and that the number on his card — he had not given her a number and she had not asked for one — was a matter for the post.
+The woman at the desk was about thirty-five and she was very good. She said the office was a claims administration office, that it was not a clinic and could not discuss anything with a member of the public, and that the address in his hand was a matter for the post.
 
 "I have not got a number," said Elias Venn. "I have got an address and I have got the fact that a person on this street is the registered premises for something, and I have been told twice this week that a number is not a person, and I have come to see whether a person here will say that to my face."
 
@@ -32,16 +32,16 @@ The third was seventy and had come about a certificate and was told that a certi
 
 The fourth was a woman with a plastic folder of photographs who was not there about any of that, and had come about a photograph, and was told that a photograph is not a document, and said that she had been told in July that a photograph was a document if it had a reference on it, and the woman behind the counter said, and this is the fourth time somebody had said a version of this sentence to Elias Venn in four days, "A reference is a number, madam, and a number is not a document and it is not a person and it is not a thing that happened to you."
 
-At ten past ten he left the queue and went and stood in the car park under the awning of a building that had a letting agent's board in it, and got out his notebook, and did not write anything for about twenty minutes, which he had not planned.
+At twenty past eleven he left the queue and went and stood in the car park under the awning of a building that had a letting agent's board in it, and got out his notebook, and did not write anything for about twenty minutes, which he had not planned.
 
 Then he wrote it, in six lines, and the six lines took him fifty minutes and they are the only piece of work he did in November that he has never changed a word of since.
 
 > *A rehabilitation claim number in this city is issued by a claims department. It is settled to a registered premises. It is settled to a postal address. It carries a service code. A claim number is a machine for turning a set of documents into a payment and a payment into a set of documents that say the same thing twice.*
 > *The three counterfoils in Corrie Street are not claims. They are three settlements in the shape of claims, in a shape that would pass at a counter, made by somebody who has read enough claims to know the shape and not enough to know note 4.*
-> *The shape is: an envelope, cash, forty credits, a session, no questions, and a number written across the top of the counterfoil afterwards.*
-> *Note 4 has been in the tariff since the 1929 revision and the practice goes back to 1927, and the prohibition is two years old and the practice got older and then got tighter, and the person at the bottom of it was never told either fact, because telling her would have stopped it.*
+> *The shape is: an envelope, cash, sixty credits, a session, no questions, and a number written across the top of the counterfoil afterwards.*
+> *Note 4 went into the tariff in the 2029 revision and the numbered counterfoils go back to 2027, so the prohibition is months old and the practice is six years old, and the practice got older and then got tighter, and the person at the bottom of it was never told either fact, because telling her would have stopped it.*
 > *The service code on the third one is procedure 2 at eleven credits, and the tariff for procedure 2 is sixty, and the difference is forty-nine credits, and the difference is not a person.*
-> *There is one address in the world that could tell me whose premises is 22 Cutlass Row and I am not going to it and I am not going to ask.*
+> *There is one address in the world that could tell me to whom the premises at 22 Cutlass Row belong, and I am not going to it and I am not going to ask.*
 
 ---
 
@@ -71,9 +71,9 @@ Elias Venn stood in the rain and did not say anything for long enough that a car
 
 "That is fair."
 
-"It is more than fair and you are not going to enjoy the rest of it." She looked at her watch. "There is a hearing on your appeal in about two and a half weeks. I want to say two things about that and I have never said either of them to you and I have had them since the third of November.
+"It is more than fair and you are not going to enjoy the rest of it." She looked at her watch. "There is a hearing on your appeal in about three weeks. I want to say two things about that and I have never said either of them to you and I have had them since the third of November.
 
-"One. Your written statement of reasons is good. It is the best thing in the file. It is better than my four hundred words on the twenty-second of September and I have told two people that and both of them were annoyed with me. Two. It is good, and it is about a prohibition and a witness and a breach note, and it does not say one word about the thing that actually happened, and when you stand in front of a panel in a room with three officers in it, the thing that is actually happening is a man of seventy-eight on oxygen in a corridor, and if you spend your eleven minutes on your own paperwork they will give you the finding in about nine and you will not have said the only thing you came to say."
+"One. Your written statement of reasons is good. It is the best thing in the file. It is better than my four hundred words on the twenty-second of September and I have told two people that and both of them were annoyed with me. Two. It is good, and it is about a prohibition and a witness and a breach note, and it does not say one word about the thing that actually happened, and when you stand in front of a panel in a room with three officers in it, the thing that is actually happening is a man of seventy-eight on the floor of a treatment room on the thirtieth of October with a licensed bracket that was fitted in his own kitchen on a Wednesday, and if you spend your eleven minutes on your own paperwork they will give you the finding in about nine and you will not have said the only thing you came to say."
 
 "What am I supposed to say."
 
@@ -89,10 +89,10 @@ She got on a bus at the tram stop and the rain did not stop, and he walked back 
 
 ---
 
-He got back to Marshall Street at ten past four, having walked the last mile of it on the wrong side of the ring road because the bus was late and he did not want to be on the pavement at a quarter to four in Marshall Street where four people knew his face, and went into the shop and Otto Vahl was at the bench with a radio that had been finished since Monday and had not been collected, and the till had twenty-two credits in it, and the certificate was on the shelf above the back bench with the protection order's receipt next to it, and he wrote out the six lines in a fair copy for a woman on Marshall Street and a fair copy for a first-floor flat in Corrie Street and he kept the third, and then he sat down on the stool with the blanket over the chairback and the cat in the drawer and did not do anything at all for about twenty minutes, which was the first twenty minutes he had had in five weeks that were not part of a job.
+He got back to Marshall Street at ten past four, having walked the last mile of it on the wrong side of the ring road because the bus was late and he did not want to be on the pavement at a quarter to four in Marshall Street where four people knew his face, and went into the shop and Otto Vahl was at the bench with a radio that had been finished since Monday and had not been collected, and the till had twenty-two credits in it, and the certificate was on the shelf above the back bench, on its own, and he wrote out the six lines in a fair copy for a woman on Marshall Street and kept a second, and then he sat down on the stool with the blanket over the chairback and the cat in the drawer and did not do anything at all for about twenty minutes, which was the first twenty minutes he had had in five weeks that were not part of a job.
 
 Then he got up and made the six lines into a single sheet, and he wrote at the top of it, in his own bad hand, the way he had written four sheets in a back room in October, a heading.
 
 > *Six lines on three counterfoils and an address, and no person, and the reason there is no person on it is that a person on it would be a door to knock on and a name in an office to ring, and neither of those is anybody's business, and the reason the second half of that sentence is the reason the first half is true.*
 
-Then he did the thing that made the evening cost what it cost, which was to send the fourth copy by post to a woman in Corrie Street who had not asked for it, in an envelope with his own name on the outside, and he put it in the box at the end of Marshall Street at twenty to five on Wednesday afternoon with four stamps on it because he did not have a small envelope, and then he stood at the postbox and worked out that he had just posted a document containing a claim number, a service code, a registered premises and a date of the eleventh of September 1929 to a first-floor flat above a dry cleaner, and that Rhoda Nesbit would open it in a kitchen and read the date, and that she would know what it was the same minute he did, and that he had chosen the street deliberately, and that the stamp on the envelope had a postmark with the time on it, and that was that.
+Then he did the thing that made the evening cost what it cost, which was to send it by post to a woman in Corrie Street who had not asked for it, in an envelope with his own name on the outside, and he put it in the box at the end of Marshall Street at twenty to five on Wednesday afternoon with four stamps on it because he did not have a small envelope, and then he stood at the postbox and worked out that he had just posted a document containing a claim number, a service code, a registered premises and a date of the eleventh of September 2029 to a first-floor flat above a dry cleaner, and that Rhoda Nesbit would open it in a kitchen and read the date, and that she would know what it was the same minute he did, and that he had chosen the street deliberately, and that the stamp on the envelope had a postmark with the time on it, and that was that.

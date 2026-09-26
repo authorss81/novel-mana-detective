@@ -30,7 +30,7 @@ He noticed that Rhoda Nesbit asked the fourth question and the woman answered it
 
 He noticed that the woman put her hand on the back of her own neck when the name was said, and kept it there, and that Rhoda Nesbit saw it and did not comment on it and moved a card game out of the way instead.
 
-He noticed that it took fifty minutes, and that nothing happened for the first nineteen of them that he could see, and that the two of them talked about a kitchen, a piano against a wall, a girl called Aoife who was nine in 1926 and was thirty-four now, and about a bus.
+He noticed that it took fifty minutes, and that nothing happened for the first nineteen of them that he could see, and that the two of them talked about a kitchen, a piano against a wall, a girl called Aoife who was nine three years ago and is twelve now, and about a bus.
 
 And he noticed that Rhoda Nesbit, at about the twenty-sixth minute, wrote a line in the green book and then stopped and put her pen down and asked the woman a fifth question which was not one of the four, and which was: *and what do you want to be able to say to her on Thursday.*
 
@@ -42,7 +42,7 @@ Rhoda Nesbit stood with her back to the window for a moment with her hands in he
 
 "You did not charge her."
 
-"I am not charging her again until the twenty-eighth of November," said Rhoda Nesbit, "because I did it on the fifteenth and I have read the tariff and so have you, and there is a note about it, and I have never once in six years ignored that note and I am not starting in November to be a person who ignores a note." She sat down on the client chair. "Now. The book."
+"I am not charging her again until the thirtieth of November," said Rhoda Nesbit, "because I did it on Friday the sixteenth and I have read the tariff and so have you, and there is a note about it, and I have never once in six years ignored that note and I am not starting in November to be a person who ignores a note." She sat down on the client chair. "Now. The book."
 
 ---
 
@@ -54,17 +54,17 @@ It was a hard-backed notebook with a green cover and a rubber band round it and 
 
 "Then here is what I am going to say, and it is a trade and it is six weeks and I will read it out and you can write the dates and the numbers and nothing else.
 
-"Nineteenth of October, eleven credits, a name for a face. Twenty-sixth of October, eleven credits, a name for a face, same woman. Second of November, eleven credits, the same. Ninth of November, eleven credits, the same, and a man came in the morning, eleven credits, a road he drove on for nine years. Fifth of November, twenty credits because she had eleven, a dog's name. Twelfth of November, eleven credits, a woman in the parade, and that was a Tuesday because her husband was away and I wrote it down as a Tuesday. Thirtieth of October, eleven credits, a birthday. Twenty-first of October, eleven credits, a man from the outer wards who could not travel, and I went to him, and that was not a Friday and it was not in this room."
+"Nineteenth of October, eleven credits, a name for a face. Twenty-sixth of October, eleven credits, a name for a face, same woman. Second of November, eleven credits, the same. Ninth of November, eleven credits, the same, and a man came in the morning, eleven credits, a road he drove on for nine years. Fifth of November, twenty credits because she had eleven, a dog's name. Twelfth of November, eleven credits, a woman in the parade, and that was a Monday because her husband was away and I wrote it down as a Monday. Thirtieth of October, eleven credits, a birthday. Twenty-first of October, eleven credits, a man from the outer wards who could not travel, and I went to him, and that was not a Friday and it was not in this room."
 
 "That is eight."
 
-"It is eight lines and there are eleven things, because one of them is not a room and two of them are one person, and I told you at the door that I would say eleven." She turned the book a quarter turn. "The ninth is the ninth, the sixteenth and the twenty-third, all of them in October, and a woman who came three times, and I will come to that one because it is the one I have not been able to put anywhere. The tenth is the ninth of October, at her own kitchen, four lines and a fee, which I will not read out to a man in a shop. And the eleventh is the fifteenth of October, twenty credits, a man I have never seen before or since, and he did not tell me a name, he told me what he wanted, which was that I should hold an order I had been given."
+"It is eight lines and there are eleven things, and I am not going to give you the working out, because the working out is the book, and if you had the working out you would have the book." She turned the book a quarter turn. "The ninth is the ninth, the sixteenth and the twenty-third, all of them in October, and a woman who came three times, and I will come to that one because it is the one I have not been able to put anywhere. The tenth is the ninth of October, at her own kitchen, four lines and a fee, which I will not read out to a man in a shop. And the eleventh is the fifteenth of October, sixty credits, a man I have never seen before or since, and he did not tell me a name, he told me what he wanted, which was that I should hold an order I had been given."
 
 ---
 
 She opened the book and turned it round so that it was facing him, and she did not let go of it.
 
-"That one cost forty credits," she said, "which is the published price of the published procedure, and I have never charged anybody the published price of anything in my life, and I took the envelope and I did the session, and the session was correct. I want that on your paper, if you have a piece of paper. The session was correct."
+"That one cost sixty credits," she said, "which is the published price of the published procedure, and I have never charged anybody the published price of anything in my life, and I took the envelope and I did the session, and the session was correct. I want that on your paper, if you have a piece of paper. The session was correct."
 
 "Written down."
 
@@ -78,7 +78,7 @@ Elias Venn did not ask her a single question about the man. He sat with his hand
 
 He wrote one line in the margin, in his own book, with the date and the number of the line, and not a street and not a face.
 
-*Twenty credits, the fifteenth of October, and the word Supply at the foot of a four-line card, and a man who did not want to be helped. A company is a better shield than a man and a worse witness.*
+*Sixty credits, the fifteenth of October, and the word Supply at the foot of a four-line card, and a man who did not want to be helped. A company is a better shield than a man and a worse witness.*
 
 "That's the whole of what I've got," he said, "and I have not asked you anything, and I am not going to, and I want to tell you why, because you gave me three conditions at the door and I have kept all of them and it costs me something."
 
@@ -106,7 +106,7 @@ Then she took the book back and turned to a page about three-quarters of the way
 
 > *came three times. did not come*
 
-"That is the twenty-eighth of October," said Rhoda Nesbit. "The ninth of October, the sixteenth and the twenty-third, and then nothing. And I wrote that on the second of November when I finally got round to writing the three of them up properly, and I have been carrying that line round since, and I have told nobody, and you are a policeman who is not a policeman and you have got a book with nothing in it, so there it is."
+"The last of the three was the twenty-third of October," said Rhoda Nesbit. "The ninth, the sixteenth and the twenty-third, and then nothing. And I wrote that line on the second of November, when I finally got round to writing the three of them up properly, and I have been carrying that line round since, and I have told nobody, and you are a policeman who is not a policeman and you have got a book with nothing in it, so there it is."
 
 "You do not know why she did not come."
 

@@ -4,7 +4,7 @@ The reference library on Corrie Street was open on a Sunday because reference li
 
 Elias Venn had come in at ten with a notebook and a pencil and no bag, and he went straight to the shelf, because he had spent the whole of Saturday evening working out that the question he had to ask on Monday was not *is this legal* but *what is the price of it*, and a price is on a shelf somewhere, and in a city where a licence class is a document and a tariff is a document, a tariff is a book on a shelf with the date of the printing on the front and nobody watching it.
 
-It was where the card in his wallet said it would be, which was nowhere, because the card said the forms counter at Concord Hall, and what was on the shelf in the reference library was the **Schedule of Registered Procedures and Fees**, Civic Concord, Clinical Practice branch, annual, the printing for 1929 in a grey board, three credits, with a shelfmark in the old hand on the spine and a list of superseded editions in a card pocket at the back where the books had all been reclassified and nobody had thrown the card pockets out.
+It was where the card in his wallet said it would be, which was nowhere, because the card said the forms counter at Concord Hall, and what was on the shelf in the reference library was the **Schedule of Registered Procedures and Fees**, Civic Concord, Clinical Practice branch, annual, the printing for 2029 in a grey board, three credits, with a shelfmark in the old hand on the spine and a list of superseded editions in a card pocket at the back where the books had all been reclassified and nobody had thrown the card pockets out.
 
 He took it down and read it standing up, and then he read it sitting down, and then he read it a third time with the whole of page eleven open on the table, and by half past eleven he had a thing in his notebook that he could not put down and did not want to.
 
@@ -16,7 +16,7 @@ Number 11 was *preparation for a hearing or an assessment*, two hours, seventy c
 
 He read it four times and then read number 10 again, and number 10 was the one that undid him.
 
-Number 10 was *recovery of a name or date to a person who has lost it*. It cost twenty-six credits and it was not restricted and it needed no supervisor and no countersignature and no fourteen-day interval. It was the cheapest useful thing in the whole of Schedule D, and it was the thing that a woman on the top floor of a building in Kettle Rows had been getting four times in three weeks for eleven credits, and the difference between the two numbers was fifteen credits, and fifteen credits was the whole of the offence.
+Number 10 was *recovery of a name or date to a person who has lost it*. It cost twenty-six credits and it was not restricted and it needed no supervisor and no countersignature and no fourteen-day interval. It was the cheapest useful thing in the whole of Schedule D that anybody would have paid for on purpose — number 1 is a record review and costs eighteen credits and tells you what you already have, and numbers four to eight are arrangements and bookings and confirmations — and it was the thing that a woman on the top floor of a building in Kettle Rows had been getting four times in three weeks for eleven credits, and the difference between the two numbers was fifteen credits, and fifteen credits was the whole of the offence.
 
 Everything else on the page was a method that was printed in a book he had already bought and read end to end in a fortnight in October, in a book with eleven modules, one of which had a page eleven with two boxes on it, one of which said *a supplied order is not an account and may not be recorded as one*. A woman in a first-floor room in Corrie Street was doing a published procedure, at a published price minus fifteen credits, in a room that was not a clinic, on people who could not afford the published price, and had been doing it for six years.
 
@@ -28,7 +28,7 @@ He wrote it out.
 > *That is all. There is nothing else in it. There is no concealment, no false account, no name taken and no door forced. The only concealment anybody is doing is the concealment that happens when a legal requirement is not complied with because complying with it would cost money.*
 > *Nobody prosecutes this. Nobody can prosecute it in a way that does not look like a woman being fined for being kind. And nobody is frightened by it, and that is the thing I keep arriving at and cannot get past: this is not frightening because it is a market that works.*
 
-He got to the bottom of page eleven and stopped, because there was a fifth tariff note and it was not about claims.
+He got to the bottom of page eleven and stopped, because there was a note further down the column that he had not read, and it was not about claims.
 
 > *8. Where a procedure at number 2 to 14 is performed in premises that are not those of a registered practice, the practitioner shall record the premises, the date and the time, and shall state whether the person travelled to the premises or the premises were brought to the person. The commonest stated reason is that the person cannot travel.*
 
@@ -46,7 +46,7 @@ The woman at the desk had been watching him read for an hour and a half and she 
 
 "I was not going to."
 
-"Somebody always says that," said the woman at the desk, "and then they ask me what the shelf number is so they can come back at eight in the morning and photograph it, and then there is a queue on a Monday." She said it without any weight at all. "It's a reference book. It has a printing on the front and the printing is this year. The older ones are in the store and you can ask for those in the store and they will want to see what for, which is reasonable, because if you wanted the 1927 one it is because a patient is on it and a patient is not on a tariff."
+"Somebody always says that," said the woman at the desk, "and then they ask me what the shelf number is so they can come back at eight in the morning and photograph it, and then there is a queue on a Monday." She said it without any weight at all. "It's a reference book. It has a printing on the front and the printing is this year. The older ones are in the store and you can ask for those in the store and they will want to see what for, which is reasonable, because if you wanted the 2027 one it is because a patient is on it and a patient is not on a tariff."
 
 "The reason I'm asking is not a patient."
 
@@ -82,9 +82,9 @@ Mr Oyelaran was sixty-eight and had been in the store for thirty-one years and h
 
 He came back at two thirty-five with a grey book in a plastic sleeve with a sticky label on the front, and he put it on the table with the sleeve off and did not open it, and he stood there.
 
-"Seventeen twenty-seven printing. Third schedule, second revision, forty-one pages. Two hundred and nineteen leaves in this one and the two thousand and nineteen printing is the same length, so no note has been added or taken out since, and no page has been reprinted, which is more than I can say for most of them." He turned the book round so the tariff notes were facing up. "Note 4 is not in it."
+"Twenty twenty-seven printing. Third schedule, second revision, forty-one pages. Two hundred and nineteen leaves in this one and the two thousand and nineteen printing is the same length, so nothing has been added to this edition or taken out of it since 2019, and no page has been reprinted, which is more than I can say for most of them." He turned the book round so the tariff notes were facing up. "Note 4 is not in it."
 
-Elias Venn looked at the four notes on the page.
+Elias Venn looked at the three notes on the page.
 
 "How do you know it is not in it, rather than not numbered 4?"
 
@@ -92,9 +92,9 @@ Elias Venn looked at the four notes on the page.
 
 There was a date in soft pencil at the foot of the notes and a tick beside it, and the tick was a shopkeeper's tick, the kind a man puts against a line in an order book.
 
-*Printed 1925. Revised 1927. Revised 1929.*
+*Printed 2025. Revised 2027. Revised 2029.*
 
-The 1929 revision was in ink, and it was not a printer's ink.
+The 2029 revision was in ink, and it was not a printer's ink.
 
 "This is not a printer's mark," Elias Venn said. "A printer marks a revision before he breaks the page."
 
@@ -102,15 +102,15 @@ The 1929 revision was in ink, and it was not a printer's ink.
 
 "Then somebody filled this in after the book came off the press."
 
-"Somebody filled it in after the book came off the press, and it will be the printer's, or the branch's, or somebody's at a meeting who was asked to be accurate and was not." Mr Oyelaran put the sleeve back on over the cover but did not put the book in it. "The revision itself is genuine. I can tell you that because the 1927 and the 1929 are the same forty-one pages and the 1929 has four notes and the 1927 has three, and I have been handling the same shelf since before your aunt was at school, and three notes went to four between two editions and it is not because somebody wrote one out by hand at a meeting."
+"Somebody filled it in after the book came off the press, and it will be the printer's, or the branch's, or somebody's at a meeting who was asked to be accurate and was not." Mr Oyelaran put the sleeve back on over the cover but did not put the book in it. "The revision itself is genuine. I can tell you that because the 2027 and the 2029 are the same forty-one pages and the 2029 has eight notes and the 2027 has three, and I have been handling the same shelf since before your aunt was at school, and three notes went to eight between two editions and it is not because somebody wrote five of them out by hand at a meeting."
 
-"So note 4 is two years old."
+"So note 4 is months old."
 
-"Note 4 is two years old as a *note*, and that is not the same as a thing that was not true before it was printed, and I am not going to be the man who says it was not true before it was printed, because I have not got that document and neither have you." He put the book back in the sleeve. "If you want to know what the 1927 printing says about claims, it says nothing at all. There is no note and there is no schedule cross-reference and Schedule D in 1927 is nine pages and stops at procedure 9, and procedure 12 is not in it, and *removal of a persistent association* is not in the 1927 book at all, and it is in this one, and I do not know who put it there and neither does the printer, because the printer is a man in a shed in the outer wards and he does what he is told."
+"Note 4 is months old as a *note*, and that is not the same as a thing that was not true before it was printed, and I am not going to be the man who says it was not true before it was printed, because I have not got that document and neither have you." He put the book back in the sleeve. "If you want to know what the 2027 printing says about claims, it says nothing at all. There is no note and there is no schedule cross-reference and Schedule D in 2027 is nine pages and stops at procedure 9, and procedure 12 is not in it, and *removal of a persistent association* is not in the 2027 book at all, and it is in this one, and I do not know who put it there and neither does the printer, because the printer is a man in a shed in the outer wards and he does what he is told."
 
 Elias Venn wrote it down exactly, in the four lines he had allowed himself on the back of the buff slip, and then wrote a fifth line because the fifth one mattered more than the other four.
 
-*1927: no note 4. Schedule D is nine pages and stops at procedure 9. Procedure 12 is not in the book at all. Revision is genuine; the date on it is in ink and not a printer's mark. Somebody at a meeting was asked to be accurate and was not.*
+*2027: no note 4. Schedule D is nine pages and stops at procedure 9. Procedure 12 is not in the book at all. Revision is genuine; the date on it is in ink and not a printer's mark. Somebody at a meeting was asked to be accurate and was not.*
 
 He gave the slip back and thanked her and she said, without any edge at all, "Three credits is nothing for that, and I have to tell you that the person who can tell you the rest of it is a committee and a committee is nine people in a room in March, and none of them is a shop."
 
@@ -126,7 +126,7 @@ It was the same rack. It was the same man behind the table, or a man of about th
 
 **SELECTED SCHEDULES, TARIFFS AND ANNUAL INSTRUMENTS — 3 CREDITS EACH.**
 
-The Witness Training Compendium, Part Three, was in the middle basket at four inches from the left-hand end, spine out, third printing, revised 1926, three credits. The Schedule of Registered Procedures and Fees was three inches from the right-hand end, grey board, 1929 printing, three credits. He stood in front of the two of them for a while and a woman came and stood beside him and read the spine of the Compendium because that is what people do in front of a wire rack.
+The Witness Training Compendium, Part Three, was in the middle basket at four inches from the left-hand end, spine out, third printing, revised 2026, three credits. The Schedule of Registered Procedures and Fees was three inches from the right-hand end, grey board, 2029 printing, three credits. He stood in front of the two of them for a while and a woman came and stood beside him and read the spine of the Compendium because that is what people do in front of a wire rack.
 
 Elias Venn bought the Schedule for three credits and did not buy the Compendium because he owned it, and the man at the table said the price was the same for all of them and he was not going to be persuaded out of it.
 

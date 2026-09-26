@@ -28,7 +28,7 @@ Elias Venn took the pencil out of the line and put *office* in and gave her the 
 
 He looked at the top line and not at the rest.
 
-There were three slips side by side on the table in the light from the window and on each of them, across the top, in ballpoint in a hand that leaned to the right and pressed hard, was a number in the shape of a letter, seven digits, a capital, six digits, and under it a five-character code.
+There were three slips side by side on the table in the light from the window and on each of them, across the top, in ballpoint in a hand that leaned to the right and pressed hard, was a number in the shape of two letters, a stroke, seven digits, a stroke again and two more, and under it a service code.
 
 > *RC-4471902/61*
 
@@ -54,13 +54,13 @@ Elias Venn read the number out once and did not write it down.
 
 "What year."
 
-"Last year." Rhoda Nesbit put the tin down. "Say the date again."
+"This year." Rhoda Nesbit put the tin down. "Say the date again."
 
-"The eleventh of September 1929."
+"The eleventh of September 2029."
 
 "Go on," said Rhoda Nesbit. "Go on, because I have watched your face and you have just thought of something, and I would rather you said it in this room than carried it out of the room and looked at it in a kitchen."
 
-"I have thought of a date," said Elias Venn. "On the seventeenth of September 1929, in the early hours of the Monday, a woman named Tamsin Ro was found dead on the floor of a room two floors above my own shop. There is a case. The case is closed. The certificate on my shelf says a man of seventy-eight performed a complete dangerous working in a clinic, and the walking stick I read the order of in a treatment room in October belongs to a man I have known for twenty years who now has a rubber ferrule and a socket cut for the spring."
+"I have thought of a date," said Elias Venn. "On the seventeenth of September 2029, in the early hours of the Monday, a woman named Tamsin Ro was found dead on the floor of a room two floors above my own shop. There is a case. The case is closed. The certificate on my shelf says a man of seventy-eight performed a complete dangerous working in a clinic, and the walking stick I read the order of in a treatment room in October belongs to a man I have known for twenty years who now has a rubber ferrule and a socket cut for the spring."
 
 "And you think the third slip is the same thing."
 
@@ -68,7 +68,7 @@ Elias Venn read the number out once and did not write it down.
 
 He wrote it, and turned the book, and she read it standing behind his chair.
 
-> *11 September 1929. Third counterfoil, procedure 2, number at the top in a hand that is not hers. The day before a woman died two floors above my own shop. I have not got a link and I am not going to write down a link. What I have got is a date, a code, a number, a fee that was eleven and a tariff that says sixty, and a premises that is not this room.*
+> *11 September 2029. Third counterfoil, procedure 2, number at the top in a hand that is not hers. The day before a woman died two floors above my own shop. I have not got a link and I am not going to write down a link. What I have got is a date, a code, a number, a fee that was eleven and a tariff that says sixty, and a premises that is not this room.*
 
 Rhoda Nesbit read it twice.
 
@@ -78,17 +78,17 @@ Rhoda Nesbit read it twice.
 
 "It is a worse one, because it means the whole of what I have done for six years is a small criminal act, and I have been telling myself for six years that it is a favour." She sat down. "Say the other two numbers out and the dates and I will tell you the dates from memory and you will check them against the book in front of you, and if I am wrong about one of them then that is a different kind of thing altogether and I would like to know."
 
-"The first is the fourth of May 1927," said Elias Venn, "and the second is the nineteenth of January 1928. Both procedure 2. Both eleven credits. The second one has a fee of fifteen and a half at the bottom in your hand and no fee in the box."
+"The first is the fourth of May 2027," said Elias Venn, "and the second is the nineteenth of January 2028. Both procedure 2. Both eleven credits. The second one has a fee of fifteen and a half at the bottom in your hand and no fee in the box."
 
-"Nineteen January 1928," said Rhoda Nesbit, "and she gave me fifteen and a half because she gave me ten and I did not have change, and I wrote fifteen and a half, and I have never in six years made anybody pay more than they had." She stopped. "And the fourth of May 1927. Yes."
+"Nineteen January 2028," said Rhoda Nesbit, "and she gave me fifteen and a half because she gave me ten and I did not have change, and I wrote fifteen and a half, and I have never in six years made anybody pay more than they had." She stopped. "And the fourth of May 2027. Yes."
 
 "Why those two. Do you remember who they were?"
 
-"I remember the 1928 one and I do not remember the 1927 one," said Rhoda Nesbit, "and that is the thing I have been not-thinking about. It is the oldest one in the tin with a number on it and I cannot put a face to it, and I have four hundred faces in this book and I have never lost one, and in the end of 1926 somebody with a good hand came to a first-floor room above a dry cleaner in Corrie Street and asked me to do a session and put forty credits in an envelope and wrote a number at the top of my counterfoil, and the first one is the fourth of May 1927 and I cannot tell you who it was for."
+"I remember the 2028 one and I do not remember the 2027 one," said Rhoda Nesbit, "and that is the thing I have been not-thinking about. It is the oldest one in the tin with a number on it and I cannot put a face to it, and I have four hundred faces in this book and I have never lost one, and in the spring of that year somebody with a good hand came to a first-floor room above a dry cleaner in Corrie Street and asked me to do a session and put sixty credits in an envelope and wrote a number at the top of my counterfoil, and the first one is the fourth of May 2027 and I cannot tell you who it was for."
 
 "Was there anything else they wanted?"
 
-"They wanted me not to ask what it was for," said Rhoda Nesbit. "That was the whole of it. Forty credits, an envelope, a session, and no questions, and I have thought about that for two years and I decided a fortnight ago that the reason I cannot remember the face is that I did not look, and the reason I did not look is that I was told not to ask, and the reason I did not ask is that in 1919 a woman told me that a form is a working with a header and four lines and that if I cannot fill a line in honestly I am to put *not stated* in it and let the assessor argue with *not stated*, and I put not stated in nine hundred of them and I was proud of it and it turns out that was training."
+"They wanted me not to ask what it was for," said Rhoda Nesbit. "That was the whole of it. Sixty credits, an envelope, a session, and no questions, and I have thought about that for two years and I decided a fortnight ago that the reason I cannot remember the face is that I did not look, and the reason I did not look is that I was told not to ask, and the reason I did not ask is that in 2019 a woman told me that a form is a working with a header and four lines and that if I cannot fill a line in honestly I am to put *not stated* in it and let the assessor argue with *not stated*, and I put not stated in nine hundred of them and I was proud of it and it turns out that was training."
 
 She put both hands flat on the three slips.
 
@@ -96,13 +96,13 @@ She put both hands flat on the three slips.
 
 ---
 
-Each counterfoil had a hand-ruled margin down the right-hand side because Rhoda Nesbit had ruled them herself in 1919 out of a habit that had outlived the office, and in the margin of each of the three there was a premises and nothing else.
+Each counterfoil had a hand-ruled margin down the right-hand side because Rhoda Nesbit had ruled them herself in 2019 out of a habit that had outlived the office, and in the margin of each of the three there was a premises and nothing else.
 
 No name. No class. No telephone number, no hours, no practitioner, no signature. An address, on all three, in the same hand as the number, in ballpoint, and the address was the same on all three.
 
 > *22 Cutlass Row, 3rd fl*
 
-"That is not me," said Rhoda Nesbit. "I have been in 22 Cutlass Row twice in my life. I went to a woman there about a boiler in 1921 and I have been to the flat above it about a leak in 1928, and I have never had anything to do with the third floor and I have never met anybody on the third floor, and I did not write it, and I have had two years to decide whether to go and look at the third floor of a building I know the address of and I have not gone and I am not going to."
+"That is not me," said Rhoda Nesbit. "I have been in 22 Cutlass Row twice in my life. I went to a woman there about a boiler in 2021 and I have been to the flat above it about a leak in 2028, and I have never had anything to do with the third floor and I have never met anybody on the third floor, and I did not write it, and I have had two years to decide whether to go and look at the third floor of a building I know the address of and I have not gone and I am not going to."
 
 "You could go on Friday."
 
@@ -116,7 +116,7 @@ The photographs were made in a shop on Cutter Street at a quarter past two with 
 
 "Me," said Elias Venn.
 
-"Right." Pete wrote the number on the envelope. "Then I'll tell you now and I'll only tell you once, and if you come back and ask me for a print of the same frame I'll not have it and I'll tell you I haven't. One frame, one print, no archive, no cloud, no index, and the negative goes in the envelope with your prints in it and not in a drawer here, and the frame gets wiped at four in the morning. One frame's the most I can do properly, because I've got two machines and one of them's got the old back on it."
+"Right." Pete wrote the number on the envelope. "Then I'll tell you now and I'll only tell you once, and if you come back and ask me for a print of the same frame I'll not have it and I'll tell you I haven't. One frame, and from one frame I can give you two prints and no more, no archive, no cloud, no index, and the negative goes in the envelope with the prints in it and not in a drawer here, and the frame gets wiped at four in the morning. One frame's the most I can do properly, because I've got two machines and one of them's got the old back on it."
 
 "That is what I want."
 
@@ -124,17 +124,17 @@ The photographs were made in a shop on Cutter Street at a quarter past two with 
 
 "It landed about a month ago."
 
-"Then you'll want two prints and not one, and the second one is not for me and not for the woman upstairs, and the second one is in a book in a shop, and that's the copy, and there's no third one. That's how it is and there's no way round it and I've had men come in here crying about it and it doesn't help them." He put the envelope on the counter. "Four credits. And the woman said she wanted to be told the negatives were not going anywhere."
+"So one print is hers and one print is in a book in a shop, and that's the copy, and there's no third one, and if you want my advice the one in the book is the one that matters and the one in her handbag is the one that matters more. That's how it is and there's no way round it and I've had men come in here crying about it and it doesn't help them." He put the envelope on the counter. "Four credits. And she rang me at eleven and asked me to tell you the negatives were not going anywhere, so I am telling you."
 
 "They are not going anywhere," said Elias Venn, "and I am the only person who has them, and there is one of me, and if I go under a bus then they are gone, and I have known that since September and I have done it twice now and I have not found a way round it either."
 
 ---
 
-The back room at 14 Kettle Rows had a carbon book shut on the bench and a drawer open and the paraffin heater going and a cat that had decided the drawer was the warmest place in the building, and Elias Venn put the prints down on the bench and stood looking at them for a while.
+The back room at 14 Kettle Rows had a carbon book shut on the bench and a drawer open and the paraffin heater going and a cat that had decided the drawer was the warmest place in the building, and Elias Venn put the one print and the negative out on the bench and stood looking at them for a while.
 
 Three slips. Three numbers. Three dates. One address with nothing after it. Eleven credits recorded three times, sixty credits required, and a tariff note that said that not one of those three could be a claim and that a charge for a procedure to which the note applies is not a claim and is not to be settled by a third party.
 
-And under the middle one, in his own hand, in a fortnight of notebook, the thing he had written on 12 November and had not looked at since.
+And under the middle one, in his own hand, in a fortnight of notebook, the thing he had written on the third of November and had not looked at since.
 
 > *Plate 1201 lent to me 3 Nov, due back 14 Nov, five conditions, not into the hard case, not measured, not photographed, signed back in by a person. Log 1202. M. Quill.*
 
@@ -146,7 +146,9 @@ He wrote two lines about it and they were not about the plate.
 
 > *I have a date in my own book and I did not look at it for sixteen days. That is not about a plate. That is the first time in four months that I have found a thing I wrote on the day and did not look at on the day, and I have not written down a reason, and I am not going to now, and I am going to find out what it is before the end of the year.*
 
-Then he put the three counterfoils in a plain envelope, wrote *11 Nov / 4 May 27 / 19 Jan 28* on it and nothing else, and put it in the notebook, and the notebook went on the shelf with the carbon book on it, and the three prints went in the back of the notebook where the other things were that were only his.
+Then he put the negative in a plain envelope, wrote *11 Sep 29 / 4 May 27 / 19 Jan 28* on it and nothing else, and put it in the notebook, and the notebook went on the shelf with the carbon book on it, and the second print went in the back of the notebook where the other things were that were only his.
+
+The three counterfoils were still in the tin on the table in Corrie Street, in a hand that had ruled its own margin in 2019, and the first print was in a woman's handbag in Kettle Rows, and there was one more print in a shop on Cutter Street that was not his and was not hers, and there were three originals in a dry cleaner's front room and a negative in a repair shop and no third copy of anything. He had asked for nothing and been given nothing but one frame, and that was the correct price and he had not argued with it.
 
 Then he did the other thing, because he had promised himself on the bus that he would do it before the end of the week and because it was two doors down.
 

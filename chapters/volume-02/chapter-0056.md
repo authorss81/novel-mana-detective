@@ -6,7 +6,7 @@ Then she took them into treatment room two, which was shut and dark and had a co
 
 "How many."
 
-"Four. Since the eighteenth of October. Eleven credits each."
+"Four. Since the nineteenth of October. Eleven credits each."
 
 "Handwriting."
 
@@ -30,15 +30,15 @@ Dr Okafor did not take it.
 
 He showed her the page. She read tariff note 4 and then read it again, and then she read note 8, and then she put both hands on the counter by the couch and said a word that was not a swear word and was not funny.
 
-"Number 4," she said. "**No claim may be made under this schedule.** Doctor, you understand what that means. It means when a woman of seventy-four loses her sister's name and goes to a room above a dry cleaner and pays eleven credits and the name comes back and then goes by Wednesday, there is no line anywhere in the city for that. There is no box for it. There is no code. If she goes to a doctor she gets *grief* or she gets *the grid*, and if she goes to a proper practice it is sixty credits and there is a woman on a list who can be rung, and if she goes to a room above a dry cleaner it is eleven credits and it is a favour, and the whole thing is built on the fact that nobody is making a claim about it, so there is no claim, so there is no record, so there is nothing to fund, so there is nothing to check."
+"Number 4," she said. "**No claim may be made under this schedule.** Mr Venn, you understand what that means. It means when a woman of seventy-four loses her sister's name and goes to a room above a dry cleaner and pays eleven credits and the name comes back and then goes by Wednesday, there is no line anywhere in the city for that. There is no box for it. There is no code. If she goes to a doctor she gets *grief* or she gets *the grid*, and if she goes to a proper practice it is sixty credits and there is a woman on a list who can be rung, and if she goes to a room above a dry cleaner it is eleven credits and it is a favour, and the whole thing is built on the fact that nobody is making a claim about it, so there is no claim, so there is no record, so there is nothing to fund, so there is nothing to check."
 
 "Yes."
 
 "And somebody is making claims about it."
 
-"Somebody is putting claim numbers on her counterfoils, in an office, going back to the fourth of May 1927, and the tariff that forbids it is two years old and the person writing the numbers has not stopped."
+"Somebody is putting claim numbers on her counterfoils, in an office, going back to the fourth of May 2027, and the tariff that forbids it went into print in November and the person writing the numbers has not stopped."
 
-"Then it is not a favour any more," said Sana Okafor. "Whatever it was in 1925, and whatever it was when she gave me the last free one, whatever it was for the parade woman, whatever it was for the man she went to because he could not travel — it stopped being a favour the minute somebody started getting paid for it on paper, and the person who is getting paid is not her and the person she is paying is me, in the sense that I am the place where the cost of this lands when it lands, and it will land here, Mr Venn, it will land in this corridor on a Tuesday afternoon in a person who has come back four times in three weeks, and I want you to hear me say that I know that."
+"Then it is not a favour any more," said Sana Okafor. "Whatever it was in 2025, and whatever it was when she gave me the last free one, whatever it was for the parade woman, whatever it was for the man she went to because he could not travel — it stopped being a favour the minute somebody started getting paid for it on paper, and the person who is getting paid is not her and the person she is paying is me, in the sense that I am the place where the cost of this lands when it lands, and it will land here, Mr Venn, it will land in this corridor on a Tuesday afternoon in a person who has come back four times in three weeks, and I want you to hear me say that I know that."
 
 He heard her say that.
 
@@ -58,7 +58,7 @@ Sana Okafor put both hands on the counter by the couch and looked at the ceiling
 
 "I know that."
 
-"You know it in the way a man knows a fact. I know it because I have had a woman come into that waiting room in 1927 who was a domestic in a house in Halloway Street and whose employer found out she had been to a practitioner, and it did not go well for her, and she stopped coming to me as well, and I did not find out for a year, and I have never once forgiven the practitioner, and she was not even a bad one. She was a woman doing the work that nobody would do for eleven credits. **The bad thing was never the work. The bad thing was always the file.**"
+"You know it in the way a man knows a fact. I know it because I have had a woman come into that waiting room in 2027 who was a domestic in a house in Halloway Street and whose employer found out she had been to a practitioner, and it did not go well for her, and she stopped coming to me as well, and I did not find out for a year, and I have never once forgiven the practitioner, and she was not even a bad one. She was a woman doing the work that nobody would do for eleven credits. **The bad thing was never the work. The bad thing was always the file.**"
 
 "I am not going to argue with that."
 
@@ -68,7 +68,7 @@ Sana Okafor put both hands on the counter by the couch and looked at the ceiling
 
 She took a sheet of the clinic's own notepaper, which is the same paper the ninety-odd copied pages of the maintenance book are on, and she wrote on it standing up, and she read it back to him before she put her name under anything.
 
-"One. If the work continues it continues **with a person in the room.** Not me, not you, not a person with a form. A person whose only job is to be a person in the room. I will supply that. I have two girls on the Tuesday rota who are doing a placement and who want the hours, and neither of them is qualified for what is being done upstairs and both of them know that, and that is the correct answer to a question nobody has asked out loud yet."
+"One. If the work continues it continues **with a person in the room.** Not me, not you, not a person with a form. A person whose only job is to be a person in the room. I will supply that. I have two girls on the clinic rota who are doing a placement and who want the hours, and neither of them is qualified for what is being done upstairs and both of them know that, and that is the correct answer to a question nobody has asked out loud yet."
 
 "Two."
 
@@ -86,7 +86,7 @@ Elias Venn stood in treatment room two of the Kettle Rows Community Clinic with 
 
 "Where do I put the request."
 
-"You do not." Sana Okafor folded the sheet and put it in her coat pocket. "If you write a request it has a number and a number on a piece of paper in a district like this is a name with a coat on it. **The clinic makes it. Eleven unnamed premises, one street each, four of them in this district. I write it and I sign it and I put my registration number on it, because I am the only person in this building with a registration number that means anything and I am not going to lend it to a member of the public who has been formally reprimanded three weeks ago.**"
+"You do not." Sana Okafor folded the sheet and put it in her coat pocket. "If you write a request it has a number and a number on a piece of paper in a district like this is a name with a coat on it. **The clinic makes it. Eleven unnamed premises, one street each, four of them in this district. I write it and I sign it and I put my registration number on it, because I am the only person in this building with a registration number that means anything and I am not going to lend it to a member of the public who has been formally reprimanded a fortnight ago.**"
 
 "That is fair."
 
@@ -120,32 +120,32 @@ The man went, and put the folded paper on the counter as he went, and it was a p
 
 "Four what."
 
-"Possibility four." He said it quietly, out of the side of his mouth, and she stopped, and he said it again. "The twenty-eighth of October, which is the day I wrote it up. A woman in a book in Corrie Street came three times and did not come a fourth time, and she wrote four words about it, and she gave me four possibilities and said she hated three of them. She did not write down the fifth one and she made me promise."
+"Possibility four." He said it quietly, out of the side of his mouth, and she stopped, and he said it again. "The ninth, the sixteenth and the twenty-third of October, and the fourth of those words she did not write down until the second of November. A woman in a book in Corrie Street came three times and did not come a fourth time, and she wrote four words about it, and she gave me four possibilities and said she hated three of them. She did not write down the fifth one and she made me promise."
 
 Sana Okafor stood in a corridor of her own clinic with a prescription she had not picked up in her hand.
 
-"Then somebody has told an old woman in this district that she should not have been coming to a woman of fifty-eight above a dry cleaner, which costs nothing, and which is the cheapest thing anybody has ever done to her," she said. "Do you know what I would have said, in 1927, if somebody had come to me and told me a domestic in Halloway Street was going to a practitioner? I would have said *good, somebody is helping her.* That is what I would have said, Mr Venn. **I would have said it and I would have been wrong and I would have said it pleasantly.**" She put the prescription in the bin. "Go and do your six lines."
+"Then somebody has told an old woman in this district that she should not have been coming to a woman of fifty-eight above a dry cleaner, which costs nothing, and which is the cheapest thing anybody has ever done to her," she said. "Do you know what I would have said, in 2027, if somebody had come to me and told me a domestic in Halloway Street was going to a practitioner? I would have said *good, somebody is helping her.* That is what I would have said, Mr Venn. **I would have said it and I would have been wrong and I would have said it pleasantly.**" She put the prescription in the bin. "Go and do your six lines."
 
 ---
 
-The order went in on Thursday as a request from the director of the Kettle Rows Community Clinic, and it came back on the Friday morning of the twenty-second, and it is in the drawer in a cabinet in a municipal building and it is worth setting out exactly, because nobody in this case has ever yet been handed a piece of paper that was not better than it had to be.
+The order went in on the Wednesday as a request from the director of the Kettle Rows Community Clinic, and it came back on the Thursday morning of the twenty-second, and it is in the drawer in a cabinet in a municipal building and it is worth setting out exactly, because nobody in this case has ever yet been handed a piece of paper that was not better than it had to be.
 
 > *TEMPORARY PROTECTION ORDER — UNREGISTERED PROCEDURE, RESTRICTED CLASS*
 > *Applicant: Director, Kettle Rows Community Clinic.*
 > *Premises: eleven, unnamed individually, in the district of Kettle Rows and one in the outer wards.*
 > *Grounds: performance of a procedure at Schedule D, numbers 2 to 14, at a fee below the registered fee, in premises that are not those of a registered practice, and without the record required at tariff note 8.*
 > *Direction: the premises listed shall not be used for the performance of a restricted procedure until such time as the premises are inspected, or the person performing there produces a registration.*
-> *Duration: from the date of service to **the fourteenth of January 1930.***
+> *Duration: from the date of service to **the fourteenth of January 2030.***
 
-Elias Venn read that at the back bench on the Friday morning with the paraffin heater on and the cat in the drawer, and he read the last line about nine times, and then he got a pencil and wrote out the arithmetic on the back of a receipt, because he had not written an answer down in a shop for four months and it is the only arithmetic in the case that is not somebody else's.
+Elias Venn read that at the back bench on the Thursday morning with the paraffin heater on and the cat in the drawer, and he read the last line about nine times, and then he got a pencil and wrote out the arithmetic on the back of a receipt, because he had not written an answer down in a shop for four months and it is the only arithmetic in the case that is not somebody else's.
 
-*20 November to 14 January is fifty-five days. Nine and a half weeks.*
+*22 November to 14 January is fifty-three days. Seven weeks and four days.*
 
 *It is not a protection of the work. It is a postponement with a date on it.*
 
-*And on the fourteenth of January somebody in a municipal building is going to write a word on a form, and if the word is *extended* then the clinic has asked for this and got it, and if the word is *discharged* then in fifty-five days a woman in a flat is back on her own with no order in front of her and nothing at all in the city.*
+*And on the fourteenth of January somebody in a municipal building is going to write a word on a form, and if the word is *extended* then the clinic has asked for this and got it, and if the word is *discharged* then in fifty-three days a woman in a flat is back on her own with no order in front of her and nothing at all in the city.*
 
-*There is no version of this document that fixes anything. It is a fortnight's worth of paper with a date on the end of it and I asked for it and I would ask again.*
+*There is no version of this document that fixes anything. It is a winter's worth of paper with a date on the end of it and I asked for it and I would ask again.*
 
 He put the receipt in the notebook and then took it out again and put it on the shelf next to the certificate, and the two of them sat on a shelf about six inches apart, and one of them was made by an office that had certified that a man of seventy-eight performed a complete dangerous working, and the other one was made by a doctor who had certified nothing and had put a name and a registration number on it and had written *unregistered procedure, restricted class* across the top in her own hand where a lawyer would see it first.
 
