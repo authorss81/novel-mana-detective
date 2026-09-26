@@ -60,7 +60,7 @@ It was not a picture. It had never been a picture and he had spent five months t
 
 **First: the door.**
 **Second: a man's hands, and a man not being a man but a shape with a man's hours on it.**
-**Third: a turn, in a hall, that made forty-one people put their hands flat on their own chests and feel that they had been somewhere already.**
+**Third: a turn, in a hall, that made everybody in it put their hands flat on their own chests and feel that they had been somewhere already.**
 **Fourth: something coming out of the shape and going back out of the door, and a sound like a shoe on grit.**
 
 And it went out through the door, and it took a piece of the book with it, and the piece of the book that went was the only part of the night that was a person, and he came off it about ninety seconds later with the taste of metal and had to put both hands on the desk.
@@ -69,7 +69,7 @@ He did not write anything for about four minutes. Then he wrote in his own book,
 
 He read the room for a while. There was a smell of tea and old paper and a man in the hall counting a till.
 
-He went downstairs at about ten o'clock because he had ninety minutes to kill and a man of thirty-six asleep in a chair, and he sat on the second chair in the hall with his hands on his knees and looked at forty-one people sleeping on the floor and on mats and in two chairs, and worked out something he had not known, which was that **he could not tell how many of them were there, and that the reason he could not tell was that he was not allowed to count.**
+He went downstairs at about ten o'clock because he had ninety minutes to kill and a man of thirty-six asleep in a chair, and he sat on the second chair in the hall with his hands on his knees and looked at people sleeping on the floor and on mats and in two chairs, and worked out something he had not known, which was that **he could not tell how many of them were there, and that the reason he could not tell was that he was not allowed to count.**
 
 He had counted chairs in four buildings in five months. He had counted nine chairs in this office twice and eleven in a first floor in January, and it had been the price of the counterturn, and he had counted the four in a waiting room on a Sunday morning because that is what a man in his position does with a room. And he could not count the people, because they were not furniture and nobody had asked him to and there was no instrument in this city that would let him, and a woman of fifty-eight off a linen run had said a version of it to him at half past eleven at night in a landing on the twenty-third of January, and had been right, and he had not thanked her, and he had written it down and had not understood it for a month.
 
@@ -116,7 +116,7 @@ Thirty minutes. He was off the desk for thirty minutes on the night of the ninth
 He read it again at a quarter past eleven, and put his hand on the same page, and it came up different.
 
 **First: the shape with a man's hours on it.**
-**Second: the hall, and the turn, and forty-one hands.**
+**Second: the hall, and the turn, and a row of hands going flat on a row of chests.**
 **Third: the thing coming out of the shape and going out of the door.**
 **Fourth: the door.**
 

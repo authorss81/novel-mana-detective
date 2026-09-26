@@ -22,7 +22,7 @@ The man went past, and turned back about six paces, and came back.
 
 "Who is the file with."
 
-"Corrie Street, and it is not a matter anybody in this building will be able to help you with, and I am not going to ask you to go and ask, and if you go and ask you will be told the case is closed and you will have wasted a morning." He looked at the stair. "**What I am going to tell you is the reason I have kept this.** A message came on a telephone at twenty-five to seven on the evening of the twelfth, and it was one line, and it said that the case was going up and to hand it over at the end of the day, and it came from an inspector, and I have never been told which one, and I have looked. And the file went into the records store at about a quarter to seven the same evening, and there is a signature on the form that went with it, and I do not know whose signature it is and I have not got a way of finding out, and I have had four months. And the thing about a store is that a store is a building, and a man who has been in a building for nine years does not get to see a file, and I have not seen that file since the twenty-second of December and I have not been asked about it once, and I have been waiting for four months for somebody to ask me about it, and on Friday a man in a good coat stood at a counter and asked a question about a bed and I found out about this through a woman in a corridor on Monday, and I am not going to tell you her name because she told me not to and I am not going to be the reason she is in trouble."
+"Corrie Street, and it is not a matter anybody in this building will be able to help you with, and I am not going to ask you to go and ask, and if you go and ask you will be told the case is closed and you will have wasted a morning." He looked at the stair. "**What I am going to tell you is the reason I have kept this.** A message came on a telephone at twenty-five to seven on the evening of the twelfth, and it was one line, and it said that the case was going up and to hand it over at the end of the day, and it came from an inspector, and I have never been told which one, and I have looked. And the file went into the records store at about a quarter to seven the same evening, and there is a signature on the form that went with it, and I do not know whose signature it is and I have not got a way of finding out, and I have had eleven weeks. And the thing about a store is that a store is a building, and a man who has been in a building for nine years does not get to see a file, and I have not seen that file since the twenty-second of December and I have not been asked about it once, and I have been waiting for eleven weeks for somebody to ask me about it, and on Friday a man in a good coat stood at a counter and asked a question about a bed and I found out about this through a woman in a corridor on Monday, and I am not going to tell you her name because she told me not to and I am not going to be the reason she is in trouble."
 
 "Who told you on Monday?"
 
@@ -43,11 +43,11 @@ They went out into the car park behind the station at half past twelve because h
 
 He did not open it.
 
-"I am not going to show you the page," he said. "I am going to tell you what is on the page, in my own words, from about eighteen inches away, and then you are going to tell me whether that is worth anything, and if you say it is worth nothing I will put the book in my pocket and go home and that will be the end of it, and I have been carrying it about for four months and I am about four months past the end of what I can carry about."
+"I am not going to show you the page," he said. "I am going to tell you what is on the page, in my own words, from about eighteen inches away, and then you are going to tell me whether that is worth anything, and if you say it is worth nothing I will put the book in my pocket and go home and that will be the end of it, and I have been carrying it about for eleven weeks and I am about eleven weeks past the end of what I can carry about."
 
 "Tell me."
 
-"The eleventh of December, about eight in the evening, Anselm Street, a first-floor office with nine chairs against the wall." He said it the way a man reads a form out loud. "I took a statement from a night porter. He is fifty-four. He gave me an account of the night of the ninth in about eleven minutes and it was a good account, and I want that on the record before I say anything else, because it is the part nobody at my station has ever asked me about. It was better than most statements I have taken in twelve years. He was frightened and he was not performing being frightened, and he told me the times, and he told me that he had counted forty-one people in a hall and had not seen anybody, and he told me that he did not know why a woman had been in a room with him."
+"The eleventh of December, about eight in the evening, Anselm Street, a first-floor office with nine chairs against the wall." He said it the way a man reads a form out loud. "I took a statement from a night porter. He is fifty-four. He gave me an account of the night of the ninth in about eleven minutes and it was a good account, and I want that on the record before I say anything else, because it is the part nobody at my station has ever asked me about. It was better than most statements I have taken in twelve years. He was frightened and he was not performing being frightened, and he told me the times, and he told me that he had gone along every row of that hall and had not seen anybody, and he told me that he did not know why a woman had been in a room with him."
 
 "All right."
 
@@ -59,7 +59,7 @@ Elias Venn did not say anything.
 
 "He signed it."
 
-"In the box. There is a box at the foot of a page and the box is headed *witness in agreement with extract*, and he signed in the box, and the second officer countersigned, and I initialled the top of the page, and then I read the whole page back to him, which is the thing you do, and he listened to all of it." Alaric Nunn shifted the notebook under his arm. "And then I wrote in this, at the time, in this book, and I wrote four lines, and I have not shown the four lines to anybody in four months, and I am going to tell you what they say."
+"In the box. There is a box at the foot of a page and the box is headed *witness in agreement with extract*, and he signed in the box, and the second officer countersigned, and I initialled the top of the page, and then I read the whole page back to him, which is the thing you do, and he listened to all of it." Alaric Nunn shifted the notebook under his arm. "And then I wrote in this, at the time, in this book, and I wrote four lines, and I have not shown the four lines to anybody in eleven weeks, and I am going to tell you what they say."
 
 "Go on."
 
@@ -67,7 +67,7 @@ Elias Venn did not say anything.
 
 He stopped, and there was a lorry reversing somewhere and it took a while.
 
-"That is all four lines are," he said. "That is not an opinion. That is not a case. It is not even a complaint. It is a man writing down, at ten to ten at night, in a hardback notebook he bought for a pound, that a witness said something twice and then signed the thing he had just said twice was wrong. **And then nothing happened for four months, and I am the only person in this city who knows those two facts are in the same room, and you are the second.**"
+"That is all four lines are," he said. "That is not an opinion. That is not a case. It is not even a complaint. It is a man writing down, at ten to ten at night, in a hardback notebook he bought for a pound, that a witness said something twice and then signed the thing he had just said twice was wrong. **And then nothing happened for eleven weeks, and I am the only person in this city who knows those two facts are in the same room, and you are the second.**"
 
 ---
 
@@ -77,7 +77,7 @@ He stopped, and there was a lorry reversing somewhere and it took a while.
 
 "What was the extract compiled from."
 
-"I do not know and I have wanted to know for four months more than I want anything." He said the next part carefully. "I asked the second officer where the compiled sequence came from and he said it was certified material from the Registry, and I have never seen a piece of Registry material in my life that is given to a witness to agree with before the certificate is issued. I may be wrong. I have been wrong about procedure before. **I am not asking you to believe me. I am telling you what I know, which is a statement, and I have spent four months finding out what a statement is worth, and the answer is that it is worth exactly what the officer who took it is willing to be cross-examined on, and that is a figure I cannot get anybody to look at.**"
+"I do not know and I have wanted to know for eleven weeks more than I want anything." He said the next part carefully. "I asked the second officer where the compiled sequence came from and he said it was certified material from the Registry, and I have never seen a piece of Registry material in my life that is given to a witness to agree with before the certificate is issued. I may be wrong. I have been wrong about procedure before. **I am not asking you to believe me. I am telling you what I know, which is a statement, and I have spent eleven weeks finding out what a statement is worth, and the answer is that it is worth exactly what the officer who took it is willing to be cross-examined on, and that is a figure I cannot get anybody to look at.**"
 
 Elias Venn wrote four lines in his own book, and did not write the four lines that had been read to him, because they were not his, and the difference between the two four-line entries was the whole of what he had learned in five months and it had cost him a fortnight in a garden in a year he was not born in.
 

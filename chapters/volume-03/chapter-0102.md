@@ -36,7 +36,7 @@ She did not have it with her. She opened the notebook, turned it round, and read
 
 They sat in a car park on Ferry Street with a bay number on the wall in front of them, because it was the only place with two chairs and no people in it.
 
-"Here is what I can tell you and I am going to say it in order and I am not going to go round it," said Nadia Kest. "A dangerous-working certificate for the night of the ninth of December was issued out of the Proof Registry on the ninth of January at some time in the afternoon. **Three days after your man signed a second document, and two months after he signed the first.** The case was closed the day the certificate went out, because that is what the certificate is for. It is not a case about who did it. It is a document that says a working of a particular kind happened on a particular night in a particular place, and once the document exists the case has answered its own purpose and it is shut."
+"Here is what I can tell you and I am going to say it in order and I am not going to go round it," said Nadia Kest. "A dangerous-working certificate for the night of the ninth of December was issued out of the Proof Registry on the ninth of January at some time in the afternoon. **A month after your man put his name to two pieces of paper in one room, and two days after he gave a statement to a police officer.** The case was closed the day the certificate went out, because that is what the certificate is for. It is not a case about who did it. It is a document that says a working of a particular kind happened on a particular night in a particular place, and once the document exists the case has answered its own purpose and it is shut."
 
 "Certificate for what kind of working."
 

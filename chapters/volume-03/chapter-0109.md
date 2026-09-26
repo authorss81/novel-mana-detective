@@ -82,7 +82,7 @@ She stood up and went to the shelf and stood with her back to him for a second.
 
 "Fine."
 
-"It is not fine and I have not finished. In November I made a rule and I have told nobody I made it and you have not asked me about it, and the rule is this. **I do not work on an object that has been in contact with a person who is still in the building.** Not on Tuesday, not with a consent, not with a doctor in a corridor. A door in a refuge stairwell has forty-one people through it a day and the residue on it is not a document's residue, it is a hall's, and I said in November that I would not do it and I have not done it since." She put her hand on the bench. "So there are two ways. Either you do it on your own tonight, and I never hear about it, and I do not lose a night of sleep, and you come out of that building with a fourth order and nobody in the world able to check a word of it. Or you ask a man who is paid for that building whether you may put your hand on his fire door after eleven o'clock, and you do it with a witness, and I am the witness, and I get to say out loud what I am and why I am there."
+"It is not fine and I have not finished. In November I made a rule and I have told nobody I made it and you have not asked me about it, and the rule is this. **I do not work on an object that has been in contact with a person who is still in the building.** Not on Tuesday, not with a consent, not with a doctor in a corridor. A door in a refuge stairwell has forty-one beds behind it and the residue on it is not a document's residue, it is a hall's, and I said in November that I would not do it and I have not done it since." She put her hand on the bench. "So there are two ways. Either you do it on your own tonight, and I never hear about it, and I do not lose a night of sleep, and you come out of that building with a fourth order and nobody in the world able to check a word of it. Or you ask a man who is paid for that building whether you may put your hand on his fire door after eleven o'clock, and you do it with a witness, and I am the witness, and I get to say out loud what I am and why I am there."
 
 "I would like the second one."
 
@@ -92,7 +92,7 @@ She stood up and went to the shelf and stood with her back to him for a second.
 
 Gareth Prothero was in the office at 2 Anselm Street at about twenty past three on the Tuesday afternoon with the same folder under his arm and about six people in the hall, and he listened to the whole of it standing up, which took longer than Elias Venn had allowed for, and he said no four times before he said yes.
 
-"No to a stranger in the office. No to a stranger in the hall. No on a Tuesday, and no on a Wednesday either, and I do not care what is on the door. No at nine o'clock at night with forty-one people asleep in a building I am paid for."
+"No to a stranger in the office. No to a stranger in the hall. No on a Tuesday, and no on a Wednesday either, and I do not care what is on the door. No at nine o'clock at night in a building I am paid for with a hall of people asleep on the floor of it."
 
 Then he said: "What exactly do you want to touch."
 
@@ -134,7 +134,7 @@ He put his hand flat on it.
 
 It was not like a book. A book is a record and a book lies gently; a fire door has been run through eleven times an hour for eleven years and there was no gentleness in it anywhere. It came up out of the floor of him and it was over in about four seconds and it was the only one of the three readings that was not arguing with itself.
 
-**First: the hall, and the turn, and forty-one hands going flat on forty-one chests.**
+**First: the hall, and the turn, and a row of hands going flat on a row of chests.**
 **Second: the shape with a man's hours on it, standing, and not doing anything at all.**
 **Third: the thing coming out of the shape.**
 **Fourth: the door.**
@@ -159,7 +159,7 @@ Three columns in his own handwriting, taken at 9.52 and at 11.15 and at about tw
 
 Elias Venn put the torch down flat on the bench so that the page was lit from the side.
 
-"I read four acts out of a night book on Wednesday and four acts out of a fire door tonight," he said, "and the two of them agree. Door last. Hall first. The turn second. And in between them a shape with a man's hours on it that is not doing anything, and a thing that comes out of the shape, and that is four, and all four of them are real, and both of my readings say the same four in the same order, and I have been calling one of them a mistake for three days and it was not a mistake." He put his finger on the certificate without touching it. "**And this has three.** It has the hall, and it has the turn, and it has the release. It has taken the two that would have shown that a second person was standing in that room, and it has left one of them in and thrown the other one out, and the one it has left in is a release, and a release goes on a certificate, and it is in the wrong place, and the order of the three is not the order of the four."
+"I read four acts out of a night book on Wednesday and four acts out of a fire door tonight," he said, "and the two of them agree. Door last. Hall first. The turn second. And in between them a shape with a man's hours on it that is not doing anything, and a thing that comes out of the shape, and that is four, and all four of them are real, and both of my readings say the same four in the same order, and I have been calling one of them a mistake for three days and it was not a mistake." He put his finger on the certificate without touching it. "**And this has three.** It has the hall, and it has the turn, and it has the release. It has left out one, and the one it has left out is the one that would have shown a second person standing in that room, because the shape with a man's hours on it is the only part of that night that was a person, and it has kept the other three in and moved two of them, and the one it has put last is a release, and a release goes on a certificate, and it is in the wrong place, and the order of the three is not the order of the four."
 
 "Go on."
 

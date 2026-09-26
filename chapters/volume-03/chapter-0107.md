@@ -78,7 +78,7 @@ He turned the cold tea about another quarter turn.
 
 It took him about forty minutes and it came out in the wrong order and Elias Venn did not correct it once.
 
-He had been on that night four years and he was on nights, ten until six, and it was a Tuesday, and the ninth of December. There was a man shouting in bed nine at about half past ten and he was not the sort to shout at nothing, and Ruben Sallis went out of the office into the hall, and the hall had **forty-one** people in it because it is a Tuesday night and it is a Tuesday night because it has been a Tuesday night for twelve years, and he was in the hall for about half an hour and he could not tell anybody in that building what happened in it, and that is the sentence he had been carrying since January and he said it exactly like that, flat, twice, as though checking that it was still true.
+He had been on that night four years and he was on nights, ten until six, and it was a Tuesday, and the ninth of December. There was a man shouting in bed nine at about half past ten and he was not the sort to shout at nothing, and Ruben Sallis went out of the office into the hall, and the hall was as it always is on a Tuesday because it has been a Tuesday for twelve years, and he was in the hall for about half an hour and he could not tell anybody in that building what happened in it, and that is the sentence he had been carrying since January and he said it exactly like that, flat, twice, as though checking that it was still true.
 
 "Who was in the hall."
 
@@ -86,7 +86,7 @@ He had been on that night four years and he was on nights, ten until six, and it
 
 "You said you were in it for half an hour."
 
-"I was in the room," he said, "and there were forty-one people asleep in it, and I know how many there were because I count them, because if I do not count them and one of them is not there in the morning then I am the man who did not count. And I counted forty-one and I did not see a soul and that is what I have been saying since the twelfth of December and I have said it to three people and all three of them were kind to me about it and not one of them has ever come back with a different answer."
+"I was in the room," he said, "and the whole of that hall was asleep in it, and I know my way round that hall in the dark because I have walked it every night for four years, and I know how many are in it because I count them, because if I do not count them and one of them is not there in the morning then I am the man who did not count. And I counted them that night and I did not see a soul, and that is what I have been saying since the twelfth of December and I have said it to three people and all three of them were kind to me about it and not one of them has ever come back with a different answer."
 
 "What happened."
 
@@ -118,7 +118,7 @@ Ruben Sallis looked at the man behind the counter, who was cleaning a chip scoop
 
 "You did the ninth of December and then the certificate came out on the ninth of January."
 
-"Third of December, I signed. Eleventh of January, it came out. Three weeks." He said it like a man reading a bus timetable. "And the trust came round on the sixth of January and told us eleven of us had been re-interviewed, and by the eleventh of February three of the four of us who were still there had gone, and they put the contract out to tender in February, and the beds close on the thirty-first of March, and there is a review on the ninth of April, and I have read about a hundred and forty of those beds and I have been in that building every night for four years and I could not tell you one of the people in the hall that night by name, and there was a woman in the hall who I have never seen before or since, and I have told all of this to three people and one of them was the police and I told him in a room with a door and he wrote it down in a book."
+"Ninth of December, I signed. Eleventh of December, a man from the police wrote it down in a book and read it back to me. Ninth of January, it came out." He said it like a man reading a bus timetable. "A month, and a certificate, and not one of those three dates has ever been explained to me by anybody. **And the trust came round on the sixteenth of January** and told us eleven of us had been re-interviewed, and by the eleventh of February three of the four of us who were still there had gone, and they put the contract out to tender in February, and the beds close on the thirty-first of March, and there is a review on the ninth of April, and I have read about a hundred and forty of those beds and I have been in that building every night for four years and I could not tell you one of the people in the hall that night by name, and there was a woman in the hall who I have never seen before or since, and I have told all of this to three people and one of them was the police and I told him in a room with a door and he wrote it down in a book."
 
 ---
 
