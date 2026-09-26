@@ -30,7 +30,7 @@ Elias Venn stood against a wall thirty feet from a card with four numbers on it 
 
 He did not ask. He had a number and no entitlement and a date and a room full of strangers, and asking in that room would have been a man putting a claim number into the air in a public meeting, and in four years there would be four hundred people who had been at a funding review on the morning of the fifth of December and the number would be in about eleven of them.
 
-He wrote nothing that night. He wrote one line on the Monday, in a notebook, and on Wednesday he wrote nothing at all, which was the first Wednesday in five weeks on which he had not written a line in a book of his own by nine o'clock.
+He wrote one line on the Monday, in a notebook, and most of a page on the Tuesday, and nothing at all on the Wednesday. He noticed the Wednesday at about ten past four, on a shut floor, with his hat in his hand, in the way a man notices a thing he has quietly stopped doing.
 
 ---
 
@@ -50,15 +50,15 @@ There was a man in the entrance hall at the desk at that time with a carrier bag
 
 "Then the truth is that I do not know, and that I have said so, and that you may come back tomorrow and I will say the same thing in the same voice." She went back behind the desk. "Corridor, four o'clock. If you are not here at four I will not have remembered you and I would not want to pretend that I have."
 
-The man said that he would be there at four, and did not go away, and stood in the entrance hall with his carrier bag for about an hour and ten minutes, and Petronella Osei did not ask him to, and brought him a cup of tea at half past twelve without having decided to, and Elias Venn stood at the end of the corridor and watched a member of the public wait in a hospital for three hours over a name, and thought about a page of a public manual with a third box in it, and about the four hundred people who had been at a funding review that morning, and about how a thing is a document or it is a man and there is nothing in between and a great deal of the trouble in the world is in the nothing in between.
+The man said that he would be there at four, and did not go away, and stood in the entrance hall with his carrier bag for about an hour and ten minutes and was still standing there at half past one, and Petronella Osei did not ask him to, and brought him a cup of tea at half past twelve without having decided to, and Elias Venn stood at the end of the corridor and watched a member of the public wait in a hospital over a name, and thought about a page of a public manual with a third box in it, and about the four hundred people who had been at a funding review that morning, and about how a thing is a document or it is a man and there is nothing in between and a great deal of the trouble in the world is in the nothing in between.
 
 "I have been standing," he said, to the nurse.
 
 "Then sit down, because you are white." She put a blanket over the back of a chair in the corridor and made him sit in it, and did not ask him one question in the whole of it, and went away.
 
-He stood in a corridor with a blanket over his knees for about fifty minutes.
+He sat in a corridor with a blanket over his knees for about fifty minutes.
 
-There is a particular kind of waiting that a man in a member of the public's clothes does in a corridor of a licensed building, and it is not comfortable and it is not interesting, and it is the thing that makes it possible for a person with no authority to be in a place for six hours without anybody ever asking him to leave. You sit still, you do not read the notices, you do not go into the day room twice, you keep your feet in front of you, and after about half an hour a member of staff brings you a cup of something without having decided to.
+He did not read the notices and he did not go into the day room twice and he kept his feet in front of him, and at about twenty past twelve a nurse came the length of the corridor and gave him a cup of tea without having asked him whether he wanted one, and he said thank you, and understood while she was still walking away that this was the whole of the arrangement: nobody had asked him what he was, and so nobody had had to decide whether to keep him.
 
 He had been assumed to be somebody's husband for eleven minutes and he had let it stand, and he worked out while he was sitting there that it was the most useful thing that had happened to him in four days, because **a person who does not ask what is being done is the most useful shape a witness can have**, and he had spent two months learning that off a woman of fifty-eight who had learned it out of a form.
 
@@ -102,7 +102,7 @@ He had never been on a rehabilitation ward. He had been on one in a building in 
 
 There was a man of about sixty in the second bed who was being taught to hold a cup with two hands, and it was going badly, and the physiotherapist was saying "no, love, not that one" every forty seconds, and neither of them was enjoying it and both of them were staying, which was the entire craft and neither of them would have called it that.
 
-There was a woman of about seventy-nine in the ninth bed who was on her second day back after a hip and who had brought a crossword board with her and was doing it in bed, and who asked him to move a table, and who said sorry for asking, four times, in about ninety seconds, and he moved the table four times.
+There was a woman of about seventy-nine in the ninth bed who was on her fourth day back after a hip and who had brought a crossword board with her and was doing it in bed, and who asked him to move a table, and who said sorry for asking, four times, in about ninety seconds, and he moved the table four times.
 
 And at the foot of the ninth bed there was a card in a plastic holder, and on the card there was a name he had not seen since the first of November.
 

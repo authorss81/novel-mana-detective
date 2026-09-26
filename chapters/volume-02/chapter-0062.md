@@ -26,7 +26,7 @@ He sat down.
 
 ---
 
-The building was on the wrong side of the street from the office he had been in the previous month, which is what happened to all of them, and the office was a claims administration office, and it was called nothing at all above the door, and inside the door there was a runner on the floor and a row of fourteen chairs against a wall and a wall of frames.
+The building was on the wrong side of the street from the office he had stood in on the twenty-first of November, which is what happened to all of them, and the office was a claims administration office, and it was called nothing at all above the door, and inside the door there was a runner on the floor and a row of fourteen chairs against a wall and a wall of frames.
 
 The frames were the reason he came in at ten past nine instead of ten, because a public frame on a public wall is a public document, and the frame nearest the door said:
 
@@ -51,7 +51,7 @@ Elias Venn stood and looked at it for about two minutes and did not write it dow
 
 Elias Venn thought about that for about three seconds, and it was a better rule than any he had heard in four months, and he said, "A general question."
 
-"Go on, then. And if you put a number on my counter I cannot help you and I will have to stop you, and I would rather do that than do it badly."
+"Go on, then, and ask me it in whatever order it comes into your head, because I will answer the parts I am allowed to answer and I will tell you plainly when I have got to the parts I am not."
 
 ---
 
@@ -101,7 +101,7 @@ He did not write it down.
 
 ---
 
-She had a folder on her knees and she had been in the queue for most of an hour, and when he sat down beside her she did not close it, and it had a matron's frosted coat folded on top of it.
+She had a folder on her knees and she had been in the queue for the best part of two hours, and when he sat down beside her she did not close it, and it had a matron's frosted coat folded on top of it.
 
 "Mind if I sit. Mine has not been called for an hour and a half and I am not going anywhere."
 
@@ -135,6 +135,6 @@ She was quiet for a while, in the way of a person deciding whether a stranger is
 
 "There is a schedule," said the physiotherapist. "I have asked for it three times in six years. Not a patient's schedule. **The** schedule. The one that says which of the people in that building are on an account and which of the people in that building are a patient's own business. And I have been told it exists, and I have been told I cannot have it, and every single person in that building has told me a different reason and every single reason was true."
 
-Elias Venn sat in a chair in a building with a runner on the floor on the wrong side of the street from the office he had been in during September, and a woman of forty-four said *next* behind him, and he did not tell her his name, and he did not ask her what the schedule was called, and he got up and went out into Verge Row and stood in the rain for about a minute with his hands in his pockets looking at a building with no name over the door.
+Elias Venn sat in a chair in a building with a runner on the floor on the wrong side of the street from the office he had stood in on the twenty-first of November, and a woman of forty-four said *next* behind him, and he did not tell her his name, and he did not ask her what the schedule was called, and he got up and went out into Verge Row and stood in the rain for about a minute with his hands in his pockets looking at a building with no name over the door.
 
 The certificate that carried the schedule was not in that building, and it was not in the one she had worked in for six years, and it was not in the flat above the dry cleaner, and it was in an issuing office on Harrow Lane that opened at nine in the morning and shut at three in the afternoon, and on Thursday he was going to walk into it as a member of the public and ask to see something he was not entitled to see.

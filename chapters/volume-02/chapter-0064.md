@@ -55,7 +55,7 @@ She went along the tray. It took her about a minute and a half and she did not h
 
 ---
 
-He copied it down, all of it, in his own hand, in a notebook, in about four minutes, and he did it at the table she pointed at and not in the corridor, because a man who copies a thing down in a corridor is a man copying a thing down in a hurry.
+He copied it down in his own hand, in a notebook, in about four minutes, and he did it at the table she pointed at and not in the corridor, because a man who copies a thing down in a corridor is a man copying a thing down in a hurry. He copied all of it except the line at the top with the number on it, and he left a gap in his own book the width of the line it had come from, and wrote nothing in the gap, and Ruth Callow watched him leave it and did not say a word about it then or afterwards.
 
 Then a door at the end opened, and a woman came out with a folder under her arm, and Elias Venn knew the walk before he knew the face, because he had watched it come across a room in Morrow Hill on the first of November with a certificate in her hand.
 
@@ -67,15 +67,17 @@ Bettina Haile stopped about six feet away and said, "No."
 
 "Then say the six words."
 
-"I am not going to say six words, because six words would be a second hearing and there is no such thing as a second hearing in this office, and if there were, then every person who has ever been refused here twice would come back a third time, and some of them are in jail." She looked at the notebook, which was face down on the table because he had turned it. "You have written something down and turned it over. That is correct and I would like everybody in this room to notice it, because about one in ten of them does it and the other nine are shocked when I tell them they cannot take it."
+"I am not going to say six words, because six words would be a second hearing, and if there were such a thing then everybody refused here twice would come back a third time, and some of them are in jail." She looked at the notebook, which was face down on the table because he had turned it. "You have written something down and turned it over. That is correct and I would like everybody in this room to notice it, because about one in ten of them does it and the other nine are shocked when I tell them they cannot take it."
 
 "I am not taking it."
 
 "You are going to take a copy of a record of issue, and I am going to let you, and I am going to tell you exactly what a record of issue is worth, because you are the ninth person this year to ask me for one and the ninth is the first one who has asked for it correctly." She put both hands on the folder. "It is worth nothing. It has no patient in it and it has no procedure in it and it does not say whether anything happened. **What it does say is that on the second of October this office put a number into the world about a bed on a date, and the number is in a payer's drawer, and the payer's drawer is the only copy there is.**"
 
+"And you have left a hole at the top of your page about the width of the line at the top of that sheet," said Bettina Haile, "which is the single cleverest thing anybody has done at that table in about four years, and you did it before I said one word about it, which means you are cleverer than you would like me to know you are."
+
 "Then may I have the number."
 
-"You already have it. You have had it since I said it." She said it without heat. "And you are not going to write it in that book, and if you do, then in about four years somebody is going to be able to say that a member of the public had a certificate number in a personal notebook with no form anywhere accounting for how he got it, and the number will be the only thing anybody can prove and I will have handed it to you myself."
+"You already have it. You have had it since you read it, about six minutes ago, and you read it yourself, because I was not in the room." She said it without heat. "And you are not going to write it in that book, and if you do, then in about four years somebody is going to be able to say that a member of the public had a certificate number in a personal notebook with no form anywhere accounting for how he got it, and the number will be the only thing anybody can prove and I will have handed it to you myself."
 
 "Since the corridor," said Elias Venn. "And I am not going to write it, and I want you to know that I understand exactly what you have just told me and that I would have arrived at it in about a fortnight." He did not say thank you, because he was not going to thank a woman for something he had worked out himself, and she looked at him for a second and then nodded, and it was the smallest nod anybody had given him in four months.
 
@@ -93,7 +95,7 @@ Bettina Haile stopped about six feet away and said, "No."
 
 "Thirlmere 4," said Elias Venn. "That ward is shut. It has been shut since the seventh of October, and there is a notice on the door with the date on it, and the door is locked, and the notice says the residents and their effects are on site."
 
-"Yes," said Bettina Haile. "And what I am not going to tell you is why it shut, because there are about nine reasons a ward shuts and a date on a notice is not one of them, and the reason is on the manager's minute, and the manager's minute is not in this building and is not mine. Ask the manager. **Or do not, because a man who has been a member of the public for five weeks and asks a manager about a shut ward is a man who is going to be a man who was in that ward.**"
+"Yes," said Bettina Haile. "And what I am not going to tell you is why it shut, because there are about nine reasons a ward shuts and a date on a notice is not one of them, and the reason is on the manager's minute, and the manager's minute is not in this building and is not mine. Ask the manager. **Or do not, because a man who has been a member of the public for five weeks and asks a manager about a shut ward ends up being a man who was in that ward.**"
 
 "Then a shut ward is a place where nothing happened."
 
@@ -111,7 +113,7 @@ She picked the folder up. "And the rest of it is this. **Four thousand one hundr
 
 There was one more thing and he had to ask for it, and asking was the whole cost of the morning.
 
-"The material," said Ruth Callow. "The compiled material for a certificate is the claim form, and the claim form is held in this office as a copy, and the copy is a top copy and an office copy, and the office copy is behind it."
+"The material," said Ruth Callow. "The compiled material for a certificate is the claim form, and a claim form is made out in two, and the top copy is the claimant's and the claimant's is at the premises on Wexford Row, and the one in this building is the office copy, and the office copy is the sheet behind the carbon with the number on the front of it. **Two copies of a form and one number, and the number is on the front of the top copy and the office copy has not had a number on it in its life, and neither of the two is the certificate.**"
 
 "May I see it?"
 
@@ -121,7 +123,7 @@ He read across the table.
 
 It was a form with a header and four lines and a service code and a fee and a patient schedule box, and the patient schedule box had **Thirlmere 4** in it, and the code had **D-2** in it, and the fee had **60.00** in it, and the date had the eleventh of September in it.
 
-And on the office copy behind it, in the same box, in the same hand, there was a second impression of the same three words, much lighter, that stopped after the second of them and did not finish.
+And in the same box, on the office copy, in the same hand, there was a second impression of the same three words, much lighter, that stopped after the second of them and did not finish.
 
 Elias Venn did not touch it. He looked at it for a while and then said, "There are two of them."
 
@@ -129,17 +131,21 @@ Elias Venn did not touch it. He looked at it for a while and then said, "There a
 
 "That is what I thought."
 
-"You did not think anything, sir, you have been in the building twenty minutes." But she said it without unkindness, and she closed the box, and she did not ask him to write it down, and that was the kindness.
+"You did not think anything, sir, you have been in the building twenty minutes." But she said it without unkindness, and she did not close the box, and she did not ask him to write it down, and that was the kindness.
 
-He wrote it down.
+"May I write it out," said Elias Venn. "Not the form. The four lines of it, and the two boxes, and the two impressions, and no number anywhere on the page."
 
-He wrote it down in his own book, on a page of his own, with no claim number on it, because he had copied out the rest of a claim form across a table in about eleven minutes on Thursday afternoon and had left off the one line that pointed at a person, and he did the same thing here, and the copy in the book is a fair copy and it is in his own hand and it has no number in it, and it is in a repair shop on a shelf with three other documents he has no right to hold.
+"You may write out a thing that is not a copy." Ruth Callow put her thumb on the edge of the folder. "A copy is a second piece of paper with the same words on it in the same order, and a copy can be put in front of somebody who was not in the room. That is not what I am offering you, and I want the difference in your own book in your own words, because you are the sort of man who is going to be asked about it in about four years. **And I will not turn the pages while you are writing, because a woman turning pages is a woman choosing what a man sees, and if I choose then the page in your book is mine and not yours.** You have got until half past ten."
+
+He wrote it out in his own hand on a page of his own in about eleven minutes: the heading, the four lines, the patient schedule box, the procedure box, the fee box, the date of service, and under the patient schedule box two sentences, **a second impression of three words, lighter, stopping after the second of them.** He left a gap for the claim number the width of the line and wrote nothing in it, and a gap for the certificate number and wrote nothing in that one either, and he did not copy the countersignature at the foot, because he had worked out in a car park in November that a name and a number in one notebook is a file, and a file is a thing he is not.
+
+The page in the book is a fair copy and it is in his own hand and it has no number in it, and it is in a repair shop on a shelf with three other documents he has no right to hold.
 
 ---
 
 He telephoned Saint Orra Reach at twenty past eleven from the call box on the corner of Harrow Lane because the district office does not have a public telephone and the man on the corner has one and does not mind.
 
-It took two minutes and Mara Quill answered and it was the fourth time they had spoken in six weeks and every one of the four had been about a document.
+It took two minutes and Mara Quill answered, and it was the fourth time they had spoken in six weeks, and every one of the four had been about four minutes long.
 
 "There is a lighter impression of the same three words on a carbon, and it stops after two," said Elias Venn, "and I know what I want to ask and I am going to ask it badly and you are going to tell me I am wrong, and then I am going to do what you tell me."
 
@@ -157,7 +163,7 @@ It took two minutes and Mara Quill answered and it was the fourth time they had 
 
 "Are you sleeping?"
 
-"Four hours."
+"I am in a call box at the end of a corridor in a building with a ward in it, and there are eleven beds down that corridor and I have not been inside one of them. Four hours' sleep."
 
 "That is not sleeping." She did not say anything else for about three seconds, and neither did he, and the call box on the corner of Harrow Lane had a light in it that had been out for a week. "Then I am going to say the thing I am going to say, and then we are not going to talk about it, and I am not writing it down either, so do not tell a woman on a ward that I said it."
 
@@ -167,6 +173,8 @@ It took two minutes and Mara Quill answered and it was the fourth time they had 
 
 He put the receiver on the hook and the light went out in the box about a second after the money ran out, and he stood on the corner of Harrow Lane for about a minute in the rain.
 
-Then he got the bus and went to Marshall Street and did not telephone anybody and did not go to Wexford Row, and at four o'clock in the afternoon he put a sheet of A4 on the front bench of a repair shop and wrote four lines on it in his own bad hand: the issuing office, the date it issued, the claimant, and the two schedules. Underneath he wrote one line more, and the line said that the certificate number was in his head and was going to stay there, and that Mara Quill had told him a thing on a telephone that afternoon which was going into his book in her words and not in his own, and that he had slept four hours and had been told that was not sleeping.
+Then he got the bus and went to Marshall Street and did not telephone anybody and did not go to Wexford Row, and at four o'clock in the afternoon he put a sheet of A4 on the front bench of a repair shop and wrote four lines on it in his own bad hand. It was not a copy of anything: it was the four things he had actually been told, which were the office that issued it, the day it issued, who issued it for, and what it said. Underneath he wrote one line more, and the line said that the certificate number was in his head and was going to stay there.
 
-Then he put the sheet in the back of the notebook, on top of a print of three counterfoils and a page with four things on it that he had no right to hold, and he was going to sleep.
+Then he put the sheet in the back of the notebook, on top of a print of three counterfoils and a page with four things on it that he had no right to hold and that had been in the book since September and had nothing to do with any of this, and he put the notebook back on the shelf above the bench and stood with his hand flat on it for a moment longer than he had meant to.
+
+Because in about four years the only proof that a registrar-counsel had refused him five times will be a nineteen-year-old clerk on a tray in a building on Harrow Lane who will have retired by then, and a record of issue with a hole punched out of it in his own hand. **That is not a document. It is a man's account of a document.** It is the only kind he has ever been allowed to make, and he will have to make it again on Monday, and on Wednesday, and in January, and there is nobody in this city he can give it to.

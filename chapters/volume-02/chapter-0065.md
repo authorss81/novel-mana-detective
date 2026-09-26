@@ -14,7 +14,7 @@ The room was on the fourth floor and had a glass wall on two sides and the city 
 
 "I have not got a file."
 
-"You have got a file," said Selene Rook. "You have had one since Thursday morning, because you wrote to this office on Wednesday evening, and I read your letter on the Thursday, and there is a note on it in my hand that says *a member of the public, one letter, no form, no account, asking whether a certificate exists for a bed on a day, and whether the funder's name is on it*. And I will tell you for nothing that the second half of that letter is why you got an appointment, because the first half of it I get nine of, and the second half I get none."
+"You have got a file," said Selene Rook. "You have had one since yesterday morning, because you wrote to this office on Wednesday night, after a funding review where a man said a funder's name out loud on the third item, and on the Thursday morning you telephoned the operator at 2 Wexford Row and asked them one question, and they answered it, and I had your letter on my desk by the Thursday afternoon, and there is a note on it in my hand that says *a member of the public, one letter, no form, no account, asking whether a certificate exists for a bed on a day, and whether the funder's name is on it*. And I will tell you for nothing that the second half of that letter is why you got an appointment, because the first half of it I get nine of, and the second half I get none."
 
 "I have not."
 
@@ -76,7 +76,7 @@ She let that sit for about four seconds, and she did not look at him while she l
 
 "The clinician."
 
-"Dr Halvorsen. Fifty-four. Consultant in rehabilitation medicine, on the operator's roster, and she is the best clinician I have ever had an argument with about a bed." Rook put the pen down properly, which meant she was finished with the pen. "She has never been told a certificate exists. I have had two opportunities and I have not taken either, and I want to explain why, because I would like at least one thing today to be something other than a floor.
+"Dr Halvorsen. Fifty-four. Consultant in rehabilitation medicine, on the operator's roster, and she is the best clinician I have ever had an argument with about a bed. **Her name is the one at the foot of the claim form. It is not the name in the box at the top of the first sheet, and I want you to keep those two apart, because you are going to try to join them and it can be done in about four seconds and it would be the whole of your case in one page.**" Rook put the pen down properly, which meant she was finished with the pen. "She has never been told a certificate exists. I have had two opportunities and I have not taken either, and I want to explain why, because I would like at least one thing today to be something other than a floor.
 
 "If I tell her, then a doctor who has spent nineteen years signing for beds finds out that a signature of hers was not made by her, and she will want to know who did it, and she will ask me, and I will not be able to tell her, and she is a person who cannot carry *I don't know* — I have watched her not carry it about a missing swab in November and it took eleven days off the ward. **So a person who will not be harmed by not knowing is being kept not knowing, and that is a decision and I made it and I would make it again, and I am telling a member of the public about it because a decision like that should be expensive to make and mine is not.**"
 
@@ -94,7 +94,7 @@ She put the pen down.
 
 "Go on."
 
-"A release is addressed." She said it carefully, the way people say a thing they have had to think about for a long time. "A release commits a change and closes a working, and it is addressed to whoever is holding the other end of it. Somebody with standing receives it on behalf of a body that can carry what comes back. **In a room above a shop in Kettle Rows there is nobody to receive it, and that is why what happens in that room is a crime. In this building there is a tray and a standing and a drawer, and that is why the same act in this building is a service.** Same act. Different room. And nobody has ever written that sentence down anywhere, because a sentence like that ends a career and it does not end a company."
+"A release is addressed." She said it carefully, the way people say a thing they have had to think about for a long time. "A release commits a change and closes a working, and it is addressed to whoever is holding the other end of it. Somebody with standing receives it on behalf of a body that can carry what comes back. **In a first-floor room above a dry cleaner in Corrie Street there is nobody to receive it, and that is why what happens in that room is a crime. In this building there is a tray and a standing and a drawer, and that is why the same act in this building is a service.** Same act. Different room. And nobody has ever written that sentence down anywhere, because a sentence like that ends a career and it does not end a company."
 
 She let that go too, and then she picked the pen up and put the cap back on it.
 

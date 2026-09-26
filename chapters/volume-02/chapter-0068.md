@@ -6,7 +6,7 @@ The second lift at the Aldergate Wing was locked from ten until eleven on a Mond
 
 ---
 
-The day room on the second floor was smaller than the one on the ground. It had a different television and the same jigsaw. There were eleven people in it and about nine of them were playing cards, and the man of forty with the magazine was in this one as well, and the magazine was still the one from August.
+The day room on the second floor was smaller than the one on the ground. It had a different television and a different jigsaw. There were eleven people in it and about nine of them were playing cards, and the man of forty with the magazine was in this one as well, and the magazine was still the one from August.
 
 A rehabilitation building has two day rooms and a jigsaw in each, and neither jigsaw is ever finished, and on Wednesday he had worked out that the reason neither is finished is that nobody in the building is going to sit down and do the last eleven per cent, and that this is not a fault in either of them and is a fact about both of them.
 
@@ -42,7 +42,7 @@ The office was a room with nine desks in it and eight of them with nothing on th
 
 She squared it on the table with both hands and then did not open it, and there were two rules and she said both of them before she said anything else.
 
-"One: you do not touch it, and I do not touch it while you are reading, and I do not touch it at all except to turn the pages, and the reason is not the claim. The reason is that a file that has been handled by a visitor cannot be shown to anybody afterwards without a line in a book about who handled it and when. **And this is the operator's own top copy. The district office holds an office copy behind it and has held one since October, and the two are the same document and neither of them is the certificate.**
+"One: you do not touch it, and I do not touch it while you are reading, and I do not touch it at all except to turn the pages, and the reason is not the claim. The reason is that a file that has been handled by a visitor cannot be shown to anybody afterwards without a line in a book about who handled it and when. **And this is the operator's own top copy. The district office on Harrow Lane holds an office copy of it and has held one since October, and I have never seen the two side by side and neither has anybody else in this city, and neither of them is the certificate.**
 
 "Two: you do not photograph it. There is no camera in this room and if there were it would be in a case and there is a man in an office in Concord Hall who would like to have it."
 
@@ -54,7 +54,7 @@ She squared it on the table with both hands and then did not open it, and there 
 
 It was a claim, and it was a real claim, and it was in the shape that Rhoda Nesbit's three counterfoils were in, and the shape was the point.
 
-A number at the top in a hand that leaned to the right and pressed hard. A claimant. A premises. A date of service. A patient schedule box with **THIRLMERE 4** in it. A procedure box with **D-2** in it and the words *grounding and anchor, two hours* typed under it. A fee box with **60.00**. A countersignature at the foot, and the countersignature was not in the hand of the clinician named on the form, and Elias Venn did not know that and could not know that and did not go looking.
+A number at the top in a hand that leaned to the right and pressed hard. A claimant. A premises. A date of service. A patient schedule box with **THIRLMERE 4** in it. A procedure box with **D-2** in it and the words *grounding and anchor, two hours* typed under it. A fee box with **60.00**. A countersignature at the foot, and the countersignature was not in the hand of the clinician named on the form, and Elias Venn had been told that on a Friday by the person who held the money, and he had written four words about it on a Saturday, and he did not go looking.
 
 And it was all of it true. Every part of it. There was a number, and the number was well formed, and the claimant existed, and the premises existed, and the schedule reference existed, and the service code was the code for the procedure that had been billed, and the fee was the tariff fee for that procedure, and the fee had been paid, and somebody somewhere had put a rubber stamp on a paying-in slip with the date and the amount on it and a stamp pad that had been re-inked in about June.
 
@@ -88,7 +88,7 @@ Elias Venn did not say anything.
 
 He asked her for a pencil and a blank sheet, and she gave him both, and he did not take the file and he did not copy the file, and he wrote four sentences in his own hand, and they were not a list.
 
-> *There is a bound volume on the ground floor of this building and a woman who signs for it, and it says who was in a bed. The next office I have been in holds nine hundred files and eight people and a rubber stamp, and it says a bed and a code and a fee, and whether the money moved. The payer's office on Verge Row says whether the claim is worth paying, and it has already decided that it is, and it has a note in it from the fourth of November with a name in a box at the top. The office that issued the certificate says that it put a number into the world on the second of October and cannot remember doing it, because the number is in a drawer four streets away and the drawer is the only copy there is.*
+> *There is a bound volume on the ground floor of this building and a woman who signs for it, and it says who was in a bed. The room I am sitting in holds nine hundred files and eight people and a rubber stamp, and it says a bed and a code and a fee, and whether the money moved. The payer's office on Verge Row says whether the claim is worth paying, and it has already decided that it is, and it has a note in it from the fourth of November with a name in a box at the top. The office that issued the certificate says that it put a number into the world on the second of October and cannot remember doing it, because the number is in a drawer four streets away and the drawer is the only copy there is.*
 
 > *Nobody in this city may ring anybody in any of the other three. There is no rule that says they may not. There is simply no rule that says they may.*
 
@@ -102,11 +102,11 @@ He read that last sentence twice and then put a line through it and wrote it out
 
 ---
 
-The canteen was down a corridor and down four steps and it took eleven minutes to find from the second floor because the sign said **DAY ROOM 2** over the door it wanted and **CANTEEN** over the door it meant, and there were two women in it at half past twelve and a woman on the hatch who was not the woman from Saturday.
+The canteen was down a corridor and down four steps and it took eleven minutes to find from the second floor because the sign said **DAY ROOM 2** over the door it wanted and **CANTEEN** over the door it meant, and there were two women in it at half past twelve and a woman on the hatch who was not the woman from Monday.
 
 "Two teas," said Elias Venn, and put twenty-two credits on the tray because that was twenty-two credits, and did not notice until the woman had taken them.
 
-"That is what it is," she said. "Nobody has ever been surprised by that. What has happened is that in June somebody put a card on that table with a line on it, and the line was in a different typeface, and the line said that anybody who could not pay was to say so and they would do something about it." She put the two cups down. "You have not said you cannot pay. You have paid, and I have taken it, and I am not going to pretend that I noticed."
+"That is what it is," she said. "Nobody has ever been surprised by that. What has happened is nothing. That card has been on that table since before I came on this hatch, and the last line on it is a matron's, and it is in a different typeface from the price list above it, and it says that anybody who could not pay was to say so and they would do something about it." She put the two cups down. "You have not said you cannot pay. You have paid, and I have taken it, and I am not going to pretend that I noticed."
 
 "Twenty-nine years on the folding board at the laundry on Verge Row," said Elias Venn. "She raised hers from eight to eleven in March and told me about it on Saturday and told me why, and the reason is a woman on Aldermere Road who pays in coins out of a jar."
 
@@ -122,6 +122,10 @@ Dorothy Wray had come down the four steps behind him and was standing at the doo
 
 "Good," said Dorothy Wray, from the doorway of a canteen on the second floor of a rehabilitation building, and went up the four steps.
 
-He drank the tea. It was no better than Saturday's and it was no worse. He sat at the table by the window with the card in its plastic frame in front of him and a pencil in his hand and he did not write anything, and the two women at the other end of the canteen were arguing about a television programme in the low voices people use when they are comfortable, and the day room on two with the second jigsaw was twenty feet away through a door that was open.
+He drank the tea. It was no better than the one on the ground floor and it was no worse. He sat at the table by the window with the card in its plastic frame in front of him and a pencil in his hand and he did not write anything, and the two women at the other end of the canteen were arguing about a television programme in the low voices people use when they are comfortable, and the day room on two with the second jigsaw was twenty feet away through a door that was open.
 
-It was a Monday lunchtime in a licensed building, and a woman of thirty-one had just told him that the distance between a shut bed and a paid claim was four hours and a rubber stamp, and he was the only person in the city who knew it, and there was nothing whatsoever he could do with it on Monday, on Tuesday, or on any day he could reach, and in about four years somebody would rely on that certificate to refuse somebody a claim and it would take them four minutes to refuse and nobody would ever find out that the bed had been shut.
+Then he put the pencil down, because a man holding a pencil at a table in a canteen is a man about to write, and there was nothing on the page he was going to be able to put in front of anybody. Half an hour ago a woman of thirty-one had told him that she could take a bed and a code off a file in a room four streets away, put them on a form in four minutes, and have the form paid on the second of the month, and that the machine does not ask whether a woman went to Corrie Street. The sum on top of that was his own and he had done it in a notebook in a shop: from the bed to the money, four hours and a rubber stamp, and he was the only person in the city who knew it, and there was nothing at all he could do with it on Monday, or on Tuesday, or on any day he could reach, and in about four years somebody would rely on that certificate to refuse somebody a claim, and it would take them four minutes to refuse, and nobody would ever find out that the bed had been shut.
+
+So he put his hand flat on the card in its plastic frame instead, under the matron's line about anybody who could not pay, and he left it there for the length of a cup of tea, thinking about a woman of fifty-nine on Verge Row who had told him on Saturday that there is no rule anywhere in this city that says a laundry has to charge less, and who had been right about that too, and whom he had not thanked either.
+
+At about ten past one he got up, and put the cup on the hatch, and said thank you to a woman he had never spoken to before today, and she said nothing at all, because she had put the card there.

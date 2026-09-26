@@ -100,21 +100,17 @@ The chair wrote for a while and then put the pen down. "That is going in the min
 
 "What is it."
 
-"You have been in five offices in eleven days and you have come in here with nothing." He put the file down. "**Say the thing that is in front of you. Not the paperwork. You have been doing the paperwork beautifully for twenty minutes. Say the other one.**"
+"You have been in four offices in ten days and you have come in here with nothing." He put the file down. "**Say the thing that is in front of you. Not the paperwork. You have been doing the paperwork beautifully for twenty minutes. Say the other one.**"
 
-So Elias Venn said the other one, in order, in the flat voice he had used on a stool in a room above a supermarket in Kettle Rows on the twenty-sixth of November, so that somebody else could do the arithmetic.
+So Elias Venn said the other one, in the flat voice he had used on a stool in a first-floor room above a supermarket on Sallow Lane on the twenty-sixth of November, so that somebody else could do the arithmetic.
 
-"In this city a rehabilitation claim is made by an account and not by a patient, and a certificate for a treatment goes to the payer and not to the patient, and a patient is handed a copy of the claim and not of the certificate. I have that in my own hand in a book and I am not going to read the book out in this room.
+"I am not going to read you the book. I have got a fair copy of a claim form in my own hand with the number left off it, and a record of issue with no patient in it and no number in it either, and between those two pieces of paper there is a Tuesday in September. The Tuesday is the eleventh. I can prove the Tuesday. I cannot prove anything else, and I have been at it since the seventeenth of September, and I have not had one hour of it in a form.
 
-"There is a certificate. It was issued in the ordinary way in October by a district office of a public registry, by a registrar-counsel who has never examined a patient. It records a bed, a service code and a fee. It does not record a person. It is a true document and every part of it is true.
+"You want the thing that is in front of me. The thing in front of me is a bed, a code and a fee. **That is all a claim ever is.** A bed, a code, a fee and a rubber stamp, and it took four hours to go from the bed to the money, and every step of it was done by somebody who was doing their job and would have said so under oath. Not one person in this city has broken a rule to get from that bed to that money. There are four offices that hold a piece of it and I have been inside all four, and two of them turned me away at the door, and both of them were right to, and I have written down what they said to me and it is in a shop on a shelf.
 
-"The bed it records is a bed in a ward that was shut for eight days with the water off, and its six residents were in a day room off a corridor, which is not a ward and has no number. The treatment was real, and it was done in an hour, in a first-floor room over a shop, by a practitioner who is fifty-eight and has been doing it for six years, and the fee on the claim is the published fee and the fee she charged is a different number, and the difference is the whole of the reason a claim could exist.
+"And here is the part I cannot get past, and I am not giving it to you as a conclusion, because it is not a conclusion. It is a question. I have had it since Wednesday and I have not got an answer to it and I have not got anybody to give it to.
 
-"And there is a woman of eighty-one who was one of the six, and who went out for that hour on that Tuesday, and who paid sixty credits, and who does not remember what was done to her, and who is not named anywhere and has never asked for anything.
-
-"Four offices hold one half of that each. A ward book. A claim file. A payer's assessment. A record of issue. **Not one of the four can telephone any of the other three, and no rule in this city says they may.** And the distance from a bed to a paid claim is four hours and a rubber stamp.
-
-"So the claim was signed by a person, and the certificate was issued by an office, and the treatment was received by nobody who remembers it, and every document in this city that touches any of it is genuine, and I have been at this since the seventeenth of September, and **I cannot tell you which of those three people is the wrong one, and I have been in all four rooms, and I was sent away from two of them by people who were correct.**"
+"**The claim was signed by a person, and the certificate was issued by an office, and the treatment was received by nobody who remembers it, and I cannot tell you which of those three is the wrong one.**"
 
 The clock on the wall said five to eleven and it was two minutes fast.
 
@@ -156,7 +152,7 @@ He did not tell her. That was the price of it, and it was four days to Sunday th
 
 He got to Wexford Row at twenty past three and the visitors' room was empty and the jigsaw was on the table with the tin beside it, shut.
 
-Petronella Osei came in with a card. "You are on the list. Sister Warhurst said if you came she would see you, and she has gone home, and she is not to be on the book until the review on the nineteenth, which is a Wednesday, and she is not the kind of person who is furious quietly."
+Petronella Osei came in with a card. "You are on the list. Sister Warhurst said if you came she would see you, and she has gone home, and she is not to be on the book until the review on the nineteenth, which is a Wednesday, and she does not do quiet anger, because a ward sister who does quiet anger is a ward sister whose hand is not steady on a book."
 
 "Is she all right?"
 
@@ -164,9 +160,9 @@ Petronella Osei came in with a card. "You are on the list. Sister Warhurst said 
 
 He went and sat in it.
 
-Doris Sowerby was at the table by the window with the blanket over her knees and the tin open in front of her, and there were four pieces in it.
+Doris Sowerby was at the table by the window with the blanket over her knees and the tin open in front of her, and there were two pieces in it.
 
-"Four," she said. "Two out of a coat sleeve in the corridor and one out of a saucer on a trolley in the canteen, which is disgusting. And the fourth was on this table under a newspaper where somebody had been sitting all afternoon, and it has been there since Friday, and it is the fourth from the left on the blue sky, and it has got a straight edge on the long side, and it is not a boat and it is not a shadow." She put the last piece in and pushed the tin away from her. "It is a doctor. Two of them. In a room with a window. And I have been putting that jigsaw together since the eighth of October and there is nobody in this building who can tell me what is in the picture, and the sister has got the box in her bedroom and she is at the review on Wednesday and I am not going to burden her."
+"Two," she said. "One out of a coat sleeve in the corridor on Sunday, and one out of a saucer on a trolley in the canteen, which is disgusting." She put the ninth in and pushed the tin away from her. "**That one has been in my own hand since Sunday morning, and I have been wrong about it since Sunday morning, and I would like him to know that a woman of eighty-one can be wrong about a thing for three days and still be the one who finds it.** It is a doctor. Two of them. In a room with a window, and there was nobody in this building who could have told me so before I found it, and I did it off a bit of card, at my age." She put the lid on the tin. "Six of the nine are still out. Two of them are under a radiator and one of them is in a man's mouth in Sandmartin and three of them I have not found and am not going to. The box is at the sister's and it has been there since October, and she is at the review on Wednesday, and I am not going to burden her about a jigsaw."
 
 Elias Venn sat down on the other side of the table.
 
@@ -180,7 +176,7 @@ Then she looked at him properly for the first time, and the day room door was op
 
 "Now then. Who are you, and don't tell me you're anybody's husband, because you have not got that face. You've got the face of the man who was on the chair in the corridor on Wednesday, and the physiotherapist's told everybody about it and it's all round this building by Friday, so you'll be told."
 
-"I am not a doctor and I am not a police officer," said Elias Venn. "I have spent four months trying to find out who printed a third box on a sheet of paper. I have been in five offices and sent away from two of them by people who were correct, and on Monday a woman in this building told me the whole thing takes four hours and a rubber stamp, and I have got nothing anybody can use, and I am the only person in the city who knows it, and I have not got one single person I can give it to."
+"I am not a doctor and I am not a police officer," said Elias Venn. "I have spent four months trying to find out who printed a third box on a sheet of paper. I have been inside every one of them, and two of them sent me away at the door, correctly, and on Monday a woman in this building told me the whole thing takes four hours and a rubber stamp, and I have got nothing anybody can use, and I am the only person in the city who knows it, and I have not got one single person I can give it to."
 
 "Good heavens," said Doris Sowerby. "Sit down."
 
@@ -188,4 +184,4 @@ Then she looked at him properly for the first time, and the day room door was op
 
 "You are not, you are perching." She got up on the arm of the chair, which is not a thing anybody should do at eighty-one, and went to the urn at the end of the table and lifted the lid and looked in and put the lid back down. "The tea has gone. But there's the urn, and there's a cup in the cupboard behind you with somebody's writing on the bottom of it, and it is not going to be clean and I am eighty-one and I am perfectly able to make a cup of tea, and you can have it with milk or without and I do not recommend either."
 
-He got the cup. It had somebody's name on the bottom of it in biro and it was not clean, and it was the first thing anybody in the city had offered him in eleven days that was not a document, and he sat down at the table by the window with it in both hands, and the man of forty turned his magazine over, and on the table there was a tin with a lid on it and inside it a picture of two people in a room with a window, done to the last piece, and somebody had found the box.
+He got the cup. It had somebody's name on the bottom of it in biro and it was not clean, and it was the first thing anybody in the city had offered him in eleven days that was not a document, and he sat down at the table by the window with it in both hands, and the man of forty turned his magazine over, and on the table was the jigsaw with six holes in it and the tin beside it with the lid back on, and the box was at a ward sister's house four streets away and had been since October, and it did not matter, because the ninth piece had been in her own hand since Sunday morning, and it had taken three days and a woman of eighty-one to say out loud that she had been wrong about it.

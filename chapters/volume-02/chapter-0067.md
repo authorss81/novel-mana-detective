@@ -2,7 +2,7 @@
 
 The ward book lived on a shelf under the counter at the nurses' station on the ground floor of the Aldergate Wing, and it was one volume, and it had a spine of blue cloth with a white label on it that said **WARD BOOK — ALDERGATE / BRACKWELL / SANDMARTIN / THIRLMERE**, and the label had been retyped twice.
 
-Elias Venn stood in front of it on Sunday the ninth of December at ten past eleven and asked Sister Ivy Warhurst to let him look at it, which is the first request he had made of a stranger since the third of November, and he made it badly, and it worked.
+Elias Venn stood in front of it on Sunday the ninth of December at ten past eleven and asked Sister Ivy Warhurst to let him look at it, which is the first request he has made of a stranger who had not already said no to him, and he made it badly, and it worked.
 
 She was sixty-one and she had been at the wing for twenty-six years and she had come on at half past seven and she was still there at a quarter past three because the day sister was late and she had not gone home.
 
@@ -44,7 +44,7 @@ And that was the week. There was nothing on the page for the rest of it. The wat
 
 Eight days, and it is a page like any other page, and there was nothing on it about anybody being anywhere else.
 
-But in the margin, in a different pen, in a smaller hand, hard up against the stitching where the spine had come away in about four places, there was a second entry against the third name, and it was not in the ward's book-keeping hand at all, and it said:
+But in the margin, in a different pen, in a smaller hand, hard up against the stitching where the spine had come away in about four places, there was a second entry against the third name, and the third name's line is the eleventh, and the entry says no date at all and does not need to, because the eleventh is the only Tuesday in that week. It was not in the ward's book-keeping hand, and it said:
 
 > *3.30 — own transport. 1 hr. Returned 6.10.*
 > *Att. external session. 4 Corrie St. 4.00. 1 hr. Fee 60.00 — **to be recovered.***
@@ -91,7 +91,7 @@ There were nine people in it. The man of sixty with the cup was at a table with 
 
 And at the table by the window, on the side with the good light, there was a woman of about eighty-one with a blanket over her knees and a jigsaw tin in front of her and no jigsaw in it, and she had one of the nine missing pieces in her hand, and she was holding it up at the window.
 
-"Aren't you the one who was in here on Monday with the physiotherapist," she said. "You've got the face of a man who has been on the end of a corridor in a blanket."
+"Aren't you the one who was in here on Wednesday with the physiotherapist," she said. "You've got the face of a man who has been on the end of a corridor in a blanket."
 
 "I was."
 
@@ -105,11 +105,11 @@ And at the table by the window, on the side with the good light, there was a wom
 
 "That's a boat's *shadow*," said Doris Sowerby. "I have been fighting that piece since the twenty-ninth of November and I have put it in three times now and I have got a jigsaw with nine pieces missing and two of them are under a radiator in this building and one of them is in a man's mouth in Sandmartin and I know about that one because he told me."
 
-Elias Venn sat down on the other side of the table, and there was a nurse at the far end of the room refilling a jug and a man of forty reading a magazine, and the day room door was open, and he stood up and said what he said in a corridor on Wednesday, and said it in the same words, because a man who says a thing differently in two rooms is a man who has decided which room matters.
+Elias Venn sat down on the other side of the table, and there was a nurse at the far end of the room refilling a jug and a man of forty reading a magazine, and the day room door was open, and he stood up and said what he said in a corridor on Wednesday, **word for word, in a room with a television going, because a man who says a thing differently in two rooms is a man who has decided which room matters.**
 
-"I am not a doctor and I am not a police officer," he said. "I do not read people. I have never read a person in my life and I am not going to, and I have not been in the same material as anybody in this room for more than a second, and I am saying it out loud because you are all here and it is the only reason I am allowed to be."
+"I do not read people," he said. "I have never read a person in my life and I am not going to start this afternoon. I am not a police officer and I am not a clinician. I am a member of the public and I have been formally reprimanded for touching something I should not have touched, and I have not put a hand on a person or a thing in this building, and that is the only reason I am allowed to be sitting in this chair."
 
-"Say it again, but louder, there's a man on the television," said Doris Sowerby, and he said it again, and the man with the cup wrote it down on his sheet of paper without looking up, and the nurse at the far end of the room said "thank you" to nobody.
+"Say the last part of it louder, there's a man on the television," said Doris Sowerby, and he said the last part of it again, and the man with the cup wrote it down on his sheet of paper without looking up, and the nurse at the far end of the room said "thank you" to nobody.
 
 "Right," said Doris Sowerby. "Now. You've not got anybody, so you're not going to ask me anything, are you."
 
@@ -123,7 +123,7 @@ Elias Venn sat down on the other side of the table, and there was a nurse at the
 
 "What was it for?"
 
-"I have no idea," said Doris Sowerby, "and that is the honest answer and I have had eight weeks to find a better one. It was an hour on a Tuesday afternoon and it cost sixty credits, and I came back at ten past six and I have no idea what was done to me and I could not tell you if you had a doctor in here with a light."
+"I have no idea," said Doris Sowerby, "and that is the honest answer and I have had twelve weeks to find a better one. It was an hour on a Tuesday afternoon and it cost sixty credits, and I came back at ten past six and I have no idea what was done to me and I could not tell you if you had a doctor in here with a light."
 
 Elias Venn sat at a table in a day room on Wexford Row with a jigsaw tin in front of him and did not ask the next question, and it took him about eleven seconds not to ask it, and he wrote one line in his own book at the table with a pencil off the crossword board.
 
@@ -145,6 +145,6 @@ He did not put it in the book. He put it on the table and pushed it across to Si
 
 "I have got it in the same place I have got the certificate number, which is nowhere a person can get it out of me except me, and I am the only one of me."
 
-Sister Warhurst folded the page once and put it in her apron pocket, and looked at the two women at the table by the window for a moment before she said anything else.
+Sister Warhurst folded the page once and put it in her apron pocket, and looked at Doris Sowerby at the table by the window for a moment before she said anything else.
 
-Then she said, "It is the third one down from the corner, and it has been in that tin since the eighth of October, and I have got the box in my bedroom at home because it is mine. I have never been able to see the picture and neither of you is going to be able to tell me what is in it, and I have stopped minding."
+Then she said, "It is the one with the sky in it, fourth from the left, with a straight edge along the long side, and you are going to get it back one day and put it in the wrong place, because everybody does. The box has been in my bedroom at home since the eighth of October because it is mine, and the tin on that table is everybody's, and the pieces in it belong to whoever finds them. There is a picture on the lid of that box and I have never seen it, and neither of you is going to be able to tell me what is in it, and I have stopped minding."
