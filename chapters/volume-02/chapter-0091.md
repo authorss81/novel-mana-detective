@@ -22,7 +22,7 @@ Elias Venn sat down on the other end of the bench, which was not worn, and put h
 
 "They are written down."
 
-"Good." She stood up. "The order ends today. It runs to midnight tonight, and the word goes in the box this morning, and the woman who writes it is on a nineteen-year rota and is not the applicant, and you are going to want to be in a building at half past nine and you are not going to be in this one, and I am not going to be able to do a thing about it, and I am telling you now so that you do not spend four minutes working out whether I knew."
+"Good." She stood up. "The order ended at midnight last night. The word goes in the box this morning, and the woman who writes it is on a nineteen-year rota and is not the applicant, and you are going to want to be in a building at half past nine and you are not going to be in this one, and I am not going to be able to do a thing about it, and I am telling you now so that you do not spend four minutes working out whether I knew."
 
 ---
 

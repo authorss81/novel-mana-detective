@@ -42,7 +42,7 @@ Ivor Skellern looked at him for the first time properly, which took about two se
 
 Ivor Skellern looked at the desk for a while and then he turned round and pushed a hardback book across it and squared it with the edge of two fingers, and the book had about four years of columns in it and a rubber band round it, and the columns were a date, a signature and a number of pounds.
 
-"Rent, weekly," he said. "Every Tuesday. One line. I do not do this for anybody else and I have told Kieran and he has said for about two years that I am a lunatic."
+"Rent, weekly," he said. "Every Tuesday. One line. That is the one room, and the other seven are on a pad behind the till and have been since about 2019, and nobody has ever asked me why one of the eight has a hardback with a rubber band on it and the other seven do not, and I do not do this for anybody else, and I have told Kieran and he has said for about two years that I am a lunatic."
 
 "Who signs."
 

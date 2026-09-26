@@ -6,7 +6,7 @@ Kieran Slack let them in at about ten past five on Tuesday the twenty-second of 
 
 "You are not going up."
 
-"I am going to sit on the bottom step of that stair for about six hours and I am going to be let in when the room is opened, and if anybody wants to know why then it is because an inspector told me on Wednesday in a corridor in writing and I signed it."
+"I am going to sit on the bottom step of that stair from ten past five until about half past eleven and I am going to be let in when the room is opened, and if anybody wants to know why then it is because an inspector told me on Wednesday in a corridor in writing and I signed it."
 
 Kieran Slack unlocked the back room at five twenty-five, let a sergeant of forty-one and two constables through it, and went back behind his counter and squared a till tray that did not need squaring, and then took his hand away and put it in his pocket, which was not a thing he had ever had to do before five o'clock in the afternoon in four years.
 
@@ -46,7 +46,7 @@ At about twenty to eight somebody walked into the shop below and a bell went, an
 
 ---
 
-They came up a wooden stair with a handrail on one side only, past a first landing with a meter cupboard on it, and there was a police officer at the top of it, and the officer did not ask anybody a question, and the eleven of them came up anyway: a woman of thirty-eight in a coat with a handbag on her knee, a woman of fifty-one with a bag of leeks, a man of thirty-six with his head down, a man of about forty-five holding a bicycle helmet, and a woman of sixty-three with a zip purse in both hands, and there were five more of them behind those five, and the eleventh of them was not coming up at all, because he had been in that room since a quarter past four in the afternoon with his hands on his knees and his coat over the back of his chair, waiting, the way a man waits who has been let in early and not told why. None of them went past that officer quickly. None of them went past him at all, and they all went past him.
+They came up a wooden stair with a handrail on one side only, past a first landing with a meter cupboard on it, and there was a police officer at the top of it, and the officer did not ask anybody a question, and ten of them came up anyway: a woman of thirty-eight in a coat with a handbag on her knee, a woman of fifty-one with a bag of leeks, a man of thirty-six with his head down, a man of about forty-five holding a bicycle helmet, and a woman of sixty-three with a zip purse in both hands, and there were five more of them behind those five, and the eleventh of them was not coming up at all, because he had been in that room since a quarter past four in the afternoon with his hands on his knees and his coat over the back of his chair, waiting, the way a man waits who has been let in early and not told why. None of them went past that officer quickly. None of them went past him at all, and they all went past him.
 
 "There are eleven of you," said Fenella Carr, from the landing.
 
@@ -170,7 +170,7 @@ It did not last long. He has never been able to say afterwards how long it laste
 
 A doctor of forty-seven kept eleven people flat and told them to breathe and wrote the time on the back of her own hand twice, and he did not see it, and she did not offer it, and he has not asked her for it and is not going to.
 
-A police inspector of twenty-two years stood in a corridor and said nothing at all for as long as it lasted, and a man of twenty-five in a shop below put the kettle on at about nine o'clock, and then stood at the bottom of his own back stair with it boiling and did not go up, because on Friday he had worked out that a man in a room is a man on the stairs, and he made four of them and put them on his own counter and left them there, and a police constable wrote it down at about two in the morning because that is what a book is for, and Elias Venn was told about the four mugs on the Wednesday morning by the inspector, in a corridor, and has not seen the man who made them since.
+A police inspector of twenty-two years stood in a corridor and said nothing at all for as long as it lasted, and a man of twenty-five in a shop below put the kettle on at about nine o'clock, and then stood at the bottom of his own back stair with it boiling and did not go up, because on Friday he had worked out that a man in a room is a man on the stairs, and he made four of them and put them on his own counter and left them there.
 
 And the fourth of the four was four miles and a parade away, on the far side of the city, on the first floor of 4 Corrie Street, in a corridor with a bell on a string and a gas fire that was off, because a police inspector had telephoned that building at four o'clock on the Tuesday afternoon and had asked him one question, which was whether he would stand at the other end of a corridor, and he had said yes, and that was the first thing he had agreed to in six years that was not about money. He had his back to a wall and his hand on a rail and he said *not yet* eleven times, because that is what a practitioner does, and on the twelfth time he said *now*, and a police inspector told him about the rest of it on the Wednesday morning in a corridor at Vine Street, and he has still not found out whether it was any use to anybody.
 
@@ -190,11 +190,11 @@ It came apart in a room with eleven people in it, and the ink came off the paper
 
 He was told about the ward on the Wednesday morning, in a corridor, by the woman who had been in it, and she said it in the order it happened and she said it once and she did not enjoy saying it.
 
-Nadia Kest had left the building on a parade at about ten to ten with nothing in her hands and nothing in her coat. She went in through a fire door at about half past ten with no instrument of any kind, and an attendant let her in because she showed him a card and did not use it, and she stood in a room with three people in it for an hour and ten minutes, and she took nothing and she arrested nobody and she did not speak.
+Nadia Kest had left the building on a parade at about ten to ten with nothing in her hands and nothing in her coat. She had gone in through a fire door at about half past ten with no instrument of any kind, and an attendant let her in because she showed him a card and did not use it, and she stood in a room with three people in it for an hour and ten minutes, and she took nothing and she arrested nobody and she did not speak.
 
 There was a jigsaw on a table with nine pieces missing from it. One of the three was a woman of eighty-one with a hip, admitted on the twenty-eighth of November 2029, who was asleep and awake at the same time, which is a thing that happens to very old people and which two of the three were not.
 
-At about ten to ten on the twenty-second of January, which was about forty minutes before a police inspector put a card against a fire door on the other side of this city, in a room above a shop on a parade in Kettle Rows, a sheet of paper came apart in a man's hands, and in a day room four miles away three people sat up, and a woman standing in the middle of them with nothing in her pockets did not have to do anything at all.
+They sat up at about ten to ten, all three of them, about forty minutes before a card went against a fire door four miles away, and none of them knew why.
 
 ---
 
@@ -202,11 +202,11 @@ At about half past ten Bernadette Lyle, who had been in a room in Corrie Street 
 
 Thirteen people have been in that room and not eleven, and the two that a plan of eleven chairs cannot show are a man of fifty-two with a set of keys on a ring on his belt, who has stood in it on about two hundred Tuesdays and did the work in it himself, and a district nurse of fifty-one with a bag and an evening list, who was in it for about four minutes on Tuesday on a job of her own and did not stay. Neither of the two came there to be worked on, and that is the whole of the difference between eleven chairs and thirteen people, and a drawing cannot hold it, because a drawing has nobody in it.
 
-Nine of the eleven could say their own name when the doctor asked them, in the order of the eleven lines on her sheet. Two of them could not, and neither of those two was on the list a doctor had written out on Monday evening from a room, a chair count and a plan.
+Nine of the eleven could say their own name when the doctor asked them, in the order of the eleven lines on her sheet. Two of them could not, and neither of those two was on the list a doctor had written out on Monday evening off eleven names in her own head.
 
 "Two of your eleven are not on your list."
 
-"I counted eleven chairs," said Sana Okafor. "**There are thirteen people who have been in that room and I have eleven names, and I did not ask one of them, and I wrote the eleven on Monday evening off eleven names I have had in my own head since 2021 and off a drawing of a room that a man in a good coat left flat on a shop counter on a Sunday afternoon and telephoned to a police inspector that same evening, and my inspector telephoned me at about ten o'clock on Sunday night, and I have never seen the drawing and I have not asked to, and that is the truth about this entire business and it has taken me nineteen years to be able to say it in one sentence.**"
+"I counted eleven chairs," said Sana Okafor. "**And I have eleven names, and I did not ask one of them, and two of the people who were sitting in that room at eight minutes past eight tonight are not on my list, and if I had stood in front of either of them and asked them their name they would not have been able to tell me, and I would not have known that they were in the room. That is the whole of what I have brought into this building, and it has taken me nineteen years to be able to say it in one sentence.**"
 
 The van went at about eleven with the rent book and the tin and the envelope.
 

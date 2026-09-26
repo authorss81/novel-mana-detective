@@ -18,7 +18,7 @@ Then he sat on the second step with the notebook shut on his knee and understood
 
 It was not her address. It was the address of a room. She had written the address of the room four times in a box headed *premises*, in a book with no names in it, on a first floor four streets back from Kettle Rows, and a man who had allowed himself one line of rule in 2019 had carried a woman's front door in his head for six years and had never once been able to do anything with it, because it was not a front door. It was a room where a man does a thing to eleven people on a Tuesday night for a fee, and the only person in this city who could have told him that was the woman whose name he did not have.
 
-He had been given a building. He had not been given a woman, and he was not going to get one out of a book, and the man who had handed it over had known that on the Monday night and had given him the reason instead of the address, and had been right.
+He had been given a building. He had not been given a woman, and there was no way round that and there was not going to be one. The man behind the door had not withheld anything by saying it out loud, because a man who writes no names has nothing to withhold. What he had instead was a parade, a first floor, a Tuesday, a rule from 2019, and about four hours of an afternoon in front of him.
 
 "That's a room above a shop," he said, through the door.
 

@@ -18,7 +18,7 @@ She turned the sheet over.
 
 "Three of them," said Eamon Brack.
 
-"You are the third and you have not been arrested and you are not in custody, and I am going to read your reason and then I am going to tell you why you are different, and then you are going to hate it, and then I am going to have to live with it for about two years." She looked at the sheet. "**Eamon Brack, thirty-nine, of four Corrie Street, first floor, charged by summons on the twenty-third of January 2030 with unregistered practice in respect of memory and identity work, on the basis of a book seized under an order of the eighteenth of January and a fee charged in it.** That is the whole of it."
+"You are the third and you have not been arrested and you are not in custody, and I am going to read your reason and then I am going to tell you why you are different, and then you are going to hate it, and then I am going to have to live with it for about two years." She looked at the sheet. "**Eamon Brack, thirty-nine, of four Corrie Street, first floor, charged by summons on the twenty-third of January 2030 with unregistered practice in respect of memory and identity work, on the basis of a book seized on the eighteenth of January under an order granted on the seventeenth, and a fee charged in it.** That is the whole of it."
 
 "That is not the whole of it."
 

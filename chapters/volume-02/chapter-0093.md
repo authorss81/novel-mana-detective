@@ -1,6 +1,6 @@
 # Chapter 0093 — Refused on the Merits
 
-The waiting room at Vine Street had nine chairs in it and a radiator that had been on since before anybody came and a fire bucket with about two inches of sand in the bottom of it, and at eleven o'clock on Wednesday the sixteenth of January there were four people in it, and one of them was a man of about forty-four with a briefcase and a bad coat, and one of them was Nadia Kest, and one of them was a woman of about seventy with a shopping bag full of paperwork that was going to be dealt with badly, and the fourth was Elias Venn, who had been sent in to wait with her because nobody was going to be left standing in a corridor.
+The waiting room at Vine Street had seven chairs in it and a radiator that had been on since before anybody came and a fire bucket with about two inches of sand in the bottom of it, and at eleven o'clock on Wednesday the sixteenth of January there were four people in it, and one of them was a man of about forty-four with a briefcase and a bad coat, and one of them was Nadia Kest, and one of them was a woman of about seventy with a shopping bag full of paperwork that was going to be dealt with badly, and the fourth was Elias Venn, who had been sent in to wait with her because nobody was going to be left standing in a corridor.
 
 Nadia Kest had got there at a quarter past ten and had told him, in the corridor, that he was about to be the worst thing in the building.
 
