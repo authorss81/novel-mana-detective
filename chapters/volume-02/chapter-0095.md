@@ -1,6 +1,6 @@
 # Chapter 0095 — The Last Day She Works There
 
-Sergeant Fenella Carr, 41, had the schedule on a clipboard and read it aloud on the landing of 4 Corrie Street from the top of the stairs so that everybody on the floor could hear it, which is not what the schedule is for, and which she did anyway, and said afterwards that it was the only thing in twenty-two years she had ever added to one.
+Sergeant Fenella Carr, 41, had the schedule on a clipboard and read it aloud on the landing of 4 Corrie Street from the top of the stairs so that everybody on the floor could hear it, which is not what the schedule is for, and which she did anyway, and said afterwards that it was the only thing in nine years she had ever added to one.
 
 The instrument was a warrant granted at Vine Street on Thursday the seventeenth of January at about four o'clock in the afternoon, on an officer's own grounds sworn, and the grounds were a complaint from a letting agent about a smell at nine in the evening, and an officer's own observation of a man carrying a cardboard box up an external stair at ten past two in the morning on nine consecutive nights, and neither of those things was a working, and together they were enough for a magistrate, and the order named one room.
 

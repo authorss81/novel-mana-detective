@@ -6,7 +6,7 @@ The corridor outside the out-of-hours rooms at Vine Street had a bench in it wit
 
 "You said on the telephone you had a question."
 
-"I have got my answer, and I have had it for four days, and I did not tell you, and I am telling you now because you will be standing in a municipal corridor in about two hours and I would rather you heard it from me than worked it out." She had a paper in her hand that was not folded and was not in her coat. "No. A person's consent cannot be produced by somebody who was not present. That is the answer and it took a woman of about fifty in a room with a filing system to say it and she said it in about four lines and she said it kindly and then she said the other thing, which is the thing I have not been able to get anybody to say to me since November."
+"I have got my answer, and I asked for it at about half past seven this morning in a room with a filing system in it, and I did not tell you, and I am telling you now because you will be standing in a municipal corridor in about two hours and I would rather you heard it from me than worked it out." She had a paper in her hand that was not folded and was not in her coat. "No. A person's consent cannot be produced by somebody who was not present. That is the answer and it took a woman of about fifty to say it and she said it in about four lines and she said it kindly and then she said the other thing, which is the thing I have not been able to get anybody to say to me since November."
 
 "What other thing."
 
@@ -52,7 +52,7 @@ She looked at him for about two seconds and then she pulled the drawer out anoth
 
 "Why are you not sorry about it."
 
-"Because it is a form and forms get filled and I am a person who fills them." She shut the drawer. "And because there are eleven premises on it and not one of them has a name on it, and it never did have a name on it, and that is what the thing is. It does not name a person. It cannot. It is about eleven addresses and about what may be done in them for forty days, and I have read it about four times this year because it is in the wrong drawer, and every one of the eleven is an address and none of them is a name, and you may tell me that is a fault in a form and I will tell you it is a fault in the world and the form is only the part of it I get to see."
+"Because it is a form and forms get filled and I am a person who fills them." She shut the drawer. "And because there are eleven premises on it and not one of them has a name on it, and it never did have a name on it, and that is what the thing is. It does not name a person. It cannot. It is about eleven addresses and about what may be done in them until a date, and I have read it about four times this year because it is in the wrong drawer, and every one of the eleven is an address and none of them is a name, and you may tell me that is a fault in a form and I will tell you it is a fault in the world and the form is only the part of it I get to see."
 
 Elias Venn stood in the office with the door open eight inches and did not say anything for about four seconds, and then he said, "That is the first useful thing anybody has said to me in a municipal building since the fourth of January and it has taken four months to get it."
 
@@ -118,7 +118,7 @@ He went up half a flight in the dark and did not say goodnight.
 
 ---
 
-Elias Venn got up at half past nine and walked up to the first floor of 4 Corrie Street because Eamon Brack had said *come back on Tuesday* on the eleventh of January and had said it twice and had meant it, and because a man who means it is rarer in this district than a woman with a rota.
+Elias Venn got up at half past nine and walked up to the first floor of 4 Corrie Street a day early and on purpose, because a piece of paper had died at midnight in a box in the bottom right-hand corner of a form and there was not going to be another one, and because a man of thirty-nine had said *come back on Tuesday* on the eleventh of January and had said it twice, and a man who means it is rarer in this district than a woman with a rota.
 
 The corridor had a light on at the far end and the bell on the wall on a string that belonged to the dry cleaner's below, and he did not go near it, and there was a light under the door four rooms from the stairs as well as a light in the room at the end of the landing, and the brass bell on that door was brass and about four inches across and it had been polished.
 
@@ -128,16 +128,18 @@ Eamon Brack opened the door before he knocked and he was in a shirt and a jumper
 
 "No."
 
-"That is three times in twelve days and I would like to know what the fourth one is going to look like, because if there is a fourth one I would like it to be on a Sunday when I am not here and I would like it to be somebody else." He did not move out of the doorway. "Come in, and I am going to tell you the thing I have been not-telling you since Friday, and I want it on the record that I have not told you anything in six years and I have not asked you for anything and I am not going to."
+"That is three times in five days and I would like to know what the fourth one is going to look like, because if there is a fourth one I would like it to be somebody else, and I would like it not to be a night, because on a night I have got a room and I do not stop." He did not move out of the doorway. "Come in, and I am going to tell you the thing I have been not-telling you since Friday, and I want it on the record that I have not told you anything in six years and I have not asked you for anything and I am not going to."
 
 "You do not owe me a thing, Eamon."
 
-"I know that, and that is why I am doing it." He shut the door and stood against it. "A woman comes at eight on a Tuesday. She has been coming for two years and I have never asked her one question and she has never given me one, and I have never had a name off her and I have never wanted one and I have told you that and it is true." He turned round and put a chair against the door the way a man does when a room has one chair against it for a reason nobody has ever asked him about. "The last four times she has written her address in the box on my sheet that says *premises*. It is the same address four times and it is not this building, and I have never asked her why a woman who comes to a room writes where she lives in a box that is for where the work is, and I have never asked her because I do not ask, and I would like that noticed, because I know what it sounds like."
+"I know that, and that is why I am doing it." He shut the door and stood against it. "A woman comes at eight on a Tuesday. She has been coming for two years and I have never asked her one question and she has never given me one, and I have never had a name off her and I have never wanted one and I have told you that and it is true." He turned round and put a chair against the door the way a man does when a room has one chair against it for a reason nobody has ever asked him about. "The four times she has come she has written her address in the box on my sheet that says *premises*. It is the same address four times and it is not this building, and I have never asked her why a woman who comes to a room writes where she lives in a box that is for where the work is, and I have never asked her because I do not ask, and I would like that noticed, because I know what it sounds like."
 
 "What is the address."
 
-"That," said Eamon Brack, "is the fourth question, and I have asked you not to ask me things, and you have not done it, and I have now given you the address and a date and a time and I have not given you a name, and you are going to go and find out what is at the end of it and you are going to go on your own, because there is nothing you can do with it in this room and I have a woman coming in ten minutes and I have not shut her door and I have not told her there is anybody here."
+"That," said Eamon Brack, "is the fourth question, and you are not going to get it tonight, and it is not that I do not trust you, and I am going to give you the reason instead, because the reason is a thing you are going to need and the address is a thing you will only ever use once." He looked at the door and not at me. "I wrote a rule for myself in 2019 and it is one line long and I am not going to recite it to you at ten o'clock at night, because you have not earned it and because I have never once recited it to anybody. If I hand you her address on a Monday then you will be at her door by ten on Tuesday morning, and you will ask her, and she has not asked you for anything, and she will not answer you, and in about four years you will stand in a room and say that the address is what did it, and it will not be the address."
 
-He went to the door and put his hand on it and did not open it.
+"And when do I get it."
+
+"You get it tomorrow morning. Not tomorrow night." He went to the door and put his hand on it and did not open it. "At about a quarter past eleven, and you will knock, and I will make you two cups of tea, because I have made tea for one man in six years and I am not going to begin on a Monday. And then I will recite the rule, and then you will ask me the fourth question again, and then I will answer it, and then you will go and find out what is at the end of it on your own, because there is nothing you can do with it in this room and there never has been."
 
 "And it is always a Tuesday," he said, to the door. "I have said that to you and I have said it twice, and I have not said it to anybody else in six years, and I would like somebody to know that I said it and I would like it to be on a Tuesday, because that is when it is."

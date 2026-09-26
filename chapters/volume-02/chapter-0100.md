@@ -14,7 +14,7 @@ The corridor at Vine Street at ten past seven on Wednesday the twenty-third of J
 
 She turned the sheet over.
 
-"**Rhoda Nesbit, fifty-eight, of four Corrie Street, first floor, arrested at about half past one this morning at Vine Street, for unregistered practice in respect of memory and identity work. She is not charged with anything else. I want that said out loud in a corridor and I want it written down in the charge sheet as a negative, because a charge sheet that says *not charged with any other offence* is a document, and there is not one of those in this city, and somebody should start.**"
+"**Rhoda Nesbit, fifty-eight, of four Corrie Street, first floor, arrested at about twenty to two this morning at Vine Street, for unregistered practice in respect of memory and identity work. She is not charged with anything else. I want that said out loud in a corridor and I want it written down in the charge sheet as a negative, because a charge sheet that says *not charged with any other offence* is a document, and there is not one of those in this city, and somebody should start.**"
 
 "Three of them," said Eamon Brack.
 
@@ -76,13 +76,13 @@ He had the other two. She wrote them down and looked at them and then looked at 
 
 "Off three counterfoils in a tin in a police corridor at twenty to two this morning, and off a notebook of my own, and I am not going to tell you whose notebook and I am not going to tell you whose tin."
 
-"Fair." She wrote three digits on a slip and pushed it across. "Fourth floor, claims assessment, and it is not me and I have never been them. I will tell you the thing that I am allowed to tell anybody, which is that the two you have got are not claims, they are settlements, and a settlement is a number that has already been paid, and the fourth floor will not thank you for a settlement number, they will thank you for a claim number, and I do not know the difference and I have asked twice and been told it was not my counter."
+"Fair." She wrote three digits on a slip and pushed it across. "Fourth floor, claims assessment, and it is not me and I have never been them. I will tell you the thing that I am allowed to tell anybody, which is that two of the four you have got are not claims, they are settlements, and a settlement is a number that has already been paid, and the fourth floor will not thank you for a settlement number, they will thank you for a claim number, and I do not know the difference and I have asked twice and been told it was not my counter."
 
 ---
 
 The fourth floor of 60 Verge Row had a window, a tray system and a fan, and a woman of forty-seven behind the second desk called Imelda Szabo, and she had a jacket over the back of her chair and a cup of tea and the particular manner of a person who has answered the same nine hundred questions a year for six years and is not unkind about any of them.
 
-She did not ask who he was. She asked what the number was, twice, and typed it, and then said, "Settled, forty-one hundredths ago. It goes out of a rehabilitation claims department, not a general one, and I will tell you that for nothing because everybody asks and nobody knows, and it is not a secret, it is just that nobody has ever asked the right person."
+She did not ask who he was. She asked what the number was, twice, and typed it, and then said, "Settled, and not long ago. It goes out of a rehabilitation claims department and not a general one, and the department is Aegis Mutual's, because the whole of this floor is, and I will tell you that for nothing because everybody asks and nobody knows, and it is not a secret, it is just that nobody has ever asked the right person."
 
 "And who signs the payments out of that department."
 
@@ -118,6 +118,8 @@ Imelda Szabo did not answer, and she did not look away, and she picked up her te
 
 ---
 
+At about ten to ten that morning a sheet of paper with eleven names on it in a doctor's hand, and underneath them a list of eleven things that was longer than the list of names, went back into a drawer in the back office of the Kettle Rows Community Clinic, and the drawer was shut, and nobody photographed it, and it is in there.
+
 At twenty past two in the afternoon of Wednesday the twenty-third of January 2030 Elias Venn sat in a waiting room in Kettle Rows with a book open on his knees and wrote in it, in his own hand, four claim numbers, a date, and the name of an office, and nothing else, and then he put the book in his inside coat pocket and put it next to a plastic wallet with two documents in it that had been unopened since the fourth of November.
 
 The waiting room had nine chairs in it. He had counted them on the step, before he went in, and he had counted them again from the inside, and it was nine both times, and it was not eleven, and he was aware of the number the whole time he was in the room, and nobody in the room could see him doing anything at all.
@@ -128,12 +130,12 @@ Inside, on a board behind polythene at the top of a fan of paper, there was a sh
 
 Two people were sitting in the room who had been in a working on Tuesday night and who had a name each that they could still say.
 
-One of them was a woman of thirty-eight in a coat over a cardigan with a handbag on her lap, sitting very straight, with both hands round the strap, and the other was a woman of fifty-eight from the linen run of the Aldergate Wing, who had come in a dinner tin as a hat because somebody in a canteen had said it would look more like a hat.
+One of them was a woman of thirty-eight in a coat over a cardigan with a handbag on her lap, sitting very straight, with both hands round the strap. She had said her own name out loud on the bottom step of a stair at twenty to five that morning to a police officer, and had spelled it, and had been made to spell it again, and about ten minutes ago she had said it once more to nobody in particular, in the voice of a person practising. The other was a woman of fifty-eight from the linen run of the Aldergate Wing, with a blanket over her arm that she had brought for somebody and had not found out who, and she had said hers as well.
 
-Behind the counter a doctor was writing in a book of her own, and it was not a file and it was not a register and it was not a form, and nobody in that room had asked her for it and nobody ever would. She had got the price on the left-hand page and the names on the right, and she wrote down what she had charged, and the number was on a line with a rule under it and there was not a great deal in the way of it, and then she wrote the names she had asked for, in her own hand, one under the other, because a person who does not ask what is being done is the most useful shape a witness can have, and because she was not going to be the second doctor in nineteen years to have nothing written down.
+Behind the counter a doctor was writing in a book of her own, and it was not a file and it was not a register and it was not a form, and nobody in that room had asked her for it and nobody ever would. She had got the price on the left-hand page and the names on the right, and she wrote down what she had charged, and the number was on a line with a rule under it and there was not a great deal in the way of it, and then she wrote the names she had asked for, one under the other, in her own hand, with the date and the room, because she had asked all eleven of them out loud on Tuesday night with her hand a foot off the nearest shoulder and had written eleven lines, and because she was not going to be the second doctor in nineteen years to have nothing written down.
 
-And on the same page, under the names, she wrote a third line, which was not a price and not a name, and it said where the third box was.
+And on the same page, under the names, she wrote a third line, which was not a price and not a name. It said where the third box was, which is on a wall in a public waiting room behind a sheet of polythene, and that anybody who came in off that path was entitled to stand in front of it and read it, and she wrote that down in the same book and in the same hand, because a police inspector had told her so on the telephone on a Friday evening and had been right, and because a woman who has been wrong about her own wall for four months can be right about it in one line.
 
-Then she put the pen down, left the book open on the counter with a sheet of paper over it to keep the draught off, and went through the back door of the waiting room, and did not say anything to anybody, and looked along the row of chairs, and found the one she wanted, and put her hand on the arm of it.
+Then she put the pen down, left the book open on the counter with a sheet of paper over it to keep the draught off, and went out through the back room at about ten past three, and came back into the waiting room a minute later, and did not say anything to anybody, and looked along the row of chairs, and found the one she wanted, and put her hand on the arm of it.
 
 She did not say her name. She put her other hand flat on the arm of the chair so that the woman of thirty-eight could see it coming, and she waited, and the woman got up by herself.

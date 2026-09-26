@@ -1,6 +1,6 @@
 # Chapter 0097 — She Went Up for the Truth
 
-Yolanda Speke was fifty-one and had been a district nurse for twelve years and she had one bag and an evening list, and she came to the door of a room behind a first-floor flat on Sunday the twentieth of January at ten past ten in the morning and shut the door behind her and put her hand on it. On the table were a wireless telephone, a wall calendar from a veterinary practice, a bowl with two grapes in it, and a page of blue paper with nine names on it in a hand that leaned forward and a column for the time.
+Yolanda Speke was fifty-one and had been a district nurse for twelve years and she had one bag and an evening list, and she came to the door of a room behind a first-floor flat on Sunday the twentieth of January at ten past ten in the morning and shut the door behind her and put her hand on it. On the table were a wireless telephone, a wall calendar from a veterinary practice, a bowl with two grapes in it, and a page of blue paper with nine names on it and a column for the time.
 
 "You have got coffee," she said. "Sit down. I am going to say no, and then I am going to make you hear the whole of it, and then I am going to say yes, and I would like the yes understood."
 
@@ -64,7 +64,7 @@ Seven of the eleven places were drawn once. Four of them were drawn twice, faint
 
 Elias Venn stood in a shop on a parade with his hands behind his back and read it, and in the corner there was a date and under the date a code in a hand that leaned right and pressed hard, and he did not say one word about the corner, and nobody in that shop knew there was anything in the corner to say a word about, and there was nobody in that shop who could have told him whose hand it was, because there was nobody in that shop but a man who sells keys and a woman with a basket and a man buying keys.
 
-> **MARGIN — One of the eleven places on this plan was begun and not finished. It is not a turn. It is the shape a working takes when somebody stops halfway and starts again, and there is one place on this plan where the person doing it did not start again. I can see the room. I cannot tell you what the act is and I cannot tell you who is to do it, and there is nobody standing in this shop who could do it.**
+> **MARGIN — There is one place in this drawing that a man began and did not finish. It is not a pause and it is not a person. It is the shape a room takes when the person who put it there changed his mind once and did not change it back, and there is one place on this sheet where that happened, and it happened about four times and not once on the second. I can see the room and I can see the place. I cannot tell you what the act is, and I cannot tell you who is to do it, and there is nobody in this shop who could do it and nobody in this shop who could be asked to stop it.**
 
 The man in the shop with the keys paid for his keys and left. The woman with the basket read the back of the sheet upside down and said it was a nice bit of drawing and went out into the rain. Ivor Skellern took the sheet off the counter, folded it in four, and put it in his inside pocket.
 

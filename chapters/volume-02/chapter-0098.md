@@ -24,11 +24,11 @@ Magistrate Dyment put her pen down.
 
 "That is a strange thing to say out loud on a Monday afternoon with a magistrate in the room."
 
-"It is a strange thing to do on a Monday afternoon with a magistrate in the room, and I have thought about it since Friday and I am going to do it in front of you, and if I do it in a corridor on Tuesday night then it is a thing I did and not a thing that happened." Nadia Kest put her hands flat on the table, which was the first time Elias Venn had seen her do it. "**I know that there are people in a day room in that building tonight and I know that something is being done to them, and I have known it since Friday at about eleven o'clock at night and I have had two days to get an instrument for it and I have not applied for one, because there is no sworn statement about that building and the only person I could get one from is the same district nurse who is going up a stair in Calder Place, and she has been in that room for four minutes on a job and I will not put her on a second building.**"
+"It is a strange thing to do on a Monday afternoon with a magistrate in the room, and I have thought about it since Friday and I am going to do it in front of you, and if I do it in a corridor on Tuesday night then it is a thing I did and not a thing that happened." Nadia Kest put her hands flat on the table, which was the first time Elias Venn had seen her do it. "**I know that there are people in a day room in that building tonight and I know that something is being done to them, and I have known it since Friday at about eleven o'clock at night and I have had four days to get an instrument for it and I have not applied for one, because there is no sworn statement about that building and the only person I could get one from is the same district nurse who is going up a stair in Calder Place, and she has been in that room for four minutes on a job and I will not put her on a second building.**"
 
 "You want to go in there."
 
-"I want to go in there," said Nadia Kest, "at about ten o'clock on Tuesday night, on my own, with no instrument at all, and to stand in a room with three people in it and take nothing and arrest nobody, and to be the only person in this city who has ever done that while being right, and to have it in a report in about three weeks with my name at the top of it. I would like the report to say that I did it knowingly and that I had four days to apply for a warrant and did not, and I would like the reason in the report, and the reason is in the second half of this."
+"I want to go in there," said Nadia Kest, "at about half past ten on Tuesday night, on my own, with no instrument at all, and to stand in a room with three people in it and take nothing and arrest nobody, and to be the only person in this city who has ever done that while being right, and to have it in a report in about three weeks with my name at the top of it. I would like the report to say that I did it knowingly and that I had four days to apply for a warrant and did not, and I would like the reason in the report, and the reason is in the second half of this."
 
 She turned the page round.
 
@@ -58,7 +58,9 @@ The Kettle Rows Community Clinic had nine people in the waiting room at about te
 
 "You have not asked any of them."
 
-"I have not asked any of them, and I have thought about that for about a day and a half and I have decided I do not need to, and I want you to hear the reason, because I would like it written down somewhere and I am writing it on the back of this sheet." She turned it over. "I am not taking anybody's name off anybody. These are not my patients. They are eleven people who go to a room on a Tuesday and who have not told me and whom I have not asked about, and if I asked them I would be a doctor on a form in a way I have not been in nineteen years, and I would be frightened of the answer, and that is not a proper reason for a doctor and it is the real one."
+"I have not asked any of them, and I have thought about that for about a day and a half and I have decided I do not need to, and I want you to hear the reason, because I would like it written down somewhere and I am writing it on the back of this sheet." She turned it over. "I am not taking anybody's name off anybody. These are not my patients. They are eleven people who have been in my building at some point in nineteen years and who go somewhere on a Tuesday evening, and I have not asked one of them about it, and I wrote their names down on Saturday afternoon off eleven chairs in a drawing that a man read out of a coat pocket in a shop, and not one of the eleven names came from anybody who told me it. And that is the single most dangerous thing on this sheet, and I am telling you about it because you will find it out in about four years, and I would rather you heard it on a Monday evening from me than off a schedule in a room."
+
+"And the reason I did not ask is not a proper reason for a doctor. It is that if I asked them I would be a doctor on a form in a way I have not been in nineteen years, and I would be frightened of the answer, and that is not the real one."
 
 She put the sheet on the counter.
 
@@ -66,7 +68,7 @@ She put the sheet on the counter.
 
 "What is it."
 
-"Eleven names, a street, a floor, a door, and the words *Tuesday, eight o'clock* in a box at the bottom that I drew myself." She did not unfold the sheet. "And underneath that, in my hand, there is a list of the eleven things I am going to do on Tuesday and it is longer than the list of names, and the first one is *I am going to be in that room as a doctor and not as the director of a clinic*, and if anybody asks me what I am doing in a room above a shop I am going to say that I am doing my job, and I will be able to say it, because I have never once in nineteen years done anything in this building that I could not put on a form, and I do not know what is in that room and I am not going to find out in a corridor."
+"Eleven names, a street, a floor, a door, and the words *Tuesday, eight o'clock* in a box at the bottom that I drew myself. Eleven names and eleven chairs, and the two lists are not the same length and the two lists do not have to be the same length, and that is not an error, that is a Wednesday." She did not unfold the sheet. "And underneath that, in my hand, there is a list of the eleven things I am going to do on Tuesday and it is longer than the list of names, and the first one is *I am going to be in that room as a doctor and not as the director of a clinic*, and if anybody asks me what I am doing in a room above a shop I am going to say that I am doing my job, and I will be able to say it, because I have never once in nineteen years done anything in this building that I could not put on a form, and I do not know what is in that room and I am not going to find out in a corridor."
 
 "You will be in it."
 
@@ -84,7 +86,7 @@ Mara Quill was in her own laboratory on Saint Orra Reach at about half past seve
 
 "Three?"
 
-"Three. **You say the word.** Not the panel. You. I am not the one who says it and I have been very clear about that since November and I am clearer now, because a thing that comes out of a woman in a laboratory is a warning and a thing that comes out of a man in a room is an act, and the working in that room can tell the difference, and so can the four of us." She put the hand down. "Four. You do not tell anybody what you are going to do, including Nadia Kest, including the nurse, including me, and that one is the hardest of the five for you and I know it is the hardest of the five for me, and I have put it in because on the eleventh of January a man told a woman in a corridor exactly what he was going to do and she said no and he did it anyway."
+"Three. **The act is yours.** Not the panel. You. I am not the one who does it and I have been very clear about that since November and I am clearer now, because a thing that comes out of a woman in a laboratory is a warning and a thing that comes out of a man in a room is an act, and the working in that room can tell the difference, and so can the four of us." She put the hand down. "Four. You do not tell anybody what you are going to do, including Nadia Kest, including the nurse, including me, and that one is the hardest of the five for you and I know it is the hardest of the five for me, and I have put it in because on the eleventh of January a man told another man in a corridor exactly what he was going to do, and the other man said no, and he did it anyway."
 
 "And five."
 
@@ -102,7 +104,7 @@ He took it out of his coat. It was a brass ring, about three-quarters of an inch
 
 Mara Quill put her thumb on the log book and left a mark on it and looked at the mark.
 
-"I have been counting since Friday and I am going to stop counting before I answer you, and I want you to hear me do it." She put her hands flat on the bench on either side of the log book, which is a thing she did, and which he had seen twice in six years. "The number is not the time. A number is what I have got instead of a time, because I am a woman who measures things and because in 2024 I held something for a doctor for two hours and eleven minutes and it is the only number in my life that I am proud of and it did not save anybody."
+"I have been counting since Friday and I am going to stop counting before I answer you, and I want you to hear me do it." She put her hands flat on the bench on either side of the log book, which is a thing she did, and which he had seen twice in six years. "The number is not the time. A number is what I have got instead of a time, because I am a woman who measures things and because in 2024 I held something for a doctor for two hours and nineteen minutes and it is the only number in my life that I am proud of and it did not save anybody."
 
 "Then what is the time."
 
@@ -112,7 +114,7 @@ He wrote in his own notebook, in his own hand, and he wrote one line and it said
 
 She went round the bench and stood in front of him.
 
-"And I am going to be the one who says the word," she said. "Not the panel. You. And I am going to be standing in a corridor at about half past eight on Tuesday night with a notebook I do not write in, and I am going to say one sentence to you through a door, and I have decided what it is, and I am not going to tell you what it is now, because if I tell you now you will rehearse it, and I have watched you rehearse things in your own head for four months and it is the only thing you are good at and it is the reason you put a blank in a working on a Friday afternoon."
+"And I am going to be the one who says the word," she said. "Not the act. The word. There is a difference between those two things and it is the only thing I have left to hand you, and I have been standing at this bench since Monday working out how to give it to you without giving you the rest of it with it. And I am going to be standing in a corridor at about half past eight on Tuesday night with a notebook I do not write in, and I am going to say one sentence to you through a door, and I have decided what it is, and I am not going to tell you what it is now, because if I tell you now you will rehearse it, and I have watched you rehearse things in your own head for four months and it is the only thing you are good at and it is the reason you put a blank in a working on a Friday afternoon."
 
 "What if I get it wrong."
 

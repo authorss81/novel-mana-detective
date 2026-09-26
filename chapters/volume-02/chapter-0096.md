@@ -1,10 +1,10 @@
 # Chapter 0096 — Nine Tables at the End
 
-The canteen at the Aldergate Wing had a hatch with a rail on it and a servery and seven tables of four and a matron of about seventy-eight who had been there since 1979 and who called everybody love and had called everybody love since before any of them were born, and on Saturday the nineteenth of January at about twenty to eight in the evening it had nine people in it and Elias Venn, and at ten past eight Sana Okafor came round the tables with a clipboard and told him that he was not going to sit at any of them.
+The canteen at the Aldergate Wing had a hatch with a rail on it and a servery and nine tables of four and a matron of about seventy-eight who had been there since 1979 and who called everybody love and had called everybody love since before any of them were born, and on Saturday the nineteenth of January at about twenty to eight in the evening it had nine people in it and Elias Venn, and at ten past eight Sana Okafor came round the tables with a clipboard and told him that he was not going to sit at any of them.
 
 "I have not asked to sit at any of them."
 
-"You are going to sit at the end of number seven on your own for about two hours and I am going to tell everybody that you are there and I am not going to tell anybody why, and then I am going to come and sit with you for about ten minutes at the end, and if anybody comes over to your table in the meantime I would be grateful if you did not answer them in a voice." She put the clipboard under her arm. "This is not unkind. There are eight people in this room who have been asked something by a stranger in the last four months and every one of them has been asked it by you or by somebody you had spoken to that morning, and I have spent nineteen years finding out that the fastest way to lose a waiting room is to have a man in a good coat in it."
+"You are going to sit at the end of number seven on your own for about two hours and I am going to tell everybody that you are there and I am not going to tell anybody why, and then I am going to come and sit with you for about ten minutes at the end, and if anybody comes over to your table in the meantime I would be grateful if you did not answer them in a voice." She put the clipboard under her arm. "This is not unkind. There are seven people at these tables who have been asked something by a stranger in the last four months and every one of them has been asked it by you or by somebody you had spoken to that morning, and I have spent nineteen years finding out that the fastest way to lose a waiting room is to have a man in a good coat in it."
 
 So Elias Venn sat at the end of table seven with a cup of tea and a plate of something and did not answer anybody, and the matron brought him a second cup without being asked and told him the sugar was on the left, and he said thank you, and the matron said love, and went away.
 
@@ -40,7 +40,7 @@ He got as far as the woman of sixty-three with the ledger before he was stopped,
 
 "You are saying that because you are the only person in this room who has not been hurt."
 
-"I am saying that because I have noticed that every single one of us at these tables has been *about* something for four months," said Enid Marlow, "and I have not been about anything since the nineteenth of December, and I have found that the cheapest way to stay a person in this city is to be the one who does a job and is not in anybody's notebook, and I have got eleven names in a book that I put in a book, and I do not want to be a thing that happened to somebody."
+"I am saying that because I have noticed that every single one of us at these tables has been *about* something for four months," said Enid Marlow, "and I have not been about anything since the nineteenth of December, and I have found that the cheapest way to stay a person in this city is to be the one who does a job and is not in anybody's notebook, and I have got eleven names in a book that I wrote there in a job because it was a job and nobody asked me to, and I do not want to be a thing that happened to somebody."
 
 Nobody said anything, and a man of sixty-three three tables away, who had a crate store on Fenwick Street and had not said a word all evening, said, "That is the best thing anybody has said in this canteen in about four years and it is going to be in a report."
 
@@ -118,11 +118,11 @@ Winnie Arkwright looked at the table.
 
 "Are you certain."
 
-"I am certain, and I have been certain since September, and it is the single most useful thing anybody in this case knows about me and nobody has ever put it in a document, and the reason it is useful is that it means the man who tells you something is happening in a room is either wrong or he has been told by somebody who can." He turned his cup round. "And in four months in this city I have not had one person tell me they can, and I have had a laboratory technician tell me she can do about a quarter of what I can and not the half of it that matters, and I have told her so in a laboratory and she did not argue."
+"I am certain, and I have been certain since September, and it is the single most useful thing anybody in this case knows about me and nobody has ever put it in a document, and the reason it is useful is that it means the man who stands in a corridor and tells you a working is happening in a room is either in that room or has been told by somebody who was, and that is the whole of what a working in a room amounts to as far as anybody in this city is concerned." He turned his cup round. "**There is one thing I can do and I have only done it once. On the eleventh of January I put my hand flat on a door and whatever was on the other side of it came through into my arm instead of stopping at my hand, and I have not found out since whether that is the same faculty or the other side of it, and I am not going to be able to find out on my own, and it is not a thing you can send a man into.** And in four months in this city I have not had one person tell me they can do that, and I have had a laboratory technician tell me she can do about a quarter of what I can and not the half of it that matters, and I have told her so in a laboratory and she did not argue."
 
 "That is a very strange way to live."
 
-"It is the way I live," he said, "and it is why I have got a notebook and forty credits and a formal reprimand, and if you meet a man in a good coat in this city who tells you he can see it happening, you do not have to take my word for it, you have only to ask me in front of him, and he will not be able to do it either, and one of us will be wrong about a thing that is not in dispute, and it will not be me."
+"It is the way I live," he said, "and it is why I have got a notebook and fifty credits and a formal reprimand, and if you meet a man in a good coat in this city who tells you he can see it happening, you do not have to take my word for it, you have only to ask me in front of him, and he will not be able to do it either, and one of us will be wrong about a thing that is not in dispute, and it will not be me."
 
 She laughed, which she had not expected to do.
 
@@ -148,7 +148,7 @@ Sana Okafor found him in the corridor outside the canteen at about ten past elev
 
 She took her coat off her arm and folded it.
 
-"Do not tell me anything before Monday," she said. "Not one thing. Not how many, not when, not what is in the room, and do not come and stand on my landing on a Sunday, and if you telephone me I shall not answer it, and on Monday I am going to be in a building on Vine Street and I am going to put my registration number at the bottom of a piece of paper, and I have never done it, and I am not going to tell you what hour, because I do not know what hour I am going to need, and I am going to be frightened, and I have not told anybody that I am going to be frightened except a man in a corridor at ten past eleven at night who is not allowed to be in the room."
+"Do not tell me anything before Monday," she said. "Not one thing. Not how many, not when, not what is in the room, and do not come and stand on my landing on a Sunday, and if you telephone me I shall not answer it, and on Monday I am going to be in a building on Vine Street, and on Wednesday morning I am going to put my registration number at the bottom of a piece of paper, and I have never done it, and I am not going to tell you what hour, because I do not know what hour I am going to need, and I am going to be frightened, and I have not told anybody that I am going to be frightened except a man in a corridor at ten past eleven at night who is not allowed to be in the room."
 
 She went up the stairs with her coat over her arm, and on the half-landing she stopped and turned round and looked down at a man in a corridor in the dark.
 

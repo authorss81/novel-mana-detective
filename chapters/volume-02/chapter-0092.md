@@ -2,7 +2,7 @@
 
 Eamon Brack made two cups of tea in a room with a gas fire that was off, in a first-floor kitchen the size of a press, and he gave one of them to Elias Venn and kept the other one and stood at the table with it rather than sitting down, which is a thing a man does when he has decided that a conversation has an end and he would like to be facing the door.
 
-"The rule is from 2019 and it is one line," he said. "I do not ask anybody anything that is not about the sheet. A name is not about the sheet. Where you live is not about the sheet. What you are going to do with the hour is not about the sheet." He drank about a third of it. "And on the fourth of the eleven boxes there is a box that says *premises*, and I have written *premises* in it two hundred and about forty times, and it has meant this room every one of those times, and I have never had a reason to ask why a person would write anything else in it."
+"The rule is from 2019 and it is one line," he said. "I do not ask anybody anything that is not about the sheet. A name is not about the sheet. Where you live is not about the sheet. What you are going to do with the hour is not about the sheet." He drank about a third of it. "And the first of the five boxes on that sheet says *premises*, and I have written *premises* in it two hundred and about forty times, and it has meant this room every one of those times, and I have never had a reason to ask why a person would write anything else in it."
 
 "You did not ask because of the rule."
 
@@ -12,7 +12,7 @@ The green hardback book was on the table with a rubber band round it and about t
 
 "It is in there four times," he said. "Same address, four lines, about two years apart. I am not going to say the address out loud in this room, because this room has a bell on the door and I have been in it six years and you have been in it four days, so you are going to read it and you are going to write it down and then you are going to tell me you did not, and both of those are fine and I do not care about the writing down. I care about you saying it in here."
 
-Elias Venn wrote the address down in his own notebook in the corridor at half past eleven with the door shut behind him, and it was **nine Calder Place, first floor, the door at the end with a bell on it that is not a working bell**, and there was a parade, and the parade was four streets back from Kettle Rows and had a shuttered shop at the end of it with two rooms above it and a lease in the window.
+Elias Venn wrote the address down in his own notebook in the corridor at half past eleven with the door shut behind him, and it was **nine Calder Place, first floor, the door at the end with a bell on it that is not a working bell**, and there was a parade, and the parade was four streets back from the shop on Kettle Rows and everybody in it called it Kettle Rows parade, and it had a shop at the end of it with two rooms above it and a bell on the door of the shop.
 
 "That's a room above a shop," he said, through the door.
 
@@ -78,7 +78,7 @@ There was a light on the landing above them that came from a bulb with a flex in
 
 He was let into the room at about ten past four and the man who let him in was fifty-two and about five foot nine and had a set of keys on a ring on his belt and did not offer to shake a hand.
 
-The room was eleven feet by nine with a couch against one wall that had a blanket folded on the end of it, and a table with a glass of water on it that had not been touched, and a man of about seventy-four already sitting in the first chair, and a woman of about fifty-one sitting in the fifth with her bag on her knees, and a woman of about thirty-eight standing just inside the door with her coat still on, and eleven chairs.
+The room was eleven feet by nine with a couch against one wall that had a blanket folded on the end of it, and a table with a glass of water standing on it that nobody had drunk from, and a man of about seventy-four already sitting in the first chair, and a woman of about fifty-one sitting in the fifth with her bag on her knees, and a woman of about thirty-eight standing just inside the door with her coat still on, and eleven chairs.
 
 He counted them twice and it was eleven and he wrote it in his own book in the margin and then put a line through it, and then he wrote it again underneath, because he wanted it in his book in his own writing whatever happened to the page.
 

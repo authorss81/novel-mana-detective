@@ -100,11 +100,9 @@ He stood at the counter for a moment with a tin of tea in a bag.
 "Why."
 
 "Because in December a lady I have known for eleven years came in and filled in a form in front of me, on her own, and she put her own name under the doctor's in the fifth line where it said *who told the patient*, and she had never done that in eleven years, and I have not stopped thinking about it, and if there is going to be somebody in this building on a Thursday who needs a chair then he can have the chair and he can leave the form alone, and that is the whole of my condition and I have not thought about it for a second before I said it, which means it is true."
-
 ---
 
-
-"What can a person swear to," he said, at about ten past eight that evening, standing in the shop with the till behind him and the drawer under the counter open and a job card in his hand.
+"What can a person swear to," he said, at about ten past eight that evening, standing in a corridor in Vine Street with a piece of job card in his hand and a drawer under a counter two miles away that had been open since about two o'clock in the afternoon.
 
 "Anything they saw with their own eyes and can remember without help." Nadia Kest was at the other end of a telephone in Vine Street and there was a room behind her with people in it. "Not what they think. Not what they have been told. Not what they have been told afterwards by anybody, including you, and I want that in your own writing and I want it in mine, because a witness who has been spoken to is not a witness, she is a person reciting, and a person reciting can be taken apart in about nine minutes by somebody who does this for a living and I have watched it happen to a man of about sixty in a room with a table and a glass of water on it."
 
@@ -128,4 +126,4 @@ The woman of about seventy came back through the corridor at about ten past eigh
 
 "That is the first time anybody has said no to me in this building in about four years," said the woman of about seventy, "and everybody else has said *of course, love*, and I have gone home and taken it out of the envelope and looked at it, and I have not the faintest idea, and I would rather go home with a no." She got up. "I am going to walk to the bus. It is cold and I am not going to wait for a taxi and I would rather walk."
 
-She went out into the street with the bag against her chest, and Elias Venn stood in a corridor in Vine Street with a piece of job card in his hand and a drawer open under his counter two miles away that he was not going to think about until Wednesday.
+She went out into the street with the bag against her chest, and Elias Venn stood in a corridor in Vine Street with a piece of job card in his hand and a drawer open under his own counter two miles away that he was not going to think about until he had got home.

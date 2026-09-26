@@ -24,7 +24,9 @@ Ivor Skellern looked at him for the first time properly, which took about two se
 
 "You sit in the shop for two hours."
 
-"I sit in the shop for two hours." "You are about to ask the second one and I am going to tell you that I have had four people ask me what I do up there and three of them were owed money, and one of them was a man in about 2028 who was very good at asking and I liked him, and I gave him a cup of tea, and he came back the following Tuesday and he was not good at asking at all, he was frightened, and I have not given anybody a cup of tea since. That is your second one answered before you ask it."
+"I sit in the shop for two hours."
+
+"You are about to ask the second one and I am going to tell you that I have had four people ask me what I do up there and three of them were owed money, and one of them was a man in about 2028 who was very good at asking and I liked him, and I gave him a cup of tea, and he came back the following Tuesday and he was not good at asking at all, he was frightened, and I have not given anybody a cup of tea since. That is your second one answered before you ask it."
 
 ---
 
@@ -76,7 +78,7 @@ Elias Venn did not look at the telephone.
 
 "Go on."
 
-"I have not got anybody else, and that is a thing I have found out about myself in about four years and I did not expect it." He turned the cup on the table about a quarter of a turn. "It is the back room of a shop on a parade. I have been in it for four years on a Thursday and a Tuesday and about eleven other days. I am fifty-two. I have a business which is a shop that sells cleaning things and does keys, and I have a set of keys, and on a Tuesday I come in at about half past seven and I go up and I lock the stair door behind me and I let people in, and I am in that room with the people who come, and at about half past twelve I come down and I lock the stair door and I come in here and I stand at this table until Kieran goes at four, and then I unlock the stair door from the shop side and let myself out of the shop at five, and I have done that about a hundred and forty times."
+"I have not got anybody else, and that is a thing I have found out about myself in about four years and I did not expect it." He turned the cup on the table about a quarter of a turn. "It is the back room of a shop on a parade. I have been in it for four years on a Thursday and a Tuesday and about eleven other days. I am fifty-two. I have a business which is a shop that sells cleaning things and does keys, and I have a set of keys, and on a Tuesday I come in at about half past seven and I go up and I lock the stair door behind me and I let people in, and I am in that room with the people who come, and at about half past twelve I come down and I lock the stair door and I come in here and I stand at this table until Kieran goes at four, and then I unlock the stair door from the shop side and let myself out of the shop at five, and I have done that about two hundred times."
 
 "That is a very long time to stand at a table."
 
@@ -106,7 +108,7 @@ He went down into the shop and asked his fourth question.
 
 "I did."
 
-"You drew it in June 2026 and you have drawn it about four times since, and on the reverse there are eleven chairs numbered, and the number lines are on the side with the date and a claim number in the top corner, and a claim number is a document, and a document is the only thing in this city that anybody has ever been prepared to believe."
+"You drew it in June 2026 and you have drawn it about four times since, and on the reverse there are eleven chairs numbered with a figure beside each of them, and the date and a claim number are in the top corner of the other side, and a claim number is a document, and a document is the only thing in this city that anybody has ever been prepared to believe."
 
 "That is right."
 

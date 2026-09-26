@@ -110,7 +110,7 @@ So Elias Venn said the other one, in the flat voice he had used on a stool in a 
 
 "And here is the part I cannot get past, and I am not giving it to you as a conclusion, because it is not a conclusion. It is a question. I have had it since Wednesday and I have not got an answer to it and I have not got anybody to give it to.
 
-"**The claim was signed by a person, and the certificate was issued by an office, and the treatment was received by nobody who remembers it, and I cannot tell you which of those three is the wrong one.**"
+"**There is a piece of paper in this city that puts a bed, a code and a fee together and calls the result a record of a treatment, and not one of those three can be asked whether it is true, because the bed belongs to a ward and a ward has nobody in it to ask, and the code belongs to a schedule and a schedule has nobody in it either, and the fee belongs to an account, and an account is a legal person, and a legal person cannot be cross-examined about a Tuesday. I have been inside all three of them and I have got two of them to tell me the truth about themselves, and I have not got one of them to tell me one thing about either of the others.**"
 
 The clock on the wall said five to eleven and it was two minutes fast.
 
