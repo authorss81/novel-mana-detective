@@ -31,7 +31,7 @@ Check at minimum, and fix anything else the comparison turns up:
 - the eleven chairs, the eleven names, and **the thirteen people who have been in that room**, enumerated the way Chapter 99 enumerates them;
 - **no number for the hold**, and the arrest times (Skellern about twenty past five on Tuesday 22 January; Rhoda Nesbit's car at about twenty to two on Wednesday 23 January);
 - the Chapter 100 question spoken **once in the whole volume, in Chapter 100**, and Chapter 70's institutional form being three offices and not three parties;
-- **Aegis Mutual named once, in Chapter 100, by Imelda Szabo, and the certificates NOT being Aegis's** — Bettina Haile issued CR-22-4471 from the Proof Registry at 14 Harrow Lane, a different building and a different office from the claims floor at 60 Verge Row;
+- **Aegis Mutual named three times in the prose of Volume 02 and not once in Chapters 91–99 — Chapter 63 by a funder's man, Chapter 65 in the narration, and Chapter 100 by Imelda Szabo, whose line is the one the volume closes on — and the certificates NOT being Aegis's** — Bettina Haile issued CR-22-4471 from the Proof Registry at 14 Harrow Lane, a different building and a different office from the claims floor at 60 Verge Row;
 - the protection order's date range, **23 January to 20 February 2030, twenty-eight days**, and the board carrying four kinds of paper;
 - every date and weekday in the volume, and the year boundary at 1 January 2030.
 

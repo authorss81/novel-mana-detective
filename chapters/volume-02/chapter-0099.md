@@ -2,7 +2,7 @@
 
 Kieran Slack let them in at about ten past five on Tuesday the twenty-second of January and stood on the far side of his own counter with his arms folded while Fenella Carr read the warrant out loud, twice, and the address was in full and the words *first floor* were on it twice, and Kieran Slack listened to both readings the way a man listens to his own name.
 
-"It does not say premises once," she said. "I had the magistrate print it three times, and I have read it to you, and I have read it at a quarter to seven this afternoon to a district nurse on the ground floor of that building, because she is going to be the second person in that building tonight. It reaches the shop, the stair and this floor and it stops at this floor. It does not reach the ground floor, it does not reach the cellar, it does not reach the street, and there is nobody standing on any of those three on my account."
+"It does not say premises once," she said. "I had the magistrate print it twice, and I have read it to you, and I have read it at a quarter to seven this afternoon to a district nurse on the ground floor of that building, because she is going to be the second person in that building tonight. It reaches the shop, the stair and this floor and it stops at this floor. It does not reach the ground floor, it does not reach the cellar, it does not reach the street, and there is nobody standing on any of those three on my account."
 
 "You are not going up."
 
