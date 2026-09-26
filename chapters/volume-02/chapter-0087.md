@@ -2,9 +2,9 @@
 
 The first floor of 4 Corrie Street is eight rooms and a landing with a window at the end, and under the window is the dry cleaner's, and the bell on the corridor wall is the dry cleaner's bell on a string, and it goes off in the shop when anybody upstairs pulls it.
 
-Four doors away from the back room on the left, on the other side of the landing, there is a door with a plate on it that is not a name, and no letterbox, and the door is shut, and there is no light behind the frosted glass in it, because the woman who works in there does her work on a Friday and this is a Thursday. Elias Venn did not knock on it and did not go near the string, because a woman in a laboratory on Saturday morning had given him a fact about that bell in the middle of an argument about something else, and he had not asked her for it, and she had given it to him anyway, and he had thought about it on two buses and a walk.
+Four doors from the back room, counting both sides of the landing, on the other side of the corridor, there is a door with a plate on it that is not a name, and no letterbox, and the door is shut, and there is no light behind the frosted glass in it, because the woman who works in there does her work on a Friday and this is a Thursday. Elias Venn did not knock on it and did not go near the string, because a woman in a laboratory on Saturday morning had given him a fact about that bell in the middle of an argument about something else, and he had not asked her for it, and she had given it to him anyway, and he had thought about it on two buses and a walk.
 
-At the far end of the landing there is a door with a bell on it, a small brass one above a letterbox with a wooden flap, and the flap is up, and there is no plate. It is the fourth door from hers counting both sides. He knocked twice, because a woman at a desk in Tanners Row had said you knock twice, and it had been the only piece of guidance anybody had given him in nine days.
+At the far end of the landing there is a door with a bell on it, a small brass one above a letterbox with a wooden flap, and the flap is up, and there is no plate. It is the fourth door from hers counting both sides. He knocked twice, because a woman at a desk in Tanners Row had told him to knock twice and then wait, and it had been the only piece of guidance anybody had given him since the Sunday before last.
 
 The door opened about two inches and a man's eye came to it.
 
@@ -18,15 +18,19 @@ The eye went away for about a second and came back.
 
 "Which one of what."
 
-"Which door. There are eight on this floor and one of them has been shut since about Tuesday, and there is a man at the other end of this landing who will open a door to anybody who says the word *boiler*, and I have had him out here in his dressing gown at eleven at night in December." The eye went down an inch. "You did not say boiler."
+"Which door. There are eight on this floor and one of them has been shut since about Tuesday, and there is a man on this floor who will open a door to anybody who says the word *boiler*, and I have had him out here in his dressing gown at eleven at night in December." The eye went down an inch. "You did not say boiler."
 
-"That man asked me on Wednesday whether I was the agent and I was not, and he has been waiting for the agent since November because the meters are on the supply of a shop that shut in October, and he has written four letters and pays for the stamps."
+"You have a boiler in that room?"
+
+"That room has a bench, a table, two chairs, a gas fire that is off and a couch nobody has slept on. Outside it there is a corridor and a dry cleaner's under that, and a woman four doors the other way who works Fridays, and a man at the far end who has a boiler and is the one who opens doors, and I have not spoken to him in two years."
 
 "Right," said the man, and opened the door.
 
 ---
 
-Eamon Brack was thirty-nine and had been in the room six years, and there was a bench along one wall, a table with two chairs, a gas fire that was off, and a couch against the far wall. On the table was a green hardback book with a rubber band round it. On the shelf above it was a cardboard box with about forty small reels in it, and every reel had a paper band round the middle with a date on one side and a fee on the other.
+Eamon Brack was thirty-nine and had been in the room six years, and there was a bench along one wall, a table with two chairs, a gas fire that was off, and a couch against the far wall. On the table was a green hardback book with a rubber band round it. On the shelf above it was a cardboard box with about forty small reels in it, and every reel had a paper band round the middle with a date on one side and a fee on the other, and on the four nearest the front of the box the writing was in a hand that leaned right and presses hard.
+
+Elias Venn looked at about four of the bands and did not say anything about them. The number across the top of a piece of paper six inches by two in a drawer on Saint Orra Reach was in a hand that leaned right and pressed hard, and he had read it out loud in a laboratory on Saturday and written it in his own book with the word *claim* in front of it. He was not going to make that join in a first-floor room on a Thursday to a man he had known for eleven minutes, and he was not going to make it out loud either, and he was aware that not making it was itself a decision he would have to defend to somebody one day.
 
 "Shut it," he said. "Not because of anything. Because I have been asked about that corridor twice in six years and both of those times it was because the door was open, and I am not interested in being a room with an open door."
 
@@ -70,7 +74,7 @@ Elias Venn did not write it down. The notebook was in his coat and he did not ta
 
 "And the paper."
 
-"The paper is the part that is going to make you angry and it is not going to make me angry, because I have had six years with it." He took the band off the book, turned to a page about a third of the way in, laid it on the table with the spine towards Elias Venn so that it could be read upside down, and did not let go of it. "There is a sheet, from a printer in this district, four hundred at a time, and I have never known what I pay for them. Five boxes on the top half and a tear-off line, and I fill in all five. And then under the fifth box, on the same sheet, there is a line of type, and there is nothing printed at the end of the line, and it is not a box, and it has no heading, and it does not stop at the edge of the paper, and it is in the same place on every sheet I have ever had."
+"The paper is the part that is going to make you angry and it is not going to make me angry, because I have had six years with it." He took the band off the book, turned to a page about a third of the way in, laid it on the table with the spine towards Elias Venn so that it could be read upside down, and did not let go of it. "There is a sheet, from a printer in this district, four hundred at a time, and I have never known what I pay for them. Five boxes on the top half and a tear-off line, and I fill in all five. And then under the fifth box, on the same sheet, there is a line of type, and there is nothing printed at the end of the line, and it is not a box, it has three words above it and nothing below, and it does not stop at the edge of the paper, and it is in the same place on every sheet I have ever had."
 
 "What is on the line."
 
@@ -78,7 +82,7 @@ Elias Venn did not write it down. The notebook was in his coat and he did not ta
 
 He let go of the book.
 
-"That is the whole of what I did and I have never had a moment about it, and I will tell you where the words came from. They came off a strip. A patient hands you the bottom of the sheet and you read it, and the patient has signed a printed sentence saying they have been told what the work is and have had the chance to ask questions. **Consent. Consent of the patient. It is the same word.** So I wrote it in the only place there was, and I did not ask, and I have thought about it every day for six years and I have not stopped, and those are both true."
+"That is the whole of what I did and I have never had a moment about it, and I will tell you where the words came from. They came off a strip. A patient hands you the bottom of the sheet and you read it, and it begins with three words and then a sentence the patient has signed, and it says the patient confirms that they have been told, in words they could repeat, what this work is, and that they have had the opportunity to put questions about it. **Consent. Consent of the patient. It is the same word, and it is the same word in the same sentence, and the sentence is on every sheet in this city.** So I wrote it in the only place there was, and I did not ask, and I have thought about it every day for six years and I have not stopped, and those are both true."
 
 Elias Venn looked at the page upside down for about four seconds.
 
@@ -98,6 +102,10 @@ Elias Venn looked at the page upside down for about four seconds.
 
 "Then who is on the one that is dated the twelfth of October."
 
+Elias Venn did not answer that, and the man across the table waited for him the way a man waits for a machine that has taken a coin.
+
+The twelfth of October was on a piece of paper about six inches long in a drawer two miles away with a name at the top of it, and it was in his own book written down on Saturday morning, and he had carried it across a district on two buses and a walk and had not said it out loud once in five days, because saying it out loud in this room would have meant saying whose date it was, and there was a rule in this case about that and he had not written the rule down either.
+
 "I have no idea," said Eamon Brack. "There is no name on it. I have never known a name for any of the five and I have never wanted one, and I would like that noticed, because I know exactly how that sounds."
 
 He looked at Elias Venn's coat, where nothing was showing in any pocket.
@@ -106,7 +114,7 @@ He looked at Elias Venn's coat, where nothing was showing in any pocket.
 
 "No."
 
-"Then I am going to say the last thing." He put the box back on the shelf with the open end facing out, because that is how he kept it. "There is a woman in the room at the end now. She has been four times, she pays in cash, she is not on my book for today, and I have never had a name off her. I am telling you because on Monday that document stops having anything behind it, and I would like one person in this city to have said a sentence out loud before it happens."
+"Then I am going to say the last thing." He put the box back on the shelf with the open end facing out, because that is how he kept it. "There is a woman in this room on Friday afternoons. She has been four times, she pays in cash, she is not on my book for today, and I have never had a name off her. I am telling you because on Monday that document stops having anything behind it, and I would like one person in this city to have said a sentence out loud before it happens."
 
 "What sentence."
 
@@ -124,11 +132,11 @@ Eamon Brack took his hand off the back of the chair.
 
 "No," he said. "And I have not stopped. Those are both true, and in six years I have never been able to make the two of them fit together and I have got a book that they do not fit in."
 
-Elias Venn knocked once on the door frame on the way out, which was the only knock he made on that floor, and he had not planned it.
+Elias Venn knocked once on the door frame on the way out, which was the only knock he made on that floor that nobody had asked him for, and he had not planned it.
 
 ---
 
-"Elias," said a woman, "I have been here since Friday and you have been extremely stupid about a corridor, and come and let me in."
+"Elias," said a woman, "I have been here since Wednesday and you have been extremely stupid about a corridor, and come and let me in."
 
 She was on the landing with her coat on, and she had come up four flights rather than telephone, and the fire door at the top of the stair was propped with a wedge that somebody in that hospital has been carrying around illegally since about 1988.
 
@@ -186,7 +194,7 @@ She took the notebook out of her coat. It had been signed at the front by both o
 
 "That is the line that would have caught this."
 
-"That is the line that would have caught it in four seconds on a Thursday in October three years ago, because a claim amended after a patient has gone home is precisely a thing that cannot be known in advance. The line asks who finds out, and the answer is nobody, because the patient is not a party to the claim. It asks in what order, and the answer is that there is no order." She put the notebook back. "And I will not publish it, and I am telling you why now so that you do not have to be polite about asking."
+"That is the line that would have caught it in four seconds on a Thursday in October six years ago, because a claim amended after a patient has gone home is precisely a thing that cannot be known in advance. The line asks who finds out, and the answer is nobody, because the patient is not a party to the claim. It asks in what order, and the answer is that there is no order." She put the notebook back. "And I will not publish it, and I am telling you why now so that you do not have to be polite about asking."
 
 "Tell me."
 

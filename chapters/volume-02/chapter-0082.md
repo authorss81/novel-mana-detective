@@ -40,7 +40,7 @@ The name she said after that was **Iven Quill**, and she said it once.
 
 It is a rule of this household, unspoken and absolute, that a name is not said twice in the same room on the same afternoon, and so she said it once, and the room held it, and neither of them said it again.
 
-"He was my younger brother," she said. "He was thirty-one in October of that year. He would have been thirty-four in October last. He is not a patient, he is not a victim, he has never in his life been charged with anything, he is a man who used to mend boilers in two streets and who was better at it than anybody my father ever hired, and he went into a first-floor room on a Thursday afternoon because somebody had told him it would help with a name, and there is no more of him than that and there has not been for six years and twelve weeks."
+"He was my younger brother," she said. "He was thirty-one in October of that year and he would have been thirty-seven last month. He is not a patient, he is not a victim, he has never in his life been charged with anything, he is a man who used to mend boilers in two streets and who was better at it than anybody my father ever hired, and he went into a first-floor room on a Thursday afternoon because somebody had told him it would help with a name, and there is no more of him than that and there has not been for six years and twelve weeks."
 
 "I am not going to ask you where you think he is."
 
@@ -52,7 +52,7 @@ She took it out of the drawer of the bench on the second side, at about ten past
 
 It is about six inches long and two inches high. It is the bottom of a form: the sheet is torn across a perforation that has gone soft, and the top edge of the piece is ragged in the way that a perforation goes when it has been torn and put back together in the same fold a hundred times, and the paper is cream and it is printed on one side and it is foxed at the corners.
 
-Four of the five boxes that were on the sheet are not on it. Only the boxes' continuation is, in the sense that the form's foot carries a line under each box with a rule for what goes in it, and somebody has written into three of them.
+None of the five boxes that were on the sheet is on it. Only their continuation is: the foot of the form carries a short rule under each box with what goes in it, and somebody has written into four of those five rules and left the fifth one empty, and the fifth is the one that says who told the patient. Above the five rules there is a name and an hours box, and both of those are filled in as well, which is six things written on a piece of paper six inches long and two inches high, and it is a receipt and not a record.
 
 *Name:* **Iven Quill.**
 *Date:* **12.10.23.**
@@ -61,9 +61,9 @@ Four of the five boxes that were on the sheet are not on it. Only the boxes' con
 *Fee:* **11.**
 *Where:* **4 Corrie St, 1st fl, back.**
 
-And under all of that, in the same hand, across the full width of the thing, the printed line, and a signature on it in a hand that leaned right and pressed hard:
+And under all of that, in the same hand, across the full width of the thing, the printed line, and a signature on it from a man who had been standing up since six in the morning, in a hand that got slower towards the end of the name the way a hand does at the end of a long day:
 
-*Patient's own consent: I have been told what this work is and have had the chance to ask questions.*
+*Patient's own consent. The patient confirms that they have been told, in words they could repeat, what this work is, and that they have had the opportunity to put questions about it.*
 
 And written across the top of the strip, in a different hand, in a different pen, at a different time, leaning right and pressing hard: **RC-3904118/61.**
 
@@ -75,7 +75,7 @@ Elias Venn did not touch it. He put his hands flat on the bench on either side o
 
 "She."
 
-"Rhoda Nesbit. Four Corrie Street, first floor, above the dry cleaner, on a Friday, eleven credits, and she has been doing it for six years and she was not doing it in October three years ago, and I have never met her and I have written to her twice." She turned the envelope over with two fingers. "She posted me one line back in December. *Read it. Kept it. Do not come.*"
+"Rhoda Nesbit. Four Corrie Street, first floor, above the dry cleaner, on a Friday, eleven credits, and she has been doing it for about six years, and I have never met her, and I have never written to her about anything." She turned her own envelope over with two fingers, face down, and did not open it. "He told me in November that he has posted her three times. I asked him no questions about it then and I have asked none since, and I do not know what she wrote back and he has not offered to tell me, and I have not asked him, and both of those are true and you may put them in whatever order you like."
 
 "And you have not gone."
 
@@ -89,7 +89,7 @@ Elias Venn did not touch it. He put his hands flat on the bench on either side o
 
 "It would not leave the room."
 
-"No." She did not raise her voice. "Elias. A photograph of a signature is a copy of a signature. That is not a figure of speech, it is how it works — you copy it and then the copy is a thing, and the thing goes in a report, and the report goes to a lawyer, and the lawyer puts it in a bundle, and in about four years there is a bundle in a room with my brother's name at the top of it and a signature on the front that anybody in that room can look at, and he is not here to say *that is mine, that is the one time I did it*." She put her hand flat on the bench, about four inches from the paper. "I have had this in a drawer for six years and it has never been in a room with anybody in it. That is the entire protection this piece of paper has in the world and you are asking me to spend it on a Friday."
+"No." She did not raise her voice. "Elias. A photograph of a signature is a copy of a signature. That is not a figure of speech, it is how it works — you copy it and then the copy is a thing, and the thing goes in a report, and the report goes to a lawyer, and the lawyer puts it in a bundle, and in about four years there is a bundle in a room with my brother's name at the top of it and a signature on the front that anybody in that room can look at, and he is not here to say *that is mine, that is the one time I did it*." She put her hand flat on the bench, about four inches from the paper. "I have had this in a drawer for six years and it has never been in a room with anybody in it. That is the entire protection this piece of paper has in the world and you are asking me to spend it on a Saturday."
 
 He took his hand off the bench.
 
@@ -133,7 +133,7 @@ He took the radio off his ear and put it back on and pushed the cart six feet do
 
 At eleven o'clock a woman came in with a plate in a sleeve and put it on the bench and said it had been in a cold room and that it was not right, and Mara Quill said *sit down there* and did not look at him, and Elias Venn took his notebook out of his coat and put it in his pocket and did not write anything on the page, because a man who writes a name down in a laboratory on his first visit has made a different decision from one who has not.
 
-At the fire door he stopped with his hand on it, which is a thing he does, and which he had done four times in eleven years without knowing that anybody in the family could see it, and which she had watched him do in November and had not said anything about.
+At the fire door he stopped with his hand on it, which is a thing he does, and which he had done four times in eleven years without knowing that the woman he was talking to could see it, and which she had watched him do in November and had not said anything about.
 
 "Elias."
 

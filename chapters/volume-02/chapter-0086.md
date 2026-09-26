@@ -20,7 +20,7 @@ She held up one finger for about four seconds. Then she said, "You are going to 
 
 ---
 
-He agreed in nine seconds. He did not ask a single question in those nine seconds, which is a thing he has been getting better at since a corridor on Vine Street in December, and which cost him a woman of sixty-one four days of a drug in a dispensary back room in December, and which was the only decent thing he did all that week.
+He agreed in nine seconds. He did not ask a single question in those nine seconds, which is a thing he has been getting better at since a corridor in December, and the thing that cost a woman of sixty-one four days of a drug in a dispensary back room in December was the opposite of it, and this was the only decent thing he did that week.
 
 "Three hours," said Sana Okafor. "You will be bored."
 
@@ -68,9 +68,9 @@ At about four o'clock somebody knocked on a door two doors along from the one th
 
 "Right." He unhooked his dressing gown at the neck where he had hooked it on the latch. "It is the girl that comes on the Wednesdays. She is all right. She is a bit loud about the pony and that is nine."
 
-He went in. The landing had a window at the end of it that looked at a wall about four feet away, and the wall was the side of a building with a drainpipe down it and a bracket on it about eight feet up with nothing in the bracket, and the light that did not work, and a mat by the third door that said nothing at all.
+He went in, and the door shut, and it did not go all the way, and there was a wedge of daylight along the bottom of it about the width of a finger. He noticed that he had not heard it shut, which meant the girl had pushed it to and let it go, and which meant there was a child in that room holding a door with her foot because a man she had met on a step was sitting four feet away from it.
 
-At about half past four somebody said a name through the door and somebody else answered, and one of the voices was the girl's and one of them was an older woman, and the girl's voice said something he could not hear and the older woman said something he could not hear either, and the girl came out again for a second time at about twenty past four and went to the window and stood at it and did not look at him and did not go back in for about a minute and a half, and Elias Venn did not say anything to her, and did not move, and did not look at her directly, and she went back in.
+At about half past four somebody said a name through the door and somebody else answered, and one of the voices was the girl's and one of them was an older woman, and the girl's voice said something he could not hear and the older woman said something he could not hear either, and the girl came out again for a second time at about twenty past four and went to the window and stood at it and did not look at him and did not go back in for about the length of a page, and Elias Venn did not say anything to her, and did not move, and did not look at her directly, and she went back in.
 
 That was all he did. That was the entire content of three hours of his afternoon: he sat on the second step of a stair in Kettle Rows and did not say anything to anybody and did not write anything down and did not put his ear anywhere near a door, and it was the hardest work he has done since the seventeenth of September, and the reason it was hard is that he could have gone in.
 
@@ -86,7 +86,7 @@ Sana Okafor said, to the girl, "This is Elias. He is a friend of mine and he is 
 
 "He has not said a word to me in three hours," said Aoife Roche, nine, and went downstairs.
 
-The man said thank you to Elias Venn and meant it, and did not say anything else, and went down. The woman of thirty-one looked at him for a moment and said, "You were the one with the sheet on the wall," and he said he had been, and she said, "I read it in about four months ago and I did not understand one word of it and my uncle used to read it out," and went down, and that was the whole of it.
+The man said thank you to Elias Venn and meant it, and did not say anything else, and went down. The woman of thirty-one looked at him for a moment and said, "You were the one with the sheet on the wall," and he said he had been, and she said, "I read it in October and I did not understand one word of it and my dad used to read it out at the table on a Sunday," and went down, and that was the whole of it.
 
 ---
 
@@ -96,7 +96,7 @@ Sana Okafor came back up four steps and stood above him on the landing with her 
 
 "You do not owe me a report."
 
-"I am aware of that and I have thought about it for seven weeks and I have not gone back and forth on it once." She put the bag down on the step above his. "I told them. I told all three of them. I told the girl what was done to her in a room she was in on the twenty-sixth of November and that nobody told her at the time and that she was not harmed and that she is nine and that it is not going to be explained to her better today than it was going to be explained to her in November. I told the woman what was taken, which is four months of her own Sundays, and that they are not coming back, and that I have told her that in about nine minutes because it is nine minutes' worth of a thing and it is not going to get smaller by being said slower. And I told the man that his own name has not come back and that he is not the only one and that the other one was seventy-eight and it is not the same thing but it is the closest thing anybody in this city can offer him at a table."
+"I am aware of that and I have thought about it for seven weeks and I have not gone back and forth on it once." She put the bag down on the step above his. "I told them. I told all three of them. I told the girl what was done to her in a room she was in on the twenty-sixth of November and that nobody told her at the time and that she was not harmed and that she is nine and that it is not going to be explained to her better today than it was going to be explained to her in November. I told the woman what was taken, which is four months of her own Sundays, and that they are not coming back, and that I have told her that in about nine minutes because it is nine minutes' worth of a thing and it is not going to get smaller by being said slower. And I told her the other thing, which is that for twenty months she was sitting at that table calling her father by a dead aunt's name, and that he corrected her, and that she knew she was doing it, and that being corrected was worse for her than the first month was, because in the first month she did not know, and that since half past four on the twenty-sixth of November she has been calling him by his own name, and that neither of them knows yet what has been taken and will not until about the middle of January, and that I am telling a member of the public that in a stairwell on a Wednesday and not on a Sunday. And I told her the thing I have been carrying about that on my own for seven weeks. **You cannot hand a woman her own father back by saying his name, and every time somebody corrects her she is two minutes nearer to a day she cannot get back from, and neither of them has asked me to stop and I have not offered to.** That is the whole of it, and I would like a member of the public to be the first person I have said it to. And I told the man that his own name has not come back and that he is not the only one and that the other one was seventy-eight and it is not the same thing but it is the closest thing anybody in this city can offer him at a table."
 
 "You have not said a word about a fifth box and you have not said a word about a claim."
 
@@ -130,7 +130,7 @@ The girl of nine was on the step outside the shop, in the wind, with the pony bo
 
 She thought about that for a bit, with her thumb in the middle of the pages.
 
-"My uncle can't say his own name," she said, "and my aunt can't do the Sundays, and the doctor has just been in there for an hour, and you have been on the step for three hours." She closed the book and held it against her chest with both arms. "I have got a pony in this book called Dooly and he is not real and everybody in the story knows he is not real, and that is the whole point of him, and if he were real nobody would read the book." She looked at him for the first time. "Is the man who put the paper up allowed to be somebody who was on the step?"
+"My grandad can't say his own name," she said, "and my aunt Kerry can't do the Sundays, and the doctor has just been in there for an hour, and you have been on the step for three hours." She closed the book and held it against her chest with both arms. "I have got a pony in this book called Dooly and he is not real and everybody in the story knows he is not real, and that is the whole point of him, and if he were real nobody would read the book." She looked at him for the first time. "Is the man who put the paper up allowed to be somebody who was on the step?"
 
 "I am not allowed to be anything at all," said Elias Venn. "I am a member of the public."
 

@@ -44,15 +44,13 @@ Then she folded them once and put them back in the envelope and gave it to him.
 
 ---
 
----
-
-There was a woman of about seventy-two at the board at five to eleven with a shopping bag on her feet, and she had been reading the bottom of the fan every Friday for about four years, and she was not happy.
+There was a woman of about seventy-two at the board at five to eleven with a shopping bag on her feet, and she had been reading the bottom of the fan every Sunday for about four years, and she was not happy.
 
 "They've taken your pages down."
 
 "Somebody has taken my pages down."
 
-"It's not you then." She moved her bag about two inches. "I read them while I wait. I have a hip and I am in here every Friday and it is the only thing I read. I have read about the water going off the top floor in March, and about the lamp in the corridor, and about a man in a van that came for a part on a Tuesday and did not come back until the Thursday, and about the little girl who came in with an earache in the summer and waited an hour and a half with a plastic spoon in her hand." She looked at the rectangle. "You cannot have that with a hip. You cannot have that and say it was all right, because it was not all right, and somebody sat in this room and read it, and now there is nothing there but a clean bit of board."
+"It's not you then." She moved her bag about two inches. "I read them while I wait. I have a hip and I am in here every Sunday and it is the only thing I read. I have read about the water going off the top floor in March, and about the lamp in the corridor, and about a man in a van that came for a part on a Tuesday and did not come back until the Thursday, and about the little girl who came in with an earache in the summer and waited an hour and a half with a plastic spoon in her hand." She looked at the rectangle. "You cannot have that with a hip. You cannot have that and say it was all right, because it was not all right, and somebody sat in this room and read it, and now there is nothing there but a clean bit of board."
 
 "No," said Elias Venn. "There is not."
 

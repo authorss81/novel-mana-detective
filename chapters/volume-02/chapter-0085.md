@@ -26,15 +26,15 @@ The tray is four hundred sheets deep and there are four forms in it and nobody h
 
 The sheet at the top of the tray is cream and printed on one side and it has five boxes on the upper half of it, and a perforation across the width of it about a third of the way up from the bottom, and the line under the boxes.
 
-The five boxes are the same five in the same order that are on the clinic's own request in a dispensary on Marshall Street and on the payer's claim form in an insurance building: **where, what, when, how much, who told the patient.** He has heard that order said out loud in a room at the back of a tool registry in December by a woman of sixty-three with a ledger, and he is not going to be told it again today, and he did not come for it.
+The five boxes on the sheet are the same five, in the same order, that are on the clinic's own request in a dispensary on Marshall Street and on the payer's claim form in an insurance building, and he has heard that order said out loud in a room at the back of a tool registry in December by a woman of sixty-three with a ledger, and he is not going to be told it again today, and he did not come for it. The fifth box is headed *who told the patient*, and he saw that heading on Friday and stood in front of it for a minute and a half and did not read what was under it, and he has not told anybody that and is not going to today.
 
 The payer's form has no fifth box at all, so nowhere on a claim form is there any place to say who told a patient anything, and nobody anywhere certifies it, and that has been true for longer than anybody at that counter has been alive.
 
-And below the fifth box, with about half an inch of white between it and the perforation, there was a line of type. It was smaller than the boxes. It was not in a box and it had no heading and it ran the width of the sheet and it was one sentence, and it was set in a heavier face than anything else on the page, and it was the only thing on the page that was written as a sentence.
+And below the fifth box, with about half an inch of white between it and the perforation, there was a line of type. It was smaller than the boxes. It was not in a box and it had three words above it and no box of its own, and it ran the width of the sheet and it was one sentence, and it was set in a heavier face than anything else on the page, and it was the only thing on the page that was written as a sentence.
 
-> *The patient confirms that they have been told, in words they could repeat, what this work is, and that they have had the opportunity to put questions about it.*
+> *Patient's own consent. The patient confirms that they have been told, in words they could repeat, what this work is, and that they have had the opportunity to put questions about it.*
 
-"Read it," said Nell Cadby. "You have been standing there for a minute and a half and you have not read it, and I watched you decide not to read it on Friday, and I have thought about you not reading it for two days, which is more thought than most people get for free at a counter."
+"Read it," said Nell Cadby. "You have been standing there a good while now and you have not read it, and I watched you decide not to read it on Friday, and I have thought about you not reading it for two days, which is more thought than most people get for free at a counter."
 
 He read it.
 
@@ -42,7 +42,11 @@ He read it.
 
 "Five boxes and a sentence."
 
-"Five boxes and a sentence, and the sentence is in a bigger face than any of the boxes, and I have never worked out whether that is because somebody wanted a person to read it or because a printer thought it looked better." She put two fingers on the tray. "Now you are going to ask me the question, and I am going to answer it, and then I am never going to answer it again, and I would like that understood as a favour I am doing you and not as a favour you are doing me."
+"And the payer's form. Is that same sentence on a claim anywhere in this city."
+
+"No." She did not have to think about it. "There is nothing on a claim to put a sentence on. A claim is boxes and a number and a stamp, and its boxes are the first four of the five, and it has no fifth box at all, and a sentence is a thing a person signs, and nobody in this city has ever put a signature on a claim and there is no line for one. I can tell you that from this counter and you could tell it to anybody who works in that insurance building and it would be the same answer in both places."
+
+She put two fingers on the tray. "The sentence is set in a heavier face than any of the boxes, and I have never worked out whether that is because somebody wanted a person to read it or because a printer thought it looked better. Now you are going to ask me the one that is under it, and I am going to answer that one as well, and then I am never going to answer it again, and I would like that understood as a favour I am doing you and not as a favour you are doing me."
 
 He asked it.
 
@@ -66,13 +70,13 @@ Then a man of about fifty came and asked for the fee sheet for 2027.
 
 Nell Cadby did not pick the paper up. She read it where it lay.
 
-"The twenty twenty-seven sheets went out of stock in the March of twenty twenty-two," she said. "There is a binder of them behind me on the shelf, second one down, and I will get it out, and I am going to tell you what you are about to find before I do, so that you cannot say afterwards that I sprang it on you."
+"The twenty twenty-seven sheets went out of stock in the March of twenty twenty-six," she said. "There is a binder of them behind me on the shelf, second one down, and I will get it out, and I am going to tell you what you are about to find before I do, so that you cannot say afterwards that I sprang it on you."
 
 "All right."
 
-"When the current sheet is printed, the schedule is checked against what has actually been charged in the district, because the print run is paid out of a levy and the levy is a fraction of a percent of everything billed, and the people who print it will not print a sheet that is not what is being charged. And in twenty twenty-two nobody could agree what had been charged, and so they printed what was supposed to be charged, and there is a revision date in ink on the back of the contents page, and the ink is not a printer's mark, because a printer marks a revision before he breaks the page, and this one is written by somebody in a hand." She got the binder out and opened it at about two-thirds back. "So which is right for that year."
+"When the current sheet is printed, the schedule is checked against what has actually been charged in the district, because the print run is paid out of a levy and the levy is a fraction of a percent of everything billed, and the people who print it will not print a sheet that is not what is being charged. And in twenty twenty-six nobody could agree what had been charged, and so they printed what was supposed to be charged, and there is a revision date in ink on the back of the contents page, and the ink is not a printer's mark, because a printer marks a revision before he breaks the page, and this one is written by somebody in a hand." She got the binder out and opened it at about two-thirds back. "So which is right for that year."
 
-"Neither," said Nell Cadby. "The figure on your bill is what somebody charged you. The figure on the sheet is what somebody decided ought to have been charged, and those are not the same document, and neither of them is a lie. And there is a tariff note in the back of that binder which says a charge for a memory procedure is not a claim and is not to be settled by anybody but the person doing the work, and that note went into print in November, about three weeks before your bill." She closed the binder. "So you paid sixty credits for a thing the note says could not be charged for at all, and there is nobody in this building who can take that off your bill, and I have said that as plainly as I can, because you were decent enough not to shout at me."
+"Neither," said Nell Cadby. "The figure on your bill is what somebody charged you. The figure on the sheet is what somebody decided ought to have been charged, and those are not the same document, and neither of them is a lie. And there is no note in that binder about claims at all — three notes in that book and not one of them is about this, and I have read all three about nine hundred times — and the note that would have covered what you paid went into print in November of last year, which is two years and two months after your bill, and it is in the current folder and not in that one, and it says a charge for a memory procedure is not a claim, is not to be settled by anybody but the person doing the work, and may not be receipted by a person other than the person who did it." She closed the binder. "So you paid sixty credits for a thing that was not a claim at the time and is not one now, and there is nobody in this building who can take that off your bill, and I have said that as plainly as I can, because you were decent enough not to shout at me."
 
 The man stood there for a while.
 

@@ -22,17 +22,17 @@ Otto Vahl was at the table with a cup in his hand and a cardigan over the back o
 
 The kitchen table had a cloth on it with a burn in one corner and a set of keys on the cloth and a plate with the crusts off a loaf on it.
 
-Elias Venn put his right hand flat on the table to get his weight up off the chair and his hand went to the drawer under the table instead, and he pulled it out, and there were a tea towel and a battery and a screwdriver and a tin of screws in it, and he shut it, and his hand went flat on the front of the drawer and pulled it out again, and shut it, and pulled it out again.
+Elias Venn put his right hand flat on the table to get his weight up off the chair and his hand went to the drawer under the table instead, and he pulled it out, and there were a tea towel and a battery and a screwdriver and a tin of screws in it, and he shut it, and his hand went flat on the front of the drawer and pulled it out again, and shut it, and pulled it out again, and his hand was doing the counting and not him.
 
-Four times.
+Eleven times.
 
-The fifth time he got his hand off the drawer and put it in his lap and held it there with the other one, and the drawer stayed shut, and he sat at a kitchen table at ten past four in the morning with a man of sixty-eight watching him and did not say anything about it for about a minute and a half.
+The twelfth time his hand went past the front of the drawer and stopped, and he put it in his lap and held it there with the other one, and he did not shut the drawer, and he sat at a kitchen table at ten past four in the morning with a man of sixty-eight watching him and did not say anything about it for the length of a page.
 
 "Right," said Otto Vahl.
 
 "Yes."
 
-"I have been in sheds and on gates and in this building for nine years," said Otto Vahl, "and I have watched a man in a very good coat come down this street about forty times, and there is one thing about him that I could not explain to anybody at the time and I have never told my sister, and it is that he puts his hand flat on everything. Door frames, the bar at the off-licence, the rail at the sorting office. Flat, like that, before he goes through." He put his cup down. "And I have thought about that for nine years and I decided it was a habit, and I was right, and I have never once in nine years thought that it might be the thing itself instead of the habit. And I have just watched you do it eleven times to a drawer, and I am not saying a word about your drawer, and I am going to put the kettle on, and you are going to tell me in the morning whether it has stopped or it has not, and I am not going to ask you now."
+"I have been in sheds and on gates and in this building for nine years," said Otto Vahl, "and I have watched a man in a very good coat come down this street about forty times, and there is one thing about him that I could not explain to anybody at the time and I have never told my sister, and it is that he puts his hand flat on everything. Door frames, the bar at the off-licence, the rail at the sorting office. Flat, like that, before he goes through." He put his cup down. "And I have thought about that for nine years and I decided it was a habit, and I was right, and I have never once in nine years thought that it might be the thing itself instead of the habit, and I have never told the police about it and I am not going to start tonight. And I have just watched you do it eleven times to a drawer, and I am not saying a word about your drawer, and I am going to put the kettle on, and you are going to tell me in the morning whether it has stopped or it has not, and I am not going to ask you now."
 
 "You have just asked me."
 
@@ -52,7 +52,7 @@ He said who was paying, because it was the only thing in his notebook that had n
 
 "That is three," said Otto Vahl. "Go on."
 
-"A woman of thirty-eight stood in a room in Corrie Street at ten past four yesterday afternoon and said she had got a name and a date out of it and it was her aunt's and her aunt died in 2024, and she has been four times in two years and nobody has her name and nobody has written it down, and she came down a stair on Friday evening past a police inspector who did not follow her. A woman of thirty-one has four months of her own Sundays and is not getting them back. A girl of nine was the address of a working in November and nobody told her and she was not harmed and she has a pony book and she asked me on a doorstep on Wednesday evening whether the man who put the paper up was allowed to be somebody who was on the step."
+"A woman of thirty-eight stood in a room in Corrie Street at ten past four yesterday afternoon and said she had got a name and a date out of it and it was her aunt's and her aunt died in 2024, and she has been four times in two years and nobody has her name and nobody has written it down, and she came down a stair on Friday afternoon past a police inspector who did not follow her. A woman of thirty-one has four months of her own Sundays and is not getting them back. A girl of nine was the address of a working in November and nobody told her and she was not harmed and she has a pony book and she asked me on a doorstep on Wednesday evening whether the man who put the paper up was allowed to be somebody who was on the step."
 
 "And you said."
 
@@ -60,13 +60,19 @@ He said who was paying, because it was the only thing in his notebook that had n
 
 Otto Vahl drank about a third of his tea and then put it down on the table with both hands round it.
 
+"Three more," he said. "You have been telling me about a clinic and a ward sister and a landing. Tell me about a door."
+
+"A woman of fifty-two in a dispensary filled in the first box of a form herself on Christmas morning for the first time in eleven years, with the address of a friend in it and her own name under the doctor's in the fifth, and it is on a file in her own building and nobody has told her it was read. A woman of sixty-three with a ledger took eleven names off a rack in about nine seconds and has not had a week since. A clerk of nineteen years on the trays in a district office four streets from here, who has never once been asked what an examiner is for. And a woman at a counter on Fenwick Street who has been handing out the forms this sentence is printed on for twenty-two years, and who told me the shape of the whole thing for nothing, on Tuesday, and would not take anything for it and would not say it again."
+
+"That is six," said Otto Vahl. "Go on."
+
 "And what did the doctor say about the girl."
 
 "Nothing. She told me there was no question she could answer that would make that afternoon better, and she told me in advance so that I would not be able to think of one."
 
 "That is a doctor," said Otto Vahl. "I have been going to that dispensary for nine years and that is the first thing one of them has ever said to me."
 
----
+He put his cup down and did not pick it up again.
 
 "There is a man of thirty-nine in a first-floor room in Corrie Street," said Elias Venn, "who has been doing it properly for six years and who charges eleven credits and who has about two hundred and forty sessions in a green book and about forty reels in a box, and who has used nine of them, and he has told nobody, and nobody has ever asked him anything, including the police, including a doctor, and he is not going to be charged with anything because there is nothing to charge him with until Monday morning, and on Monday morning there will be nothing at all."
 
@@ -82,9 +88,25 @@ Otto Vahl did not say anything for a bit.
 
 "Correct," said Otto Vahl. "I am sixty-eight and I have lived in this building since about 2019 and I have watched a lot of men come down those stairs wanting a second pair of hands and I have never once seen one of them ask a person in a jumper for a second pair of hands, and I have never once seen a person in a jumper say no to a man like you, and I would like you to sit with that for a minute."
 
+He turned the cup about a quarter of a turn on the cloth.
+
+"Now go back to the woman of thirty-eight," he said. "The one who came down the stair on Friday afternoon. Did she know what she was buying."
+
+"She knew it was an hour. She knew it was for a name and a date. She asked for it in words, she paid for it, and she was told the truth about both of those, and nothing else was said to her at all."
+
+"Did she ask what it was for."
+
+"No."
+
+"Did anybody in that building think to ask her."
+
+"No." Elias Venn put his cup down. "That is the whole of what has happened in this case since Friday, and you have just asked it. A counter, a laboratory, a stairwell, a hospital and a first floor, and not one person in any of them thought to ask that one question of the one person who had answered it out loud. She consented to getting a name, in words, having been told the truth about it, and she is the only person in this city who has agreed to this on purpose, and she walked out of that room with her aunt's name in her head, and she is the only one of the three of us who is never going to be told what it was used for."
+
 ---
 
-They had the rest of the tea and he told her about the six inches by two, because Otto Vahl had asked what it was and because a man who has been awake since two is entitled to know what a man is doing on his floor at four in the morning, and Otto Vahl listened to about two thirds of it and then put his hand on the table, flat, the way he does when a job is on the table, and said, "That is six inches long."
+The tea went cold and Otto Vahl made more of it and neither of them said anything for about two minutes, and then he said, "Go on. There is a man in Corrie Street and you have told me about him once, and I have been sitting here working out what he is."
+
+They had the rest of the tea and he told him about the six inches by two, because Otto Vahl had asked what it was and because a man who has been awake since two is entitled to know what a man is doing on his floor at four in the morning, and Otto Vahl listened to about two thirds of it and then put his hand on the table, flat, the way he does when a job is on the table, and said, "That is six inches long."
 
 "Yes."
 
@@ -124,11 +146,11 @@ He telephoned Vine Street from the shop at twenty to twelve on the Saturday, fro
 
 Nadia Kest took it herself.
 
-"I am not telephoning you to tell you to stop," she said, before he had said anything. "I have nothing to telephone anybody about. I went back to a corridor on Vine Street on Friday afternoon and I asked one question of one person and I am not going to tell you what the answer was."
+"I am not telephoning you to tell you to stop," she said, before he had said anything. "I have nothing to telephone anybody about. I am going to a corridor of Vine Street on Monday morning and I am going to ask one question of one person, and I am not going to tell you what the question is going to be, and I am not going to tell you the answer either, and you are not going to ring me back about it tonight."
 
-"What did you ask."
+"What is the question going to be."
 
-"I asked whether a person's consent can be produced by somebody who was not in the room. The answer is no, and the answer is no in about four lines, and the four lines have been there since before either of us." She let that sit. "That is a good answer for somebody who is not you, and I have not worked out who it is for, and I am not going to work it out this morning."
+"No," said Nadia Kest. "I am going to tell you that I have one and I am going to tell you that it is about four lines long, and I am going to leave it there, because the four lines have been there since before either of us and somebody in this city is going to need them in about six weeks." She let that sit. "That is a good answer for somebody who is not you, and I have not worked out who it is for, and I am not going to work it out this morning."
 
 "I am not going to be in Corrie Street tomorrow."
 
@@ -146,15 +168,24 @@ Nadia Kest took it herself.
 
 "Good," said Nadia Kest. "That is the first straight answer you have given me since November and I am not going to make a thing of it, and I am going to ring off now."
 
+---
 
-Otto Vahl came up half a flight at ten past six with a cup, in the dark, without putting the light on, which is the thing he has done since September.
+Elias Venn did not go to Saint Orra Reach and did not telephone anybody in it, and did not go back to Corrie Street, and did not go to the municipal building, and he sat at the front bench of his own shop at about ten past twelve on Saturday and put his hand flat on the counter, and then he picked up a piece of strip card off the shelf where he keeps the tickets, and then he put his hand flat on the counter again.
 
-"I am sixty-eight," he said, "and I am going to bed at nine from now on, and I am coming up at ten past six in the morning, and I am going to make the tea and I am going to drink it in the kitchen, and if you are in the kitchen I will say good morning to you and if you are not I will say good morning to the kettle."
+At twenty past twelve the bell on the shop door went, and he got up and went and opened it, and shut it behind the woman, and stood there for a second with his hand still on it.
+
+She put a lamp on the counter with the base of it cracked through in one place and said it had started to flicker and she wanted to know whether that was the switch. He told her it was not the switch, it was the bracket, the bracket had been painted over at some point and the paint had gone into the thread of the screw, and she ought to look at the head of the screw before she looked at anything else, and she said she would look at the head of the screw. He told her what it would cost and she said she would think about it, and she went, and he wrote the job on a strip of card in the middle of the counter with a pen off a string on the wall.
+
+The card was about six inches long and it was the same width as a piece of paper in a drawer two miles away, and he did not finish that thought, and he wrote the date on it and put it in the tray.
+
+His hand went flat on the front of the drawer under the counter on the way to the pen and it went flat on it again on the way back, and the drawer stayed open, and he stood there and looked at it for about four seconds, and he did not shut it.
+
+---
+
+Otto Vahl came up half a flight at about ten past six that evening with a cup, in the dark, without putting the light on, which is the thing he has done since September.
+
+"I am sixty-eight," he said, "and I am going to bed at nine from now on, and I will be up at ten past six in the morning, and I am going to make the tea and I am going to drink it in the kitchen, and if you are in the kitchen I will say good morning to you and if you are not I will say good morning to the kettle."
 
 "That is not necessary."
 
-"No," said Otto Vahl, from the bottom of the stairs, in the dark, with a cup. "It is not necessary. It is nine o'clock at night and I am not coming up, and that has been an arrangement since September because an accident can be stopped by somebody being difficult, and as of about four o'clock this morning it is a job, and I have had two jobs in my life and one of them paid and this one will not and I would like that on a piece of paper, and it will not be on a piece of paper, and that is why I am telling you in a staircase at ten past six in the morning."
-
-Elias Venn did not go to Saint Orra Reach and did not telephone anybody in it, and did not go back to Corrie Street, and did not go to the municipal building, and he sat at the front bench of his own shop at about a quarter to eleven on Saturday morning and put his hand flat on the counter, and then he picked up a piece of strip card, and then he put his hand flat on the counter again.
-
-At ten past eleven the bell on the shop door went, and he got up and went and opened it, and shut it behind the woman, and stood there for a second with his hand still on it.
+"No," said Otto Vahl, from the bottom of the stairs, in the dark, with a cup. "It is not necessary. It is nearly seven at night and I am not coming up, and that has been an arrangement since September because an accident can be stopped by somebody being difficult, and as of about four o'clock this morning it is a job, and I have had two jobs in my life and one of them paid and this one will not and I would like that on a piece of paper, and it will not be on a piece of paper, and that is why I am telling you in a staircase at ten past six this evening."

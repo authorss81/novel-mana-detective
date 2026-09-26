@@ -98,6 +98,8 @@ She took the machine cup off the counter and tipped what was in it into the sink
 
 "Yes."
 
+"And one more thing, and it is free, and it is free because you have not asked me a second question. If you ever do go up a first floor in this district, you knock twice and then you wait, and you do not stand where the door can see you. A bell on a door in a building like that is a thing that gets described afterwards, and I have had four thousand people describe things to me in this chair and not one of them thought about where they were standing."
+
 "You wrote *first floor, back* in my head, I can see it, and if you go up a first floor in this district and knock on a door you will find nine first floors and I am not going to help you find the tenth. What I am going to tell you is that when she came in on the Wednesday night with him, and I have told you she came in because he was not going to be able to carry that bag and get a bed, which I know because he tried twice and put it down twice, and there is a bench in there and a woman with a bag that size cannot get through that door past a man with a suitcase — she told me the floor."
 
 "And the street."

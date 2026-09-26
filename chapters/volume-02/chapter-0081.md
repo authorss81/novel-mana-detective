@@ -26,7 +26,7 @@ He did two other things that morning that were not the case. A toaster with a sh
 
 "You do not tell them anything," said Otto Vahl, from the bottom of the stairs, from about half a flight below, with a set of shop keys in his hand. "You say *that is the fourth*, and then you say *what is under the paint*, and then they tell you, and then you say nothing, and that is how you tell them."
 
-He had a shop on Kettle Rows with four jobs on the bench and forty-four credits in a till, and a piece of paper in a coat in a plastic wallet that he had not opened since the seventh of December, and a notebook with four hundred and thirty pages in it.
+He had a shop on Kettle Rows with four jobs on the bench and forty credits in a till, and a piece of paper in a coat in a plastic wallet that he had not opened since the seventh of December, and a notebook with four hundred and thirty pages in it.
 
 The false memory was a Sunday in the third week of December and it was gone. He had not looked for it since the twenty-sixth and he was not going to, and nobody in this city knew it existed, and the last time a person had asked him about it in a corridor on Vine Street he had said nothing and she had said she would not ask him again in a way available to him to answer.
 
@@ -58,7 +58,7 @@ She wrote nothing down. She did not have a pad in front of her and she did not g
 
 "Three is the one that will do you no good," said Nell Cadby. "There is no office. There is no register of these and there is no place they go. The strip lives in a house, or in a drawer, or in a coat, or in a handbag, or in a envelope with a bill in it, and the reason there is no register is not that anybody decided there should not be one. It is that nobody has ever needed one, because a person who has had a thing done does not come back to anybody to tell them about it. They just do not come back."
 
-Elias Venn stood at a counter on Fenwick Street and found that four months of standing at counters had not got him to the thing he had come for, and that the thing he had come for was about six inches by two and was in a drawer in a woman's own hands, and that this woman had known that in 2024 and had told him nothing because he had not asked.
+Elias Venn stood at a counter on Fenwick Street and found that four months of standing at counters had not got him to the thing he had come for, and that the thing he had come for was about six inches by two, and that it was in a house somewhere, or in a drawer, or in a coat, or in a handbag, and that whoever was holding it had almost certainly been holding it since 2023 and had told him nothing because he had not asked.
 
 "That is the whole of it?"
 
@@ -82,7 +82,7 @@ She works. She has a brother.
 
 He stood at the counter on Fenwick Street and worked out that she was working, because it was Friday, and that Friday is a working day in a laboratory and not a day in a first-floor room, and that on Sunday she would not be there, and that he had known that she had told him not to come in a first-floor room in Corrie Street and had written it back to him by post in one line.
 
-He had a shop on Kettle Rows with four jobs on the bench and forty-four credits in a till, and a piece of paper in a coat in a plastic wallet that he had not opened since the seventh of December, and a notebook with four hundred and thirty pages in it, and he went along Fenwick Street to the bus stop at ten past one and got on a bus with eleven other people and rode it four stops and got off, and he did not go to Saint Orra Reach, because it was ten past one on a Friday and she was at work and he had no reason to go and no right to go and, on the second of those two, had been told in writing.
+He went along Fenwick Street to the bus stop at ten past one with forty credits in the till behind him and the four from the doorbell still in a mug on the shelf, where they were going to stay, and he got on a bus with eleven other people and rode it four stops and got off, and he did not go to Saint Orra Reach, because it was ten past one on a Friday and she was at work and he had no reason to go and no right to go and, on the second of those two, had been told in writing.
 
 The eleven other people on that bus at a quarter past one on a Friday afternoon were a woman with a shopping trolley she had brought on and was going to take off again, a man of about sixty asleep against the window with a newspaper folded back to the crossword, two girls of about seventeen sharing a set of headphones so that one of them had one earbud and was telling the other one something with her hand over the other's ear, a man in a high-visibility vest who got on with a flask and a newspaper and who was asleep at four stops, a woman with a cage on her lap that had a cloth over it and nothing moving under the cloth and who got off at the second stop and carried the cage down the steps very carefully, and six more who were not anybody.
 
@@ -92,13 +92,13 @@ He got off at the fourth stop and walked two streets and stood outside a shop th
 
 ---
 
-The tray on the counter on Fenwick Street was four hundred sheets deep and there were four forms in it and the rubber band round the corner of it had perished and she had cut it off on the Tuesday and kept the end.
+The tray on the counter on Fenwick Street was four hundred sheets deep and there were four forms in it and the rubber band round the corner of it had perished and she had cut it off just after Christmas and kept the end.
 
-He had looked at the top of the tray on Friday morning at ten past ten and had not looked at it properly, because he had come in with a question about a man and had been answered in ninety seconds and had gone away holding the word *strip*.
+He had looked at the top of the tray on Friday morning and had not looked at it properly, because he had come in with a question about a man and had been answered in ninety seconds and had gone away holding the word *strip*.
 
 The top sheet was cream and it was printed on one side and it had five boxes on it, and the boxes were in an order he knew, because the same five questions were on a continuity request in a clinic on Marshall Street and on a payer's claim form in an insurance building, and he had heard the order out loud in a room at the back of a tool registry in December.
 
-The fifth box was headed *who told the patient*. He had seen that box on the twenty-second of December and had been told, by a woman of fifty-two at a counter, that it was the only box on either piece of paper that anybody in either building ever filled in.
+The fifth box was headed *who told the patient*. He had seen that box on Boxing Day morning and had been told, by a woman of fifty-two at a counter, that it was the only box on either piece of paper that anybody in either building ever filled in.
 
 And below the fifth box, with a half inch of white under it, there was a line of type. It was smaller than the boxes and it was not in a box and it ran the whole width of the sheet, and it was, as far as he could see from where he was standing, one sentence.
 

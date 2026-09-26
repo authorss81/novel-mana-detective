@@ -4,7 +4,7 @@ The Aldergate Wing is a municipal fever hospital of 1911 on Wexford Row with twe
 
 He came in by the main doors at ten past seven. The second lift was locked until eleven for the linen run, and there is a sign on it that says LIFT 2 — LINEN 10:00–11:00 that was put there in about 1998 and has been repainted four times.
 
-"Saturday's easier," said Winnie Arkwright, coming past him with a cart. "I can tell you that as somebody who has been doing this run for twenty-two years. There is nobody in this corridor at seven on a Sunday and I can stack the whole thing and be out by nine."
+"Saturday's easier," said Winnie Arkwright, coming past him with a cart. "I can tell you that as somebody who has been doing this run for twenty-two years. There is nobody in this corridor at seven in the morning and I can stack the whole thing and be out by nine."
 
 "You do the run on a Monday as well."
 
@@ -34,7 +34,7 @@ He sat down.
 
 "Who is on the book this morning."
 
-"Twenty-seven people," said Sister Warhurst, "and if I tell you that I will be telling you something that I have no authority to tell a member of the public, and you are one, and I have known that since November when you stood in that corridor for forty minutes not asking me anything."
+"Twenty-seven people," said Sister Warhurst, "and if I tell you that I will be telling you something that I have no authority to tell a member of the public, and you are one, and I have known that since December when you stood in that corridor for forty minutes not asking me anything."
 
 ---
 
@@ -82,7 +82,7 @@ Inspector Nadia Kest had come out of a stairwell two floors down and was carryin
 
 Nadia Kest put the cup on the sill of a window and did not pick it up again.
 
-"The account and the issuing office," she said. "The patient is not a party to the claim. A patient is a participant in a claim and not a party to it, which is a thing the claimant structure has been since the nineteen-sixties and which nobody has ever had to defend because nobody has ever cared. So the correction goes to the account and it goes to the office that issued whatever the claim was turned into, and it does not go to the patient, because the patient cannot receive it, there is nowhere to send it, and in about half the cases in this city the patient has not got an address." She said all of it in about ninety words, in a corridor, at half past eight on a Monday morning, to a member of the public. "And a patient who has been given a copy of a claim holds a copy of the claim as it stood when it was sent to her, which is a true document, and it is a copy of what was true that day, and it stays true for the rest of her life. **And there is no mechanism in this city by which anybody is told that the thing they are holding has been changed.** There is no form. I have looked. I looked for about nine minutes on Friday because a man of thirty-six asked me a general question in a corridor, and I did not find one, and I have been in this job for twenty-two years and I have never had to look for that before."
+"The account and the issuing office," she said. "The patient is not a party to the claim. A patient is a participant in a claim and not a party to it, which is a thing the claimant structure has been since the nineteen-sixties and which nobody has ever had to defend because nobody has ever cared. So the correction goes to the account and it goes to the office that issued whatever the claim was turned into, and it does not go to the patient, because the patient cannot receive it, there is nowhere to send it, and in about half the cases in this city the patient has not got an address." She said all of it in about ninety words, in a corridor, at half past eight on a Monday morning, to a member of the public. "And a patient who has been given a copy of a claim holds a copy of the claim as it stood when it was sent to her, which is a true document, and it is a copy of what was true that day, and it stays true for the rest of her life. **And there is no mechanism in this city by which anybody is told that the thing they are holding has been changed.** There is no form. I have looked. I looked for about nine minutes, because a man of thirty-six asked me a general question in a corridor and then went away, and I did not find one, and I have been in this job for twenty-two years and I have never had to look for that before."
 
 "That is the whole of what I came for."
 
@@ -90,7 +90,7 @@ Nadia Kest put the cup on the sill of a window and did not pick it up again.
 
 "I am not going to tell anybody."
 
-"You told a woman of sixty-one on Marshall Street about five other people in December and she told you what you had done and you agreed with her, and I know that because she telephoned the desk about it in a completely different way, and that was a professional courtesy and I am not going to discuss it." She looked at him for a second. "Elias. It is Monday. I am not going to ask you about anything."
+"You put four sheets on a wall in a waiting room on Marshall Street at the end of November and about sixty people have read them since, and one of them rang this desk about it inside a week, and that was a professional courtesy and I am not going to discuss it." She looked at him for a second. "Elias. It is Monday. I am not going to ask you about anything."
 
 "I know."
 
@@ -110,11 +110,11 @@ They went out into the yard at half past nine because the yard is the only place
 
 "Ask me."
 
-"Twenty-two November, a Thursday, you served a document on eleven addresses in this district and one in the outer wards, and it runs to the fourteenth of January, and that is seven days, and on Tuesday morning it is not there, and there is nothing in this city after Tuesday morning that puts a police officer in any of those eleven rooms."
+"Twenty-two November, a Thursday, you served a document on eleven addresses in this district and one in the outer wards, and it runs to the fourteenth of January, and that is seven days, and on Monday morning a clerk in a municipal building is going to put a word in a box on a form, and on Tuesday morning it is not there, and there is nothing in this city after Tuesday morning that puts a police officer in any of those eleven rooms."
 
 "That is correct."
 
-"And in November a working was run in a first-floor room in Sallow Lane and it did not finish, and what finished it was that document and two officers and a shoulder on a door, and there was a girl of nine on the floor of that room with a book, and nobody in that room had asked for a police officer and there was no police officer in that room, and on Tuesday morning all of that is a thing that happened in a room with no instrument attached to it."
+"And in November a working was run in a first-floor room in Sallow Lane and it did not finish, and what finished it was that document and two officers and a shoulder on a door, and there was a girl of nine on the floor of that room with a book, and nobody in that room had asked for a police officer and there was no police officer in that room, and after Tuesday morning all of that is a thing that happened in a room with no instrument attached to it."
 
 Nadia Kest put her coffee down on the bench nobody sits on.
 
@@ -126,6 +126,8 @@ Nadia Kest looked at him for a long moment in a yard in the cold.
 
 "Do not guess," she said. "Not this time. You have a very good instinct and it has been wrong in front of a room once already and there is a woman of sixty-one who went four nights without a drug because of it, and I have read that minute, because I read all of them, and it is in a file and it is in your own handwriting, and there is not one word of it that I would change." She picked her coffee up. "Seven days. And when it runs out, it does not renew by itself, and nobody rings anybody, because the only person who can ring anybody is the woman whose registration number is on it, and she will be asked, and she will be asked by a clerk, and a clerk will be told to write a word in a box, and I have been in this service long enough to know that the clerk will be frightened and will put the pen down."
 
-At eight o'clock Sister Warhurst had gone into the nurses' station and had taken a patient's name off a list and had written it into the ward book in her own hand for the first time in six weeks, and at a quarter to ten Petronella Osei at reception told a man in a good coat that there was no need to wait at the desk, and at eleven the second lift was unlocked and Winnie Arkwright took forty-one beds' worth of linen up it in nine trips without once being asked whether she minded.
+At eight o'clock Sister Warhurst had gone into the nurses' station and had taken a patient's name off a list and had written it into the ward book in her own hand for the first time since before Christmas, and at a quarter to ten Petronella Osei at reception told a man in a good coat that there was no need to wait at the desk, and at eleven the second lift was unlocked and Winnie Arkwright took forty-one beds' worth of linen up it in nine trips without once being asked whether she minded.
 
 She did not mind the lift. She had said so twice.
+
+He was in the corridor at half past eleven with his coat on when Sister Warhurst came out of the nurses' station with a book under her arm, and it was a book he had not seen her put down since the third of December, and he did not ask her about it, and she looked at him for about a second and said, without being asked anything, "No. I am not going to tell you whether it is the same book. Ask me in a year, and ask me in a room with nobody in it, and do not write this down."
