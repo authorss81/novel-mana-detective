@@ -42,7 +42,7 @@ The man put the sandwich down.
 
 Elias Venn read.
 
-The book was ruled in five columns and the first two were a form number and a date, and the third was a premises, and the fourth was headed **RECEIVED BY**, and the fifth was headed **RUN** and carried a single letter.
+The book was ruled in five columns and the first two were a form number and a date, and the third was a premises, and the fourth was headed **RECEIVED BY**, and the fifth was headed **RUN** and carried either a letter or a number, and most of the lines had a letter in it.
 
 The twelfth of December 2029 was on two pages. On the first of them there were nine lines and on the second there were fourteen, and the fourth line from the top of the first page read:
 
@@ -68,7 +68,7 @@ Elias Venn did not write it down. He had the page in front of him and he wrote f
 
 "Yes."
 
-"**I can tell you which letter a transfer is on, and I cannot tell you who was in the room, and both of those are in the same book, and they are in different columns, and the column I can read you is the one that is not a person.**" He came and stood at the end of the table. "About four people are permitted to be in the building when a form like that one is signed, and the building that gets signed in is not this building, it is the one the file is going to, and the signatory signs it in the corridor outside that room and then carries it down the stairs. That is the arrangement. That is not a secret, it is a set of stairs. I have signed about nine hundred of them and I am not going to guess at a fourth name for a stranger in a chair, and if somebody in this city ever wants to know who was in a corridor on a Thursday evening in December 2029 then the answer is in a rota, and a rota is a document, and a document is a thing you ask the owner of for."
+"**I can tell you which letter a transfer is on, and I cannot tell you who was in the room, and both of those are in the same book, and they are in different columns, and the column I can read you is the one that is not a person.**" He came and stood at the end of the table. "About four people are permitted to be in the building when a form like that one is signed, and the building that gets signed in is not this building, it is the one the file is going to, and the signatory signs it in the corridor outside that room and then carries it down the stairs. That is the arrangement. That is not a secret, it is a set of stairs. I have signed about nine hundred of them and I am not going to guess at a fourth name for a stranger in a chair, and if somebody in this city ever wants to know who was in a corridor on a Wednesday evening in December 2029 then the answer is in a rota, and a rota is a document, and a document is a thing you ask the owner of for."
 
 "And a rota is not a thing a member of the public can ask for."
 
@@ -122,7 +122,7 @@ And then, underneath that, and this was the part he stood in the corridor about 
 
 The line in the index for the twelfth of December 2029 was not on a Friday.
 
-The twelfth of December 2029 was a Thursday, and the letter in the fifth column on that line was not a round at all, it was a number with a tick beside it, and the man in the store looked at it for about two seconds and then said the thing that took the whole of the weight out of the morning.
+The twelfth of December 2029 was a Wednesday, and the entry in the fifth column on that line was not a round at all, it was a number with a tick beside it, and the man in the store looked at it for about two seconds and then said the thing that took the whole of the weight out of the morning.
 
 "**Fourteen,**" he said. "That is not a round. Fourteen is a hand-carried transfer. **That is somebody carrying a file down a corridor with a form, at a quarter to seven in the evening, on a day that is not on my board, with about four people in the corridor, and the signature is the signature of whoever was holding it, and it is not a signature of mine because I do not go in at that hour and have never gone in at that hour.**"
 
@@ -134,4 +134,4 @@ The twelfth of December 2029 was a Thursday, and the letter in the fifth column 
 
 "Signs it and carries it and puts it on the shelf and the shelf is in a room and the room has a door and about four people are allowed in that room and I am one of the four this week." He stopped. "**And you are not going to ask me which room, and I am not going to tell you, and it is a different building and it is about two miles from here, and that is the last thing I am going to say to you today.**"
 
-Elias Venn stood in a chair by the end of the second row of shelving on a Wednesday afternoon in March and found out that the whole of the ordinary arrangement in this city was a Friday and a van, and that the one night he was interested in had gone in on a Thursday, by hand, four minutes after somebody had said four words into a telephone, and that a thing like that is not a conspiracy and does not need to be, and is not going to be in a book, and that there was no way whatever to stand at the bottom of that corridor and ask who was on it, because the answer to that was a post, and a post is a word and not a name, and a word is not a door.
+Elias Venn stood in a chair by the end of the second row of shelving on a Wednesday afternoon in March and found out that the whole of the ordinary arrangement in this city was a Friday and a van, and that the one night he was interested in had gone in on a Wednesday, by hand, ten minutes after somebody had said four words into a telephone, and that a thing like that is not a conspiracy and does not need to be, and is not going to be in a book, and that there was no way whatever to stand at the bottom of that corridor and ask who was on it, because the answer to that was a post, and a post is a word and not a name, and a word is not a door.

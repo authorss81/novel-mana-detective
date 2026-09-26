@@ -80,7 +80,7 @@ He wrote it without looking at it and he wrote it the way a man writes a thing h
 
 Elias Venn did not write it down either.
 
-The till in a shop four streets from a parade had stood at fifty credits since the twelfth of January, minus eleven that went into an envelope in a post box, plus nine that came back in an envelope with a lease in it, and it stood at forty-eight, and on Thursday the eleventh of April it was still at forty-eight, and nobody in that shop and nobody in that building was going to be told that.
+The till in the back room at 3 Tanners Row had stood at fifty credits since the twelfth of January, minus eleven that went into an envelope in a post box on the twelfth of March, plus nine that came back in an envelope with a lease in it on the second of April, minus two for a stamp on the same afternoon, and it stood at forty-six, and on Thursday the eleventh of April it was still at forty-six, and nobody in that shop and nobody in that building was going to be told that.
 
 ---
 
@@ -132,7 +132,7 @@ Mara Quill was about thirty-five and had been on that bench since half past one 
 
 "I have not come about the protocol."
 
-"I know why you have come, and you are not going to say, and that is the second time in eleven weeks." She turned the stool round. "**There is a piece of paper in your coat. It has been in your coat since February and I have watched you not tell me about it for eleven weeks and I have watched you bring it into this building four times and put it in the other room, and I am not going to ask you what it is, and I want you to know that not asking is a decision and not a forgetting, and I have made it four times.**"
+"I know why you have come, and you are not going to say, and that is the second time in seven weeks." She turned the stool round. "**There is a piece of paper in your coat. It has been in your coat since February and I have watched you not tell me about it for seven weeks and I have watched you bring it into this building four times and put it in the other room, and I am not going to ask you what it is, and I want you to know that not asking is a decision and not a forgetting, and I have made it four times.**"
 
 "I know."
 

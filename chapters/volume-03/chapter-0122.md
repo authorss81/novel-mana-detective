@@ -10,7 +10,7 @@ Sana Okafor rang him at about ten past six on Monday evening, which she had neve
 
 He said all right and she said goodnight and that was the whole of the call.
 
-He did not sleep much. He got to Wexford Row at about twenty to eleven on Tuesday morning and there was a bus stop at the corner that he had used twice in a fortnight and a yard gate standing open and nine bays and eleven stacked chairs under a canopy that he looked at for about a second and a half and then deliberately did not look at, and he had been in this car park in March for two hours and forty-five minutes because a doctor had told him to sit in it.
+He did not sleep much. He got to Wexford Row at about twenty to eleven on Tuesday morning and there was a bus stop at the corner that he had used twice in a fortnight and a yard gate standing open and nine bays and a stack of folded chairs under a canopy that he looked at for about a second and a half and then deliberately did not look at, and he had been in this car park in March for two hours and forty-five minutes because a doctor had told him to sit in it.
 
 The corridor outside the day room had a chair in it with a blanket folded over the back of it and a plastic cup on the sill of a window that gave on to a wall about four feet away.
 
@@ -32,7 +32,7 @@ It was ruled in days and it was a working document and it was the operator's. On
 
 "It looked like a record of a night," said Elias Venn.
 
-"It looked like one because I have told you it was one." She turned the sheet so he could see the front. "That is a working sheet and it is written up at the end of a shift, and the operator's end of a shift is not the same as the ward's end of a shift, and the ward finishes at eleven at night and this building's office finishes at six, and the office writes the day's sheet up on the Friday for the Monday. That is the whole of it. The transfer was in daylight, at twenty to six in the afternoon on the eleventh of February, in front of everybody on that floor, and somebody carried her out of a warm room into a cold one and put her back again two hours later, and there is a piece of paper in this city that would record that, and it is not this piece of paper."
+"It looked like one because I have told you it was one." She turned the sheet so he could see the front. "That is a working sheet and it is written up at the end of a shift, and the operator's end of a shift is not the same as the ward's end of a shift, and the ward finishes at eleven at night and this building's office finishes at six, and the office writes the day's sheet up on the Friday for the Monday. That is the whole of it. The transfer was in daylight, at a quarter to six in the afternoon on the eleventh of February, in front of everybody on that floor, and somebody carried her out of a warm room into a cold one and put her back again two hours later, and there is a piece of paper in this city that would record that, and it is not this piece of paper."
 
 "Why not."
 
@@ -114,7 +114,7 @@ The operator's day room has a day staff and a night porter and no night rota, be
 
 He had worked out, in nine weeks, in about four minutes at a time, that the only way anybody in this city could ever tell him which door that was would be to ask three women of seventy-one, eighty-one and sixty-nine to write down the same sentence, and then to put the three sentences beside the writing of a police report, and to look.
 
-He was not going to do it. He was not going to do it because he could not read a person, and a woman of eighty-one had told him a thing was not there and he believed her, and because the two rules on the back of a delivery note in a laboratory in Saint Orra Reach were in his coat drawer in a laboratory and not in his pocket and they were in his head, and because a woman of thirty-four in a corridor had said *they are kind about it, that is what I want said*, and because in nine weeks nobody had asked him to do anything and he had not done anything, and doing that one thing would have been the end of all of it.
+He was not going to do it. He was not going to do it because he could not read a person, and a woman of eighty-one had told him a thing was not there and he believed her, and because the two rules on the back of a delivery note in a laboratory in Saint Orra Reach were in his coat drawer in a laboratory and not in his pocket and they were in his head, and because a woman of thirty-eight in a corridor had said *they are kind about it, that is what I want said*, and because in nine weeks nobody had asked him to do anything and he had not done anything, and doing that one thing would have been the end of all of it.
 
 "Sana," he said.
 

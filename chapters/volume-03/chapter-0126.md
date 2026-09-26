@@ -16,7 +16,7 @@ The book had four pages in it that were blank and it had been on that table sinc
 
 Perpetua Ayodele was at the office door with a list on a clipboard and she was forty-four and had been the day worker for six years, and she looked at Elias Venn and then at the man in the doorway and did not say anything about either.
 
-"Right," she said. "**Seven.**
+"Right," she said. "**Seven.**"
 
 "Seven what."
 
@@ -60,7 +60,7 @@ The man with the clipboard was called Martin Rowntree and he was forty-seven and
 
 "No one has said anything."
 
-"You have got a face on you." He turned the clipboard round. "Bed frames, seven. Side tables, eleven. Curtain rails, six. I have got it all and I am counting it and I am going to be honest with you about why, because you have got a coat on that says you are asking. **I am counting furniture because furniture can be counted, and I have got to sign this sheet at the end of it, and the sheet says what is removed from the premises and where it goes, and I cannot sign a sheet that says a person.**"
+"You have got a face on you." He turned the clipboard round. "Bed frames, seven. Side tables, nine. Curtain rails, six. I have got it all and I am counting it and I am going to be honest with you about why, because you have got a coat on that says you are asking. **I am counting furniture because furniture can be counted, and I have got to sign this sheet at the end of it, and the sheet says what is removed from the premises and where it goes, and I cannot sign a sheet that says a person.**"
 
 "You do not have to."
 

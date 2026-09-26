@@ -30,7 +30,7 @@ The radio went on behind her. A lorry went past at the end of the street, out of
 
 "You did not answer it," said the woman. "**That is the only thing I ask anybody who comes to that door. I have never asked them anything else and I am not going to start, and it is not a test and it is not a form and I do not want to know whatever it is.** I have had four people sent here by the man at the counter in the parade and about a dozen I have never seen the front of, and every one of them has been able to tell me in about nine words what they were told to leave out, and about nine of them have told me in a kitchen where their family were and one of them has told me on a doorstep with a child on her hip, and I have never once known what any of it was and I have never once wanted to."
 
-Elias Venn stood on a step in Pellow Street and could not answer a question, and the reason was in nine words in a different pocket of the same coat, made on a Thursday in February to a man who worked nights in a building four streets from here, and he was not going to say what the reason was on the first of April to a woman he had known for four minutes, and he was not going to say it because he had said it, and because saying a thing twice is how a thing stops being a promise and starts being a habit.
+Elias Venn stood on a step in Pellow Street and could not answer a question, and the reason was in nine words in a different pocket of the same coat, made on a Thursday in February to a man who worked nights in a building four streets from here, and he was not going to say what the reason was on the twenty-fifth of March to a woman he had known for four minutes, and he was not going to say it because he had said it, and because saying a thing twice is how a thing stops being a promise and starts being a habit.
 
 "I am not going to answer that," he said.
 
@@ -52,7 +52,7 @@ She looked at him for longer that time.
 
 "Nobody has ever said that to me at that table," she said. "Four years. Not one person. **The ones who come here put a hand on it straight away, every one of them, and they all get a strange look and go quiet, and I have always thought it was religion.**"
 
-"Have people put their hands on it."
+"Have people put their hands on it?"
 
 "Two of them. I did not stop them. I have thought about stopping them since." She moved the cloth a little and then put it back. "**The book is mine. I do not read it to anybody, I do not read it to myself, and I do not take it out of this room.**"
 

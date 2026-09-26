@@ -32,11 +32,11 @@ Alaric Nunn thought about it for about eleven seconds, which was longer than Eli
 
 He shut it and put the rubber band back on and did not let go of it.
 
-"**Now you have got it and you have not got a copy, and I am going to say the thing that nobody has ever asked me for, and I have been waiting since the twelfth of December and it has been eleven weeks and about four days, and I have thought about it every night since, and I am saying it to you because you are a member of the public and there is nobody else, and I am aware of exactly how that sounds.**"
+"**Now you have got it and you have not got a copy, and I am going to say the thing that nobody has ever asked me for, and I have been waiting since the twelfth of December and it has been fifteen weeks and a day, and I have thought about it every night since, and I am saying it to you because you are a member of the public and there is nobody else, and I am aware of exactly how that sounds.**"
 
 "Then say it."
 
-"Say it out loud, and not to a woman at a counter." He pulled his hand off the notebook at last. "**On the evening of the twelfth of December I was told the matter was closed. It was said to me by telephone. The telephone was in a room. There were about four people in the room and I was not one of them and the room had a door, and I have said the word room out loud about nine times in eleven weeks in this corridor, on my own, to a radiator.** And that is it. That is the whole of the eleven weeks. A man in a good coat came in February and asked me about a bed and I told him about a telephone because I have not been able to do anything else with it, and I have not been asked about it once by anybody who could do anything, and I have not told my sister, and I am not going to tell my sister, and if you put that in a book I will tell you where you got it and I will be telling the truth when I do it."
+"Say it out loud, and not to a woman at a counter." He pulled his hand off the notebook at last. "**On the evening of the twelfth of December I was told the matter was closed. It was said to me by telephone. The telephone was in a room. There were about four people in the room and I was not one of them and the room had a door, and I have said the word room out loud about nine times in fifteen weeks in this corridor, on my own, to a radiator.** And that is it. That is the whole of the fifteen weeks. A man in a good coat came in February and asked me about a bed and I told him about a telephone because I have not been able to do anything else with it, and I have not been asked about it once by anybody who could do anything, and I have not told my sister, and I am not going to tell my sister, and if you put that in a book I will tell you where you got it and I will be telling the truth when I do it."
 
 "Who was in the room."
 
@@ -46,7 +46,7 @@ He shut it and put the rubber band back on and did not let go of it.
 
 "**I am not going to say and you are not going to make me, because I have thought about it and if I say a name then that name is a man who is finished, and I have not got a case number in front of me, and I do not know what I would be starting.**" He said it without heat, and then, with a great deal less: "And I have been asked that exact question in this corridor by two men in six weeks and both of them asked it in the first ten minutes, and I have said no to both of them, and I would have said no to you this morning and I have said something else, and I would like you to notice that I have noticed."
 
-Elias Venn sat on the end of a desk opposite a police sergeant of forty-seven and did not say anything, because there was nothing to say that would not have been worse than the silence, and because the man had been alone in a corridor for eleven weeks with a radiator and a rubber band and a sentence he had never said to anybody, and had said it to a stranger in a good coat because the alternative was to say it to nobody ever again, and because that was not a decision to trust him and it was a decision to stop.
+Elias Venn sat on the end of a desk opposite a police sergeant of forty-seven and did not say anything, because there was nothing to say that would not have been worse than the silence, and because the man had been alone in a corridor for fifteen weeks with a radiator and a rubber band and a sentence he had never said to anybody, and had said it to a stranger in a good coat because the alternative was to say it to nobody ever again, and because that was not a decision to trust him and it was a decision to stop.
 
 ---
 
@@ -74,15 +74,15 @@ He came.
 
 "Go back out to the desk," said the sergeant, and went out to the desk, and took a sheet of paper off the spike, and did not put it down yet.
 
-"**Before that. The seventy minutes.** I have not said that out loud either, and I have thought about it more than I have thought about the room, because the room I cannot do anything about and the seventy minutes I can do something about, and what I can do about it is say it, and I would like somebody to have the order of it in a room." He put his finger on the desk, not on anything. "I was in the corridor at ten to seven. At about ten to seven somebody in a room I was not in said four words to somebody, and the four words went into a telephone, and the telephone was in that room. **At about a quarter to seven a file went into a store, and it went by hand, and it was signed for, and it was not on anybody's round.** And at about ten to eight they opened the door of the room I was waiting outside, and I went in, and there was a piece of paper on a table, and I signed it, and it took about four minutes, and I came out at about ten past eight and went home and my sister had my brother's tea."
+"**Before that. The seventy minutes.** I have not said that out loud either, and I have thought about it more than I have thought about the room, because the room I cannot do anything about and the seventy minutes I can do something about, and what I can do about it is say it, and I would like somebody to have the order of it in a room." He put his finger on the desk, not on anything. "I was in the corridor at about twenty-five to seven. At about twenty-five to seven somebody in a room I was not in said four words to somebody, and the four words went into a telephone, and the telephone was in that room. **At about a quarter to seven a file went into a store, and it went by hand, and it was signed for, and it was not on anybody's round.** And at about a quarter to eight they opened the door of the room I was waiting outside, and I went in, and there was a piece of paper on a table, and I signed it, and it took about four minutes, and I came out at about ten past eight and went home and my sister had my brother's tea."
 
 "So the decision was made before the paper moved."
 
-"**The decision was made before the paper moved, the paper moved four minutes after the decision, and then I waited seventy minutes for a door.**" He said it as a man laying out a row of figures he had gone over on his own for eleven weeks. "That is the whole of the order of it, and it is the only thing I have got, and here is why I have kept it. If a person tells you a thing was closed and then a file goes into a store, that is a file being put away. If a person tells you a thing was closed, and a file goes into a store four minutes later, and then a sergeant waits seventy minutes outside a door for a piece of paper he is going to sign, then **the file went into the store because somebody decided it should, the decision was not the sergeant's, and the sergeant was not told what the file was for until he was handed a thing to sign about it.** And in eleven weeks I have not found one box on one form in this building that says *here is the order of those two things*, and I have looked, and there is a form for eleven kinds of thing and one of the eleven is a reason a file is being kept and not one of the eleven is a reason it went."
+"**The decision was made before the paper moved, the paper moved ten minutes after the decision, and then I waited seventy minutes for a door.**" He said it as a man laying out a row of figures he had gone over on his own for fifteen weeks. "That is the whole of the order of it, and it is the only thing I have got, and here is why I have kept it. If a person tells you a thing was closed and then a file goes into a store, that is a file being put away. If a person tells you a thing was closed, and a file goes into a store ten minutes later, and then a sergeant waits seventy minutes outside a door for a piece of paper he is going to sign, then **the file went into the store because somebody decided it should, the decision was not the sergeant's, and the sergeant was not told what the file was for until he was handed a thing to sign about it.** And in fifteen weeks I have not found one box on one form in this building that says *here is the order of those two things*, and I have looked, and there is a form for eleven kinds of thing and one of the eleven is a reason a file is being kept and not one of the eleven is a reason it went."
 
 "Have you written that down."
 
-"No, and I have thought about it every night for eleven weeks, and there is a piece of paper on this desk with a rubber band on it, and if I write that down then the only word in it is mine, and there is about a two per cent chance in this building that my word survives contact with a supervisor."
+"No, and I have thought about it every night for fifteen weeks, and there is a piece of paper on this desk with a rubber band on it, and if I write that down then the only word in it is mine, and there is about a two per cent chance in this building that my word survives contact with a supervisor."
 
 He looked up.
 
@@ -100,7 +100,7 @@ Elias Venn did not move for a moment.
 
 "Who decided the matter was closed."
 
-"I do not know. I was told. It came down the line at ten to seven and there is a call sheet in the front office for the twelfth of December and I have asked for it twice, and I am a sergeant, and I have been refused twice, and both times the answer was that it was a supervisory line and I was not on it."
+"I do not know. I was told. It came down the line at about twenty-five to seven and there is a call sheet in the front office for the twelfth of December and I have asked for it twice, and I am a sergeant, and I have been refused twice, and both times the answer was that it was a supervisory line and I was not on it."
 
 "Which supervisor."
 
@@ -108,7 +108,7 @@ Elias Venn did not move for a moment.
 
 "Who was in the room."
 
-"About four people. I have said that four times today and I have said it to you twice and I am not going to say it a fifth time, and I have thought about saying it for eleven weeks, and it is the sentence I have said to a radiator the most."
+"About four people. I have said that four times today and I have said it to you twice and I am not going to say it a fifth time, and I have thought about saying it for fifteen weeks, and it is the sentence I have said to a radiator the most."
 
 "What was in the file."
 
@@ -116,7 +116,7 @@ Elias Venn did not move for a moment.
 
 Elias Venn stood against a filing cabinet in a corridor on Corbie Street on a Thursday afternoon and gave a police sergeant of forty-seven a moment, and it went on for about forty seconds, and neither of them said anything in it, and the building went on around them with a telephone ringing in a corridor and a door on a latch and a bin being emptied somewhere below.
 
-"Right," said Alaric Nunn, eventually. "**Now you have done it and I am not going to thank you, because if I thank you then this was a favour, and it was not a favour, it was a Thursday, and I asked for it, and that is the whole of the difference and it has taken me eleven weeks to be able to say it out loud in a corridor to a man in a good coat.**"
+"Right," said Alaric Nunn, eventually. "**Now you have done it and I am not going to thank you, because if I thank you then this was a favour, and it was not a favour, it was a Thursday, and I asked for it, and that is the whole of the difference and it has taken me fifteen weeks to be able to say it out loud in a corridor to a man in a good coat.**"
 
 He put the sheet of paper down on the desk face up. It was a rota, printed in a grid with a name against each day, and it was his own week.
 
@@ -124,7 +124,7 @@ He put the sheet of paper down on the desk face up. It was a rota, printed in a 
 
 "Which somebody."
 
-"**A woman you have not met**, who has been putting a pad in a book in a courthouse for four years, and who I have never seen." He squared the rota again. "She is going to write down where I am on a Tuesday and I am not going to stop her, and that is the whole of what a man in my position can do about a corridor he could not open, and it is a rota and it is a pad in somebody else's book, and it is eleven weeks late, and I would do it again on Monday."
+"**A woman you have not met**, who has been putting a pad in a book in a courthouse for four years, and who I have never seen." He squared the rota again. "She is going to write down where I am on a Tuesday and I am not going to stop her, and that is the whole of what a man in my position can do about a corridor he could not open, and it is a rota and it is a pad in somebody else's book, and it is fifteen weeks late, and I would do it again on Monday."
 
 Elias Venn did not touch the rota and did not write the days down, because the days were the whole of the gift and a man who copies a gift into a notebook has made it a document, and he had watched a man in a tie do that to himself in a chair in a store the day before.
 

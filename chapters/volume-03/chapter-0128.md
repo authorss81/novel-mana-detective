@@ -24,7 +24,7 @@ He telephoned Corbie Street at about eleven and asked for Nadia Kest and was put
 
 The request was eleven lines and it was in his own hand and it went to a registered address on the morning of Friday the fifth of April in an envelope with his own name and his own address on it, and the envelope had a man's name nowhere on it, and there was a sentence on page two about a night in December 2029 and a file in a store and a form with a signature on it and about four people in a corridor, and there was no name of a night porter in it anywhere, and on Monday the eighth of April at eleven o'clock in the morning he was shown into a room on the second floor of a building in Kettle Rows with a table in it and four chairs and a window that gave on to a wall about four feet away, which was the single most ordinary room in this city and which he had been in a version of in three other buildings since February.
 
-There were four chairs and he counted them without deciding to and it was four and he wrote nothing down.
+There were four chairs, and he counted them because he was not going to manage not to, and it was four, and he wrote nothing down.
 
 Deputy Chief Aveline Orr was fifty-three and had been in the force twenty-six years and she was not a large woman and she had a folder in front of her that was about four inches thick, and she read the first page of his eleven lines with a pencil in her hand and then put the pencil down and did not pick it up again, which he noticed, and which told him that she had not made a mark in eleven lines and that she was not going to.
 
@@ -62,7 +62,7 @@ Elias Venn sat in a chair in a room on the second floor of a building in Kettle 
 
 "How many."
 
-"**Four hundred and nine,**" said Deputy Chief Orr. "Not all of them are the same and about forty of them are not like the other three hundred and sixty. I have got that number in a drawer in this building and it is not a secret, and there is no piece of paper in this city that says what the nine years were, and you have spent six months finding that out about one night and one man and one building."
+"**Four hundred and nine,**" said Deputy Chief Orr. "Not all of them are the same and about forty of them are not like the other three hundred and sixty-nine. I have got that number in a drawer in this building and it is not a secret, and there is no piece of paper in this city that says what the nine years were, and you have spent six months finding that out about one night and one man and one building."
 
 "The registrar said the same thing in March."
 
@@ -120,7 +120,7 @@ Deputy Chief Orr did not move at all.
 
 He stood up too, because she had.
 
-"The ninth of April, two o'clock, the rooms on the ground floor at Corbie Street. It is not a hearing and it is not an inquiry and it is a review of a contract, and the contract ended on the thirty-first of March, and it has a hardback book on a table and a box on a notice, and both of them have been empty since the fourteenth of January."
+"The ninth of April, two o'clock, the Corrie Street rooms. It is not a hearing and it is not an inquiry and it is a review of a contract, and the contract ended on the thirty-first of March, and it has a hardback book on a table and a box on a notice, and both of them have been empty since the fourteenth of January."
 
 "A review."
 

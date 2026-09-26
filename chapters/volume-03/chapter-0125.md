@@ -4,7 +4,7 @@ He got to the parade at about twenty past two on the Friday afternoon and he wal
 
 There were four bins and a stack of flattened cardboard and a wall with a poster about a recycling collection that had been taken down and had left a clean rectangle and a staple. There was a door with a bar across it and no sign on it, and the bar was down.
 
-He stood in the yard for about two minutes. On the far side of the glass in the waiting area there were nine chairs and a table with a leaflet holder on it, and he walked past the glass and did not count them, and he noticed that he did not count them, and he stood there for a second afterwards working out what that was.
+He stood in the yard for about two minutes. On the far side of the glass in the waiting area there were eleven chairs and a table with a leaflet holder on it, and he walked past the glass and did not count them, and he noticed that he did not count them, and he stood there for a second afterwards working out what that was.
 
 The door opened.
 
@@ -16,7 +16,7 @@ The door opened.
 
 "Would you have written it."
 
-"I wrote it on Friday and I have been thinking about it all week and I have decided that I would do it again," said Ray Tindall, "and I have also decided that if you had asked me in the parade I would have said no, and I would have said no because you were a man in a good coat in a parade, and I have been right about about nine things in four years and that is not one of them."
+"I wrote it on Friday and I have been thinking about it all week and I have decided that I would do it again," said Ray Tindall, "and I have also decided that if you had asked me in the parade I would have said no, and I would have said no because you were a man in a good coat in a parade, and I have been right about nine things in four years and that is not one of them."
 
 He came and stood against the wall opposite, six feet away, at a distance that was not accidental.
 
@@ -58,7 +58,7 @@ Ray Tindall put both hands in the pockets of the fleece.
 
 Ray Tindall took his hands out of his pockets.
 
-"Twenty-six," he said. "It was a man of about thirty-four and he had a bag and he had been in my office four times and on the fourth time I wrote it on the back of a form and pushed it across, and I did not read it out then either, and I have not read out one since. **He went. She took him in. And eleven weeks later he came back into this building through the front door, which I have not told anybody that either, and he stood where you are standing, and he asked me whether there was a form.**"
+"Twenty-six," he said. "It was a man of about forty and he had a bag and he had been in my office four times and on the fourth time I wrote it on the back of a form and pushed it across, and I did not read it out then either, and I have not read out one since. **He went. She took him in. And eleven weeks later he came back into this building through the front door, which I have not told anybody that either, and he stood where you are standing, and he asked me whether there was a form.**"
 
 "What did you say."
 
@@ -152,4 +152,4 @@ Ray Tindall stood in a doorway with a bar in his hand.
 
 "That is either the best thing anybody has said to me since I started here," he said, "or it is a very good line, and I have been doing this job for four years and I have not worked out which, and I am not going to find out today."
 
-He put the bar back across the door and shut it, and the glass in the door was the same glass, and on the other side of the glass a man of thirty-six went through a waiting area with nine chairs in it and did not sit down on any of them.
+He put the bar back across the door and shut it, and the glass in the door was the same glass, and inside the building, through the glass at the front, the man of thirty-six went across a waiting area with eleven chairs in it and did not sit down on any of them.
