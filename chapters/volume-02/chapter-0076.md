@@ -40,7 +40,7 @@ Elias Venn stood in a corridor of the Kettle Rows Community Clinic on a Saturday
 
 Doreen Tillery looked at him.
 
-"That is the first question anybody has asked me about any of this," she said, "and it is the right one, and here is the answer and it is not a good one. She can have them on Monday morning if I can get a form into her hand, and I cannot get a form into her hand, because a note on a file is not a form. A repeat comes off that rack against a completed form. That is the whole of the rule and I did not write it. I have told her Monday, because I have told that woman Monday for four years, and I have told her every week since the middle of November, and Monday is going to be the fourth week in a row that I have told her a thing I could not do, and I have done that three times."
+"That is the first question anybody has asked me about any of this," she said, "and it is the right one, and here is the answer and it is not a good one. She can have them on Monday morning if I can get a form into her hand, and I cannot get a form into her hand, because a note on a file is not a form. A repeat comes off that rack against a completed form. That is the whole of the rule and I did not write it. I have told her Monday, because I have told that woman Monday for four years, and I have told her every week since the end of November, and Monday is going to be the fourth week in a row that I have told her I could not do the thing she carries about in that bag, and I have done that three times, and she has had her tablets in every one of those three weeks, and on Monday she will not, and that is the first time in four years I have said it to her about the tablets."
 
 ---
 

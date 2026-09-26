@@ -49,7 +49,7 @@
 ## Enid Marlow, 63 (new in Arc C)
 
 - **The clinic's ledger, nineteen years.** Keeps the continuity sheet in a drawer on its own because that is where a *where do we send it* thing goes, and has never put the sheet in the book.
-- **Put the continuity sheet and the wire rack side by side in about nine seconds on Saturday 20 December** and had never done it in nineteen years, and said nobody would now either, and that the moment they do, somebody in a corridor will do it in a corridor in a fortnight, and then they will have told the eleven.
+- **Put the continuity sheet and the wire rack side by side in about nine seconds on Saturday 22 December** and had never done it in nineteen years, and said nobody would now either, and that the moment they do, somebody in a corridor will do it in a corridor in a fortnight, and then they will have told the eleven.
 - Says the arc's sentence in arithmetic and not as a question: **everything on that sheet that keeps one of those women alive is also the only reason there is no address for her** — and that if she gave one of them a proper address in her own name tomorrow, that woman would come off the sheet and she would not know where her medicine went and neither would the woman who carries it.
 - Reads out a claim form from a copy with nothing on it, in a borrowed room, with a member of the public made to leave for four minutes first, and says **the two papers are not the same paper and were not printed by the same people and are the same question**, and names the five questions in order.
 
@@ -75,11 +75,11 @@
 - **The back page, in a second hand, in a different ink: eleven addresses.** It appeared between the second week of February and the fourth week of March, has never been added to, and she has never found the page where it arrived. **She does not know who wrote it and has never asked, because it is on the page where the bread is written down.**
 - **Four answers to whether she has ever sent anybody anywhere, and the fourth is the true one**, and then she makes him carry a plate to a yard behind number thirty-one: **four minutes, four plates, four lids, and a voice behind the pallets asking whether there was anything on the bread.**
 
-## Una Ferrers's mother, 61 (new in Arc C)
+## Una Ferrers, 61 (new in Arc C)
 
 - **Four years of repeats at the dispensary. A friend whose floor she is on. Never once late before Friday 21 December 2029.** A form in her handbag for three weeks with a head on it that is not the clinic's and a box in the wrong place, given to her by a man she did not know, which nobody has ever asked her about.
-- **Is the one who pays.** Four nights without a drug — Friday 21 December evening, Saturday 22, Sunday 23, Monday 24 — because a repeat comes off the rack against a completed form and a note on a file is not a form, and because a member of the public said the wrong thing first in a back room in front of her.
-- **On 26 December she telephones the dispensary at nine in the morning and asks for her repeat to be sent to a dispensary on Halloway Street instead**, says it is because of the walk, and it is not because of the walk, and Doreen Tillery does not ask. It is done in about nine seconds and there is no form for it and she could have done it in September.
+- **Is the one who pays, and the four nights are the whole of it.** Four nights without a drug — Friday 21 December evening, Saturday 22, Sunday 23, Monday 24, and the repeat goes out at ten on Christmas morning — because a repeat comes off the rack against a completed form and a note on a file is not a form, and because a member of the public said the wrong thing first in a back room in front of her. **She has had her tablets every Friday for four years and has not once been refused; what she has been refused three times, on the Mondays of 3, 10 and 17 December, is the form that came out of her handbag, and the fourth refusal is Monday 24 December and is the first one about the tablets.**
+- **On Christmas morning, Tuesday 25 December, at nine, she telephones the dispensary and asks for her repeat to be sent to a dispensary on Halloway Street instead, and Doreen Tillery tells him about it at twenty past twelve on the twenty-sixth**, says it is because of the walk, and it is not because of the walk, and Doreen Tillery does not ask. It is done in about nine seconds and there is no form for it and she could have done it in September.
 - **Her name is in no notebook of his and is on no document of his**, and she is not asked a question about a treatment by anybody in this batch.
 
 ## Wendell Combe, 63 (new in Arc C)

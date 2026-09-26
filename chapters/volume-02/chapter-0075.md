@@ -86,7 +86,7 @@ He did not look at Una Ferrers and he said so, out loud, so that there was a rec
 
 "Then stop being dramatic about it and tell me what you have seen, because you have said four words in the last ten seconds and Mrs Ferrers is going to think they are about her."
 
-"He has seen an order," said Elias Venn. "He has not seen who. He cannot see who, that is the first thing I say about everything I have ever seen, and I have said it in five rooms in this city since September and nobody has written it down. What he has seen is that this piece of paper is not a piece of paper, and that there is a release sitting on the end of it waiting for somebody to sign a line, and that **a release that is not committed is not a release**, and I told a woman in a room in Kettle Rows that in November and the woman in the room with me in November heard me say it."
+"He has seen an order," said Elias Venn. "He has not seen who. He cannot see who, that is the first thing I say about everything I have ever seen, and I have said it in six rooms in this city since September and nobody has written it down. What he has seen is that this piece of paper is not a piece of paper, and that there is a release sitting on the end of it waiting for somebody to sign a line, and that **a release that is not committed is not a release**, and I told a woman in a room in Kettle Rows that in November and the woman in the room with me in November heard me say it."
 
 "And the false start," said Doreen Tillery.
 
@@ -118,7 +118,7 @@ He had agreed on Thursday that he would tell her before he said a thing about a 
 
 ---
 
-"The order of it," said Elias Venn. "I have said it in order. There is a release seated on the end of that form and it is waiting for a signature and I have told the woman at the counter and I have told the woman in the room and I am telling you now, and I have not put a hand on a patient or on a person at any point in this room and I said so out loud in front of five people and I am saying it again for you because you did not hear it.
+"The order of it," said Elias Venn. "I have said it in order. There is a release seated on the end of that form and it is waiting for a signature and I have told the woman at the counter and I have told the woman in the room and I am telling you now, and I have not put a hand on a patient or on a person at any point in this room and I said so out loud in front of four people and I am saying it again for you because you did not hear it.
 
 "And I was wrong about the gap," he said. "I said a false start and it is not a false start. **It is a figure written twice. A woman wrote a line and did not like it and wrote it again, and the two impressions are a fact about pens, and I have had that written in my own book since the sixth of December in the words of a woman in a laboratory who told me it happens about four times a day in this city, and I have said it in a room anyway, in front of a patient, four minutes ago.**"
 

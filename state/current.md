@@ -49,7 +49,7 @@ Last batch summary: `state/batch-0008-summary.md`. **Load this next, not the cha
 
 ## The next dated events
 
-- **Wednesday 7 January 2030** — Sister Ivy Warhurst back on the ward book, and four photographs in a drawer that may not be released to any office.
+- **Monday 7 January 2030** — Sister Ivy Warhurst back on the ward book, and four photographs in a drawer that may not be released to any office.
 - **About the middle of January 2030** — a woman of thirty-one finds out what has been taken, and a girl of nine finds out that she was in a room. **Sixteen days away at the close of this batch. Arc D may deliver this and it must be a scene and not a mention.**
 - **Monday 14 January 2030** — the end of the protection order. Somebody in a municipal building is going to write a word on a form.
 - **Sunday 16 December 2029** — the date inside a memory that has not happened. It came and went with nothing in it. **It must not be resolved in batch 0009, and Nadia Kest has not been told and must not be told.**

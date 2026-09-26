@@ -94,11 +94,11 @@ The dispensary counter at twenty past twelve on Boxing Day.
 
 Doreen Tillery was on the late and the rack had been cleared down to six envelopes because it was Boxing Day and the building was quiet.
 
-"She rang at nine this morning," she said.
+"She rang at nine on Christmas morning," she said.
 
-"Who rang at nine this morning."
+"Who rang at nine on Christmas morning."
 
-"Mrs Ferrers. She rang the dispensary at nine this morning and asked whether her repeat could be sent to the dispensary on Halloway Street instead, and she was very polite about it and she said it was because of the walk, and it is not because of the walk, and I did not ask, because I do not ask." Doreen Tillery did not look up from the rack. "And I said yes, and it went out at ten on Christmas morning, and there is no rule that says she cannot do that, and there is no form for a woman to have her repeat moved from one dispensary to another, and she could have done it in September, and I have known that since November and I have said it to myself about forty times and it has not once helped."
+"Mrs Ferrers. She rang the dispensary at nine on Christmas morning and asked whether her repeat could be sent to the dispensary on Halloway Street instead, and she was very polite about it and she said it was because of the walk, and it is not because of the walk, and I did not ask, because I do not ask." Doreen Tillery did not look up from the rack. "And I said yes, and it went out at ten on Christmas morning, and there is no rule that says she cannot do that, and there is no form for a woman to have her repeat moved from one dispensary to another, and she could have done it in September, and I have known that since November and I have said it to myself about forty times and it has not once helped."
 
 "And you did it in about nine seconds."
 
