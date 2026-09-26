@@ -1,0 +1,87 @@
+# Volume 02, Batch 0007 — Arc B, "The Rehabilitation Ward" (Chapters 61–70)
+
+Read `AGENTS.md`, `NOVEL_SPEC.md`, `outline/ending.md`, `outline/series.md`, `outline/volume-02.md`, `outline/batches/volume-02-batch-0001.md`, the ten chapters in `chapters/volume-02/`, `state/batch-0006-summary.md`, `state/volume-02-index.md`, the **LIVE** sections of `state/continuity.md`, `state/open-threads.md`, `state/character-state.md`, and the `bible/` files. **Batch 0006 is the long-term memory for immediate voice; the state files are the long-term memory for plot.** The Chapters 61–70 context budget allows the previous ten chapters of this volume and the whole of Volume 01: read 51–60, and reach back to 41–50 and 31–40 through `state/batch-0005-summary.md` and `state/batch-0004-summary.md` rather than by loading 120,000 words of prose.
+
+**Step one, before any prose:** derive the ten chapter cards for Chapters 61–70 from the Arc B commitments below and write them to `outline/batches/volume-02-batch-0002.md` in the standard card format (Chapter, POV, Location/time, Immediate goal, Resistance, Information revealed, Action or decision, Emotional change, Power or resource change, Continuity fact to preserve, Ending type, Next-chapter pull). Then write the chapters against those cards.
+
+---
+
+## What this arc is
+
+Arc B — **"The Rehabilitation Ward," Chapters 61–70, batch 0007.** Escalation beats 13 and 14 in full.
+
+- **Arc promise:** follow the claim money from a first-floor room in Corrie Street to a licensed, clean, warm rehabilitation ward, and find the certificate for the treatment nobody remembers receiving.
+- **Arc-level beats, per `outline/volume-02.md`:** the counterfoils' trail leaves Kettle Rows for the first time and reaches a premises that **is** registered; the money is a **rehabilitation claim** and a rehabilitation claim has a **claimant**, which is a clinic, and a clinic that bills for a treatment is a clinic that has a patient to bill for; **Aegis Mutual's certificate is located as a document with an issuing office, a claimant, a schedule number and a service code**, and **every part of it is genuine and the treatment is not**; **Selene Rook enters as a claims director who is helpful and immovable and does not cast anything**; the arc closes with the volume's second question restated in its institutional form and still unanswered.
+- **Escalation beat 13 carried from Arc A:** the paper. **The third box is a release, it is public since 27 November, and it cannot be un-published.** Arc B does not re-reveal it. **Arc B shows what a release is *for* when it is issued to somebody who has authority to receive one** — which is the volume's turn and the reason Arc A's private sheet matters in a licensed building.
+
+## Starting condition, inherited from batch 0006 without re-breaking anything
+
+Calendar fixed **Monday 17 September to Saturday 27 November 1929**. This batch opens on or after **Monday 2 December 1929** and must check every weekday before it goes on page or card. The manuscript now runs **17 September 1929 – 27 November 1929** across 60 chapters; this batch is Chapters 61–70.
+
+On the page at Chapter 61: Elias Venn is a **member of the public** — departmental censure 23 October, **formal reprimand 3 November 09:30**, unrestricted access to samples 441-KR/01 to 04 withdrawn, a trade with no trade account, a till with twenty-two credits in it, a right of appeal to a panel **on or about Wednesday 12 December 1929**, and a shop that cannot lend anybody a bench. He holds a private documented copy of the only description of the Volume 01 working in existence, a **negative of three counterfoils that is the only copy in the world**, four slips in a shop's parcel envelope with nothing written on them, four copies of six lines, and a page in the back of his notebook with four things on it that he has no right to hold.
+
+Mara Quill is with **plate 1201 in her laboratory** — log 1202 opened and closed on 3 November, signed back at 16:38, the due date of Thursday 14 November never reached. Two plates in the hard case with the padlock on, the foil stencil unmoved, the maker's pair series still three. The five lines are signed, informal, lodged nowhere, and she has said **they are no use for a person**.
+
+Nadia Kest holds the dispute in Schedule 3; 441-KR is DS Rennick's; she has refused him a trading name in 441-KR in a car park and told him why; she has given him one sentence about the appeal and will not say it twice.
+
+Sana Okafor's board carries **four kinds of paper**, the newest being the sheet, which is public and cannot be un-published. The **temporary protection order runs to Wednesday 14 January 1930** and is the document that put two officers in a building on Sallow Lane.
+
+**Carried open and load-bearing:** the four-line service card with `SUPPLY` in capitals at the foot; the three counterfoils (`RC-4471902/61` 4 May 1927, `RC-5102884/61` 19 January 1928, `RC-6180337/61` 11 September 1929) and the margin that says **22 Cutlass Row, 3rd fl**; **22 Cutlass Row's third floor not let since before the war and a padlock cut and put back six times, and the woman of sixty-one at number twenty-two who will not open the door**; **tariff note 4, two years old, the 1927 printing, and a revision date in ink**; **the false memory dated Sunday 16 December 1929, unresolved, and Nadia Kest has no memory of it**; **the room over a shop on Halloway Street that nobody is going to look at, at the correct price**; **Denny Roche, Kerry, 31, and Aoife, 9, who are all to be told about the middle of January and not before**; the walking stick not recovered; the eleven objects in the crate store on Fenwick Street not matched and the eleven letters in the tin lid not touched; Orin Sable not caught, faced or named in any arrest document.
+
+## Power rules
+
+**First Margin at the start of this batch. Fracture is not delivered and the volume's stage must not be smuggled.** He has a **name** for a false start and **no use for it**, and Mara Quill has said twice, in her own mouth, that neither of them can act on it and that the only thing in the world that will have seen one is the person who reads orders. **No counterturn may be attempted in this arc.** Arc D is where a counterturn is attempted and fails; Arc E is where one is performed with a team. If Arc B needs an interruption, it is done by people, a door and a document, exactly as on Sallow Lane.
+
+**Readings are scarce and each takes something different and nothing is spent twice.** The nosebleed was Volume 01 Chapter 10's alone and is not spent again. The left ear is permanent and is not spent again. The order of a day, place and duration are all spent. **The false memory of Sunday 16 December is spent as a cost and is not spent again; it stays an open thread and is not resolved here.** **A new cost is available and is not required in every chapter** — a wrong interruption makes the body repeat the next act or leaves a phantom pain, and the powers bible reserves that for a failed counterturn in Arc D; do not spend it early.
+
+**Panels are rare, at most one in the batch, and only when a rule changes a decision before Elias makes it.**
+
+**He never reads a living person.** A batch in which he is in a ward with patients in it must say so out loud at least once, in his own words, in front of a witness, and must mean it.
+
+## Object and custody rules for this batch
+
+- **One document, one location, and say where it lives.** Registers, claim files, ward books and certificates are **read in place and photographed in place** until a lawful seizure chain starts, and then the chain is on the page as a schedule, a seal, a log and a catalogue, in the Volume 01 form. **A photograph is not a copy.**
+- **The negative of the three counterfoils stays in the back of the notebook on the shelf in the shop and is not printed a second time and is not shown in any office in this batch.** If a document is needed in a room, it goes as a **fair copy with no claim number on it**, and that decision is a scene.
+- **Plate 1201 is in the laboratory.** The sheet is public and does not move. The board carries four kinds of paper and the other three do not move. The maintenance book is unseized. The four sheets are one copy. Niko Senn's card is in Niko Senn's coat and is not asked for a seventh time.
+- **A document may not be made to name a man or a woman it does not name.** This is the batch's discipline. A claim has a **claimant**, a claimant is an **account**, an account is a **legal person with a premises**, and a premises is an address. **A certificate has an issuing office and a registrar-counsel and neither of them is a person who did anything.** If Selene Rook signs something, it is her own document about her own department's money and it may not be made to be about a working.
+
+## Required world reveals, and where each is delivered
+
+- A **licensed, clean, warm, properly staffed rehabilitation ward** that is nonetheless the place a claim becomes a certificate — Ch 61–62.
+- **The claimant structure**: a rehabilitation claim is made by a clinic, and a clinic that bills for a treatment is a clinic that has a patient to bill for — Ch 62–63.
+- **Aegis Mutual named in prose for the first time since the burnt daybook of 1 November, and as an institution doing its job** — Ch 63 or 64, **and not earlier**. The Volume 01 question is sharpened here and **not answered**.
+- **A certificate, read as a document, in a licensed building, with a claimant, an issuing office, a schedule number and a service code**, and the schedule is a *patient* schedule and a *procedure* schedule and **the two do not agree and both are genuine** — Ch 64–65.
+- **Selene Rook**, claims director, helpful, immovable, does not cast anything, and says the sentence the volume turns on — Ch 65 or 66.
+- **A patient who is a person and not a schedule** — Ch 66–67.
+- **The ward's own record, and the four offices that hold one half each, none of which can reach the others** — Ch 67–68.
+- The volume's second question restated in its institutional form, aloud, in a room, and unanswered — Ch 69 or 70.
+
+## Out of scope — do not deliver, do not foreshadow as active
+
+**Iona Saye; the Quiet Hands by name; the nine institutional anchors; the First Correction as a pattern; the Safety Charter; the Ward Reauthorization Review as a dated event; Hollis Ward, and Hollis's name at all, and not even as an absence;** the resolution of who completes a 4(c) box or why one exists; **no chapter may call the third box a fourth act, in narration or in a mouth**; **Iven Quill is not found, not located, and not alive** — he may be **named once, aloud, with no lead attached, and only if the moment earns it**, and the trail in this arc is a claim and a ward and **not her brother**; the eleven objects not matched and the tin's eleven letters not touched; the walking stick not recovered; **Orin Sable not caught, not faced, not named in an arrest document, and not joined to any document in this batch**; no counterturn; the formal joint consent and contamination protocol; the red-thread image; **and the answer to either half of the question asked on Marshall Street on 3 November 1929.**
+
+**The reconciliation is written in `outline/volume-02.md`: Volume 01's form of the Aegis question is a suspicion with no document behind it, and Volume 02's close is the same subject as an institutional question with four offices, a claimant, an issuing office, a schedule number and a form of words in print. Arc B builds the institutional form. It does not answer it, and Arc B must not ask the question in a third new form.**
+
+## Findings from batch 0006 carried forward (do not regress)
+
+Name Niko Senn wherever he is present, intended or discussed; **Wen Senn is a cost and not a route and is told none of it**; object leaving shown leaving; one document one location; photograph in place with the camera moved and nothing moved; numbers add up and one number per fact; dates checked and not inherited; **weekday-check every date before it goes on page or card**; dialogue in each character's own mouth; **no knowing without a way of knowing — a reading gives order and anchor, not furniture, and not a name**; **a reading gives order and never motive, identity, consent or the meaning of a spoken instruction**; say less about what is coming; **antagonists explain nothing — Selene Rook is an officer of a company and does not confess, justify or explain the method**; vary closing moves and **no chapter may end on a list, a summary, an inventory or a written record**; **list is not a scene — open on a person, an object or a disagreement**; institutional beats on the page once, as documents; recitations given one line of what-for in a voice; a scene must not state what a same-chapter document disclaims; **the two rules the case has already paid for twice: (a) a document may not name a man it does not name; (b) a beat that only exists in a later chapter's summary does not exist — a promised scene is a scene.**
+
+**Three new rules from Arc A, all learned on the page and all binding:**
+
+**(c) A person who does not ask what is being done is the most useful shape a witness can have, and it is also how a working gets done to somebody.** Rhoda Nesbit's four words — *came three times. did not come* — and her refusal to write down a fifth possibility, are the volume's moral instrument. **Do not resolve the fifth possibility in this arc.**
+**(d) A price is not a fault, and a licence class is not a person, and a reference is not a document.** Each of the four sentences that carries this volume has been said once in a mouth that earns it — Hilda Achterberg, Bess Yonkin, Pete in the photograph shop, and the seventy-year-old man in the claims queue. **None of them may be restated as a slogan, and no character may now know all four.**
+**(e) A person who hands you a document does not thereby become yours to publish, and the moment you publish it you have taken their only protection.** The sheet went up on a public board on 27 November and Rhoda Nesbit said *I am not sorry.* **Arc B must not repeat the publication, and must not treat the protection as already lost in a way that makes another publication necessary.**
+
+## Pacing
+
+Ten chapters with promise, escalation, turn and payoff. **Rotate pressure: no more than two consecutive chapters of the same kind.** At least one recovery beat — sleep, medication, money, standing, an ordinary Saturday. **At least one chapter that is a conversation between two people who disagree for valid reasons**; Arc A had two (Ch 56, and the whole of Ch 53) and this arc should have one of its own. **No arc may resolve itself by a fight and no arc may end without a recovery beat showing who pays.**
+
+**Chapter length 3,000–4,000 words.** Batch 0006 ran 3,552 / 3,654 / 4,246 / 3,109 / 3,241 / 3,365 / 3,105 / 3,272 / 4,237 / 2,653 — two chapters over the ceiling and one under it, all three disclosed in `state/batch-0006-summary.md` and not padded. **The expansion that works is a scene at a real seam**, never a restyled paragraph: a ward reception desk, a lift, a laundry trolley, a visitors' room, a corridor at the change of a shift, a canteen, a car park, a counter. **If a scene needs room, give it a chapter with different pressure rather than padding one that already has two jobs.**
+
+**Batch 0006's closing moves, which must not be repeated:** Chapter 59 ended on a woman walking past a shop with a bell on the door and not going in. Chapter 60 ended on a shut door and a man who does not knock. **Chapter 61 must not open on a shut door, on a street, on a person remembering something, on a document being produced, or on an inventory.** It should open inside a building that is doing exactly what it is designed to do.
+
+## After the chapters
+
+Update `state/batch-0007-summary.md`, `state/chapter-summaries.md`, `state/volume-02-index.md`, `state/character-state.md`, `state/continuity.md`, `state/open-threads.md`, `state/current.md`, and `bible/terminology.md`. Keep the summaries compact and useful for batch 0008. **Record every new canon fact, proper noun, cost, date, log number, plate number and object location**, and record every document in Arc B with one location each, exactly as Volume 01 did. Record whether Aegis Mutual's certificate was located and what every field on it says, and **record explicitly that it was not answered and that the question was not asked a third time.**
+
+Then inspect `outline/volume-02.md`: **Chapters 51–60 are done and Chapters 61–70 are done, so the volume has forty chapters remaining and is not complete. Create exactly one next batch prompt — Arc C, "The Network Inside the Clinic," Chapters 71–80 — at `workspace/volume-02/batch-0003/PROMPT.md`, and nothing else.** Do not create a volume-close prompt; Volume 02 does not end at Chapter 70.
