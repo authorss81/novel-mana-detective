@@ -32,7 +32,7 @@ The room was empty and eleven chairs were in it. There was a couch against the w
 
 They waited in a first-floor room above a shop on a parade in Kettle Rows for two hours and ten minutes, and it is the part of that night that nobody has ever asked Elias Venn about, and it is the part he would go back to first.
 
-There were five of them in the room or the corridor by about six o'clock and there was nowhere for five of them to be. Two constables stood at the bottom of the stair because a landing is a choke point. The sergeant sat on the couch with her hands on her knees. Nadia Kest stood by the table and did not sit down for about two hours, and at about half past six a doctor of forty-seven came up the back stairs with a clipboard, and at about seven a woman came up the back stairs with a notebook under her arm and stood in the corridor and did not go into the room, because she had said on Monday night that she was not going to be in a room where she did not know who was in it, and there was nobody in it.
+There were five of them in the room or the corridor by about six o'clock and there was nowhere for five of them to be. Two constables stood at the bottom of the stair because a landing is a choke point. Sergeant Carr sat on the couch with her hands on her knees. Nadia Kest stood by the table and did not sit down for about two hours, and at about half past six a doctor of forty-seven came up the back stairs with a clipboard, and at about seven a woman came up the back stairs with a notebook under her arm and stood in the corridor and did not go into the room, because she had said on Monday night that she was not going to be in a room where she did not know who was in it, and there was nobody in it.
 
 "You are early," said Nadia Kest.
 
@@ -166,7 +166,7 @@ He did not commit it.
 
 The room went, quietly, for a gap, to the place where the turn had happened and the release had come to look for the thing it was going to close over, and found a refusal in it, and found the refusal was not finished.
 
-It did not last four minutes. He has never been able to say afterwards how long it lasted, and the four people who were holding it would each give you a different answer, and not one of them would give you a clock, and he has never once asked.
+It did not last long. He has never been able to say afterwards how long it lasted, and the four people who were holding it would each give you a different answer, and not one of them would give you a clock, and he has never once asked.
 
 A doctor of forty-seven kept eleven people flat and told them to breathe and wrote the time on the back of her own hand twice and has never shown it to anybody.
 
@@ -188,17 +188,19 @@ It came apart in a room with eleven people in it, and the ink came off the paper
 
 ---
 
-Nadia Kest was in a day room on the Wexford Row premises and she had left the building on a parade at half past ten with nothing in her hands and nothing in her coat.
+Nadia Kest was in a day room on the Wexford Row premises and she had left the building on a parade at about ten to ten with nothing in her hands and nothing in her coat.
 
-She went in through a fire door at half past ten with no instrument of any kind, and an attendant let her in because she showed him a card and did not use it, and she stood in a room with three people in it for an hour and ten minutes, and she took nothing and she arrested nobody and she did not speak.
+She went in through a fire door at about half past ten with no instrument of any kind, and an attendant let her in because she showed him a card and did not use it, and she stood in a room with three people in it for an hour and ten minutes, and she took nothing and she arrested nobody and she did not speak.
 
 There was a jigsaw on a table with nine pieces missing from it. One of the three was a woman of eighty-one with a hip, admitted on the twenty-eighth of November 2029, who was asleep and awake at the same time, which is a thing that happens to very old people and which two of the three were not.
 
-At about ten to ten on the twenty-second of January, which was twenty minutes before a police inspector put a card against a fire door on the other side of this city, in a room above a shop on a parade in Kettle Rows, a sheet of paper came apart in a man's hands, and in a day room four miles away three people sat up.
+At about ten to ten on the twenty-second of January, which was about forty minutes before a police inspector put a card against a fire door on the other side of this city, in a room above a shop on a parade in Kettle Rows, a sheet of paper came apart in a man's hands, and in a day room four miles away three people sat up.
 
 ---
 
 At about half past ten Bernadette Lyle, who had been in a room in Corrie Street on the eleventh of January and had come down a stair with a dead woman's name in her head, said, "I have got a name," and put her head in her hands, and a woman of fifty-two in a nightdress under a coat said, "I have got a bill," and held it up.
+
+Thirteen people have been in that room and not eleven, and the two that a plan of eleven chairs cannot show are a man of fifty-two with a set of keys on a ring on his belt, who has stood in it on about two hundred Tuesdays and did the work in it himself, and a district nurse of fifty-one with a bag and an evening list, who was in it for about four minutes on Tuesday on a job of her own and did not stay. Neither of the two came there to be worked on, and that is the whole of the difference between eleven chairs and thirteen people, and a drawing cannot hold it, because a drawing has nobody in it.
 
 Nine of the eleven could say their own name when the doctor asked them, in the order of the eleven lines on her sheet. Two of them could not, and neither of those two was on the list a doctor had written out on Monday evening from a room, a chair count and a plan.
 
@@ -214,7 +216,7 @@ The room had eleven chairs in it and at about half past eleven two officers were
 
 He sat down on a chair in a room above a shop and counted the chairs in it, and it was eleven, and he could not stop.
 
-And then, for about four minutes, a police sergeant of twenty-nine years, who had been told about it in a corridor on the Friday and had written one line about it in a report and had not believed any of it, stood in the doorway of an empty first floor and did a thing that is not in any manual, which was that she did not tell him to stop. She put herself between his right hand and the door, and she stood there with her shoulder against the frame and her hands at her sides, and she opened the door for him when he reached for it, and she opened it eleven times, and on the twelfth time he got his hand open on the handle and stopped, and the door stayed open.
+And then, for about four minutes, a police sergeant of twenty-nine years, who was not Fenella Carr and had not been in the room and never would be, and who had been told about it in a corridor on the Friday and had written one line about it in a report and had not believed any of it, stood in the doorway of an empty first floor and did a thing that is not in any manual, which was that she did not tell him to stop. She put herself between his right hand and the door, and she stood there with her shoulder against the frame and her hands at her sides, and she opened the door for him when he reached for it, and she opened it eleven times, and on the twelfth time he got his hand open on the handle and stopped, and the door stayed open.
 
 Neither of them said one word about it, and the two constables watched it, and the second one of them later said that it was the only time in four years he had seen anybody stand still on purpose. He has not been told what she said to him in the corridor afterwards and has not asked and is not going to.
 

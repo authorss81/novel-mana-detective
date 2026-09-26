@@ -76,7 +76,7 @@ He had the other two. She wrote them down and looked at them and then looked at 
 
 "Off three counterfoils in a tin in a police corridor at twenty to two this morning, and off a notebook of my own, and I am not going to tell you whose notebook and I am not going to tell you whose tin."
 
-"Fair." She wrote three digits on a slip and pushed it across. "Fourth floor, claims assessment, and it is not me and I have never been them. I will tell you the thing that I am allowed to tell anybody, which is that two of the four you have got are not claims, they are settlements, and a settlement is a number that has already been paid, and the fourth floor will not thank you for a settlement number, they will thank you for a claim number, and I do not know the difference and I have asked twice and been told it was not my counter."
+"Fair." She wrote one digit on a slip and pushed it across. "That is the floor, and it is claims assessment, and it is not me and I have never been them. I will tell you the thing that I am allowed to tell anybody, which is that two of the four you have got are not claims, they are settlements, and a settlement is a number that has already been paid, and the fourth floor will not thank you for a settlement number, they will thank you for a claim number, and I do not know the difference and I have asked twice and been told it was not my counter."
 
 ---
 

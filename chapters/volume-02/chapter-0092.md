@@ -12,7 +12,7 @@ The green hardback book was on the table with a rubber band round it and about t
 
 "It is in there four times," he said. "Same address, four lines, about two years apart. I am not going to say the address out loud in this room, because this room has a bell on the door and I have been in it six years and you have been in it four days, so you are going to read it and you are going to write it down and then you are going to tell me you did not, and both of those are fine and I do not care about the writing down. I care about you saying it in here."
 
-Elias Venn wrote the address down in his own notebook in the corridor at half past eleven with the door shut behind him, and it was **nine Calder Place, first floor, the door at the end with a bell on it that is not a working bell**, and there was a parade, and the parade was four streets back from the shop on Kettle Rows and everybody in it called it Kettle Rows parade, and it had a shop at the end of it with two rooms above it and a bell on the door of the shop.
+Elias Venn wrote the address down in his own notebook in the corridor at half past eleven with the door shut behind him, and it was **nine Calder Place, first floor, the door at the end with a bell on it that is not a working bell.** A parade, four streets back from the shop on Kettle Rows, which the whole of that end of the city calls Kettle Rows parade. A shop at the end of it, two rooms above the shop, and a bell on the door of the shop, which is a different bell and is not the one on the first floor.
 
 "That's a room above a shop," he said, through the door.
 
@@ -84,7 +84,7 @@ He counted them twice and it was eleven and he wrote it in his own book in the m
 
 "You are early," said the man of fifty-two.
 
-"I am on a stair with six people on it and I have said three things to them and I am about to be late everywhere else."
+"I am on a stair with seven people on it and I have said three things to them and I am about to be late everywhere else."
 
 "Then be late." He pulled a chair out from the table and did not sit in it. "That is the room. I let it on a Tuesday. I have let it since about 2026 and I have never once asked what it is for and I have told you that and I am not going to tell you the other thing, which is that I would like to be able to tell you that I have never once asked, in a way that you would believe, and I cannot, and I have stopped trying."
 
