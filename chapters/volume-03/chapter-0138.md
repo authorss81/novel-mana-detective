@@ -1,4 +1,4 @@
-# Chapter 0138 — The First Friday In Four Years
+# Chapter 0138 — The First Day That Was Not A Friday
 
 The door at 18 Pellow Street opened about four inches at about half past two on Wednesday the twenty-fourth of April, the way it had opened about four inches at ten past ten on the twenty-fifth of March, and the woman on the other side of it was the same and was not any older and looked it.
 
@@ -44,13 +44,13 @@ She got up and put the kettle on, which was an answer to a question nobody had a
 
 "Go on."
 
-"I could not take a person. I told you that in March and I said about eleven days and I did not tell you it was a Friday." She filled the kettle and set it on the ring. "**He came on the Friday. The fourth of April, in the afternoon, at about three, on a day when I have said for four years that anybody who comes to that door comes on a Friday or not at all. And I could not take him, and I told him I could not take him, and he did not argue with me about it, which I had not expected.** And then on the Friday after, the eleventh, he came back to say that he had got in somewhere, and he telephoned me on the Wednesday to say so, and he did not say thank you, and I would not have wanted him to.
+"I could not take a person. I told you that in March and I said about eleven days and I did not tell you it was a Friday." She filled the kettle and set it on the ring. "**He came on the Thursday. The fourth of April, in the afternoon, at about three, on a day when I have said for four years that anybody who comes to that door comes on a Friday or not at all. And I could not take him, and I told him I could not take him, and I did not tell him why, and he did not argue with me about the day, which I had not expected.** And then on the Thursday after, the eleventh, he came back to say that he had got in somewhere, and he telephoned me on the Wednesday to say so, and he did not give me his name, and I did not ask him for it.
 
-"And on the Wednesday in between, the ninth, I came to a room over a shop on Corrie Street and I sat at a table and a doctor said eleven names out loud and I wrote them down, and I have been writing first names in that book for four years and there has never been anything in it but a first name. **On the ninth of April I wrote a date. Wednesday the ninth of April. And it is not a person's name, and there is no name in that book for that man, and I did not put one, and I want you to understand that I did not put one because I did not have one and not because I was careful.**"
+"And on the Tuesday in between, the ninth, I came to a room over a shop on Corrie Street and I sat at a table and a doctor said eleven names out loud and I wrote them down, and I have been writing first names in that book for four years and there has never been anything in it but a first name. **On the ninth of April I wrote a date. Tuesday the ninth of April. And it is not a person's name, and there is no name in that book for that man, and I did not put one, and I want you to understand that I did not put one because I did not have one and not because I was careful.**"
 
 "Why did you write a date."
 
-"**Because it was a Wednesday and I have never once in four years written anything in that book that was not a Friday.**" She turned round. "That is all. It is not profound and it is not evidence. I have said for four years that it is always a Friday and I have never worked out why, and it is the only thing about this house I would like to understand, and on the ninth of April a Wednesday went into my book and I have not been able to put it out again, and I do not know what to do with a book that has one day in it that should not be there."
+"**Because it was a Tuesday and I have never once in four years written anything in that book that was not a Friday.**" She turned round. "That is all. It is not profound and it is not evidence. I have said for four years that it is always a Friday and I have never worked out why, and it is the only thing about this house I would like to understand, and on the ninth of April a Tuesday went into my book and I have not been able to put it out again, and I do not know what to do with a book that has one day in it that should not be there."
 
 He did not look at the book.
 
@@ -72,13 +72,13 @@ She put her cup down on the draining board.
 
 "Write what down."
 
-"Whatever it is that you have just said, and whatever it is you have worked out about a Wednesday, and the Friday, and about a book. Write it down. In the book, or on a piece of paper, or on the back of something, and put it in the drawer where you keep the post. **I have spent five months going round this city looking for a piece of paper and there has not been one, and there is not going to be one, and the reason there is not going to be one is that everybody who could write one has not been asked to and does not know they are allowed.**"
+"Whatever it is that you have just said, and whatever it is you have worked out about a Tuesday, and the Friday, and about a book. Write it down. In the book, or on a piece of paper, or on the back of something, and put it in the drawer where you keep the post. **I have spent five months going round this city looking for a piece of paper and there has not been one, and there is not going to be one, and the reason there is not going to be one is that everybody who could write one has not been asked to and does not know they are allowed.**"
 
 She looked at him.
 
 "I keep a book," she said, "and I have never once been asked to put a thing in it that was not a person's name, and nobody has ever written down anything for me, and I have thought about a column for it about twice in four years and both times I thought about it at about two in the morning and both times I decided against it because I could not think of a heading."
 
-"**A date is a heading,**" said Elias Venn. "You have already got one. Wednesday the ninth of April, and the man's first name if you ever get it, and the word *Friday* against the other days, and that is a column and it is a form and it is in your own hand and nobody in this city can take it off you, and I have spent five months trying to get a piece of paper out of four buildings and I would like one thing to have come out of this month that was not taken out of me."
+"**A date is a heading,**" said Elias Venn. "You have already got one. Tuesday the ninth of April, and the man's first name if you ever get it, and the word *Friday* against the other days, and that is a column and it is a form and it is in your own hand and nobody in this city can take it off you, and I have spent five months trying to get a piece of paper out of four buildings and I would like one thing to have come out of this month that was not taken out of me."
 
 She did not say anything for a while. There was a clock in the hall and it went and neither of them looked at it.
 
@@ -108,7 +108,7 @@ She got up and turned the wireless on very low and turned it off again, which wa
 
 "That is fair."
 
-"I have not finished." She turned the cup about a quarter turn on the board. "**You came in here and you told me the answer to my question, and your answer was about a promise you made to a man in a shop, and you have not told me a word about the man, and I have not asked you for a word about the man, and that is not me being careful. That is me telling you that a person who has been careful for six weeks and then is not careful for one night in a kitchen is telling me something about themselves and not about him.** And I want to say this and then I want you to go, because it is the end of a Tuesday when I have not had a night off since Thursday and I have a woman coming at eight.
+"I have not finished." She turned the cup about a quarter turn on the board. "**You came in here and you told me the answer to my question, and your answer was about a promise you made to a man in a shop, and you have not told me a word about the man, and I have not asked you for a word about the man, and that is not me being careful. That is me telling you that a person who has been careful for six weeks and then is not careful for one night in a kitchen is telling me something about themselves and not about him.** And I want to say this and then I want you to go, because it is the end of a Wednesday when I have not had a night off since Thursday and I have a woman coming at eight.
 
 "**Do not do it again in a corridor at one in the morning.** Do it in a room with a light on and a person in it who is going to have to remember it in about a year. That is all. That is the whole of what I have got and it has taken me four weeks to work out that it is about you and not about him."
 

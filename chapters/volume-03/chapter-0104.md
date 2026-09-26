@@ -10,7 +10,7 @@ Above the radiator, on a wire rack, in a room where about sixty people were doin
 
 "Two items." He put the money down. "The Witness Training Compendium, and I have got the Compendium already, so the other one is not a book, it is a question."
 
-"Then the book is three credits and the question is free until it isn't." The man gave him a brown one with a picture of a door on it that had nothing to do with anything. "That is the current printing. The one you want is the second shelf down and it is the green one, and the green one is two years old, and the two-year-old one has nine modules and this one has eleven, and the three that were added are all about fees, and if you want to know what a man signed up for in 2028 then you want the green one, and the green one is two credits because it is out of date and nobody is going to print it again."
+"Then the book is three credits and the question is free until it isn't." The man gave him a brown one with a picture of a door on it that had nothing to do with anything. "That is the current printing. The one you want is the second shelf down and it is the green one, and the green one is two years old, and the two-year-old one has nine modules and this one has eleven, and the two that were added are all about fees, and if you want to know what a man signed up for in 2028 then you want the green one, and the green one is two credits because it is out of date and nobody is going to print it again."
 
 Elias Venn bought the brown one for three credits and read the contents on the inside cover standing up, in a public room, with about forty other people in it, because it was a public document and he had a right to read a public document and no reason to pretend otherwise.
 

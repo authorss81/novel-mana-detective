@@ -4,6 +4,8 @@ Wren Court was at the eleventh house on Calder Street and he had walked past it 
 
 He had walked past it twice because he was looking for a garage.
 
+He had a telephone number for the woman in his own book in his own hand and he had had it since Monday, and it was a Calder Street number and the building was four minutes' walk from where he was standing, and he had not rung it, and the reason he had not rung it was that a woman who gives a number to a stranger at a counter is being traceable and not being called, and he had understood that in the garage on Monday afternoon and he was not going to lose it on a Tuesday morning.
+
 The porch had been a shop. You could see where the counter had been in the shape the floor had gone shiny in a rectangle, and the door had a bell on it, and there was a fire door at the end of the corridor past the desk that had a bar across it and a wedge of wood under it, and a lift that was a chair on a cable and a sign over it saying *please do not use the lift for anyone who cannot get to the stairs safely*, which is the most frightening sentence in the building.
 
 The desk was in what had been the window, and there was a woman at it of about sixty-one with a cardigan and a telephone and a rack on the wall behind her with pegs on it.
@@ -22,7 +24,7 @@ Pamela Reece's hand went about an inch towards a drawer and stopped.
 
 "The twenty-fifth of January to the thirty-first."
 
-"That is a Monday to a Sunday. **Now, before I say anything else, you are going to tell me whether you are a relative, because if you are a relative then I can say about nine things to you and if you are not then I can say about one, and the one is that the forms for that week went up to head office and came back and I am not allowed to say what is on them.**"
+"That is a week, and you have given me both ends of it. **Now, before I say anything else, you are going to tell me whether you are a relative, because if you are a relative then I can say about nine things to you and if you are not then I can say about one, and the one is that the forms for that week went up to head office and came back and I am not allowed to say what is on them.**"
 
 "I am not a relative."
 
@@ -63,7 +65,7 @@ It was one side of A4 and the printing was four years old.
 > DISCHARGE DESTINATION
 > SIGNATURE OF PERSON COMPLETING
 
-Eight headed spaces. He looked at it for about twenty seconds.
+Nine headed spaces. He looked at it for about twenty seconds.
 
 "Which one of these is who arranged it."
 
@@ -97,7 +99,7 @@ It was a man of about seventy with a woman of about forty and it was not a relat
 
 "**That anybody at any point in the next eleven years can be proved to have read it, and cannot be proved to have written it.**" She said it the way she said everything, which was as though she were reading it off a card. "That is a genuinely clever arrangement and I have never in twenty-six years seen it go wrong, and it has also meant that in nine years there has not been one single piece of paper in this building with the name of a member of staff at the end of a line, and there would not be one if the building caught fire tonight, and I have not been able to work out whether that is a good thing or the worst thing about working here."
 
-Elias Venn stood at the counter with a form in his hand and felt the building. That was the whole of it and it was not a faculty and it was not a reading and it was not anything he could put in a book. The building was warm in a way that buildings are warm when there are people in them, and there were people in it, and one of them was asleep upstairs at that moment, and he was about fifty-four, and he had been a night porter for twelve years, and on Monday the twenty-eighth of January a woman had telephoned a removals firm off her own book and paid cash, and he was in this building now, and there was no document anywhere in this city that said so, and there never had been, and that was not anybody's doing and would never be anybody's fault.
+Elias Venn stood at the counter with a form in his hand and felt the building. That was the whole of it and it was not a faculty and it was not a reading and it was not anything he could put in a book. The building was warm in a way that buildings are warm when there are people in them, and there were people in it, and on Monday the twenty-eighth of January a woman had telephoned a removals firm off her own book and paid cash at the door for a bed in it for eleven nights, and he did not know whether the man who slept in that bed was upstairs at that moment or in a hostel in Kettle Rows or in a room over a chip shop, and there was no document anywhere in this city that said, and there never had been, and that was not anybody's doing and would never be anybody's fault.
 
 He could have asked. There was a woman on the desk, and a file, and nine admissions, and a piece of paper on the wall with a bed in it, and he had nine words in a chip shop and a man with a coat pocket and a line in a garage office that said **GAYNOR RIDDELL**, and if he had asked one more question, in the right tone, on a Tuesday, in a chair, to a woman of sixty-one who had told him things twice that she had never told a police officer twice, he could have found out in about ninety seconds where a man is who is not lost.
 

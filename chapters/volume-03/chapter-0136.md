@@ -1,6 +1,6 @@
 # Chapter 0136 — The Sentence
 
-He had a book of his own in which, on Monday the twenty-fifth of February, in the back room of this building with the electric ring off, he had written four lines about a manual that cost three credits, and the last of the four was that he was not going to read the ninth one, and that if he broke it he was going to have to write down the day he broke it, and that this was the only discipline he had left.
+He had a book of his own in which, on Monday the fourth of March, on the bus out of Morrow Hill, he had written four lines about a manual that cost three credits, and the last of the four was that he was not going to read the ninth one, and that if he broke it he was going to have to write down the day he broke it, and that this was the only discipline he had left.
 
 The back room of 3 Tanners Row had an electric ring that he had disconnected in November because a thing he had not been able to answer had been ringing in it. It was ten past eleven on Monday the twenty-second of April and the shop was shut and the till said forty-six.
 
@@ -12,7 +12,7 @@ He also said out loud, to nobody, that he had been awake since half past six and
 
 Then he opened it.
 
-The ninth module was four pages. It was headed **CONTINUITY OF ACCOUNT**, and it was in the same type as the other ten and set to the same page and printed in the same two-year-old green, and the first thing on the first page was a list of what a case is, in nine short lines, and none of the nine was anything he did not already know.
+The ninth module was four pages. It was headed **CONTINUITY OF ACCOUNT**, and it was in the same type as the other eight and set to the same page and printed in the same two-year-old green, and the first thing on the first page was a list of what a case is, in nine short lines, and none of the nine was anything he did not already know.
 
 Page one, paragraph six:
 
@@ -50,7 +50,7 @@ He got out his own book and wrote on a fresh page:
 
 He read it back and did not soften a word of it, and then he shut the book, and then he did the thing he had been doing for about eight weeks, which was to check what he had written against the thing in front of him, and he found one thing, and the one thing was the word **agreed**.
 
-He had written on Tuesday the third of March, in his own book, four lines about a form with a signature in an agreement box, and one of the four had been that the box said *the witness has read the extract and agrees with it*, and the other half of the box said nothing at all, and he had assumed the other half said something, and the assumption was in his own handwriting in a book he had carried into six buildings in six weeks.
+He had written on Monday the fourth of March, in his own book, four lines about a form with a signature in an agreement box, and one of the four had been that the box said *the witness has read the extract and agrees with it*, and the other half of the box said nothing at all, and he had assumed the other half said something, and the assumption was in his own handwriting in a book he had carried into six buildings in six weeks.
 
 **He had assumed a man in a good coat had to give something up. And the box was not asking him for anything. The box was the whole of what he was being asked to do, and it had a border round it.**
 

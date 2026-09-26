@@ -6,7 +6,7 @@ He had been up the stairs twice by eleven o'clock at night on Thursday the twent
 
 He sat down.
 
-"**You came on Friday and you asked me about a telephone and I told you, and then I told you there was a thing I was not going to tell you, and you said *all right*.**" She drank the tea. "So here it is and it is not a big thing and that is the whole of what I have to say about it."
+"**You came on Friday and you asked me about a form and I told you about a telephone, and then I told you there was a thing I was not going to tell you, and you said *all right*.**" She drank the tea. "So here it is and it is not a big thing and that is the whole of what I have to say about it."
 
 "Go on."
 
@@ -36,7 +36,7 @@ Elias Venn sat on a fire chair on a landing in a care home and did not say the t
 
 "All right."
 
-"**There were three people in that room, and I want that written down in the order I am saying it: two of them were the office and one of them was the officer, and the officer was a woman in her forties who had a form on the table in front of her, and she was polite, and she was quick, and she did not once look at the clock, and at no point in those nine minutes did anybody in that room do anything that anybody in this city would call anything.**"
+"**There were two people in that room, and I want that written down in the order I am saying it: one of them was the office and one of them was the officer, and the officer was a woman in her forties who had a form on the table in front of her, and she was polite, and she was quick, and she did not once look at the clock, and at no point in those nine minutes did anybody in that room do anything that anybody in this city would call anything.**"
 
 "Then what happened in the nine minutes."
 
@@ -46,7 +46,7 @@ Elias Venn sat on a fire chair on a landing in a care home and did not say the t
 
 "**Nothing happened for about four minutes and I sat in that chair and I read those two pages again from the top, twice, looking for a mistake.** I am a nurse of nine years and I have read about nine hundred clinical records and I am extremely good at finding the wrong figure in a document. **I looked for a wrong figure for four minutes and there was not one, and the date was right, and the building was right, and the thing I did was right, and the only thing about those two pages that I could not get past was that they were complete, and they were complete, and completeness is not an error.**
 
-"And then I said yes. And the woman wrote it down and read it back and I signed it, and she thanked me, and the cup of tea had gone cold, and it took nine minutes, and I have been a person for fifty-four years and that is the only time in my life I have been asked a question I could not answer and got it right afterwards."
+"And then I said yes. And the woman wrote it down and read it back and I signed it, and she thanked me, and the cup of tea had gone cold, and it took nine minutes, and I have been a person for forty-four years and that is the only time in my life I have been asked a question I could not answer and got it right afterwards."
 
 "Then what was in the minute. You have not told me that yet."
 
@@ -86,7 +86,7 @@ She reached into the pocket of her cardigan and took out a folded sheet of paper
 
 He did not take it.
 
-He could not take it, and he knew exactly why he could not take it, and the reason was printed, and it was a good reason, and he had heard a woman of fifty-four give him a version of it in a counter in Morrow Hill three days ago.
+He could not take it, and he knew exactly why he could not take it, and the reason was printed, and it was a good reason, and he had heard a woman of fifty-four give him a version of it at a counter in Harrow Lane on Tuesday afternoon.
 
 "**A witness is entitled to a copy of a minute of his own undertaking,**" he said, "**and a member of the public is not entitled to a copy of anything at all, and there is no form for me and there is no proceeding and there is no ground, and if you give me that sheet in this corridor at eleven o'clock at night then you are a night sister in a care home who has handed a document to a stranger, and that is a thing you cannot put back in a pocket, and in about four years you will be asked about it by somebody who has the right to ask.**"
 
@@ -94,7 +94,7 @@ He could not take it, and he knew exactly why he could not take it, and the reas
 
 "I am not going to take it."
 
-"I know you are not going to take it," she said. "**You have not taken a single thing off a person in five months, and the last person who offered you something in this building was me on a Tuesday, and you did not take that either, and I want to say one final thing and it is the only thing in this conversation I have been waiting two days to say.**"
+"I know you are not going to take it," she said. "**You have not taken a single thing off a person in five months, and the last person who offered you something in this building was me on a Friday, and you did not take that either, and I want to say one final thing and it is the only thing in this conversation I have been waiting two days to say.**"
 
 He waited.
 

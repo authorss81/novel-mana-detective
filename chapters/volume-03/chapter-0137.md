@@ -86,7 +86,7 @@ The public counter at 14 Harrow Lane was on the ground floor and the woman of ab
 
 She did not hesitate. He had expected her to hesitate and she did not, and that was the answer.
 
-"**No,**" said the woman at the counter, in about eleven words, and then she stopped, and then she said, "That is the same answer I would have given in February and it is the same answer I gave you the other day, and the reason it does not change is that it was not mine to begin with, and the person you are asking about is not me."
+"**No,**" said the woman at the counter, in about eleven words, and then she stopped, and then she said, "That is the same answer I would have given in February and it is the same answer I gave you in March, and the reason it does not change is that it was not mine to begin with, and the person you are asking about is not me."
 
 "It has not changed in a month."
 
@@ -124,7 +124,7 @@ She looked at the clock on the wall.
 
 ---
 
-Elias Venn went up the eleven steps and out into the ground floor of a municipal building at about ten past three on a Tuesday afternoon with two things he had come for and one of them had cost him a page, and the other had cost him nothing at all, which was worse.
+Elias Venn went back down the eleven steps into the basement of that building at about ten past three on a Tuesday afternoon, with two things he had come for and one of them had cost him a page and the other had cost him nothing at all, which was worse, and there was one thing left down here that he had not looked at, and it was the only thing in that building that anybody threw away.
 
 The bin in the corner of the basement corridor was a steel one on a frame and it was about two-thirds full of paper, and every piece of it in it was a page that had been taken out of a record, and he looked at it for a while.
 

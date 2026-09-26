@@ -20,7 +20,7 @@ There was a care assistant of about twenty-four at the end of it with a trolley.
 
 "There is a day room at the end of it and there are nine people in it who are watching a television with the sound off because the sound off is what they like, and you cannot sit in there either." She turned the trolley about forty degrees, which did not release him and was not intended to. "I will get Denise."
 
-"There is no Denise."
+"There is no Denise at ten o'clock at night."
 
 "There is a Denise on until eleven and she is in the office with the door shut and she does not have visitors, and I have told her there is a man on a chair and she said *all right*, and that is all the message I got, and it is going to be about nine minutes."
 
@@ -40,7 +40,7 @@ So he sat on a chair in a corridor outside a day room with the sound off, and at
 
 Gaynor Riddell put the mug down on the windowsill.
 
-"I telephoned them on the Friday," she said. "I telephoned them on the Friday at about half seven in the evening from the office because the office telephone is the only one in this building that is in a room with a door, and the day desk was empty and the corridor was empty, and I did it in about four minutes and I did not write it down anywhere and there is no piece of paper with my name on it except in a garage off this street."
+"I telephoned them on the Thursday," she said. "I telephoned them on the Thursday at about half seven in the evening from the office because the office telephone is the only one in this building that is in a room with a door, and the day desk was empty and the corridor was empty, and I did it in about four minutes and I did not write it down anywhere and there is no piece of paper with my name on it except in a garage off this street."
 
 "Three hours and about nine Calder Street to here."
 
@@ -94,7 +94,7 @@ Then, because there were three minutes and because she had decided to spend them
 
 "And in January you had a bed and he had nowhere."
 
-"And in January I had a bed because the bed at the end of the corridor was going to be empty for a week because the woman in it was going into a hospital in the city for something they had done twice before, and I knew she was going because I was the one who booked the ambulance, and I was not going to be there in January, and that is the only sentence in this conversation that is about anything other than a form." She put the mug down. "**So I did a job I was not authorised to do on a Friday evening because of a woman going into hospital, and it is the reason a man is not on a street this week, and nobody in this building except me and a woman of sixty-two knows any of it, and the woman of sixty-two knows it because the day desk told her on Tuesday, and I did not tell her and she told me anyway, and she is a better person than the woman from human resources and I have told her so.**"
+"And in January I had a bed because the bed at the end of the corridor was going to be empty for a week because the woman in it was going into a hospital in the city for something they had done twice before, and I knew she was going because I was the one who booked the ambulance, and I was not going to be there in January, and that is the only sentence in this conversation that is about anything other than a form." She put the mug down. "**So I did a job I was not authorised to do on a Thursday evening in January because of a woman going into hospital, and it is the reason a man is not on a street this week, and nobody in this building except me and a woman of sixty-two knows any of it, and the woman of sixty-two knows it because the day desk told her on Tuesday, and I did not tell her and she told me anyway, and she is a better person than the woman from human resources and I have told her so.**"
 
 "There is nothing you are not authorised to do."
 
@@ -112,7 +112,7 @@ Denise looked at him for a moment and then at Gaynor Riddell and said, "Nine min
 
 And then the girl with the trolley came back up the corridor at about twenty to ten with a woman's cardigan over her arm that was not Gaynor Riddell's cardigan, and they went past, and the corridor was quiet again, and Elias Venn stood up off the chair.
 
-He had been in that building for fifty-five minutes and there was a board on the landing upstairs with a ruled line in pencil for every name that had gone into the building, and a fire door at the end of that landing with a bar across it and a wedge of wood under it, and a lift that was a chair on a cable with a sign over it, and a building full of people, one of whom was a man of fifty-four who had been a night porter for twelve years and had signed two pieces of paper in one room on the ninth of December and had nowhere to be on the twenty-eighth of January.
+He had been in that building for fifty-five minutes and there was a board on the landing upstairs with a ruled line in pencil for every name that had gone into the building, and a fire door at the end of that landing with a bar across it and a wedge of wood under it, and a lift that was a chair on a cable with a sign over it, and a building full of people, and not one of them was a man of fifty-four who had been a night porter for twelve years and had signed two pieces of paper in one room on the ninth of December, because a woman in the corridor had told him ten minutes earlier that the man had been in a hostel in this city since the second week of February and that she had never in her life seen his face, **and that was the first time in four months that a person had told him where a man was not.**
 
 And he had not gone up, and he had not asked, and he had been in the corridor for fifty-five minutes with a woman who had done a kind thing off her own book in four minutes and had been told in a meeting with four people in it that the kind thing was unsanctioned.
 

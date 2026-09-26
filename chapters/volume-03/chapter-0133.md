@@ -40,7 +40,7 @@ He said it as a fact about a building. He did not say he was warning anybody.
 
 Elias Venn looked at the folder under his arm and did not ask about the folder, and Nunn watched him not ask, and something went across his face that was not gratitude.
 
-"**That is the fourth time,**" Nunn said. "March, April, and twice today. I have stopped counting it as a favour and started counting it as a professional disagreement, and I want to say something to you about that while I have the chance, and then I am going to upstairs."
+"**That is the fourth time,**" Nunn said. "February, March, April and this afternoon. I have stopped counting it as a favour and started counting it as a professional disagreement, and I want to say something to you about that while I have the chance, and then I am going to upstairs."
 
 "Go on."
 
