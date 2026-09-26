@@ -4,7 +4,7 @@ The back room at 3 Tanners Row had a table, two chairs, a hotplate, a clock that
 
 Elias Venn came in at about twenty to nine with two credits in his hand and put them on the table and did not open the bag.
 
-He had done the arithmetic on the bus and he did it again at the table, because he had begun in March to do arithmetic twice. Fifty credits in the till. Two credits out. Forty-eight. He had a repair on the bench in the back room that he had quoted at eleven, and a part on order from a man in Bell Street who wanted it on Friday, and the rest of it was rent and the rent did not care what a fee was.
+He had done the arithmetic on the bus and he did it again at the table, because he had begun doing it twice in February and had not been able to stop. Fifty credits in the till. Two credits out. Forty-eight. He had a repair on the bench in the back room that he had quoted at eleven, and a part on order from a man in Bell Street who wanted it on Friday, and the rest of it was rent and the rent did not care what a fee was.
 
 He wrote three lines in his own book, and then a fourth, and the fourth was the one he had got up at eight-forty to write.
 
@@ -148,7 +148,7 @@ Petra Lund put the unlit cigarette back in the packet.
 
 "I did notice," said Elias Venn. "About a week later."
 
-"I know. That is the difference between us and it is why I can stand here." She looked at the wall for a second. "I will tell you the thing I can actually give you and then I am going inside. If somebody does give you standing to ask, it will come out of a room with a door on it and it will cost the person who gives it to you more than it costs you, and you will find that out on the day, and if it does not cost them anything then they have not given you anything. That is the only test I have got and it is not a form either."
+"I know. That is the difference between us and it is why I can stand here." She looked at the wall for a second. "And I am not going to say the third one twice, because I have said it once this afternoon and it is in your book already and you are a man who keeps books. So you will do it on your own with it."
 
 "Petra."
 

@@ -230,7 +230,7 @@ Sana Okafor stood in a corridor on the ground floor of a building on Wexford Row
 
 "Then it is not fair."
 
-"It is not fair," said Sana Okafor, "and I have been in this city for thirty-one years and I have got a registration number and a folder in my bag and I could not put a single word in it to help you, and I have not got it, and I am not going to pretend to you that I have, and I have never once pretended to anybody and I am not starting."
+"It is not fair," said Sana Okafor, "and I have been in this city for nineteen years and I have got a registration number and a folder in my bag and I could not put a single word in it to help you, and I have not got it, and I am not going to pretend to you that I have, and I have never once pretended to anybody and I am not starting."
 
 Mavis Dellow drank about a third of the water out of the plastic cup and put the cup back on the sill.
 

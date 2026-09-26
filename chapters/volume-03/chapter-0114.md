@@ -42,7 +42,7 @@ He stood in Anselm Street at about twenty past eleven on a Thursday morning and 
 
 Perpetua Ayodele had the office door open and the list on the desk and did not come out.
 
-He did not ask her anything. He stood on the pavement for about four minutes and looked at a hardback book that had been on that table since the fourteenth of January and had nothing in it, and at a box on a notice for a person's name that had been empty since the notice went up, and at a piece of paper about a building closing, and he thought that in about three weeks' time forty-one beds would begin to empty and there was nobody in this city who would be able to say afterwards how many of them had been slept in, because the only record of who was in this building on any night in twelve years is four words and a time in a column of a book on a shelf in that office, and that is better and worse than a number.
+He did not ask her anything. He stood on the pavement for about four minutes and looked at a hardback book that had been on that table since the fourteenth of January and had nothing in it, and at a box on a notice for a person's name that had been empty since the notice went up, and at a piece of paper about a building closing, and he thought that in seventeen days forty-one beds would begin to empty and there was nobody in this city who would be able to say afterwards how many of them had been slept in, because the only record of who was in this building on any night in twelve years is four words and a time in a column of a book on a shelf in that office, and that is better and worse than a number.
 
 He wrote nothing in the book. He had written nothing in the book on the twenty-eighth of February either, and he had told a woman of forty-four in that office that he would not, and he was a man who kept things, and this was the third week of keeping it.
 
@@ -54,7 +54,7 @@ He wrote nothing in the book. He had written nothing in the book on the twenty-e
 
 "Which one."
 
-"Third of March. No, the fourteenth of November, last year. A temporary order on a door in Kettle Rows that named four places, and this is one of the four, and I have been in the other three and I have got nowhere, and you are the last one, and I have been outside for about four minutes working out how to ask you."
+"The twenty-third of January," said Elias Venn. "This year. A temporary order on a door in Kettle Rows that named four places, and this is one of the four, and I have been in the other three and I have got nowhere, and you are the last one, and I have been outside for about four minutes working out how to ask you."
 
 The man put the cigarette in a saucer.
 

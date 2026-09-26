@@ -12,7 +12,7 @@ He found her at about twenty to ten in the morning in a kitchen four districts a
 
 "One. I do not know who you are and I have not asked and I do not want to know. Two. There is no case. I have never been in a police station in my life and I am not going to be one. Three." She put her hand flat on the folder. "**This is true. I want that said first, out loud, before anything else, because you are going to go somewhere in your face in about four seconds when I say it and I would rather you did it now than later.**"
 
-Elias Venn had been in a laboratory at half past twelve in the morning nine days earlier and he had heard a woman of thirty-five say a version of that sentence standing up, and he had gone very still inside and had felt the whole of the six months he had been doing this come up under him like water, and he sat down on the other side of the table, because it was the only thing in the room he could do about it.
+Elias Venn had been in a laboratory at half past twelve in the morning sixteen days earlier and he had heard a woman of thirty-five say a version of that sentence standing up, and he had gone very still inside and had felt the whole of the six months he had been doing this come up under him like water, and he sat down on the other side of the table, because it was the only thing in the room he could do about it.
 
 "Say the next one," he said.
 

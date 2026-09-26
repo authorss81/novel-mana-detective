@@ -24,7 +24,7 @@ Inherited from `state/batch-0011-summary.md` and the LIVE section of `state/cont
 
 ## Calendar as executed
 
-**Monday 11 March 2030 → Saturday 22 March 2030.** Verified: 11 March 2030 is a Monday, 15 is a Saturday, 17 a Monday, 22 a Saturday. **Chapter dates: 111 Mon 11 Mar · 112 Tue 12 · 113 Wed 13 · 114 Thu 14 · 115 Fri 15 · 116 Mon 18 · 117 Tue 19 · 118 Wed 20 · 119 Thu 21 · 120 Fri 22.**
+**Monday 11 March 2030 → Friday 22 March 2030, with Saturday 16 and Sunday 17 inside it. Verified against the Gregorian calendar: 11 March 2030 is a Monday, 15 a Friday, 16 a Saturday, 17 a Sunday, 18 a Monday, 22 a Friday. **Chapter dates: 111 Mon 11 Mar · 112 Tue 12 · 113 Wed 13 · 114 Thu 14 · 115 Fri 15 · 116 Mon 18 · 117 Tue 19 · 118 Wed 20 · 119 Thu 21 · 120 Fri 22.** (The line as first written said *→ Saturday 22 March* and put the 15th and 17th on the wrong weekdays; the chapter list beneath it was right and the prose is the canon. Corrected at the review repair, and no chapter was moved.)
 
 **Two fixed dates land inside this batch and neither may move: the refuge's contract ends on 31 March 2030, and the review is on 9 April 2030 — both after this batch, and both are Arc C. The certificate for the night of 9 December 2029 was issued 9 January 2030; the statement was taken 11 December 2029; the second document was signed 3 December 2029; the file went into a store on 12 December 2029, twenty-five to seven in the evening; the letter was written 11 February 2030 and logged 20 February 2030; the register entry reads 13/2/30 — reissued. A police inspector with a warrant went to a registered operator's ward on 27 January 2030 and that is off the page.**
 
@@ -125,7 +125,9 @@ Iona Saye; the Quiet Hands by name; the nine institutional anchors; the First Co
 **Ending type:** a woman of twenty-nine who has a true document and cannot use it, and a bus.
 **Next-chapter pull:** The Anselm Street certificate names a man who says it is not his, and this certificate names a woman who says it is hers and wishes it were not, and the two of them are the same document, and somebody in this city has to be asked whether the two are the same document.
 
-### Chapter 0116 — Four Hundred and Six Pages, and the One Thing She Will Not Say
+### Chapter 0116 — Four Hundred and Six Pages
+
+**AS EXECUTED AND AS TITLED ON DISK.** The card was written with the working title *Four Hundred and Six Pages, and the One Thing She Will Not Say*; the chapter shipped under the shorter title, which is the one in `state/volume-03-index.md` and in `state/batch-0012-summary.md`, and the one thing she will not say is in the chapter.
 
 **POV:** Elias Venn, with Bettina Haile.
 **Location/time:** Monday 18 March 2030, 14 Harrow Lane from 10:00 to 14:30; a bench outside at 15:00.

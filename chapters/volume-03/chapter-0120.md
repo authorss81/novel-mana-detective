@@ -1,6 +1,6 @@
 # Chapter 0120 — A Book With Two Names In It
 
-He was standing outside a housing options office on a parade at about eleven on Friday the twenty-second of March 2030 with four things written on a page in his own book, and the four things were the four hands, and he had never written them down in that shape before and he wrote them in a different order from the one they had happened in, on purpose, because he wanted to be looking at a queue and not at a story.
+He was standing outside a housing options office on a parade off Kettle Rows at about eleven on Friday the twenty-second of March 2030 with four things written on a page in his own book, and the four things were the four hands, and he had never written them down in that shape before and he wrote them in a different order from the one they had happened in, on purpose, because he wanted to be looking at a queue and not at a story.
 
 > **One. A second officer, who produced a compiled extract in an office in a building in Kettle Rows, at about ten to ten at night, on the eleventh of December 2029.** He put a piece of paper in front of a man and the man read it three times.
 >
@@ -15,6 +15,14 @@ He had written *about four* on the fourth line and he had underlined it, and the
 ---
 
 The housing options office had a blue sign, a waiting area with eleven chairs in it, a counter with a screen, a back door onto a yard, and a man of about thirty-six behind the counter in a fleece with the Royal National at the top of the list and nothing under it, and there were two people on the chairs and neither of them was waiting for him.
+
+He counted the chairs through the glass from the pavement before he went in, one way along the front of them and then the other way from the end, and it was eleven both times.
+
+Nothing happened.
+
+He stood on a pavement on a Friday morning and waited for about four minutes for the thing that had not happened for five months, and it did not come, and there was no room and there was no glass going and there was no ink, and the two people on the chairs did not look up and nobody went past him on that side of the parade at all, and there was nobody there to see him not do it. He had the number in his head the whole time he was standing there, and he knew the whole time what he was not going to do about it, which was write it in his own book, because a man who writes down the one time a thing agrees with him has to decide on the same page what he does about it, and he had decided that he would decide that on a different day.
+
+He did not go in and find out. Then he went in, and the eleven chairs were behind him for the length of the morning, and he did not count them again.
 
 Elias Venn had got there by asking. He had asked at four counters between nine o'clock and a quarter to eleven, and three of them had told him that it was a matter for an office and not for them, and the fourth had told him that people whose cases had been closed did not come back to a housing options office, they went somewhere else, and had not told him where, and had said, *and if I told you it would be me that gets the call*.
 
@@ -110,7 +118,7 @@ He had said the word and she had not asked and he was not going to ring her back
 
 He put the receiver down on its hook and the box swallowed the click, and the parade was there.
 
-He stood on the pavement of a parade at half past two on a Friday afternoon and let the last of the afternoon go, and did not go in and find out, and that was the hardest thing he had not done in six months, and there was nobody there to see him not do it.
+He stood on the pavement of a parade at half past two on a Friday afternoon and let the last of the afternoon go, and did not go to it and find out, and that was the hardest thing he had not done in six months.
 
 Four streets away, off a parade that looked exactly like this one, there was a house with a hardback book in it, and a woman of sixty-three in it, and a first name on a page and no surname anywhere on it. And he had stood outside a door for six months and he had got an address, and he was not going to knock on it on a Friday afternoon in the same week he found it.
 
