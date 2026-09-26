@@ -22,7 +22,7 @@ Elias Venn sat down on the other end of the bench, which was not worn, and put h
 
 "They are written down."
 
-"Good." She stood up. "The order ends today. It ends at midnight last night, and the word goes in the box this morning, and you are going to want to be in a building at half past nine and you are not going to be in this one, and I am not going to be able to do a thing about it, and I am telling you now so that you do not spend four minutes working out whether I knew."
+"Good." She stood up. "The order ends today. It runs to midnight tonight, and the word goes in the box this morning, and the woman who writes it is on a nineteen-year rota and is not the applicant, and you are going to want to be in a building at half past nine and you are not going to be in this one, and I am not going to be able to do a thing about it, and I am telling you now so that you do not spend four minutes working out whether I knew."
 
 ---
 
@@ -96,7 +96,7 @@ Elias Venn did not say anything.
 
 There were five jobs on the bench in the back room of 14 Kettle Rows on Monday afternoon and he did three of them and the till was standing at fifty credits, which was where it had been since a man of about sixty had put a tenner on a counter on the twelfth of January and told him he had been carrying a clock round the district since November and had been in four shops.
 
-Otto Vahl came up half a flight at about ten past six in the evening with a cup in his hand and did not put the light on, and Elias Venn had the bench and the notebook and a strip of job card the width of a piece of paper in a drawer two miles away, and the drawer was open, and he had not shut it, and it had been open for about four hours, which was longer than it had ever been open.
+Otto Vahl came up half a flight at about ten past six in the evening with a cup in his hand and did not put the light on, and Elias Venn had the bench and the notebook and a strip of job card the width of a piece of paper in a drawer in a laboratory two miles away that he has not been in since Friday, and the drawer under the counter in the back room was open, and he had not shut that one either, and it had been open for about four hours, which was longer than it had ever been open.
 
 "Six days," said Otto Vahl from the bottom of the stairs in the dark.
 

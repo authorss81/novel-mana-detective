@@ -1,6 +1,6 @@
 # Chapter 0093 — Refused on the Merits
 
-The waiting room at Vine Street had six chairs in it and a radiator that had been on since before anybody came and a fire bucket with about two inches of sand in the bottom of it, and at eleven o'clock on Wednesday the sixteenth of January there were four people in it, and one of them was a man of about forty-four with a briefcase and a bad coat, and one of them was Nadia Kest, and one of them was a woman of about seventy with a shopping bag full of paperwork that was going to be dealt with badly, and the fourth was Elias Venn, who had been sent to wait with her because there was one chair short.
+The waiting room at Vine Street had nine chairs in it and a radiator that had been on since before anybody came and a fire bucket with about two inches of sand in the bottom of it, and at eleven o'clock on Wednesday the sixteenth of January there were four people in it, and one of them was a man of about forty-four with a briefcase and a bad coat, and one of them was Nadia Kest, and one of them was a woman of about seventy with a shopping bag full of paperwork that was going to be dealt with badly, and the fourth was Elias Venn, who had been sent in to wait with her because nobody was going to be left standing in a corridor.
 
 Nadia Kest had got there at a quarter past ten and had told him, in the corridor, that he was about to be the worst thing in the building.
 
@@ -44,7 +44,7 @@ They were in a corridor outside a records office at half past four in the aftern
 
 "I have not finished."
 
-"You are going to be in that room on Tuesday and I have been not letting you for four days and I have thought about it on a stair on Friday afternoon and on a Sunday night in my own kitchen, and I am going to tell you the whole of my reasoning and then I am going to tell you the answer and then you are not going to raise it again until after the twenty-third, and that is not me being stubborn, that is me spending four minutes of a good man's attention so that neither of us has to spend it at two in the morning."
+"You are going to be in that room on Tuesday and I have been not letting you for four days and I have thought about it on a stair on Friday afternoon and on a Sunday night in my own kitchen, and I am going to tell you the whole of my reasoning and then I am going to tell you the answer and then you are not going to raise it again until Monday, and that is not me being stubborn, that is me spending four minutes of a good man's attention so that neither of us has to spend it at two in the morning, and Monday is the day it is coming from."
 
 "Go on."
 
@@ -52,7 +52,7 @@ They were in a corridor outside a records office at half past four in the aftern
 
 "I will not be watching them. I will be watching the frame."
 
-"You will be watching the frame *in a room with eleven people in it*, and the frame is on a table in the middle of the room, and you are a man in a good coat with a notebook and a faculty, and every one of those eleven people is going to spend the whole of the evening being aware of you in it." She put the folder under her arm the other way. "And there is a third reason and I have kept it back since Friday and I am giving it to you now because you have been decent about the drawer and I owe you one. **If you go into that room and you cannot do it, there will be nothing done. Nothing. Because the working will not stop for a person who fails, and it will not stop for a police officer either, and it will certainly not stop for a document. The only thing in this city that has ever stopped one is somebody in a corridor putting a hand on a door, and that was you, on the eleventh of January, and it did not stop it, and a woman had to come down a stair and an inspector had to put her shoulder to a door, and I am not going to build Tuesday around a man in a coat and a hope.**"
+"You will be watching the frame *in a room with eleven people in it*, and the frame is under a cloth on a table in a room that you have not been in and neither have I, and you are a man in a good coat with a notebook and a faculty, and every one of those eleven people is going to spend the whole of the evening being aware of you in it." She put the folder under her arm the other way. "And there is a third reason and I have kept it back since Friday and I am giving it to you now because you have been decent about the drawer and I owe you one. **If you go into that room and you cannot do it, there will be nothing done. Nothing. Because the working will not stop for a person who fails, and it will not stop for a police officer either, and it will certainly not stop for a document. The only thing in this city that has ever stopped one is somebody in a corridor putting a hand on a door, and that was you, on the eleventh of January, and it did not stop it, and a woman had to come down a stair and an inspector had to put her shoulder to a door, and I am not going to build Tuesday around a man in a coat and a hope.**"
 
 They stood in the corridor.
 

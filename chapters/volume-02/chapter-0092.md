@@ -12,7 +12,13 @@ The green hardback book was on the table with a rubber band round it and about t
 
 "It is in there four times," he said. "Same address, four lines, about two years apart. I am not going to say the address out loud in this room, because this room has a bell on the door and I have been in it six years and you have been in it four days, so you are going to read it and you are going to write it down and then you are going to tell me you did not, and both of those are fine and I do not care about the writing down. I care about you saying it in here."
 
-Elias Venn wrote the address down in his own notebook in the corridor at half past eleven with the door shut behind him, and it was **nine Calder Place, first floor, the door at the end with a bell on it that is not a working bell.** A parade, four streets back from the shop on Kettle Rows, which the whole of that end of the city calls Kettle Rows parade. A shop at the end of it, two rooms above the shop, and a bell on the door of the shop, which is a different bell and is not the one on the first floor.
+Elias Venn wrote the address down in his own notebook in the corridor at half past eleven with the door shut behind him, and it was **nine Calder Place, first floor, the door at the end with a bell on it that is not a working bell.** A parade, four streets back from the shop on Kettle Rows, which the whole of that end of the city calls Kettle Rows parade. A shop at the end of it, eight rooms above the shop, and a bell on the door of the shop, which is a different bell and is not the one on the first floor.
+
+Then he sat on the second step with the notebook shut on his knee and understood what he had been given, and it took him about a minute.
+
+It was not her address. It was the address of a room. She had written the address of the room four times in a box headed *premises*, in a book with no names in it, on a first floor four streets back from Kettle Rows, and a man who had allowed himself one line of rule in 2019 had carried a woman's front door in his head for six years and had never once been able to do anything with it, because it was not a front door. It was a room where a man does a thing to eleven people on a Tuesday night for a fee, and the only person in this city who could have told him that was the woman whose name he did not have.
+
+He had been given a building. He had not been given a woman, and he was not going to get one out of a book, and the man who had handed it over had known that on the Monday night and had given him the reason instead of the address, and had been right.
 
 "That's a room above a shop," he said, through the door.
 
@@ -22,13 +28,13 @@ Elias Venn wrote the address down in his own notebook in the corridor at half pa
 
 Nine Calder Place had a shop with a green sign that had faded to the colour of a two-week-old plaster and a bell on the door and a counter with a card holder on it, and there was a man of about twenty-five behind the counter in a fleece with the shop's name embroidered on it in a thread that had gone at the shoulders.
 
-Elias Venn asked what the two rooms above the shop were used for and the man said they were let, and asked by whom, and the man said by a man, and asked when, and the man said on a Tuesday, and asked whether it was every Tuesday, and the man said yes.
+Elias Venn asked what the rooms above the shop were used for and the man said they were let, and asked by whom, and the man said by a man, and asked when, and the man said on a Tuesday, and asked whether it was every Tuesday, and the man said yes.
 
-"That is my job to say yes to," he said. "I am not saying it to be difficult. I have been in this shop since I was twenty-two and the rooms went to a man in about 2026 and he pays the rent in cash on a Friday and he has a set of keys and I have never been given one and I have never asked for one, because if you ask for a key to those rooms then you are a man who wants a key to those rooms."
+"That is my job to say yes to," he said. "I am not saying it to be difficult. I have been in this shop since I was twenty-one and the rooms went to a man in about 2026 and he pays the rent in cash on a Thursday and he has a set of keys and I have never been given one and I have never asked for one, because if you ask for a key to those rooms then you are a man who wants a key to those rooms."
 
 "And this afternoon?"
 
-"He is in the shop on a Tuesday afternoon because the rent gets counted on a Wednesday and he comes in on the Tuesday and he is in the back room about an hour and I am not allowed in the back room." He said it without any weight at all, the way a man says the name of a supplier. "He is in now. He is in the back room with the door shut and a light on."
+"He is in the shop on a Tuesday afternoon because the stair door has to be unlocked and the rent gets counted on a Thursday and that is the only day I have ever seen him stand at that desk, and he is in the back room about an hour and I am not allowed in the back room." He said it without any weight at all, the way a man says the name of a supplier. "He is in now. He is in the back room with the door shut and a light on."
 
 "Can I go up?"
 
@@ -52,7 +58,7 @@ A woman on the third step said, "How much."
 
 "How much is it."
 
-"I have got a genuine answer and it is that I do not know, and I am not going to make one up for you, because a person who makes a number up on a stair is worse than a person who gives you the wrong number." He put the notebook in his coat. "I am going to say the third thing. You are all sitting on a stair at four o'clock in the afternoon outside a room that is not opened until eight, and there is not one of you here who can say what the room is for, and I know that, because I have been in six rooms in this city in four months and there is not one of them that could say either."
+"I have got a genuine answer and it is that I do not know, and I am not going to make one up for you, because a person who makes a number up on a stair is worse than a person who gives you the wrong number." He put the notebook in his coat. "I am going to say the third thing. You are all sitting on a stair at four o'clock in the afternoon outside a door that a man locks again at about half past seven, and there is not one of you here who can say what the room is for, and I know that, because I have been in six rooms in this city in four months and there is not one of them that could say either."
 
 Nobody said anything.
 
@@ -132,7 +138,7 @@ Cyril Danbury came back from the wall and sat down in the second chair on the le
 
 "You have drawn it twice," he said. "Why."
 
-"Because in 2028 I drew it the way I thought it went and then I sat in this room for two hours and watched where I actually went, and it was not there." He put his hand flat on the table about a foot from the paper. "I draw a place when a person has been in it twice. I have four of those and I have never told anybody, and one of the four is a place I started and did not come back to, and that one is the fainter of the two lines, and I am not going to say any more than that."
+"Because in 2028 I drew it the way I thought it went and then I sat in this room for two hours and watched where I actually went, and it was not there." He put two fingers on the edge of the table about a foot from the paper, and did not go near it. "I draw a place when a person has been in it twice. I have four of those and I have never told anybody, and one of the four is a place I started and did not come back to, and that one is the fainter of the two lines, and I am not going to say any more than that."
 
 ---
 
@@ -144,15 +150,15 @@ Elias Venn came down at about ten past six and the light had gone and the shop h
 
 "He was all right with you?"
 
-"He told me a number and he told me a word and he told me that he drew a plan of his own room in June 2026 and that he has drawn it about four times since." Elias Venn put his hand flat on the counter and stopped it there. "I did not ask him a single question about what he does in that room and I want you to know that, because in about four hours somebody is going to tell you that a man upstairs has been asked and he has not been asked."
+"He told me a number and he told me a word and he told me that he drew a plan of his own room in June 2026 and that he has drawn it about four times since." Elias Venn put his hand flat on the counter and stopped it there, which is the thing his hand does now and which he had been told about in a kitchen and has not been able to stop. "I did not ask him a single question about what he does in that room and I want you to know that, because in about four hours somebody is going to tell you that a man upstairs has been asked and he has not been asked."
 
 "Asked about what."
 
 "About nothing. That is the point. In four months I have asked about five hundred things and I have never once asked the right one, and it has taken a woman in a laboratory and a man of sixty-eight and a woman at a forms counter to tell me that, and none of them were police." He took his hand off the counter. "Does he lock up."
 
-"He does. He locks up and he has the only key and it is on his belt, and I have seen him do it about a hundred times, and I have never had a key and I have never asked." The man of twenty-five shut the metal box. "And he unlocks it at about ten to eight on a Tuesday because I am in here and he does not want a key to turn in a lock with me sitting on the other side of the wall."
+"He does. He locks up and he has the only key and it is on his belt, and I have seen him do it about a hundred times, and I have never had a key and I have never asked." The man of twenty-five shut the metal box. "And he unlocks it at about half past seven on a Tuesday because I am in here and he does not want a key to turn in a lock with me sitting on the other side of the wall."
 
-"Then at about ten to eight tonight he is going to unlock a door with a man of about twenty-five in the room next to it."
+"Then at about half past seven tonight he is going to unlock a door with a man of about twenty-five in the room next to it."
 
 "That is how it works."
 

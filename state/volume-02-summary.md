@@ -4,6 +4,17 @@
 
 **The Volume 02 handoff. Read this first for Volume 03.** Position files: `state/current.md` (position) · `state/continuity.md` (the LIVE sections) · `state/open-threads.md` · `state/character-state.md` · `state/volume-02-index.md` (fifty rows, one per chapter) · `state/batch-0010-summary.md` (Arc E in full) and `state/batch-0006-summary.md` through `-0009-summary.md` (Arcs A to D).
 
+---
+
+**THIRD REPAIR PASS, after a review of the review. Five facts in this handoff were wrong about the prose and are corrected in place and in the chapters.**
+
+- **The eleven above the shop are seven named and four not, and two names that were in the first version of this handoff are not in Arc E at all.** **Named on the page: Bernadette Lyle, 38; Cyril Danbury, 74; Petronella Osei, 50; Winnie Arkwright, 58.** Never named: a man of about thirty-six, a man of about forty-five with a bicycle helmet, a woman of about fifty-one with a bag of leeks, a woman of about fifty-two in a nightdress, a woman of about sixty-three with a zip purse, and one who is never described. **Petronella Osei and Winnie Arkwright are the only two the volume positively places on a Tuesday, in Dr Okafor's own mouth. Ahmed is one of the nine in the canteen and is NOT one of the eleven. Una Ferrers and Bernice Ollerton appear in Chapters 72 and 75 and in no chapter of Arc E.**
+- **The summons of 21 January 2030 covers two people, not one,** which is why Eamon Brack is charged by summons and not arrested: he was served on the eighteenth, told he need not attend at all if he would rather be charged, and chose to attend.
+- **The rent book has a line every TUESDAY and the cash is counted on a THURSDAY,** and the first floor above the shop has **eight** rooms, and it is the **stair door** that is shut, unlocked in the afternoon and locked again at about half past seven.
+- **The document the counterturn rests on is Brack's green book, which was sealed on Friday,** and not the consent strip, which appears nowhere in Chapters 91 to 100 and is not the climax's evidence.
+- **Nadia Kest did not apply for a warrant for the ward and has never said she did.** She went before the magistrate on 21 January and asked for it to be minuted that she had not applied for one, and that is the version on the page in Chapter 100.
+
+
 **Volume 02 runs Saturday 10 November 2029 to Wednesday 23 January 2030, in five arcs of ten, escalation beats 11 to 17, the midpoint at Chapters 81–90, the climax at Chapters 91–100, and the close at Chapter 100.** Volume 01 ran Monday 17 September to Saturday 3 November 2029 and is closed. **Every weekday in this volume has been checked in Python against the real Gregorian calendar in the frame anchored on 17 September 2029 = Monday and 3 November 2029 = Saturday.** **The year is 2030 from 1 January 2030 and 2029 up to 31 December 2029 and both are correct.**
 
 ---
@@ -51,7 +62,7 @@
 - **A false memory of a conversation that has not happened, dated Sunday 16 December 2029, unresolved, and Nadia Kest has no memory of a car park on a Sunday and has not been told and must not be told.**
 - **A consent strip in a brown envelope in a bench drawer on Saint Orra Reach that did not leave that building in Volume 02 and did not leave it on the night of the raid either.**
 - **A key nobody in four streets has, a room that is let weekly, and a landlord who is fifty-two and who is not a villain and who arranged one thing in about four minutes a week for four years so that there would not be a second thing.**
-- **NINE of the eleven who came can say their own name and two cannot, and neither of the two is on a list of eleven that a doctor wrote out on Monday evening from a room, a chair count and a plan. THIRTEEN people have been in that room, not eleven, and the count is the eleven who came up the stair, plus the man of fifty-two with the keys who has stood in it on about two hundred Tuesdays, plus the district nurse who was in it about four minutes on a job of her own; neither of the last two came there to be worked on, and a plan of eleven chairs cannot show either of them.**
+- **NINE of the eleven who came can say their own name and two cannot, and neither of the two is on a list of eleven that a doctor wrote out on Monday evening **off eleven names she has carried in her own head since about 2021 and off a drawing a member of the public left flat on a shop counter on Sunday afternoon and telephoned to a police inspector, and the inspector telephoned her at about ten o'clock on Sunday night, and she has never seen the drawing and has not asked to.** THIRTEEN people have been in that room, not eleven, and the count is the eleven who came up the stair, plus the man of fifty-two with the keys who has stood in it on about two hundred Tuesdays, plus the district nurse who was in it about four minutes on a job of her own; neither of the last two came there to be worked on, and a plan of eleven chairs cannot show either of them.**
 - **Three charges and a short list, and a man of thirty-nine who cannot be charged with the nine because a use is not an offence, and a woman of fifty-eight who was not told that the address in her margin is in a kitchen book four streets away.**
 
 ## State of the standing costs at the Volume 02 close

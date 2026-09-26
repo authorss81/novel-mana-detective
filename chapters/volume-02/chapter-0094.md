@@ -40,7 +40,7 @@ Ivor Skellern looked at him for the first time properly, which took about two se
 
 "I have not asked you what you do up there and I have told you I am not going to ask, and I would like to look at a book that is about rent, and I have done nothing this morning that you could put in front of anybody."
 
-Ivor Skellern looked at the desk for a while and then he turned round and pushed a hardback book across it and put his hand flat on it, and the book had about four years of columns in it and a rubber band round it, and the columns were a date, a signature and a number of pounds.
+Ivor Skellern looked at the desk for a while and then he turned round and pushed a hardback book across it and squared it with the edge of two fingers, and the book had about four years of columns in it and a rubber band round it, and the columns were a date, a signature and a number of pounds.
 
 "Rent, weekly," he said. "Every Tuesday. One line. I do not do this for anybody else and I have told Kieran and he has said for about two years that I am a lunatic."
 
@@ -62,7 +62,7 @@ He took the book back and put the rubber band on it and did not put it in a draw
 
 "Who is on the two claims with you."
 
-"A registered operator with a registration and a premises and a set of books. A company. It is a company and I am not in it and I have never been in it and I have never met a person in it, and I have told you what I know about them and I have told you in about eleven words and I would like you to notice that eleven words is what I have got, and that a man who is owed money can say more in a shout." He put his hand flat on the book. "There is a difference between a man who is owed money and a company, and I have never been able to work out which one I am, and I have decided that on the whole I am neither, and I have been getting on with it."
+"A registered operator with a registration and a premises and a set of books. A company. It is a company and I am not in it and I have never been in it and I have never met a person in it, and I have told you what I know about them and I have told you in about eleven words and I would like you to notice that eleven words is what I have got, and that a man who is owed money can say more in a shout." He put one finger on the book and left it there. "There is a difference between a man who is owed money and a company, and I have never been able to work out which one I am, and I have decided that on the whole I am neither, and I have been getting on with it."
 
 "Why have you never asked them for anything."
 
@@ -130,7 +130,7 @@ There was a laundrette at the bottom of the parade with nine machines in it and 
 
 "Then I am sorry, and if you are looking for the one with the card machine, that is not here any more and it has not been here since the summer." She looked at the slip. "I am waiting for nine coats and my mother-in-law is not one of them and she is not doing a wash and she has not done a wash in this laundrette in two years, and I have been standing in here for forty minutes telling myself I was going to do a wash, and the reason I am in here is that it is Thursday and it is the only forty minutes on a Thursday that I do not have to be in a kitchen."
 
-Elias Venn put his hand flat on the counter and then took it away, and it was the second time in nine days that he had been able to do it once.
+Elias Venn put his hand flat on the counter and then took it away, and it was the second time in two days that he had been able to do it once, and the first time had been on the Tuesday at about ten past six in a shop on a parade, and he had written nothing down about that either.
 
 "How long has she been going upstairs," he said.
 

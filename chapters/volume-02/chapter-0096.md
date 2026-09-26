@@ -78,7 +78,7 @@ The porter looked at the plate in front of him for a while.
 
 ---
 
-A woman of fifty at the end of table one had not said anything all evening and had a hand flat on the table beside her plate, and she had not eaten any of it, and she had come in at about a quarter to nine and had said one sentence to the matron and had not sat with anybody.
+A woman of fifty at the end of table one had not said anything all evening and had both hands on the table beside her plate, and she had not eaten any of it, and she had come in at about a quarter to nine and had said one sentence to the matron and had not sat with anybody.
 
 "That is Petronella Osei," said Sana Okafor, across the room, "and she works at my desk and she has been at that desk for six years, and she does not take names, and I have never once asked her why, and I am not going to ask her tonight either."
 

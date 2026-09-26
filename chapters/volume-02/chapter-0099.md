@@ -1,14 +1,14 @@
 # Chapter 0099 — The Tuesday Room
 
-Kieran Slack let them in at about ten past five on Tuesday the twenty-second of January and stood on the far side of his own counter with his arms folded while Fenella Carr read the warrant out loud, twice, and the address was in full and the words *first floor* were on it twice, and Kieran Slack listened to both readings the way a man listens to his own name.
+Kieran Slack let them in at about ten past five on Tuesday the twenty-second of January and stood on the far side of his own counter with his arms folded while Sergeant Fenella Carr read the warrant out loud, twice, and the address was in full and the words *first floor* were on it twice, and Kieran Slack listened to both readings the way a man listens to his own name.
 
-"It does not say premises once," she said. "I had the magistrate print it twice, and I have read it to you, and I have read it at a quarter to seven this afternoon to a district nurse on the ground floor of that building, because she is going to be the second person in that building tonight. It reaches the shop, the stair and this floor and it stops at this floor. It does not reach the ground floor, it does not reach the cellar, it does not reach the street, and there is nobody standing on any of those three on my account."
+"It does not say premises once," she said. "I had the magistrate print it twice, and I have read it to you, and I have read it at a quarter to seven this afternoon to a district nurse on the ground floor of that building, because she is going to be the second person in that building tonight. It reaches the shop, the stair and this floor and it stops at this floor. It does not reach the cellar, it does not reach the street, and there is nobody standing on either of those two on my account."
 
 "You are not going up."
 
-"I am going to sit on the bottom step of that stair for about five hours and I am going to be let in when the room is opened, and if anybody wants to know why then it is because an inspector told me on Wednesday in a corridor in writing and I signed it."
+"I am going to sit on the bottom step of that stair for about six hours and I am going to be let in when the room is opened, and if anybody wants to know why then it is because an inspector told me on Wednesday in a corridor in writing and I signed it."
 
-Kieran Slack unlocked the back room at five twenty-five, let a sergeant of forty-one and two constables through it, and went back behind his counter and put his hand flat on it, and then took it away and put it in his pocket, which was not a thing he had ever had to do before five o'clock in the afternoon in four years.
+Kieran Slack unlocked the back room at five twenty-five, let a sergeant of forty-one and two constables through it, and went back behind his counter and squared a till tray that did not need squaring, and then took his hand away and put it in his pocket, which was not a thing he had ever had to do before five o'clock in the afternoon in four years.
 
 The stair door at the top was locked. It was unlocked from the inside by a man of fifty-two with a set of keys on a ring on his belt, and Nadia Kest had him arrested for the offence of unregistered practice in respect of memory and identity work before his feet were on the landing, and he said nothing at all while it happened, and then he said his piece.
 
@@ -46,15 +46,15 @@ At about twenty to eight somebody walked into the shop below and a bell went, an
 
 ---
 
-They came up a wooden stair with a handrail on one side only, past a first landing with a meter cupboard on it, and there was a police officer at the top of it, and the officer did not ask anybody a question, and the eleven of them came up anyway: a woman of thirty-eight in a coat with a handbag on her knee, a woman of fifty-one with a bag of leeks, a man of thirty-six with his head down, a man of about forty-five holding a bicycle helmet, a woman of sixty-three with a zip purse in both hands, and a man of seventy-four who knew which chair was his. None of them went past that officer quickly. None of them went past him at all, and they all went past him.
+They came up a wooden stair with a handrail on one side only, past a first landing with a meter cupboard on it, and there was a police officer at the top of it, and the officer did not ask anybody a question, and the eleven of them came up anyway: a woman of thirty-eight in a coat with a handbag on her knee, a woman of fifty-one with a bag of leeks, a man of thirty-six with his head down, a man of about forty-five holding a bicycle helmet, and a woman of sixty-three with a zip purse in both hands, and there were five more of them behind those five, and the eleventh of them was not coming up at all, because he had been in that room since a quarter past four in the afternoon with his hands on his knees and his coat over the back of his chair, waiting, the way a man waits who has been let in early and not told why. None of them went past that officer quickly. None of them went past him at all, and they all went past him.
 
 "There are eleven of you," said Fenella Carr, from the landing.
 
-"There are eleven of us," said a voice from the bottom of the stair. "We have got to be out by nine because the buses stop."
+"There are eleven of us," said a voice from the bottom of the stair. "We have got to be out by one because the last bus is at ten past."
 
 Nadia Kest looked at Elias Venn, who was sitting on the bottom step, and Elias Venn said, "I am not going to do anything. Nobody is going to do anything. You have a schedule."
 
-The room was opened by the officer. The eleven went in and sat in the eleven chairs, most of them in the place they had sat in before, which is what two hundred Tuesdays is, and which is why a man who lets a room and draws a plan of it can tell you which chair is whose without ever asking anybody a question, and the man of seventy-four went to the second chair on the left, and the woman of fifty-one sat in the fifth, and Bernadette Lyle sat in the fourth with her handbag on her lap.
+The room was opened by the officer. The eleven went in and sat in the eleven chairs, most of them in the place they had sat in before, which is what two hundred Tuesdays is, and which is why a man who lets a room and draws a plan of it can tell you which chair is whose without ever asking anybody a question, and the man of seventy-four, who had been in it since a quarter past four, went to the second chair on the left, and the woman of fifty-one sat in the fifth, and Bernadette Lyle sat in the fourth with her handbag on her lap.
 
 The working was in the room by about eight minutes past eight, and everybody in it felt it at the same time, which was the thing Elias Venn had not been ready for and never would be.
 
@@ -118,7 +118,7 @@ Somebody at the back of the room said, "Don't."
 
 The schedule written on Monday evening on Fenwick Street was read out at about ten past nine, standing up, in a voice that did not go up at the end of a line, by a police inspector, to eleven people in a room and to two in a corridor.
 
-"Three lines," she said, "and a room. One hardback rent book, four years of weekly entries, a signature and not a name, sixty pounds a week. One sheet of A4, folded in four, bearing a drawing of a room and eleven chairs and a date in one corner and a code under it, photographed in place in a coat pocket on a stair and sealed. One tin, the size of a cake tin, with no lid, empty. And a room, and a room is not a line, and I am putting it on the schedule anyway, because a room that a man has used on a Tuesday night for four years is evidence and it does not fit on a page."
+"**Three lines,**" she said, and stopped, and looked at the page in her own hand, which was in a clipboard and not in a file. "**Three lines. I wrote two.** I wrote that page on Monday afternoon in about four minutes in a corridor at Vine Street and I told a man in this building that there was not a third line and that if there was one then I had written it wrong. So I have written it wrong, and I have been in twenty-two years of writing pages and I have never done it, and I would like it noticed that I have found out about it standing up in a room with eleven people in it and not in my own office, and that is the whole of what I have to say about it." She turned the page round. "And a room. One hardback rent book, four years of weekly entries, a signature and not a name, sixty pounds a week. One sheet of A4, folded in four, bearing a drawing of a room and eleven chairs and a date in one corner and a code under it, photographed in place in a coat pocket on a stair and sealed. One tin, the size of a cake tin, with no lid, empty. And a room, and a room is not a line, and I am putting it on the schedule anyway, because a room that a man has used on a Tuesday night for four years is evidence and it does not fit on a page."
 
 Sana Okafor looked at the tin from about four feet away. "Do not open that in front of me. If there is anything in it with a name on it, then somebody in a hospital in this city is going to be told something on Wednesday that they have not been told, and I am not going to be the one who does it at nine o'clock at night with a police inspector standing over it."
 
@@ -126,9 +126,9 @@ Sana Okafor looked at the tin from about four feet away. "Do not open that in fr
 
 "It is empty," said a man of fifty-two from a corridor, and the tin went into an envelope, and the schedule was signed by three people and read back twice, and the objects were lifted, and tagged, and weighed, and logged with a line each, and sealed, and the return was written out, and nobody in that room was photographed in it.
 
-Then he read the plan.
+Then Elias Venn read the plan.
 
-It was in his own hand and it was not on the table any more and he was reading it standing up in a corridor with the envelope open, because Nadia Kest had opened it on the landing and given it to him and told him he had about four minutes and that he was to say one thing and one thing only and that if he said a second thing she would take it off him in front of nine people.
+It was in the hand of the man who drew it and it was not on the table any more and he was reading it standing up in a corridor with the envelope open, because Nadia Kest had opened it on the landing and given it to him and told him he had about four minutes and that he was to say one thing and one thing only and that if he said a second thing she would take it off him in front of nine people.
 
 He did not touch it. The front was a room in ink with a door, a meter cupboard, a couch and eleven chairs, a scale in the bottom corner, a date in the top right in the form 04/06/26, and a code under it in a hand that leaned right and pressed hard. The reverse had eleven numbers down the left-hand side in a second pen, and beside each of the eleven a figure, and the figures were not the same, and the largest was nine times the smallest.
 
@@ -142,7 +142,7 @@ He turned the sheet over.
 
 He put the sheet back in its envelope on the table.
 
-"I am going to tell you the worst of it," he said, to the room. "**Eleven people in this room did not ask what was being done to them. She asked. Four times, and there is a document about that in a drawer in a laboratory four miles from here with a date on it, and nobody answered her. And the only reason anything can happen tonight is the shape of the hole in the middle of it, and that is not a gift, and I am not going to pretend it is anything else, and I am the man who is going to be standing in it, and I have got about four minutes.**"
+"I am going to tell you the worst of it," he said, to the room. "**Eleven people in this room did not ask what was being done to them. She asked. Four times, and it is written four times in a line down the side of a green book that went into an envelope on Friday in this city with somebody's seal on it, and it was not answered then either. And the only reason anything can happen tonight is the shape of the hole in the middle of it, and that is not a gift, and I am not going to pretend it is anything else, and I am the man who is going to be standing in it, and I have got about four minutes.**"
 
 ---
 
@@ -158,7 +158,7 @@ It was not like pain. He had been ready for pain and had said so to a man in a k
 
 He had a brass ring in his right hand and his left was on the table and he had put a thing into the one place in that room where an act had not been put in, and the thing had a verb in it.
 
-It was not a blank. He had put a blank in a working on a Friday afternoon on a cold landing in Corrie Street, and a blank is the one thing in a working that nothing can decide about, and a blank can be carried by anybody and is the thing a person is made to carry for a very long time. A refusal is a sentence with a person in it. It has to be held by somebody who means it.
+It was not a blank. He had put a blank in a working on a Friday afternoon on a cold landing in Corrie Street, and a blank is the one thing in a working that nothing can decide about, and a blank can be carried by anybody and is what he had been made to carry for a week already. A refusal is a sentence with a person in it. It has to be held by somebody who means it.
 
 He did not commit it.
 
@@ -168,11 +168,11 @@ The room went, quietly, for a gap, to the place where the turn had happened and 
 
 It did not last long. He has never been able to say afterwards how long it lasted, and the four people who were holding it would each give you a different answer, and not one of them would give you a clock, and he has never once asked.
 
-A doctor of forty-seven kept eleven people flat and told them to breathe and wrote the time on the back of her own hand twice and has never shown it to anybody.
+A doctor of forty-seven kept eleven people flat and told them to breathe and wrote the time on the back of her own hand twice, and he did not see it, and she did not offer it, and he has not asked her for it and is not going to.
 
-A police inspector of twenty-two years stood in a corridor and said nothing at all for as long as it lasted, and a man of twenty-five in a shop below put the kettle on at about nine o'clock, and then stood at the bottom of his own back stair with it boiling and did not go up, because on Friday he had worked out that a man in a room is a man on the stairs, and he made four of them and put them on his own counter and left them there, and he told a police constable about it afterwards and the constable wrote it down.
+A police inspector of twenty-two years stood in a corridor and said nothing at all for as long as it lasted, and a man of twenty-five in a shop below put the kettle on at about nine o'clock, and then stood at the bottom of his own back stair with it boiling and did not go up, because on Friday he had worked out that a man in a room is a man on the stairs, and he made four of them and put them on his own counter and left them there, and a police constable wrote it down at about two in the morning because that is what a book is for, and Elias Venn was told about the four mugs on the Wednesday morning by the inspector, in a corridor, and has not seen the man who made them since.
 
-And the fourth of the four was four miles and a parade away, on the far side of the city, on the first floor of 4 Corrie Street, in a corridor with a bell on a string and a gas fire that was off, because a police inspector had telephoned that building at four o'clock on the Tuesday afternoon and had asked him one question, which was whether he would stand at the other end of a corridor, and he had said yes, and that was the first thing he had agreed to in six years that was not about money. He had his back to a wall and his hand on a rail and he said *not yet* eleven times, because that is what a practitioner does, and on the twelfth time he said *now*, and he never found out whether it had been any use to anybody.
+And the fourth of the four was four miles and a parade away, on the far side of the city, on the first floor of 4 Corrie Street, in a corridor with a bell on a string and a gas fire that was off, because a police inspector had telephoned that building at four o'clock on the Tuesday afternoon and had asked him one question, which was whether he would stand at the other end of a corridor, and he had said yes, and that was the first thing he had agreed to in six years that was not about money. He had his back to a wall and his hand on a rail and he said *not yet* eleven times, because that is what a practitioner does, and on the twelfth time he said *now*, and a police inspector told him about the rest of it on the Wednesday morning in a corridor at Vine Street, and he has still not found out whether it was any use to anybody.
 
 He came out of it on his knees on a floor with his right hand shut.
 
@@ -188,13 +188,13 @@ It came apart in a room with eleven people in it, and the ink came off the paper
 
 ---
 
-Nadia Kest was in a day room on the Wexford Row premises and she had left the building on a parade at about ten to ten with nothing in her hands and nothing in her coat.
+He was told about the ward on the Wednesday morning, in a corridor, by the woman who had been in it, and she said it in the order it happened and she said it once and she did not enjoy saying it.
 
-She went in through a fire door at about half past ten with no instrument of any kind, and an attendant let her in because she showed him a card and did not use it, and she stood in a room with three people in it for an hour and ten minutes, and she took nothing and she arrested nobody and she did not speak.
+Nadia Kest had left the building on a parade at about ten to ten with nothing in her hands and nothing in her coat. She went in through a fire door at about half past ten with no instrument of any kind, and an attendant let her in because she showed him a card and did not use it, and she stood in a room with three people in it for an hour and ten minutes, and she took nothing and she arrested nobody and she did not speak.
 
 There was a jigsaw on a table with nine pieces missing from it. One of the three was a woman of eighty-one with a hip, admitted on the twenty-eighth of November 2029, who was asleep and awake at the same time, which is a thing that happens to very old people and which two of the three were not.
 
-At about ten to ten on the twenty-second of January, which was about forty minutes before a police inspector put a card against a fire door on the other side of this city, in a room above a shop on a parade in Kettle Rows, a sheet of paper came apart in a man's hands, and in a day room four miles away three people sat up.
+At about ten to ten on the twenty-second of January, which was about forty minutes before a police inspector put a card against a fire door on the other side of this city, in a room above a shop on a parade in Kettle Rows, a sheet of paper came apart in a man's hands, and in a day room four miles away three people sat up, and a woman standing in the middle of them with nothing in her pockets did not have to do anything at all.
 
 ---
 
@@ -206,13 +206,13 @@ Nine of the eleven could say their own name when the doctor asked them, in the o
 
 "Two of your eleven are not on your list."
 
-"I counted eleven chairs," said Sana Okafor. "**There are thirteen people who have been in that room and I have eleven names, and I did not ask one of them, and I wrote the eleven on Monday evening off a drawing of eleven chairs that a man in a good coat read out of a coat pocket on a Sunday, and that is the truth about this entire business and it has taken me nineteen years to be able to say it in one sentence.**"
+"I counted eleven chairs," said Sana Okafor. "**There are thirteen people who have been in that room and I have eleven names, and I did not ask one of them, and I wrote the eleven on Monday evening off eleven names I have had in my own head since 2021 and off a drawing of a room that a man in a good coat left flat on a shop counter on a Sunday afternoon and telephoned to a police inspector that same evening, and my inspector telephoned me at about ten o'clock on Sunday night, and I have never seen the drawing and I have not asked to, and that is the truth about this entire business and it has taken me nineteen years to be able to say it in one sentence.**"
 
 The van went at about eleven with the rent book and the tin and the envelope.
 
 He counted the chairs.
 
-The room had eleven chairs in it and at about half past eleven two officers were moving them to put something flat on a table, and he counted them, and it was eleven, and he counted them again, and it was eleven, and again, and a woman of fifty-eight from the linen run of the Aldergate Wing came past with a blanket over her arm and said, "They are chairs, love," and he said, "There are eleven of them," and she said, "There are eleven of them," and he said, "There are eleven of them," and she put a hand on his sleeve and said, "Sit down. I have got nine people to take to a hostel and I have not got time, and you are the fourth person tonight who has said the number of something to me when they meant to say something else."
+The room had eleven chairs in it and at about half past eleven two officers were moving them to put something flat on a table, and he counted them, and it was eleven, and he counted them again, and it was eleven, and again, and Winnie Arkwright came out of the room with a blanket over her arm and said, "They are chairs, love," and he said, "There are eleven of them," and she said, "There are eleven of them," and he said, "There are eleven of them," and she put a hand on his sleeve and said, "Sit down. There is a landing full of people who cannot find their own feet and I have not got time, and you are the fourth person tonight who has said the number of something to me when they meant to say something else."
 
 He sat down on a chair in a room above a shop and counted the chairs in it, and it was eleven, and he could not stop.
 

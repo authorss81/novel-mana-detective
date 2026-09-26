@@ -50,7 +50,7 @@ She wrote the whole of what she had agreed to say on the back of a pad in her ow
 
 ---
 
-Ivor Skellern was behind the counter of the shop at nine Calder Place at about ten past three on Sunday afternoon with two customers in the shop, a woman with a basket and a man buying keys, and he put a sheet of A4 on the counter face up and put his hand flat on it and did not say a word about it.
+Ivor Skellern was behind the counter of the shop at nine Calder Place at about ten past three on Sunday afternoon with two customers in the shop, a woman with a basket and a man buying keys, and he put a sheet of A4 on the counter face up and flattened it with the edge of his hand and did not say a word about it.
 
 "There is no reason you should believe me," he said, to the woman with the basket, who was looking at it. "There is a reason he should. I drew it in June 2026. I have drawn it about four times since. It is a plan of a room I let. It goes back on the counter in ten minutes and it does not leave this shop and it is not going in an envelope, and I would like both of you to be able to say you saw a sheet of paper on a counter in a shop on a Sunday, because that is exactly what it is and exactly where it was, and if anybody in four years wants to know whether I had it, there are two people in this shop who saw it flat on this counter and one of them bought keys."
 
@@ -64,7 +64,7 @@ Seven of the eleven places were drawn once. Four of them were drawn twice, faint
 
 Elias Venn stood in a shop on a parade with his hands behind his back and read it, and in the corner there was a date and under the date a code in a hand that leaned right and pressed hard, and he did not say one word about the corner, and nobody in that shop knew there was anything in the corner to say a word about, and there was nobody in that shop who could have told him whose hand it was, because there was nobody in that shop but a man who sells keys and a woman with a basket and a man buying keys.
 
-> **MARGIN — There is one place in this drawing that a man began and did not finish. It is not a pause and it is not a person. It is the shape a room takes when the person who put it there changed his mind once and did not change it back, and it happened once on this sheet, and the four places he went over afterwards are four other things and none of them is that. I can see the room and I can see the place. I cannot tell you what the act is, and I cannot tell you who is to do it, and there is nobody in this shop who could do it and nobody in this shop who could be asked to stop it.**
+> **MARGIN — There is one place in this drawing that a man began and did not finish. It is not a pause and it is not a person. It is the shape a room takes when the person who put it there changed his mind once and did not change it back, and it happened once on this sheet, and it is one of the four places he went over afterwards, and if you had asked me in a room I would have told you it was all four of them, and that is the whole of the difference between a shop and a room. I can see the room and I can see the place. I cannot tell you what the act is, and I cannot tell you who is to do it, and there is nobody in this shop who could do it and nobody in this shop who could be asked to stop it.**
 
 The man in the shop with the keys paid for his keys and left. The woman with the basket read the back of the sheet upside down and said it was a nice bit of drawing and went out into the rain. Ivor Skellern took the sheet off the counter, folded it in four, and put it in his inside pocket.
 
@@ -76,7 +76,7 @@ The man in the shop with the keys paid for his keys and left. The woman with the
 
 "I am going to be in this building at half past four on Tuesday and I am going to be in that room, and I have not told anybody that except you, and it is because of a sheet of paper that was flat on your counter in daylight for ten minutes this afternoon, and I have not said so to a living soul."
 
-"That is the second person in three days who has told me where they are going to be on a Tuesday," said Ivor Skellern, "and I have said it to nobody, so you may work out for yourself how many people in this city are standing about a Tuesday, and I would like the other one to be somebody in an office with a telephone."
+"That is the second thing in three days that has been said to me out loud about a Tuesday by somebody who was not talking to me about a Tuesday," said Ivor Skellern, "and I have said it to nobody, so you may work out for yourself how many people in this city are standing about a Tuesday, and I would like the next one to be somebody in an office with a telephone, and I am not going to say how I know that, because I do not, and it is a want and not a fact."
 
 ---
 
