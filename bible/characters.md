@@ -263,9 +263,72 @@ The opposition grows from people who exploit a rule to people who designed the r
 - **Pressure:** completing it can stabilize the grid while legally and psychologically erasing contradictory lives. Refusing it without a replacement can shut down hospitals, transit, and wards.
 - **Defeat:** distribute independent anchors and leave the First Correction's central release incomplete. The city loses convenience and certainty, but no one institution owns the final record.
 
+## Volume 03, Arc D additions (batch 0014, Chapters 131–140) — registered from the prose on 26 April 2030
+
+**These are the people the midpoint is made of. Every one of them is competent, none is a villain, and none is rescued in a single scene. If a later batch wants one of them to become a monster, the batch summary records the reason it must not.**
+
+### Gaynor Riddell, 44 — night sister, Wren Court, 11 Calder Street
+
+**THE PERSON THE CONTINUITY AMENDMENT IS ASKED OF. She is the volume's biggest risk and the volume's best argument.**
+
+- **Want, stated once and not explained:** to be asked again, in a fortnight, in writing — a piece of paper saying the witness may be asked again before the twelfth of May, with a box with her name on it, **so that she could say the word no one more time to somebody who had to write it down.** She did not ask for it, because she worked out in nine minutes on a Friday night that she was not going to be able to have it, and asking is the whole of what a person can do, and the request is a thing you put in a box, and **there is not one form in this city that says a person may say a thing twice**, and she is the person in that building that everybody comes to when they need to know where a form is, and they say no in a kind way, and it will have been the fourth time in nine years, and the woman at the day desk will have been right.
+- **Cost, in her own mouth:** she had a bed that was not going to be used that week and a man who had nowhere, and there was nobody to ask, and a week later a woman from human resources used the word *unsanctioned* in a meeting with four people in it. **The bed is empty every Friday and every Sunday since 6 April 2030 and she has put a man in it in her head about eleven times and has not done it and is not going to, and the reason is that she does not want to be a woman who did a thing once and got away with it.**
+- **Life:** nine years in the building, a flat above a chip shop in Calder Street, no family, nobody at home. **She has never met the man she gave eleven nights to and says that is what it is supposed to be.**
+- **Craft:** a small lawful working on herself, twice a week, when somebody in that building will not settle at about two in the morning, on her card, trained, and the reason she is on a register. **What a night is in that building: eleven staff, two awake on the floor between midnight and four, and the whole of the job is turning a light on.**
+- **What happened to her:** Friday 19 April 2030, about half past nine in the morning, about nine minutes, three people in the room, nobody did anything. **She said no, was asked to say it again for the minute, said it again, and then nothing happened for about four minutes while she read two true pages twice looking for a wrong figure, and the only thing she could not get past was that they were complete, and completeness is not an error, and then she said yes.** What came out was a colleague.
+- **She has her own copy of the minute** and it is in a cardigan pocket, and she will not give it to a member of the public, and the reason is printed and is correct: a witness is entitled to a copy and a member of the public is not, and there is no form and no proceeding, and a night sister who hands a document to a stranger at eleven at night is a thing that cannot be put back in a pocket.
+- **She has no surname on the page and is not to be given one**, because a surname is the one thing the whole existence of the woman at 18 Pellow Street is a working example of not being.
+- **Not** a villain, **not** stupid, **not** a plot device, **not** a source, **not** rescued, **not** thanked, **not** absolved. And **she is not to be put in a collection**: if her name goes into anything Elias Venn is building, it stops being a document and becomes a thing with a person in it.
+
+### Helen Naisbitt, 39 — on the ward at Wren Court
+
+**A colleague, not a practitioner, no card, does the nights with Gaynor Riddell on a Friday. Was standing in the corridor about four feet away with a torch on for about nine minutes on the evening of Thursday 11 October 2029 while a lawful working was performed on somebody else by somebody else.**
+
+- She is not in the record. She was in a witness's account. **A minuted amendment of 19 April 2030 put the account into continuity with the record, and she came out of it, and the record was never wrong and was not changed.**
+- **She is the worst version of the machinery: the person with the least to answer for is the person no longer in any account, and the only protection she has is a form, and she does not have it and does not know.**
+- She is not told in Volume 03. She is not rescued, not thanked, and not a plot device. She thinks she waters plants on a Tuesday.
+
+### Denise Crozier, 38 — booking office of a removals firm, above a garage off Calder Street
+
+- **Her father is sixty-one and stopped driving in March and the office is hers now, and she is the only person in Arc D who wants nothing.**
+- **THE FINDING IS HERS: a removals firm does not write down where it takes people.** The destination is a card in the driver's wallet and the cards go in a bin at the bottom of a yard on a Sunday night. **She has moved about nine hundred people and could not tell a man where one of them went, and she has never once looked at a card, and she says she would like one person in four years to have asked her that.**
+- She does not ask customers anything, and gives the reason: **a customer who gives us no name is a customer who has a reason, and we are not the police, and if I did that I should lose the trade in about a year and I should deserve to.**
+- **A booking page is a business record and a business record does not know what a person is**, and that is why she reads a stranger a name off one.
+- Not a route, not a leak, and not a woman who explains herself.
+
+### Pamela Reece, 61 — day desk, Wren Court, twenty-six years
+
+- **Her sentence about the desk, said once on the page and not to be restated: the desk decides and the desk is a person, and if you want it not to be a person then take the desk away and give it to a form, and I do not think anybody in this building wants to give it to a form.**
+- She gives a form to a stranger twice **because a form is a form and anybody in this city may read a form**, and she has said in her own mouth that if we had a copy of everybody's birth certificate on this desk it would be the same, and that she has said that twice in twenty-six years and both times to a man in a good coat.
+- She keeps about four hundred things in a drawer, of which **the only letter** is a 2019 reply saying a person is not an administrative record of a placement.
+- **She noticed that a man stood in her building for forty minutes and did not ask her one question about a person, and she says she does not know yet what to do with that.** Not asked anything, and not a plot device.
+
+### Denise, about sixty-two — in charge of Wren Court at night
+
+- One sentence, to a stranger on a chair: **she has told you she did it and she has told you it cost her and now you are going to want to write it down.**
+- Not named beyond the first name, and **not to be confused with Denise Crozier.**
+
+### Ena Whitlow, 49 — extracts, Licensing, Concord Hall, nineteen years
+
+- **THE FUNCTIONARY AT THE CENTRE OF THE VOLUME'S MECHANISM AND SHE IS NOT A VILLAIN.** About nine hundred two-page extracts a year, ninety seconds each, off an order sheet with boxes for the record, the account, the officer's name, a free box for the purpose, the date, and her own initials — **and no box for the witness, no box for what the account said, and no box anybody could write a question in.**
+- **She answers before she is asked, and the answer is that the officer decides what is not relevant to an account, and that she has never decided, and that she has never once in nineteen years asked an officer why a page came out or asked a witness whether they wanted to see what was left in, and that she has never had the whole of one of those records in her hands.**
+- **She is the one who deepened CR-22-4471 without knowing it: a record of issue is a record, and an extract of one can be made in about ninety seconds, and she has made four in nineteen years and all four were about money.**
+- **She has decided that not looking in a bin of removed pages is the job, because the alternative is a woman in a basement who has read nine hundred records and would not be a person anybody could sit in a room with.** The bin is emptied on a Friday.
+- Not a villain, not a plot device, and not somebody who explains herself at length.
+
+### Sean Petrie, 31 — removals round, four years
+
+A clipboard, a docket book, a padded jacket, and the question *two hundred what*. Entirely ordinary, and the reason Roy Tarrant says the thing out loud.
+
+### Two people already in the manuscript, used in Arc D
+
+- **Gareth Prothero, 44** — contract officer, unemployed since 1 April 2030, two rooms over a tobacconist's off Anselm Street. **Gives the trust's own notification form out of his own folder and says the whole of what it will cost him, in about seven weeks, to a solicitor.** His finding is the arc's first answer in a man's mouth: **whoever rang that resources office believed they were being helpful, and there is nowhere in this business to put a reason in words.** Not beaten, not rescued, still owed nothing.
+- **Constance Vail, 55** — Concord trainer, twenty-two years, used once, in Concourse B, with the man on the threshold and not in the room. **Says the course is the manual and the manual is the course and there is no other document, and that she could say which years she taught which paragraph off which printing and will not have it written down, and that in twenty-two years she has never been in a room when a witness was shown that page before he signed anything, and that if it ever happens that is not the course failing, that is the only thing that has ever worked.** Not redeemed by one conversation, and **the sentence about what happens to a witness afterwards is not said again in Arc D and is not in it.**
+
+
 ## Relationship map
 
-- **Elias ↔ Mara:** slow-burn romantic partnership; professional boundaries become mutual consent and shared standards.
+- **Elias ↔ Mara:** slow-burn romantic partnership; professional boundaries become mutual consent and shared standards. **VOLUME 03, AS EXECUTED: they become collaborators before they become lovers and they are NOT lovers at the end of the volume. The relationship change across Volume 03 is from a working practice neither of them named to a written instrument: five informal lines, a third rule, a document that goes to the clinic and not to the police, and one arrangement, signed on 26 April 2030, that says neither of them goes into a room the other one is in. The volume's cost on them is a breach and not an apology: he broke a promise in Chapter 136 by telling her a man's location, and in the same chapter refused her a name.**
 - **Elias ↔ Nadia:** investigative partnership; trust is tested by police loyalty and by Elias's habit of treating every disagreement as a cover-up.
 - **Elias ↔ Hollis:** mentor bond damaged by a deliberate historical omission; the final reconciliation is a release, not a return to the old hierarchy.
 - **Mara ↔ Sana:** care ethics versus evidence procedure; they disagree about patient consent and become allies when the city tries to weaponize that disagreement.
