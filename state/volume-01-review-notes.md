@@ -1,0 +1,60 @@
+# Volume 01 Review Notes — the honest defects
+
+**Written at the volume close, after Chapter 50 shipped. Nothing here defends anything.** These are the things a reviewer should be told plainly, in the order a reviewer will hit them. No chapter was reopened for this file and no prose was changed; the manuscript is the manuscript.
+
+---
+
+## 1. Length
+
+Measured, `wc -w`, fifty files, `chapters/volume-01/`. Volume total **169,232 words**, mean 3,385 a chapter.
+
+| Batch | Chapters | Per chapter | Batch total | Card band | Verdict |
+|---|---|---|---|---|---|
+| 0001 (Arc A) | 1–10 | 2,999 – **7,573** | 41,682 | ~24,000–30,000 for the batch | **39% over the batch ceiling, and Chapter 10 is nearly double the 4,000 chapter ceiling** |
+| 0002 (Arc B) | 11–20 | 2,977 – 3,998 | 33,504 | ~30,000–35,000 for the batch | in band |
+| 0003 (Arc C) | 21–30 | 3,146 – 4,000 | 37,534 | 2,900–4,000 a chapter | in band |
+| 0004 (Arc D) | 31–40 | **1,962 – 2,635** | 22,392 | 2,900–4,000 a chapter | **32% under the floor, every chapter** |
+| 0005 (Arc E) | 41–50 | 3,002 – **4,050** | 34,120 | 2,900–4,000 a chapter | in band; **Chapter 50 is 1.25% over the ceiling (4,050 against 4,000)** |
+
+The volume-close brief went in expecting two batches under the card band at 2,000–2,600. **On the evidence that is one batch, not two, and the real defect is the opposite one.** Batch 0004 is the only batch below the band. Batch 0001 is not thin — it is over-extended, and specifically **Chapters 6, 7, 8, 9 and 10 (4,161–7,573) are long enough to be a different problem from shortness.** Chapter 10 is the worst of it: a single chapter carrying a corridor, a stockroom, a live working, a broken carrier, an escape, a pavement lift at 01:40 and a photograph taken in place, with a hard clock spine running through all of it. **Chapter 9 is the second worst, because it asks a reader to hold a template's exact wording, a refused countersignature at 16:41 and four numbered limitations at once.** Neither is padded and neither is bad; they are simply more than a reader of a procedural can carry in one sitting without a seam cut into them. **Nobody padded this volume. The Arc A overage is a drafting decision that was never revisited and it is the single largest thing a future editor would want to cut.**
+
+**What actually went wrong, stated as a rule:** the expansion that worked was **a scene at a real seam** — a room, a person in it, a thing that had to be said and could not be typed. The expansion that did not work was **restyling a paragraph**, which produces length without movement. Batch 0005 proved the rule (ten seams named in `state/batch-0005-summary.md`, all of them real, all of them adding a person). Batch 0004 broke the rule twice: its first pass ran 1,100–2,600 and two review-repair passes were applied on top of it, and **the shape of what those passes added is visibly different from Arc E's** — more summary, more ledger, more of a man's interior accounting, and four new chapter endings that close on a written record.
+
+**Which chapters would still benefit from a seam.** Carried forward from the two batch reviews, and they are right:
+
+- **Batch 0004 — Ch 35 evening, Ch 36 the laboratory, Ch 37 the Cut, Ch 38 the stairs.** These four are the batch's floor and the seams are named: nobody is in the room in Ch 35's second half, Ch 36's laboratory hour is reported rather than lived, Ch 37 spends its last third walking back, and Ch 38's four hours of waiting on a tenant's word compress into a paragraph. **Ch 32 and Ch 33 are complete and should not be touched; Ch 34 is complete in structure and carries one of the notebook gestures that became a run.**
+- **Batch 0005 — Ch 42 the agency's back office, Ch 45 the ward authority briefing, Ch 49 the certificate's service list.** **Ch 46, Ch 47, Ch 48 and Ch 50 are complete.** Chapter 50 is 1.25% over and that is disclosed rather than padded, because the last hundred words of a volume are the worst place in a book to save them.
+
+**Complete as they stand, and not to be reopened:** Chapters 1–5, 11–30, 41, 43, 44, 46, 47, 48, 50. Chapters 11–30 are the safest stretch in the volume — every one in band, no review pass ever flagging a missing seam in them, and the midpoint reversal in Chapter 25 landing as a form rather than a speech.
+
+## 2. The two rules Arc D learned the hard way, and how nearly they recurred
+
+Both rules exist because a review pass caught the manuscript breaking them.
+
+**(a) A document may not be made to name a man it does not name.** The Bay 6 supplier invoice carries the *trading name* Sable Supply, a SUPPLY class and a registered premises. Joining those to Orin Sable is inference from the register, made by the reader, and no chapter says it. The first pass had printed an invoice without the name and then asserted the name onto it, which is the whole failure in miniature.
+
+**Where it nearly recurred in Arc E: twice, in two documents, and that is by design rather than by accident.** The session's venue list and the collection docket each carry the same two components — a trading name and a registered premises at 2nd floor Carrow Lane — and each of those is one inference away from a man. **Chapter 48 is where the temptation is strongest and it is the chapter where it is refused aloud:** *The docket says 14:52 and a depot north of the ring road and a trading name and a class and a premises. No person on it. I said out loud at 10:52 that I am not writing a name against that address and Rennick wrote it down.* **A Volume 02 writer must hold the rule again in every document that carries 2nd floor Carrow Lane, and the moment a character says the name out loud the structure of five volumes comes apart.** **A Volume 02 writer must hold it again in every document that carries 2nd floor Carrow Lane, and the moment a character says the name out loud the structure of five volumes comes apart.**
+
+**(b) A beat that only exists in a later chapter's summary does not exist.** Narration may not report a thing the chapter did not show, and prose may not refer to itself, to the manuscript, to chapters, arcs, volumes or batches. The corridor promise of 19 October was paid as a scene at 08:20 on 23 October; Niko Senn was named aloud in Bay 6 on the page before the hand went down.
+
+**Where it nearly recurred in Arc E: once, and it was caught.** Chapter 48 carried a sentence saying a thing had been written the way a character had taught him *two batches* of the case to write things. It now says the way Nadia Kest taught him to write a thing he had not witnessed. **That is the only self-referential violation in the last ten chapters and it survived one full draft because the sentence was in a paragraph nobody read twice.**
+
+**The rule that was not caught, and should have been: three consecutive Arc D chapters close on the same gesture.** Chapters 35, 36 and 37 each close with a notebook going onto a shelf — 35 literally, *he closed the notebook, put it on the shelf with the departmental notice about the breach on top of it*; 37, *wrote the day out full with the times and put the notebook on the shelf*. Chapter 34 puts one down mid-chapter. **The Arc E review found exactly this defect in Chapters 43, 44 and 48 and replaced all three endings with a scene, a line of dialogue and a room. It is still sitting in Arc D, unfixed, three chapters running, and a reader who notices a pattern in Chapter 37 will have started counting.** A fourth repetition, Chapter 38, ends on a written consequence. This is the most concrete thing in this file.
+
+## 3. Known soft spots
+
+- **The two Arc E documents that carry Orin Sable's premises are doing almost nothing.** The venue list's fourth line and the collection docket are planted, not evidence. They are thin, and honestly thin — Chapter 48 admits on the page that a docket plus a trading name is a thread and could not have been made into a road in four days. **That is a promise, and Volume 02 has to cash it.** If Volume 02 opens without either document doing work inside the first ten chapters, Arc E will read as a volume that set up two props and walked away from them.
+- **A certificate that is true in three parts of four is very hard to argue with in prose, and the next arc must not make it easy.** This is the volume's best idea and its biggest technical risk. The whole defence of C-441-KR-06 is that Schedules 1 to 4 compile from independent measurement, patient statements, dispute and not-compiled, plus a witness-support line — and that **a patient's statement of his own working is not sequence material and never has been.** That is a rule, not a hole, and a rule cannot be defeated by a character noticing it. **Volume 02 must not let Elias or Mara win by seeing the shape of the certificate. The only available victory is a different kind: somebody who is not them, in a room they are not in, acting on the omission for their own reasons.** The moment the protagonist becomes the person who can see the hole in a document, the whole procedural architecture of the series becomes decorative.
+- **The eleven objects are a promise of about forty chapters of work and must not be discharged cheaply.** Every line of the Bay 6 schedule ends *not identified to a person*. One of them has eleven letters scratched into a tin lid and the first is a capital. **A Volume 02 writer will be tempted to identify the tin in chapter 3 of the new volume, because the object is beautiful and the hook is irresistible. Do not.** The catalogue's work is to make eleven stolen things into names, and that is a slow, procedural, occasionally unwatchable job, and the volume's credibility rests on it not being solved by a clever detective in a doorway.
+
+## 4. What a reviewer should look at first in a cold read
+
+In this order, with no knowledge of the state files:
+
+1. **Chapter 37, last three paragraphs.** Three chapters of the same closing gesture. If you feel the book repeat a rhythm here, that is what you are feeling.
+2. **Chapter 10, whole.** The longest chapter in the volume at 7,573 words and the most structurally ambitious. Either it is the best chapter in the book or it is the one that needed cutting by a third. There is probably no third answer.
+3. **Chapters 46 and 47, consecutively.** These carry the climax and its cost and they are the two places the volume is most itself: a room of forty-one people and nine seconds, then a man who cannot turn a clock face into an elapsed time and a woman who refuses to estimate it for him. Check that the second one earns what the first one spends.
+4. **Chapter 49, the certificate and the dispute, read against each other in one sitting.** This is the volume's argumentative spine and it is also the place a reader is most likely to feel a document doing the work of a character. It holds, but only just, and mostly on Bettina Haile's one sentence in Chapter 49.
+5. **Chapter 50, the pavement.** The two questions are asked here and nowhere else, in that order, in plain words. **Check that the volume does not appear to have answered them.** It has not, and that restraint is the hardest thing in the last ten chapters to keep.
+6. **Chapters 25 and 30 together.** These are the volume's two document-as-weapon beats, five days apart: the Witness Services intake sheet of 11 September, in which a police officer's own description of an order is typed into a box headed *to be used in witness support*, and then four handwritten sheets on a public clinic wall naming documents and no person. **Check that they escalate rather than repeat.** A reader who reads them as the same joke twice has found the seam in the middle of the book.
+7. **Any chapter with a named woman doing institutional work in a corridor.** There are five in the volume — **Bettina Haile in Chapter 49, Priyanka Lyle in Chapter 17, Sana Okafor in Chapters 13 and 30, Nadia Kest in Chapter 45, and Mara Quill in Chapter 27.** **If one of them feels like a plot-delivery system rather than a person, that is the real defect and it is not recorded anywhere else in this file.**

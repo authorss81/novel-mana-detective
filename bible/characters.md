@@ -94,6 +94,30 @@ Mara's brother and a former patient at an unlicensed memory clinic. His disappea
 
 The maintenance worker blamed for the Morrow Street ward collapse. He is dead by the opening and does not become a posthumous voice. The collapse killed twenty-three people, but the false attribution narrowed the public report to one worker. His name, daughter **Nell Rusk**, and the incomplete physical record keep the old case connected to real consequences rather than serving only as Elias's motivation.
 
+## Alfred Neve
+
+**Age:** 78. Widower of nine years; in the house at 3 Tanners Row since 1974; drove river traffic on the western cut for thirty-one years and mentions it once.  
+**Role:** a patient of the Kettle Rows Community Clinic for two years, a consumer of an ordinary ward service, and — by accident and without knowing it — **the case in one object.** A licensed brass threshold bracket, collar number stamped, was fitted free into a socket in the shaft of his own walking stick on 24 October 2029 at 14:10 and holds his own front step.  
+**Want:** to keep walking to the shop and back, and to be left alone in his own kitchen.  
+**Flaw:** he recommends things that work. He told two neighbours, including a woman on the top floor of 14 Kettle Rows, and he said *let him in, he does not want anything* about a man he had met once. He is not a dupe; he is a decent man who does ordinary favours.  
+**Function:** **the three acts that are the patient's.** His anchor, his address and his turn are genuinely his own, and a fabricated release is bonded over the top of them inside the ferrule, so a certificate naming him the performing person of a complete self-directed working is **true in three parts of four and false in the fourth.** He is alive at the volume close, seventy-eight, with a hole in his own wood, an afternoon on a couch he did not understand, and a stick gone out of a clinic yard. *You will get me another one.* **He is not a device and he must not become one: he has a kitchen, a yard, a coal shed with a padlock on it, a bad knee on Thursdays, and a sentence he is entitled to.**
+
+## Desmond Coyle
+
+**Age:** 44.  
+**Role:** mobile fitter of ward tools, a van with a bench in it, **no registered premises.** He fitted the bracket in Neve's stick on 24 October and the sleeve inside the ferrule on the same visit, on a card with four lines on it and a list of six households.  
+**Want:** to keep working.  
+**Flaw:** he does the job asked of him and asks no questions about the parts of it he was not paid for.  
+**Function:** **the Volume 02 question made into a man.** He was given a card, a list and a receipt, and **he has never been told a name.** He is paid and frightened, and he asked for his daughter to be telephoned. Charged 2 November 2029 at 09:35 — **with assembling, and not with teaching anybody anything, because nobody has taught him anything and he does not know that there is a question.**
+
+## Yvonne Pratt
+
+**Age:** 29.  
+**Role:** booking clerk at a session staffing agency in Draggery Street, and the person who put a tool line on a venue list at the Kettle Rows Community Clinic.  
+**Want:** to keep a job.  
+**Flaw:** she put the line on because it was not her job to decide, and she said so out loud, which is the most useful sentence anybody said about her.  
+**Function:** **a document with a person behind it.** The venue list's fourth line carries a trading name, a class and a registered premises, and the identification of that trading name with a man is the reader's inference and no chapter states it. **She is the reason the fourth line exists at all.** Charged 2 November 2029 at 14:10. Asked for her mother to be telephoned, and whether the clinic would be all right.
+
 ## Antagonist ladder
 
 The opposition grows from people who exploit a rule to people who designed the rule. No one in this ladder needs to be an unexplained cosmic threat.
@@ -101,6 +125,7 @@ The opposition grows from people who exploit a rule to people who designed the r
 ### 1. Copywork operators
 
 - **Orin Sable:** an unlicensed memory clinician and skilled working-frame maker. He preserves vulnerable patients by taking illegal shortcuts and sells the same technique to people who do not share his motives.
+- **Volume 01 execution note — deliberate, not an oversight.** **Orin Sable is never named in a scene in Volume 01.** He is named once, off the public register of licensed ward practitioners, in Chapter 18, and he is filed as `SUPPLIER OF FRAMES` and nothing else. He then appears **four more times on paper only** — a licence class and a premises in a procurement line at tab 356 of a produced bundle; the trading name **Sable Supply** with a class and the registered premises 2nd floor Carrow Lane on a Bay 6 supplier invoice; the fourth line of the session's venue list at Marshall Street; and a collection docket off the clinic gate with a depot and a call-off. **Each of those documents carries a trading name, a class and a premises. None of them names a man, and no chapter joins any of them to him.** He is not identified by face, not arrested, not charged, not faced, **not the commissioner** (Emmett Caul is, on paper), not the maker of the stockroom carrier, not the drawer of the drawing, and not named in any arrest document. **The Arc E pay point was a source anchor leaving Veyra and not being recovered, not the man being caught.** A Volume 02 writer may not fix this cheaply: catching him, facing him, or putting him in a room would unwind a deliberate structure, and the teaching — not the man — is the engine.
 - **Pressure:** makes Elias's readings look unreliable in the first volume.
 - **What they reveal:** a working can be copied only by sacrificing something from a person or an object.
 - **Defeat:** expose the clinic's cost and break the frame, not simply kill or arrest the operator.
