@@ -80,19 +80,19 @@ Then he added the two lines that made the page what it was, and read them out be
 
 ---
 
-At nine twenty, standing in about four inches of water in a yard a hundred and forty feet below the city, Elias Venn found out how long it had been since the water stopped coming in.
+At nine twenty, standing in four inches of water in a yard a hundred and forty feet below the city — it had been six inches deep at ten past six, and nobody in that yard could say when it had started going down — Elias Venn found out how long it had been since the water stopped coming in.
 
-He had been looking at the black rack for about four minutes and he had no idea, and then he had four hours and forty minutes, all at once, in the middle of it, in the middle of a sentence somebody was saying, with no warning at all and nobody announcing it. It came back the way it had come back on the twelfth of October in a corridor and the way it had come back on the twenty-second of October on a shop step in Kettle Rows: not gradually, and not as a memory.
+He had been looking at the black rack for about four minutes and he had no idea, and then he had forty-two hours and forty-two minutes, all at once, in the middle of it, in the middle of a sentence somebody was saying, with no warning at all and nobody announcing it. It came back the way it had come back on the twelfth of October in a corridor and the way it had come back on the twenty-second of October on a shop step in Kettle Rows: not gradually, and not as a memory.
 
 He said, out loud, to nobody, "The fire's out."
 
 Felix Harrow turned round. "Since when."
 
-"Since about twenty to nine," said Elias Venn, and then stopped, because he had no way on this earth of knowing that, and because he had just found out. "I can't tell you that. I have been unable to tell how long anything has been going on since half past two yesterday afternoon and it has just come back in this yard, and I am telling you I have just found out, and not that I know."
+"Since about twenty to nine," said Elias Venn, and then stopped, because he had no way on this earth of knowing that, and because he had just found out. "I can't tell you that. I have been unable to tell how long anything has been going on since twenty to three yesterday afternoon and it has just come back in this yard, and I am telling you I have just found out, and not that I know."
 
 Rennick wrote it on the schedule's continuation sheet with the time against it, which was 09:20, and wrote it the way Nadia Kest had taught him to write a thing he had not witnessed, which is with the time on it, and with the word *reported* on it, and with his own estimate left out of it: *duration perception reported absent by the member of the public from 14:38 on 30 Oct 2029; returned 09:20 on 1 Nov 2029, in the yard, unannounced; the member of the public states he cannot give an account of the intervening period and has not estimated one.*
 
-"You are the fourth person in this case who has come back from something in the middle of a sentence," said Rennick, "and I have written all four of them down, and not one of them could say afterwards what the missing part was for."
+"You are the third person in this case who has come back from something in the middle of a sentence," said Rennick, "and I have written all three of them down, and not one of them could say afterwards what the missing part was for."
 
 ---
 
@@ -132,7 +132,7 @@ Elias Venn went up out of the Cut at half past one into a Thursday afternoon in 
 
 *Eleven objects, and the work of the schedule is to make them names, and it has not been done. A tin with a name scratched in the lid, eleven letters, first one capital. Not matched.*
 
-*Duration back 09:20, in the yard, unannounced. Nineteen hours forty-two minutes, which is the gap and not the point.*
+*Duration back 09:20, in the yard, unannounced. Forty-two hours and forty-two minutes, which is the gap and not the point.*
 
 *The docket says 14:52 and a depot north of the ring road and a trading name and a class and a premises. No person on it. I said out loud at 10:52 that I am not writing a name against that address and Rennick wrote it down. That is a thread now and I could not have made it into a road in four days.*
 

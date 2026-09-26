@@ -60,7 +60,7 @@ They did it in eleven minutes and it took eleven minutes because Jules made him 
 
 "Right," said Jules, and wrote that down too, and did not soften it.
 
-"Twenty-second. A clinic, not yours. A dispensary in the outer wards and I will not write the name of it in this shop, and the work was four saddle clips and a length of conduit and the ward came up, and I did it on a Wednesday at four in the morning because the place could not have a man in it in daylight." His voice did not change at all, which was the frightening part. "You know that one. You were there."
+"Twenty-second. A clinic, not yours. A dispensary in the outer wards and I will not write the name of it in this shop, and the work was four saddle clips and a length of conduit and the ward came up, and I did it on a Saturday at four in the morning because the place could not have a man in it in daylight." His voice did not change at all, which was the frightening part. "You know that one. You were there."
 
 "I was there."
 
@@ -108,7 +108,7 @@ Jules looked up.
 
 "Where are we going?"
 
-"The clinic. I want to say your five out loud in a room with people in it before the month gets any worse, and there is a man at the counter who counts heads and she has offered me one telephone I would use to say no." He picked up the bag and it was heavier than four tools. "Also you have a bench job there on Friday and it is two days away, and I would rather we went together than that you went on your own and did not tell me."
+"The clinic. I want to say your five out loud in a room with people in it before the month gets any worse, and there is a man at the counter who counts heads and he has offered me one telephone I would use to say no." He picked up the bag and it was heavier than four tools. "Also you have a bench job there on Friday and it is two days away, and I would rather we went together than that you went on your own and did not tell me."
 
 He carried the bag through to the back room before they went, because it had been on the front bench for half an hour and there were four jobs in the book for the week, and because the back bench was where he kept things that were not the shop's.
 
@@ -144,7 +144,7 @@ Jules Ardent was standing in the doorway with the bag, and he had heard all of i
 
 "You keep them in your book," said Elias, "and you keep the book in the room you cannot open, and you do not write another one."
 
-They walked up Marshall Street at twenty past ten in the kind of rain that is not weather, it is just the air in Kettle Rows being wet. The waiting-room door was open and the smell came out of it: floor disinfectant, wet coats, forty-one people' worth of a morning, and under all of it the cold iron smell of a building that has a ward circuit and has not slept.
+They walked up Marshall Street at twenty past ten in the kind of rain that is not weather, it is just the air in Kettle Rows being wet. The waiting-room door was open and the smell came out of it: floor disinfectant, wet coats, forty-one people's worth of a morning, and under all of it the cold iron smell of a building that has a ward circuit and has not slept.
 
 Dr Okafor was at the counter with a list on a clipboard and she was not reading it.
 

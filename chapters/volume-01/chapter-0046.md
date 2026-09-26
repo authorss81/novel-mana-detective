@@ -6,7 +6,7 @@ He said it because room two had a couch and a screen and no window and the door 
 
 The clinic had been running since one o'clock. Four staff, forty-three on the list, forty-one in the building, the main room with twenty-two chairs and nineteen people standing up in it because the chairs had gone at half past two. The rain had come in under the yard door and the floor by the mats had the shine of a public swimming pool. Ahmed was on the desk with a stack of receipt backs and a pen, because Dr Okafor had never given him a proper book and he had never once asked for one.
 
-The dispensary counter ward light went out at two minutes past three and came back.
+The dispensary counter ward light went out at twenty-two minutes past two and came back.
 
 Jules Ardent, in the corridor outside the dispensary with his hands in his pockets, said, "One."
 
@@ -32,17 +32,17 @@ Detective Inspector Nadia Kest came in at twenty past two with a tin under her a
 
 The third slot was called at 14:36 and Alfred Neve came in on his own, with a walking stick.
 
-He had it in his right hand. He always had it in his right hand; that was how he had come in the first time, on the twenty-fifth of October, and he had it the same way now, and he sat down on the couch in the middle of the room with it laid across his knees and the ferrule end toward the door, because that is where a man puts the end of a stick.
+He had it in his right hand. He always had it in his right hand; that was how he had come in the first time, on the twenty-fifth of October, and he had it the same way now, and he sat down on the couch in the middle of the room, and when the nurse asked him to he put the stick on the chair beside him with the ferrule end toward the door, because that is where a man puts the end of a stick.
 
 Nurse Adeyemi had the tray. She had two hundred of those injections in her and she had the patient's name on the label in her own hand and she checked it twice, because that is what the form says.
 
-Niko Senn is not in this building and is not on any list in it, and if anybody in this corridor has a piece of paper with his name on it I would like to hear about it now and not in November, and I am not going to read him and I am not going to touch him, and I am not going to ask anybody to bring him here.
+What was in his head in that corridor, with his hands empty and forty-one people in the room behind him, was Niko Senn, and it was this: *he is not in this building and he is not on any list in it, and if anybody in this corridor has a piece of paper with his name on it I would like to hear about it now and not in November, and I am not going to read him and I am not going to touch him, and I am not going to ask anybody to bring him here.*
 
-Elias Venn said that out loud, in the corridor, to four people, at 14:36 in the afternoon on the thirtieth of October, and Jules Ardent said, "Nobody," and Nadia Kest said, "Not in this building," and Mara Quill said nothing at all, which was the answer that meant she had checked her own case in her own head and found it clear.
+He said it out loud, in the corridor, to four people, at 14:36 in the afternoon on the thirtieth of October, and Jules Ardent said, "Nobody," and Nadia Kest said, "Not in this building," and Mara Quill said nothing at all, which was the answer that meant she had checked her own case in her own head and found it clear.
 
 Nurse Adeyemi put the injection in at 14:38.
 
-At 14:38 Alfred Neve said, "That is a funny one," in the voice of a man remarking on the weather, and put his left hand out flat on the couch, and then his right hand went off his knee and down onto the ash shaft, and his face did a thing that Dr Okafor, who was six feet away, saw before anybody else in that corridor did.
+At 14:38 Alfred Neve said, "That is a funny one," in the voice of a man remarking on the weather, and put his left hand out flat on the couch, and then his right hand went off the arm of the couch and down onto the ash shaft where it lay on the chair beside him, and his face did a thing that Dr Okafor, who was six feet away, saw before anybody else in that corridor did.
 
 "He is grey," said Sana Okafor. "He is going. Everybody out of this corridor — *now* — and nobody in this corridor is to touch him, and you—" to Elias Venn, "you go in and you do not touch him, and you are going to tell me why in about ninety seconds, and if you cannot tell me in ninety seconds I will put him on a trolley and you can tell me on the ward."
 
@@ -52,11 +52,11 @@ Elias Venn went in.
 
 ---
 
-He put his hand flat on the shaft of the walking stick where it lay across the knees of a man of seventy-eight, and he did not touch the man, and the room came up out of the floor the way it always did, and it was not a room.
+He put his hand flat on the shaft of the walking stick where it lay on the chair beside a man of seventy-eight, and he did not touch the man, and the room came up out of the floor the way it always did, and it was not a room.
 
 The ash was a length of wood that had been in this house for nine years and it was hot in a way that ash is hot when it is holding something, and there was no furniture in it and there were no faces in it and there was a man in it who was *not* the man on the couch and never had been.
 
-There was a bracket, which was a licensed one, seated in a socket in the wood, and the bracket had been fitted on Friday the twenty-fourth of October at ten past two in the afternoon in this house by a man with a card with four lines on it, and the bracket had been bound, and addressed, and had turned, and had been released, in this kitchen, in front of a kettle, six days ago, and all four of those were a man's own and were done properly and were in his body this afternoon.
+There was a bracket, which was a licensed one, seated in a socket in the wood, and the bracket had been fitted on Wednesday the twenty-fourth of October at ten past two in the afternoon in this house by a man with a card with four lines on it, and the bracket had been bound, and addressed, and had turned, and had been released, in this kitchen, in front of a kettle, six days ago, and all four of those were a man's own and were done properly and were in his body this afternoon.
 
 And then there was a lid on it.
 
@@ -64,7 +64,7 @@ And then there was a lid on it.
 
 Elias Venn came off the wood and put his back against the wall of a treatment room in the Kettle Rows Community Clinic and found that his legs were doing the thing they did, and said, out loud, in order, so that somebody else would do the arithmetic.
 
-"Anchor. His stick. Nine years in this house, and a bracket fitted on Friday, and that is genuinely his, and I am not reading the man, I am reading the wood, and I want that on the tape. Address. Not the room. **The record.** It is waiting for something to be written down about him and it is not waiting for a body. Turn. Real, complete, done in this kitchen on Friday by a man in a good coat, and it is his, and it is four inches of channel section sitting on the top of it that is not. Release." He was breathing through his mouth. "The release is seated. It is in the sleeve. It has no settling curve, it was made somewhere else and brought here, and it is not going to happen when a bracket reaches its stop, it is going to happen when somebody writes down that a man of seventy-eight has had an injection at 14:38 this afternoon."
+"Anchor. His stick. Nine years in this house, and a bracket fitted on Wednesday, and that is genuinely his, and I am not reading the man, I am reading the wood, and I want that on the tape. Address. Not the room. **The record.** It is waiting for something to be written down about him and it is not waiting for a body. Turn. Real, complete, done in this kitchen on Friday by a man in a good coat, and it is his, and it is four inches of channel section sitting on the top of it that is not. Release." He was breathing through his mouth. "The release is seated. It is in the sleeve. It has no settling curve, it was made somewhere else and brought here, and it is not going to happen when a bracket reaches its stop, it is going to happen when somebody writes down that a man of seventy-eight has had an injection at 14:38 this afternoon."
 
 "And can you stop it," said Nadia Kest, from the doorway.
 
@@ -74,7 +74,7 @@ Elias Venn came off the wood and put his back against the wall of a treatment ro
 
 "The plan is the metal," said Elias Venn. "The channel is in four inches of channel section and it is bonded over the bracket and the bracket is in the ash. If the channel comes out of the ash, then the release goes out of the channel, and there is nothing there for it to be a release *into*, and it is a piece of split ash with a hole in it. That is the whole of the plan. It has been the whole of the plan since Monday. I have got no other idea and I have had eleven days to get one."
 
-Jules Ardent was already on one knee in front of the couch with his hand flat on the ash shaft so that it would not roll off the man's knees, and he said, "Then I am doing it," and Mara Quill, from the doorway, said, "Do it now and not after you have finished talking," and Elias Venn said, "Do it now," and Jules Ardent put the chisel against the rivet head and tapped it four times.
+Jules Ardent was already on one knee in front of the couch with his hand flat on the ash shaft so that it would not roll off the chair, and he said, "Then I am doing it," and Mara Quill, from the doorway, said, "Do it now and not after you have finished talking," and Elias Venn said, "Do it now," and Jules Ardent put the chisel against the rivet head and tapped it four times.
 
 The rivet head came up. The ferrule came off in his hand. The sleeve came out of the socket with two fingers.
 

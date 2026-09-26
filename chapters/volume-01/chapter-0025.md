@@ -91,7 +91,7 @@ He put the pen down.
 
 "And she was inside it while she did it," he said. "Both times. Not the room. Me. She asked me the questions and she wrote down what I said and she was very good at it, and she was kind, and the first time she told me that nothing she did could put anything into my head, and I believed her, and I still believe her, because it's true, she didn't put anything in my head. I put it in my own head. That's what I'm saying. She gave me a shape and I filled it in."
 
-"Where were you on the Friday the twenty-fourth?"
+"Where were you on the Monday the twenty-fourth?"
 
 "At the clinic. From about ten." Niko Senn said it without being asked to. "I was there when the courier came with the order at six in the morning. I was there when she sent it back. I was there at about half eleven and I came in here — " he checked the clock, four minutes fast, and then did not use it — "at about eleven, and I was at the back of the Council at half one. And on the Saturday I was at the clinic in the morning and at the Council at half one again, and I hadn't slept since the sixteenth, and I'd been told I'd been discharged, and nobody at the counter would say it out loud, and the whole of the twenty-fourth and the whole of the twenty-ninth are the two days I remember best, because I was frightened and because a man in a smock had already taught me that the way you remember a bad week is by the shape you were given in August."
 

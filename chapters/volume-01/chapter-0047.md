@@ -12,7 +12,7 @@ He knew what a clock was. He knew the shape of the numbers and he had been readi
 
 "How long have I got."
 
-"You did not tell anybody that." Mara Quill said it flatly, the way she said things that were going in a log. "Nineteen hours and forty-two minutes, if you want it in a form, and I am not going to be the form. It ends when it ends and I have not got a figure and I am not going to invent one for you, and if Rennick asks me for a number I am going to tell him that the man cannot perceive duration and I will not estimate it, because an estimated duration is a number somebody will use in about four years."
+"You did not tell anybody that." Mara Quill said it flatly, the way she said things that were going in a log. "Forty-two hours and forty-two minutes, if you want it in a form, and I am not going to be the form. It ends when it ends and I have not got a figure and I am not going to invent one for you, and if Rennick asks me for a number I am going to tell him that the man cannot perceive duration and I will not estimate it, because an estimated duration is a number somebody will use in about four years."
 
 "That is not a duration."
 
@@ -30,7 +30,7 @@ The plate was on the bench under the hood with a clean sheet over it, and it was
 
 Four inches of channel section, split ash, a seat in it, and on the plate under the hood the residue lay in two orders and the two orders were on top of each other.
 
-"That is the bracket's," she said. "That is the honest one. I can see the contact order of a licensed threshold ward, seated in ash on Friday the twenty-fourth of October in a kitchen in Tanners Row, and it is a real one, and it is a good one, and it is his. You can see where it starts and where it stops and it has a settling curve on it like a thing that happened where it was made."
+"That is the bracket's," she said. "That is the honest one. I can see the contact order of a licensed threshold ward, seated in ash on Wednesday the twenty-fourth of October in a kitchen in Tanners Row, and it is a real one, and it is a good one, and it is his. You can see where it starts and where it stops and it has a settling curve on it like a thing that happened where it was made."
 
 "And the other one."
 
@@ -52,7 +52,7 @@ Elias Venn sat down on the fire bucket, because it is the only other thing in th
 
 "You have to tell him," he said.
 
-"I know I have to tell him. I have known since Saturday. I have had four drafts of it in a drawer by the door and I threw three of them away because they were explanations, and what he needs is not an explanation, it is a sentence he can carry to his neighbour and say *that is what those people are*." She squared the sheet over the plate. "Go and stand somewhere else. I am doing it at one o'clock in the clinic corridor with a nurse in the room and you are not going to be four feet away when I do it, because the sentence has your name on it as the man who came to his door and it is bad enough that the woman saying it should not be standing next to a policeman when she says it."
+"I know I have to tell him. I have known since Saturday. I have had four drafts of it in a drawer by the door and I threw three of them away because they were explanations, and what he needs is not an explanation, it is a sentence he can carry to his neighbour and say *that is what those people are*." She squared the sheet over the plate. "Go and stand somewhere else. I am doing it just before one o'clock in the clinic corridor with a nurse in the room and you are not going to be four feet away when I do it, because the sentence has your name on it as the man who came to his door and it is bad enough that the woman saying it should not be standing next to a policeman when she says it."
 
 "Elias."
 
@@ -86,7 +86,7 @@ Niko Senn came at four o'clock on Wednesday afternoon, on his own, with his hand
 
 He had been told at half past two on the Wednesday, in a room at Morrow Hill with a witness, by Detective Inspector Kest, and he had asked for it to be put in writing, and it had been.
 
-"They are going to certify a working on Tuesday," he said. "Not a working that happened. A working. Four acts. And the fourth thing on the list that they use to agree it happened is an account I gave on the eleventh of September, which I withdrew on the fifth of October in field six in my own hand, and the leaflet says a withdrawn account is superseded and remains on file and does not by itself impugn either account."
+"They are going to certify a working. Dated Tuesday," he said. "Not a working that happened. A working. Four acts. And the fourth thing on the list that they use to agree it happened is an account I gave on the eleventh of September, which I withdrew on the fifth of October in field six in my own hand, and the leaflet says a withdrawn account is superseded and remains on file and does not by itself impugn either account."
 
 "Niko—"
 
@@ -118,9 +118,9 @@ Then Niko Senn said the thing that has been standing in the room since Saturday,
 
 "You are on a file. I am on a certificate. There is a man in the outer wards who is on a list in three rooms and does not know, and there is a woman at number six in Alderney Row who is on nothing at all, and I have spent four years being a route." He turned round. "I am twenty-five in January and I have decided I would rather be a name in a document than a route, and I have told a police inspector that in a room with a witness, and I would like you to notice that nobody argued with me."
 
-Elias Venn wrote the day's cost out at half past nine at night, at the back bench, with the carbon book shut and the drawer open, in four lines rather than one, because a man who has lost the use of an afternoon ought not to be allowed one tidy sentence about it.
+Elias Venn wrote the day's cost out at ten to nine at night, at the back bench, with the carbon book shut and the drawer open, in four lines rather than one, because a man who has lost the use of an afternoon ought not to be allowed one tidy sentence about it.
 
-*Wed 31 Oct. Saint Orra Reach from 08:40. Cannot turn a clock face into a duration. Nineteen hours forty-two minutes and it does not end when I want it to. Mara will not estimate it and will not be doing it four times a day.*
+*Wed 31 Oct. Saint Orra Reach from 08:40. Cannot turn a clock face into a duration. Forty-two hours and forty-two minutes and it does not end when I want it to. Mara will not estimate it and will not be doing it four times a day.*
 
 *Log 1201, one plate, two overlapping orders, the false one on top of the real one, and no seam to put a pen on. She is the best instrument in this city and she is frightened and she has four drafts in a drawer and three of them are explanations.*
 

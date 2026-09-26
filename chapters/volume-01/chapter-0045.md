@@ -60,7 +60,7 @@ Rennick stopped writing at number three.
 
 "Paul—"
 
-"That is the fourth examination of a physical object in this matter by an officer who has been censured for the third of them, and you have written it down in a plan that I am about to sign, and if I sign that, then in nine days a Deputy Chief will read a plan with my name at the bottom of it and a sentence in it that you told her in a corridor." He put the pen down. "You are not an officer. You cannot be a witness to a police act because you are the actor. If you put your hand on that stick in front of me, there is no witness, and the prohibition you filed on the twenty-ninth of September says there has to be one, and I am not going to be the reason there isn't."
+"That is the fourth examination of a physical object in this matter by an officer who has been censured for the third of them, and you have written it down in a plan that I am about to sign, and if I sign that, then in five days a Deputy Chief will read a plan with my name at the bottom of it and a sentence in it that you told her in a corridor." He put the pen down. "You are not an officer. You cannot be a witness to a police act because you are the actor. If you put your hand on that stick in front of me, there is no witness, and the prohibition you filed on the twenty-ninth of September says there has to be one, and I am not going to be the reason there isn't."
 
 "That means nobody reads it," said Elias Venn.
 

@@ -24,7 +24,7 @@ The stick stood up on its own. Not leaning. Standing, the way a handrail stands,
 
 "I put a coin on it," said Neve. "First day. I had a two-credit piece and I put it on the step and I took my hand away and it stayed where it was. I have not been able to put that down in a sentence. It is a stick and it holds a step."
 
-Elias Venn stood in the wet yard of number three, Tanners Row, and looked at a piece of ash standing on a concrete slab on a Thursday morning, and understood that everything he had come to do was going to be about a thing that worked.
+Elias Venn stood in the wet yard of number three, Tanners Row, and looked at a piece of ash standing on a concrete slab on a Friday morning, and understood that everything he had come to do was going to be about a thing that worked.
 
 "You have told somebody about it," he said.
 
@@ -50,7 +50,7 @@ That was the moment he understood how it was done. Not by frightening anybody. N
 
 "What I have to tell you is not good news and I am telling you now so that you can be angry this evening instead of frightened tomorrow," he said, in the kitchen, with the tea finally poured and both cups used.
 
-He told Alfred Neve three things. That a man had been at his door on 24 October. That the same man had written a card with four lines on it and a list of six households, and that Neve was the sixth, and that four of the six had already been visited. That there was a list at a booking agency in Draggery Street, and Neve's name on it for the thirtieth, entered at fourteen fifty-one on the same Friday, forty minutes after the bracket went in, and a second line on the same page that did not belong to a patient.
+He told Alfred Neve three things. That a man had been at his door on 24 October. That the same man had written a card with four lines on it and a list of six households, and that Neve was the sixth, and that four of the six had already been visited. That there was a list at a booking agency in Draggery Street, and Neve's name on it for the thirtieth, entered at fourteen fifty on the same Wednesday, forty minutes after the bracket went in, and a second line on the same page that did not belong to a patient.
 
 Alfred Neve put his cup down.
 
@@ -154,7 +154,7 @@ Yvonne Pratt considered him for a moment and then said, "You are the man off the
 
 Yvonne Pratt took the headset off and put it on the counter.
 
-"It came in on Thursday at twenty to four with the rest of the Tuesday list," she said. "It had a reference like every other line and a class and a premises and an account, and it was on a Tuesday session at a community clinic, and I thought, that is odd, a service attendance in a room with a doctor in it, and I put it on the list." She looked at him steadily. "I put it on the list because it paid, and because it was not my job to decide, and because I have a wage and the wage is from the agency and not from the ward. I have thought about it since Friday morning and if you ask me whether I would do it again I would not know, and I have never not known before."
+"It came in on Wednesday at twenty to four with the rest of the Tuesday list," she said. "It had a reference like every other line and a class and a premises and an account, and it was on a Tuesday session at a community clinic, and I thought, that is odd, a service attendance in a room with a doctor in it, and I put it on the list." She looked at him steadily. "I put it on the list because it paid, and because it was not my job to decide, and because I have a wage and the wage is from the agency and not from the ward. I have thought about it since Friday morning and if you ask me whether I would do it again I would not know, and I have never not known before."
 
 "You have told me," said Elias, "which is more than I expected and less than I need."
 

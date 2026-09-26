@@ -43,7 +43,7 @@ Elias Venn read the finding twice, the way he had read the practice note on the 
 
 "Line five is *who consents, in writing, and what they were told*, and I had that; he consented in writing and said it back in his own words. Line four is *what has been measured before any hand goes on it, and by whom*, and it was hers, and it was done on the Sunday, and it is the only reason I knew what the object was.
 
-"Line three is *who is doing it, and who is watching*, and that is the one we did not do, because at ten past two on the Tuesday I did not know which of forty-one people in that room was going to be on the couch, and by the time I knew it was four minutes past and I was on the floor. Written up, it says a man examined an object in a room with five people in it and the officer's own plan said he was not a witness. The truth is that there were four witnesses in that room and none of us had a paper saying what we were.
+"Line three is *who is doing it, and who is watching*, and that is the one we did not do, because at ten past two on the Tuesday I did not know which of forty-one people in that room was going to be on the couch, and I knew it was twenty-four minutes to three, and I was on the floor five minutes later. Written up, it says a man examined an object in a room with five people in it and the officer's own plan said he was not a witness. The truth is that there were four witnesses in that room and none of us had a paper saying what we were.
 
 "I would do it again. I am not going to pretend to you that I would not, and I am not going to use it as a defence, because it is not one, and I have had Wednesday and Thursday to think about it and I have come to the conclusion that I am allowed to say it and am not allowed to hide behind it. I am asking for the finding and for nothing else, and I am not going to waste eleven minutes of somebody's morning on a speech about a registry."
 
@@ -103,7 +103,7 @@ Mara Quill wrote *Thursday* on the sheet and initialled it, put the plate into a
 
 ---
 
-He went up the stairs to his own flat at half past three in the dark, and the box was on the shelf where it had been since the seventeenth of September 2017, and it was a red box about the size of a shoebox with a lid and no lock, and there was red thread knotted round it four or five times, tied in a police corridor in 2017 when he was thirty-one and the complaint was twelve years old and nobody had read it since.
+He went up the stairs to his own flat at twenty past four in the dark, and the box was on the shelf where it had been since the seventeenth of September 2017, and it was a red box about the size of a shoebox with a lid and no lock, and there was red thread knotted round it four or five times, tied in a police corridor in 2017 when he was thirty-one and the complaint was twelve years old and nobody had read it since.
 
 He untied the knot. It took a while, because it was a good knot and he had tied it well. He put the thread over his shoulder where it hung in a loop against his hip, and he put the box back on the shelf in the same place at the same angle, and he did not lift the lid, and he said nothing out loud in the room, because he had said it to a magistrate once and it had not helped.
 
@@ -137,7 +137,7 @@ Then she held out her hand, and he gave her the bag, and she signed for it on th
 
 Elias Venn stood on the wet pavement outside a closed clinic in Kettle Rows with five lines in his coat and forty feet of red thread over his shoulder and nothing else in his hands at all, and about a yard away from him on a low wall there was a bag with the top of it open and a plate in it.
 
-And a walking stick with a real threshold ward in it — a man's own working, done in his own kitchen on a Friday afternoon by a man in a very good coat — was in a depot north of the ring road, or on a shelf, or in a drawer, or in a van, and it was the only thing in this case anybody could still use, and nobody in the city knew where it was, including the man who had read its order out loud in a treatment room on Tuesday afternoon.
+And a walking stick with a real threshold ward in it — a man's own working, done in his own kitchen on a Wednesday afternoon by a man in a very good coat — was on a shelf, or in a drawer, or in a van, or on a docket's road to a depot north of the ring road, and it was the only thing in this case anybody could still use, and nobody in the city knew where it was, including the man who had read its order out loud in a treatment room on Tuesday afternoon.
 
 He unwound the red thread from over his shoulder with both hands. It came off his hip in a long loop and he gathered it in his fist, and he stood there on the pavement and wound it round the bag, and round the clipboard, and round both of them together, and the last of it went over the top of the plate and lay there wet in the rain. It was the thread off a red box he had not opened since the seventeenth of September 2017, and there was enough of it and there was more than he needed.
 
@@ -145,4 +145,4 @@ Mara Quill picked the bag up off the wall and put it inside her coat against her
 
 He did not tie the knot.
 
-In the glass, under a hood, in a laboratory behind a linen office four miles away, two residue orders lay on four inches of channel section in the wood of a man's own walking stick: one honestly made in his own kitchen on a Friday afternoon by a man in a very good coat, and one carried into this city on a solid object and seated in a channel a fitter fitted to a length of ash on the twenty-fourth of October. Where they crossed there was no place on the surface at which one of them stopped and the other one had not started, and the release that was never performed waited in the middle of the crossing, between the two accounts, and it went on waiting.
+In the glass, under a hood, in a laboratory behind a linen office four miles away, two residue orders lay on four inches of channel section in the wood of a man's own walking stick: one honestly made in his own kitchen on a Wednesday afternoon by a man in a very good coat, and one carried into this city on a solid object and seated in a channel a fitter fitted to a length of ash on the twenty-fourth of October. Where they crossed there was no place on the surface at which one of them stopped and the other one had not started, and the release that was never performed waited in the middle of the crossing, between the two accounts, and it went on waiting.
